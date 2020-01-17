@@ -1,0 +1,112 @@
+$feature-section-padding-y: 4.6875rem;
+$feature-img-size: 220px;
+
+
+.c-feature {
+	padding-top: $feature-section-padding-y / 2; 
+	padding-bottom: $feature-section-padding-y / 2; 
+
+	&__img {
+		width: $feature-img-size;
+		height: $feature-img-size;
+		text-align: center;
+
+		img {
+			width: $feature-img-size;
+			height: $feature-img-size;
+			object-fit: cover;
+		}
+
+		&--empty {
+			background-color: rgba($primary, 0.25);
+
+			&:before {
+				content: '?';
+				font-size: 8.25rem;
+				color: $white;
+				font-weight: bold;
+				line-height: $feature-img-size;
+			}
+		}
+	}
+
+	&__link {
+		color: lighten($primary, 25%);
+	}
+
+	&.bg-primary,
+	&.bg-dark {
+		color: $white;
+
+		.c-feature__img--empty {
+			background-color: rgba($white, 0.25);
+		}
+	}
+	&.bg-primary {
+		a {
+			color: $white;
+
+			&.c-feature__link {
+				color: $gray-800;
+			}
+		}
+	}
+}
+@include media-breakpoint-up(md) {
+
+	.c-feature {
+
+		&__body {
+			padding-left: 6rem;
+			flex: 2;
+		}
+
+	}
+}
+@include media-breakpoint-up(lg) {
+
+	.c-feature {
+		padding-top: $feature-section-padding-y; 
+		padding-bottom: $feature-section-padding-y;
+	}
+}
+
+
+.stratappfeatures {
+	.feature-single {
+		min-height: 200px;
+		border-radius: calc(.9375rem - 0px) calc(.9375rem - 0px);
+		overflow: hidden;
+		.feature-icon {
+			max-height: 37px;
+		}
+		@include media-breakpoint-down(md) {
+			h4 {
+				font-size: 1.4rem;
+				padding-top: 1.1rem !important;
+			}
+		}
+		@include media-breakpoint-down(xs) {
+			h4 {
+				font-size: 1.3rem;
+			}
+		}
+		ul {
+			margin-left: 0;
+			list-style: none;
+			padding-left: 0;
+			margin: 0;
+			li {
+				margin-bottom: 0.5em;
+				background-image: url('/images/general/icon-tick-red.svg');
+				background-repeat: no-repeat;
+				background-position: 0 2px;
+				background-size: 16px;
+				padding-left: 1.5em;
+			}
+		}
+		.card-body {
+			
+		}
+	}
+}

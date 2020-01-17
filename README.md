@@ -1,1 +1,1 @@
-# stratapp-ai.github.io
+# stratapp-website

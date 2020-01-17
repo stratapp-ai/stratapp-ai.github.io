@@ -1,0 +1,28 @@
+$hero-banner-section-left-padding-y: 9.25rem;
+
+.c-hero-banner {
+	overflow: hidden;
+
+	&__left {
+	    padding-top: $hero-banner-section-left-padding-y / 2.5;
+	    padding-bottom: $hero-banner-section-left-padding-y / 2.5;
+	}
+	&__right {
+	    align-self: flex-end;
+        padding-left: 5rem;
+	}
+}
+@include media-breakpoint-up(lg) {
+	.c-hero-banner {
+		background: linear-gradient(100deg, lighten($primary, 5%) 46%, $primary 46%);
+
+		&__left {
+			padding-top: $hero-banner-section-left-padding-y;
+		    padding-bottom: $hero-banner-section-left-padding-y;
+
+		    h1 {
+		    	font-size: 3.125rem;
+		    }
+		}
+	}
+}

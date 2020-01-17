@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+{% comment %}
+	This layout is used to generate custom landing page layouts,
+	e.g index.md and about.md
+{% endcomment %}
+
+
+      <section class="l-section-sm">
+          <div class="container container--small text-center">
+            {{ content }}
+          </div>
+        </section>
+      </div>
+      <section class="l-section bg-primary-grad" >
+        <div class="container">
+          <div class="row align-items-center" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-md-6">
+
+              {{ page.intro_text  | markdownify }}
+
+            </div>
+            <div class="col-md-6">
+              <img src="{{ page.intro_image | relative_url }}" alt="{{ page.title }}" class="d-block img-fluid rounded-lg mx-auto">
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="l-section bg-primary text-white">
+        <div class="container">
+          <div class="row" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="col-md-6">
+              <img src="{{ page.section_image | relative_url }}" alt="{{ page.title }}" class="d-block img-fluid mb-4 mb-md-0 mx-auto">
+            </div>
+
+            <div class="col-md-6">
+
+              {{ page.section_text | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="l-section" data-aos="fade-up" data-aos-delay="200">
+        <div class="container">
+          <div class="h3 text-center font-weight-bold mb-xxl">co-founders</div>
+          <div class="row">
+
+             {% assign people = site.people %}
+                {% for person in people %}
+
+                  <div class="col-md-6" >
+                    <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0">
+                      <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}" class="img-fluid rounded-circle shadow c-founder__ava">
+                      <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
+                        <h6 class="font-weight-bold text-danger mb-1">{{ person.title }}</h6>
+                        {% if person.sub_heading %}
+                          <h6 class="text-primary mb-3">{{ person.sub_heading }}</h6>
+                        {% endif %}
+                        <p>{{ person.content }}</p>
+                        <p class="mb-0">
+                         {% if person.linkedin %}
+                          <a href="{{ person.linkedin }}" target="_blank"><img src="/images/content/ico-linkedin.svg" alt="" class="mr-2"></a>
+                         {% endif %}
+                         {% if person.email %}
+                          <a href="mailto:{{ person.email }}" target="_blank"><img src="/images/content/ico-email.svg" alt=""></a>
+                        {% endif %}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+               {% endfor %}
+
+          </div>
+        </div>
+      </section>
+
+      {% include threebigchanges.html class="l-section bg-danger text-white" %}
+      
+      <section style="background-image:url('{{ page.footer_image_background | relative_url }}')" class="l-section bg-image">
+        <div class="container container--small"> 
+          <div class="row"> 
+            <div class="col-md-6 offset-md-6" data-aos="fade-left" data-aos-delay="100">
+      
+              {{ page.footer_cta | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      {% include connects.html class="l-section connects-section-front" %}
+      
+      {% include stratappfeatures.html class="l-section bg-light events-section-front" %}
+
+      {% include signupform.html class="bg-dark text-white" %}
+
+      {% include explainer-video-popup.html class="explainer-video-popup" %}
+
+     
+

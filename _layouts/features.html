@@ -1,0 +1,81 @@
+---
+layout: default
+---
+{% comment %}
+    A general page layout. Used by default for all content on the site.
+{% endcomment %}
+
+
+ 	   <section class="l-section bg-danger text-white">
+        <div class="container container--small text-center">
+
+          {{ content }}
+
+        </div>
+      </section>
+
+      {% assign feature_items = site.features | sort: 'date' | reverse %}
+      {% for feature in feature_items %}
+
+      {% case forloop.index %}
+      {% when 1 or 5 or 9 or 13 %}
+      	<section class="c-feature bg-white">
+      {% when 2 or 6 or 10 or 14 %}
+      	<section class="c-feature bg-primary">
+      {% when 3 or 7 or 11 or 15 %}
+		    <section class="c-feature bg-lightest">
+      {% when 4 or 8 or 12 or 16 %}
+		    <section class="c-feature bg-dark">
+      {% endcase %}
+
+        <div class="container container--small">
+          <div class="d-md-flex align-items-md-top text-center text-md-left" data-aos="fade-up" data-aos-delay="100">
+            <div class="c-feature__img mx-auto mb-4 mb-md-0">
+            	
+            	{% if feature.hero_image and feature.hero_image != "" %}
+						    <img src="{{ feature.hero_image | relative_url }}" alt="{{ feature.title }}">
+				      {% else %}
+                <div class="color-block c-feature__img mx-auto mb-4 mb-md-0"></div>
+				      {% endif %}
+
+            </div>
+
+            <div class="c-feature__body">
+            	{% case forloop.index %}
+      			    {% when 1 or 5 or 9 or 13 %}
+              		<h4 class="font-weight-bold text-primary mb-3">{{ feature.title }}</h4>
+              	{% when 2 or 6 or 10 or 14 %}
+					       <h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
+              	{% when 3 or 7 or 11 or 15 %}
+					       <h4 class="font-weight-bold text-primary mb-3">{{ feature.title }}</h4>
+              	{% when 4 or 8 or 12 or 16 %}
+              		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
+              	{% endcase %}	
+              <div class="h5 mb-3 shrinkable">{{ feature.content }}</div>
+              
+              <!--  <a class="c-feature__link" data-toggle="collapse" href="#collapse{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
+                  Read more >
+               </a>
+
+               <div class="collapse" id="collapse{{ forloop.index }}">
+                
+                <div class="h6 mb-3">
+                  {{ feature.content }}
+                </div>
+              </div> -->
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {% endfor %}
+
+      {% include connects.html class="l-section connects-section-front" %}
+
+      {% include stratappfeatures.html class="l-section bg-light events-section-front" %}
+
+      {% include signupform.html class="bg-danger text-white" %}
+
+      {% include explainer-video-popup.html class="explainer-video-popup" %}
+ 

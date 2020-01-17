@@ -1,0 +1,40 @@
+<section class="{% if include.class %}{{ include.class }}{% endif %}" data-aos="fade-up" data-aos-delay="200">
+
+        <div class="container">
+            
+            <div class="stratappfeatures">
+              
+              {% assign stratappfeatures = site.pages | where: 'title', 'home' %}
+
+              <div class="row">
+
+              {% for item in stratappfeatures %}
+                  
+                  {% for feature in item.stratapp_features %}
+                    
+                     <div class="col-md-6 mb-4">
+
+                      <div class="feature-single shadow-lg bg-white">
+                        <div class="feature-header bg-danger text-left text-white">
+                          <h4 class="font-weight-bold mb-0 py-3 px-4"><img class="feature-icon pr-2" src="{{ feature.icon | relative_url }}" alt="{{ feature.title }}"> {{ feature.feature_title }}</h4>
+                        </div>
+                        <div class="feature-body p-4 mb-0 h6">
+                          {{ feature.feature_text | markdownify }}
+                        </div>
+                      </div>
+
+                    </div>
+
+                  {% endfor %} 
+
+              {% endfor %}
+
+              </div>
+              
+
+
+            </div>
+
+        </div>
+
+    </section>

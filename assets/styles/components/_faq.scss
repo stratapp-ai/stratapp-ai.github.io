@@ -1,0 +1,49 @@
+$faq-padding-x: 1.875rem;
+
+.accordion {
+    > .c-faq {
+        &:first-of-type {
+            border-bottom-right-radius: $border-radius-lg;
+            border-bottom-left-radius: $border-radius-lg;
+        }
+        &:not(:first-of-type) .card-header:first-child,
+        &:last-of-type,
+        &:not(:first-of-type):not(:last-of-type) {
+            border-radius: $border-radius-lg;
+        }
+    }
+}
+
+.c-faq {
+
+    .card-header {
+        position: relative;
+        background-color: transparent;
+        padding: 1.75rem $faq-padding-x * 2 1.75rem $faq-padding-x;
+        cursor: pointer;
+        
+        &:after {
+            width: 30px;
+            text-align: center;
+            display: inline-block;
+            font-size: 3.125rem;
+            position: absolute;
+            right: $faq-padding-x;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        &[aria-expanded="true"]:after {
+            content: '\2014';
+        }
+        &[aria-expanded="false"]:after {
+            content: '+';
+        }
+    }
+
+    .card-body {
+        padding-left: $faq-padding-x;
+        padding-right: $faq-padding-x;
+        padding-top: 0;
+    }
+}

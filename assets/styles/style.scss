@@ -1,0 +1,26 @@
+@import "node_modules/bootstrap/scss/functions.scss";
+@import "core/variables.scss";
+@import "core/bootstrap-variables.scss";
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "core/mixins.scss";
+@import "core/common.scss";
+
+@import "components/navbar.scss";
+
+@import "components/header.scss";
+@import "components/hero-banner.scss";
+@import "components/first-call.scss";
+@import "components/about.scss";
+@import "components/benefits.scss";
+@import "components/contact-form.scss";
+@import "components/footer.scss";
+
+@import "components/features.scss";
+@import "components/price.scss";
+@import "components/faq.scss";
+@import "components/changes.scss";
+@import "components/founders.scss";
+@import "components/articles.scss";
+@import "components/events.scss";
+@import "components/video.scss";

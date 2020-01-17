@@ -1,0 +1,13 @@
+$founder-image-spacing: 3.5rem;
+
+.c-founder {
+    margin-left: $founder-image-spacing;
+
+    &__ava {
+        margin-left: -$founder-image-spacing;
+        margin-top: 2.125rem;
+        width: 114px;
+        height: 114px;
+        object-fit: cover;
+    }
+}

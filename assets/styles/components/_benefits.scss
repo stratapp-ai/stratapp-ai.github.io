@@ -1,0 +1,39 @@
+.c-benefits {
+
+	&__col {
+		margin-bottom: 3.5rem;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+.c-benefit {
+	font-size: 1rem;
+
+	&__img {
+		width: 67px;
+		height: 67px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	p {
+		line-height: 1.375;
+
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+}
+@include media-breakpoint-up(sm) {
+	.c-benefits__col:nth-last-child(2) {
+		margin-bottom: 0;
+	}
+}
+@include media-breakpoint-up(md) {
+	.c-benefits__col:nth-last-child(3) {
+		margin-bottom: 0;
+	}
+}

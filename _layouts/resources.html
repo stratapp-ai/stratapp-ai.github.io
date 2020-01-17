@@ -1,0 +1,88 @@
+---
+layout: default
+---
+{% comment %}
+    A general page layout. Used by default for all content on the site.
+{% endcomment %}
+
+
+ 		<section class="l-section">
+          <div class="container container--small text-center">
+            {{ content }}
+          </div>
+        </section>
+		
+		</div>
+
+		<section class="l-section l-section-mt-n pt-0">
+        	<div class="container container--small">
+		
+		<!-- Hero Article ---> 
+		{% for post in site.posts limit:1 %}
+		<div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5" data-aos="flip-up" data-aos-delay="100">
+			
+			{% if post.banner_image and post.banner_image != "" %}
+                <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-lg">
+            {% else %}
+                <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+            {% endif %}
+
+			<div class="px-4 px-lg-5 py-3">
+		          <h4 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
+		          <p class="h6 mb-1">{{ post.content | strip_html | truncatewords: 40 }}</p>
+		          <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a>
+		    </div>
+		</div>
+		{% endfor %}
+
+		<!-- 3 Col Section ---> 
+		<div class="row flex-column flex-md-row">
+		{% for post in site.posts offset:1 limit:3 %}
+		<div class="col" data-aos="flip-up" data-aos-delay="150">
+			<div class="c-article bg-white rounded-lg overflow-hidden shadow-lg mb-5">
+
+				{% if post.banner_image and post.banner_image != "" %}
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
+				{% else %}
+				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+				{% endif %}
+				<div class="px-4 py-3">
+			          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 50 }}</a></h5>
+			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          
+			    </div>
+			</div>
+		</div>
+		{% endfor %}
+		</div>
+
+		<div class="row flex-column flex-sm-row">
+		{% for post in site.posts offset:4 %}
+		<div class="col-lg-6" data-aos="flip-up" data-aos-delay="200">
+              <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
+
+				{% if post.banner_image and post.banner_image != "" %}
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
+				{% else %}
+				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+				{% endif %}
+
+				<div class="px-4 py-3">
+			          <h6 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 60 }}</a></h6>
+			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 12 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          
+			    </div>
+			</div>
+		</div>
+		{% endfor %}
+		</div>
+	</div>
+	</section>
+	
+	{% include connects.html class="l-section connects-section-front bg-light" %}
+
+	{% include stratappfeatures.html class="l-section events-section-front" %}
+
+	{% include signupform.html class="bg-dark text-white" %}
+
+	{% include explainer-video-popup.html class="explainer-video-popup" %}

@@ -1,0 +1,16 @@
+@include media-breakpoint-up(lg) {
+	.c-header {
+		
+		.navbar {
+			padding-top: 1.5rem;
+			padding-bottom: 1.5rem;
+		}
+		.navbar-brand {
+			flex: 1;
+		}
+		.navbar-collapse {
+		    justify-content: space-between;
+		    flex: 3;
+		}
+	}
+}

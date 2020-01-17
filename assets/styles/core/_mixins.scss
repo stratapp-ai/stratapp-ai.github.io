@@ -1,0 +1,7 @@
+@mixin gradient-bg($color, $deg: 180deg) {
+  @if $enable-gradients {
+    background: $color linear-gradient($deg, mix($body-bg, $color, 15%), $color) repeat-x;
+  } @else {
+    background-color: $color;
+  }
+}

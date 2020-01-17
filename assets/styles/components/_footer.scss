@@ -1,0 +1,42 @@
+.c-footer-bottom {
+	font-size: 0.75rem;
+	padding-top: 0.375rem;
+	padding-bottom: 0.375rem;
+
+	.nav-item {
+		padding-left: 1rem;
+		padding-right: 1rem;
+
+		&:first-child {
+			padding-left: 0;
+		}
+		&:last-child {
+			padding-right: 0;
+		}
+	}
+	.nav-link {
+		color: $gray-500;
+
+		&:hover {
+			color: $primary;
+		}
+	}
+	.c-devider {
+		margin-left: 1rem;
+		margin-right: 1rem;
+	}
+}
+@include media-breakpoint-up(lg) {
+	.c-footer {
+
+		.navbar {
+			padding-top: 2.8125rem;
+			padding-bottom: 2.8125rem;
+		}
+		
+		.navbar-brand {
+			order: 2;
+		}
+	}
+}
+

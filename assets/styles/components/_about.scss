@@ -1,0 +1,12 @@
+.c-about {
+
+	&__title {
+		line-height: 1.333;
+	}
+}
+
+@include media-breakpoint-up(lg) {
+	.c-about {
+		background: linear-gradient(100deg, darken($light, 5%) 50%, $light 50%);
+	}
+}

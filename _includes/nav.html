@@ -1,0 +1,70 @@
+{% comment %}
+	Displays the site's navigation using the jekyll-menus plugin
+{% endcomment %}
+
+{% assign url = page.url | remove:'index.html' %}
+
+<main role="main" class="flex-shrink-0">
+
+{% if page.layout == 'about-us' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'pricing' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'contact-us' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'post' %}<div class="bg-light bg-image">{% endif %}
+{% if page.layout == 'events' %}<div class="bg-white">{% endif %}
+{% if page.layout == 'event' %}<div class="bg-white">{% endif %}
+{% if page.layout == 'blog' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'blogs' %}<div class="bg-light">{% endif %}
+
+{% if page.layout == 'resources' %}<div style="background-image:url('/images/general/header-banner-bg.png')" class="bg-light bg-image">{% endif %}
+
+<header class="c-header">
+  
+    <nav class="navbar navbar-expand-lg">
+     <div class="container">
+
+        <a href="/" class="navbar-brand"><img src="/images/content/logo.svg"></a>
+
+        <button type="button" data-toggle="collapse" data-target="#navbarHeaderCollapse" aria-controls="navbarHeaderCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button>
+        
+        <div id="navbarHeaderCollapse" class="navbar-collapse collapse">
+          <ul class="navbar-nav">
+            {% for link in site.menus.navigation %}
+            <li class="nav-item {% if link.children %}nested {% endif %}{% if url == link.url %}active{% endif %}">
+              {% if link.children %}
+              <ul class="first-level">
+                {% for child in link.children %}
+                <li>
+                  {% if child.children %}
+                  <ul class="second-level">
+                    {% for child in child.children %}
+                    <li>
+                      <a class="nav-link" href="{{ child.url | absolute_url }}">{{ child.title }}</a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                  {% endif %}
+                  <a class="nav-link" href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>
+                    {{ child.title }}
+                    {% if child.childen %}
+                      <i class='icon-right-dir-2'></i>
+                    {% endif %}
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+              <a class="nav-link" href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>{{ link.title }}{% if link.childen %}<i class='icon-chevron-down'></i>{% endif %}</a>
+            </li>
+            {% endfor %}
+          </ul>
+
+          <form class="form-inline mt-2 mt-md-0" action="/events">
+            <!-- <button type="text" class="btn btn-danger rounded-pill my-2 my-sm-0">Book an event</button> -->
+            <a class="bookademo-btn btn btn-danger rounded-pill my-2 my-sm-0 text-white">Book a Demo</a>
+          </form>
+
+        </div>
+      </div>
+    </nav>
+  
+</header>

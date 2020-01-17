@@ -1,0 +1,50 @@
+title: stratapp
+short_title: stratapp
+description: seamlessly execute strategy and day to day work in one place
+baseurl:
+url: https://stratapp.ai
+permalink: "/:title/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+collections:
+  people:
+    output: true
+    permalink: "/about/:title/"
+  posts:
+    output: true
+    permalink: "/:title/"
+  blog:
+    output: true
+    permalink: "/blog/:title/"
+  tutorials:
+    output: true
+    permalink: "/tutorials/:title/"
+    values:
+      sitemap: false
+  videos:
+    output: true
+    permalink: "/tutorial/:title/"
+    values:
+      sitemap: false
+  features:
+    output: true
+    permalink: "/features/:title/"
+  events:
+    output: true
+    permalink: "/events/:title/"
+jekyll-archives:
+  enabled: all
+  layout: "archive"
+plugins:
+  - jekyll-menus
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from

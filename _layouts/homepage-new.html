@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+{% comment %}
+	This layout is used to generate custom landing page layouts,
+	e.g index.md and about.md
+{% endcomment %}
+
+
+      <section class="bg-primary text-white c-hero-banner">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-5 c-hero-banner__left">
+              
+              {{ page.hero_intro  | markdownify }}
+
+            </div>
+            <div class="col-lg-7 d-none d-lg-block c-hero-banner__right">
+              <img src="{{ page.hero_image | relative_url }}" alt="{{ post.title }}">
+            </div>
+          </div>
+        </div>
+      </section>
+
+     {% include explainer-video.html class="l-section bg-light video-section-front" %}
+      
+
+     {% include connects.html class="l-section connects-section-front" %}
+
+
+     {% include stratappfeatures.html class="l-section events-section-front bg-light" %}
+     
+   <!--    <section class="l-section bg-light c-about">
+        <div class="container">
+          <div class="row align-items-md-center" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-lg-6 pr-lg-5">
+
+              {{ page.columns_text_1  | markdownify }}
+
+            </div>
+            <div class="col-lg-6 pl-lg-5">
+
+               {{ page.columns_text_2  | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </section> -->
+      <section class="l-section c-benefits bg-dark">
+        <div class="container">
+          <div class="row">
+
+          {% for feature in page.features %} 
+            <div class="col-sm-6 col-md-4 c-benefits__col" data-aos="flip-left" data-aos-delay="100">
+              <div class="c-benefit text-center text-white">
+                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img">
+                  <img src="{{ feature.icon | relative_url }}" alt="{{ feature.title }}">
+                </div>
+                <h3 class="font-weight-bold mb-2">{{ feature.title }}</h3>
+                <p>{{ feature.text }}</p>
+              </div>
+            </div>
+          {% endfor %} 
+           
+          </div>
+        </div>
+      </section>
+
+      {% include signupform.html class="bg-danger text-white" %}
+      
+
+      <a href="#explainervideo" id="introvid" class="introVid-fixed btn btn-white rounded-pill">how it works</a>
+      
+    </main>
+
