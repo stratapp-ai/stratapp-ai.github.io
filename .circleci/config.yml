@@ -16,6 +16,6 @@ jobs:
             fi
 workflows:
   version: 2
-  build:
+  build_deploy:
     jobs:
       - deploy
