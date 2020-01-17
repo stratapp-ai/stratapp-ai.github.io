@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-16 18:00:00 +1000
+date: 2019-09-16T08:00:00.000+00:00
 layout: blog
 title: 'Atlassian thought of it, #stratapp’s done it - social with structure'
 sub_heading: 'Those of you into B2B SaaS will remember Stride, a clever innovation
@@ -49,7 +49,7 @@ We ran workshops on this social-with-structure idea with business owners, CEOs, 
 
 We concluded 3 things:
 
-1. 10 tags will cover about 90% of scenarios
+1. 10 tags will cover 90% of scenarios
 2. We should add the ability to post or request
 3. The same structure could apply to all card types and workboards, not only social messaging and groups
 

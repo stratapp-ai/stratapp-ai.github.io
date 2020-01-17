@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-11 15:20:58 +1000
+date: 2019-09-11T05:20:58.000+00:00
 layout: blog
 title: "#stratapp is a consulting goldmine"
 sub_heading: 'Consultants open up a whole new world. The big opportunity is onselling,
@@ -64,7 +64,7 @@ Imagine if you could see, in just a few seconds, the exact status and underlying
 
 Imagine filtering by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
-This level of real time alignment and insight is truly unprecedented in B2B tech - giving progressive CEOs, leaders, employees and consultants unlimited opportunities to innovate strategy execution and day to day work.
+This level of real time alignment and insight is unprecedented in B2B tech - giving progressive CEOs, leaders, employees and consultants unlimited opportunities to innovate strategy execution and day to day work.
 
 ### Consulting Deliverables (no more static docs)
 
@@ -77,7 +77,7 @@ Sustaining strategy execution, business transformation and culture elevation req
 Consultants and clients need collaboration tech that is:
 
 * **Agile** - alive and interactive, evolving as the execution provides more insights
-* **Inclusive** - a user experience and price that achieves org-wide engagement
+* **Inclusive** - a user experience and price price that achieves org-wide engagement
 * **Easy** - naturally intuitive, making the time to value of minutes, not weeks
 * **Lasting** - adds value to the client beyond the life of the consulting engagement
 * **Efficient** - helping CTOs to eliminate single-purpose-apps and integrations

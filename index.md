@@ -45,8 +45,8 @@ seo_title: "#stratapp | strategy execution software for every employee"
 seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
   and business planning software for all roles, levels and generations
 redirect_from:
-- "/events/"
-- "/tutorials/"
+  - /events/
+  - /tutorials/
 feature_image: "/uploads/feature image - home page 2.JPG"
 stratapp_features:
 - feature_title: culture elevation
