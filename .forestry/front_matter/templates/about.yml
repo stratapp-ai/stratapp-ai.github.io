@@ -1,0 +1,60 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- name: intro_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro Text
+- name: intro_image
+  type: file
+  config:
+    maxSize: 250
+  label: Intro Image
+- name: section_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Section Text
+- name: section_image
+  type: file
+  config:
+    maxSize: 250
+  label: Section Image
+- name: footer_cta
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Footer CTA
+- name: footer_image_background
+  type: file
+  config:
+    maxSize: 250
+  label: Footer Image Background
+pages:
+- about.md

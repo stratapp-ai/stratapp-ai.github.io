@@ -1,0 +1,49 @@
+---
+label: Pricing
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: 'SEO '
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- name: quote
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Quote
+- name: faqs
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: Question
+  - name: answer
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Answer
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: FAQs
+pages:
+- pricing.md

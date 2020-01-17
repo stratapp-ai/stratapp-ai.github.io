@@ -1,0 +1,33 @@
+---
+label: People
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: thumbnail
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: text
+  name: email
+  label: email
+- type: text
+  name: linkedin
+  label: linkedin
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: datetime
+  name: date
+  label: date
+- name: hide_on_about_page
+  type: boolean
+  label: Hide on about page
+pages:
+- _people/ash-richardson.md

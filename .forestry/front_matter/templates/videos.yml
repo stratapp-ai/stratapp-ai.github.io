@@ -1,0 +1,62 @@
+---
+label: Videos
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: sub_heading
+  type: text
+  config:
+    required: false
+  label: Sub Heading
+- name: video_id
+  type: text
+  config:
+    required: false
+  label: Video ID
+  description: Enter Vimeo video ID
+- name: banner_image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image (or video thumbnail)
+- name: category
+  type: tag_list
+  default: []
+  label: Category
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: tutorial
+  hidden: true
+pages:
+- _videos/global-plus.md
+- _videos/ideation.md
+- _videos/kpis.md
+- _videos/live-org-chart.md
+- _videos/manage-pages.md
+- _videos/messages.md
+- _videos/notes.md
+- _videos/our-plan-4-views.md
+- _videos/pinning.md
+- _videos/security-levels.md
+- _videos/social-teams.md
+- _videos/social-work.md
+- _videos/some-other-video.md
+- _videos/strategy-tree-edit-view.md
+- _videos/upcoming.md

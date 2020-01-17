@@ -1,50 +1,61 @@
 ---
 new_page_extension: md
-auto_deploy: false
-admin_path: 
+auto_deploy: true
+admin_path: ''
 webhook_url: 
 sections:
 - type: jekyll-pages
   label: Pages
   create: all
 - type: directory
-  path: _events
-  label: Events
-  create: all
-  match: "**/*"
-- type: directory
   path: _features
   label: Features
   create: all
   match: "**/*"
-- type: directory
-  path: _videos
-  label: Videos
+  templates:
+  - features
+- type: jekyll-posts
+  label: Resources
   create: all
-  match: "**/*"
-- type: directory
-  path: _tutorials
-  label: Tutorials
-  create: all
-  match: "**/*"
+  templates:
+  - posts
 - type: directory
   path: _blog
   label: Blog
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
+  templates:
+  - blog
 - type: directory
   path: _people
   label: People
   create: all
   match: "**/*"
+- type: directory
+  path: _events
+  label: Events
+  create: all
+  match: "**/*"
+- type: directory
+  path: _tutorials
+  label: Tutorial Users
+  create: all
+  match: "**/*"
+  templates:
+  - tutorials
+- type: directory
+  path: _videos
+  label: Tutorial Videos
+  create: all
+  match: "**/*"
+  templates:
+  - videos
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_env:
   - JEKYLL_ENV=staging
@@ -52,6 +63,10 @@ build:
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
-  working_dir: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
+  publish_command: bundle exec jekyll build -d _site
+  publish_env:
+  - JEKYLL_ENV=production
+  output_directory: _site
+  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site

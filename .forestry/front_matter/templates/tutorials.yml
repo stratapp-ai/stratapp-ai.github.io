@@ -1,0 +1,25 @@
+---
+label: Tutorials
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: false
+  default: tutorials
+pages:
+- _tutorials/co-founders-internal-use-only.md
+- _tutorials/headland-food-group.md
+- _tutorials/product-tutorials-for-panorama-destination.md
