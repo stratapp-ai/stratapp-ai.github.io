@@ -1,5 +1,5 @@
 ---
-title: home x
+title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
   work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
@@ -41,7 +41,7 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: "#stratapp | strategy execution software for every employee x"
+seo_title: "#stratapp | strategy execution software for every employee"
 seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
   and business planning software for all roles, levels and generations
 redirect_from:
