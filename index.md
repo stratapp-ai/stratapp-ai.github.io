@@ -1,5 +1,5 @@
 ---
-title: home
+title: home x
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
   work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
@@ -45,8 +45,8 @@ seo_title: "#stratapp | strategy execution software for every employee"
 seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
   and business planning software for all roles, levels and generations
 redirect_from:
-  - /events/
-  - /tutorials/
+- "/events/"
+- "/tutorials/"
 feature_image: "/uploads/feature image - home page 2.JPG"
 stratapp_features:
 - feature_title: culture elevation
