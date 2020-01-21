@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: Read & Co
-slug: ReadCo
+slug: readco
 seo_title: ''
 seo_description: ''
 feature_image: ''

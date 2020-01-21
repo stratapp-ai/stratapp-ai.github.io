@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: Panorama Destination
-slug: Panorama
+slug: panorama
 seo_title: ''
 seo_description: ''
 feature_image: ''
