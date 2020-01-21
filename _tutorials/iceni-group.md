@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: Iceni Group
-slug: icenigroup
+slug: IceniGroup
 seo_title: ''
 seo_description: ''
 feature_image: ''
