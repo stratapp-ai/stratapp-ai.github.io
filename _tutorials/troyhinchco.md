@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: TroyHinchco
-slug: Troy-Hinchco
+slug: troy-hinchco
 seo_title: ''
 seo_description: ''
 feature_image: ''
