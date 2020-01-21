@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: EarthTech
-slug: earthtech
+slug: EarthTech
 seo_title: ''
 seo_description: ''
 feature_image: ''
