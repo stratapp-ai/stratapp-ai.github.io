@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: Edventureco
-slug: edventureco
+slug: Edventureco
 seo_title: ''
 seo_description: ''
 feature_image: ''
