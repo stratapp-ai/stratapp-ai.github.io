@@ -1,7 +1,7 @@
 ---
 layout: tutorials
 title: SG Partners
-slug: SGpartners
+slug: sgpartners
 seo_title: ''
 seo_description: ''
 feature_image: ''
