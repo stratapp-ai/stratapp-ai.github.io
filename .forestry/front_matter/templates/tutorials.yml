@@ -21,6 +21,7 @@ fields:
   default: tutorials
 pages:
 - _tutorials/blue-ocean.md
+- _tutorials/bolster.md
 - _tutorials/co-founders-internal-use-only.md
 - _tutorials/coupa-1.md
 - _tutorials/earthtech.md
