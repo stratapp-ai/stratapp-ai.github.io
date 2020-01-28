@@ -1,6 +1,6 @@
 ---
 layout: tutorials
-title: Paradigm BI
+title: Mike Allen
 slug: mike-allen
 seo_title: ''
 seo_description: ''
