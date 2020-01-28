@@ -1,6 +1,6 @@
 ---
 layout: tutorials
-title: TroyHinchco
+title: Troy Hinchco
 slug: Troy-Hinchco
 seo_title: ''
 seo_description: ''
