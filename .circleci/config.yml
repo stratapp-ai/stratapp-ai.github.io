@@ -1,6 +1,9 @@
 version: 2
 jobs:
   deploy:
+    branches:
+      only:
+        - develop
     docker:
       - image: circleci/ruby:2.4.3-node-browsers
     steps:
