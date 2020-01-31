@@ -20,6 +20,7 @@ fields:
   hidden: false
   default: tutorials
 pages:
+- _tutorials/3h-partners.md
 - _tutorials/ameyethon.md
 - _tutorials/blue-ocean.md
 - _tutorials/bolster.md
