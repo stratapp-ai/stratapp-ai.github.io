@@ -31,7 +31,7 @@ First, I’m going to stop doing the big offsite “annual planning” workshops
 
 Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than view strategy as a static document. To do that I am going to give everyone #stratapp, the world’s first org-wide every-employee strategy execution app.
 
-## Reduce 22 IT systems down to only 5
+## Reduce 22 IT systems down to 5
 
 Next, I am going to reduce our 22 different IT systems down to only 5:
 
