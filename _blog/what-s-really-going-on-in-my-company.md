@@ -26,9 +26,9 @@ I am the CEO. I have 8 direct reports and 1,400 employees spread across 6 locati
 
 I know that tinkering at the edges won’t work. I have decided to fundamentally rethink how I run this company.
 
-## No More Annual Planning
+## No more offsite annual planning
 
-First, I’m going to stop doing the big offsite “annual planning” workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we come away with a slide deck that most folks subsequently ignore or don’t understand.
+First, I’m going to stop doing the big offsite “annual planning” workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we come away from those offsites with a slide deck that most folks subsequently ignore or don’t understand.
 
 Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than view strategy as a static document. To do that I am going to give every employee #stratapp, the world’s first org-wide strategy execution app.
 
