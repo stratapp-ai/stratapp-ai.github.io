@@ -45,9 +45,9 @@ Apart from the social media platforms we use for lead generation and referral sa
 
 ## Everyone in the same space
 
-We lose so much time and clarity having people working in disparate systems, including a bunch of different apps for tasks, projects and note taking. Quite often, several of us are sitting in meetings writing down our own version of the actions in all different formats and places. #stratapp has live notes built into the app, including a timed meeting agenda and one click to access social, tasks, files and links.
+We lose so much time having people working in disparate systems, including a bunch of different apps for tasks, projects, meetings and note taking. Quite often several of us are sitting in meetings writing down our own version of the actions in all different formats and places. #stratapp has live notes built into the app, including a timed meeting agenda and one click to access the meeting context, social, tasks, files and links.
 
-I have totally lost patience with IT integrations - trying to get a dozen different systems to integrate, and constantly chasing our tail each year on upgrades and maintenance.
+I have totally lost patience with IT integrations - trying to get a dozen different systems to talk to each other and constantly chasing our tail each year on upgrades and maintenance.
 
 \#stratapp is 10 apps in 1, so we will use that to seamlessly align every employee on both strategic and daily work:
 
