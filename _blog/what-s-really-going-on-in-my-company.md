@@ -10,7 +10,7 @@ sub_heading: 'We have 22 software applications. We average 200 emails and 5 hour
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 video_id: ''
 banner_image: "/uploads/10 apps in 1 - with title.png"
-slug: what is going on in my company
+slug: what is really going on in my company
 seo_title: what’s really going on in my company?
 seo_description: 'We have 22 software applications. We average 200 emails and 5 hours
   of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
