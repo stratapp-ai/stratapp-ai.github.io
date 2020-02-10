@@ -26,13 +26,13 @@ I am the CEO. I have 8 direct reports and 1,400 employees spread across 6 locati
 
 I know that tinkering at the edges won’t work. I have decided to fundamentally rethink how I run this company.
 
-## No more offsite annual planning
+## no more offsite annual planning
 
 First, I’m going to stop doing the big offsite annual planning workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we come away from those offsites with a slide deck that most folks subsequently ignore or don’t understand.
 
 Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than view strategy as an annual exercise or a static document. To do that I am going to give every employee #stratapp, the world’s first org-wide strategy execution app.
 
-## Reduce 22 IT systems down to 5
+## reduce 22 IT systems down to 5
 
 Next, I am going to reduce our 22 different IT systems down to only 5:
 
@@ -44,7 +44,7 @@ Next, I am going to reduce our 22 different IT systems down to only 5:
 
 Apart from the social media platforms we use for lead generation and referral sales, these 5 systems will be it.
 
-## Everyone working in the same space
+## everyone working in the same space
 
 We lose so much time having people working in disparate systems, including a bunch of different apps for social, tasks, projects, meetings and note taking. Quite often several of us are sitting in meetings writing down our own interpretation of the notes and actions, in different formats and places. #stratapp has live notes, including a timed meeting agenda and one click access to the meeting context, social, tasks, files and links.
 
