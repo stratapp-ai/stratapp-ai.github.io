@@ -41,7 +41,7 @@ Next, I am going to reduce our 22 different IT systems down to only 5:
 4. HR - for compliance and administration
 5. Comms - for email and document sharing
 
-Apart from social media platforms we use for lead generation and referral sales, these 5 systems will be it.
+Apart from the social media platforms we use for lead generation and referral sales, these 5 systems will be it.
 
 ## Everyone in the same space
 
