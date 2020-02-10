@@ -9,16 +9,16 @@ sub_heading: 'We have 22 software applications. We average 200 emails and 5 hour
   of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 video_id: ''
-banner_image: "/uploads/#stratapp - 10 apps in 1 - without title.png"
+banner_image: "/uploads/10 apps in 1 - with title.png"
 slug: what is going on in my company
 seo_title: what’s really going on in my company?
 seo_description: 'We have 22 software applications. We average 200 emails and 5 hours
   of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
-feature_image: "/uploads/#stratapp - 10 apps in 1 - without title.png"
+feature_image: "/uploads/10 apps in 1 - with title.png"
 
 ---
-Year on year I see daily priorities pulling our time and focus away from achieving our strategic goals. 
+Year on year I see daily priorities pulling our time and focus away from achieving our strategic goals.
 
 I keep reflecting on [Covey’s four quadrants](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People "The 7 Habits of Highly Effective People") and the challenge of balancing time and resources between urgent versus important.
 
@@ -52,7 +52,7 @@ I have totally lost patience with IT integrations - trying to get a dozen differ
 
 \#stratapp is 10 apps in 1, so we will use that to seamlessly align every employee on both strategic and daily work:
 
-![](/uploads/#stratapp - 10 apps in 1 - without title.png)
+![](/uploads/10 apps in 1 - with title.png)
 
 ## 3 new operating principles
 
