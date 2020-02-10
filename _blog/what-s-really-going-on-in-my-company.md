@@ -20,7 +20,7 @@ feature_image: "/uploads/what is going on.jpg"
 ---
 Year on year I see daily priorities pulling time and focus away from achieving our strategic goals.
 
-I keep reflecting on [Covey’s four quadrants](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People "The 7 Habits of Highly Effective People") and how he describes the challenge of balancing time and resources between urgent versus important.
+I keep reflecting on [Covey’s four quadrants](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People "The 7 Habits of Highly Effective People") and how he describes the challenge of balancing time and resources between urgent versus what's really important.
 
 I am the CEO. I have 8 direct reports and 1,400 employees spread across 6 locations.
 
