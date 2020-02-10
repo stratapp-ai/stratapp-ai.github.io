@@ -23,11 +23,11 @@ I keep reflecting on [Covey’s four quadrants](https://en.wikipedia.org/wiki/Th
 
 I am the CEO. I have 8 direct reports and 1,400 employees spread across 6 locations.
 
-I know that tinkering at the edges won’t work. I’ve decided to fundamentally rethink how I run this company.
+I know that tinkering at the edges won’t work. I have decided to fundamentally rethink how I run this company.
 
 ## No More Annual Planning
 
-First, I’m going to stop doing the big offsite “annual planning” workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we produce a slide deck that most folks ignore or don’t understand.
+First, I’m going to stop doing the big offsite “annual planning” workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we come away with a slide deck that most folks subsequently ignore or don’t understand.
 
 Instead, this year I’m going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week. To do that I am going to give everyone #stratapp, the world’s first org-wide every-employee strategy execution app.
 
