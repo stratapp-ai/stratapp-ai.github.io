@@ -62,4 +62,4 @@ Finally, I am going to introduce 3 new operating principles:
 2. **Transparency** - we will encourage staff to apply the default restricted security setting in #stratapp, thereby making work collaboration transparent. [Ray Dalio](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Ray Dalio") has proven that org-wide transparency elevates individual, team, manager, executive and overall company performance.
 3. **Alignment** - we will make sure that every task, initiative, idea, risk or note we are working on, has a direct or indirect link to our strategic goals/objectives/actions/projects. [Aligning day to day work to strategy](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "aligning day to day work to strategy") is easy to do inside #stratapp.
 
-Like I said, I'm done with tinkering at the edges.  It's time to rethink how we run this company - for the benefit of all levels, roles and generations.
+Like I said, I'm done with tinkering at the edges.  It's time to rethink how we run this company - for the benefit of all levels, roles and generations, not to mention our shareholders.
