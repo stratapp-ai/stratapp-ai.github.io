@@ -29,7 +29,7 @@ I know that tinkering at the edges won’t work. I have decided to fundamentally
 
 First, I’m going to stop doing the big offsite “annual planning” workshops, which in the end only motivate a subset of those lucky enough to attend. Every year we come away with a slide deck that most folks subsequently ignore or don’t understand.
 
-Instead, this year I’m going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week. To do that I am going to give everyone #stratapp, the world’s first org-wide every-employee strategy execution app.
+Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than view strategy as a static document. To do that I am going to give everyone #stratapp, the world’s first org-wide every-employee strategy execution app.
 
 ## Reduce 22 IT systems down to only 5
 
