@@ -6,7 +6,7 @@ date: 2019-09-16 10:26:00 +0000
 layout: blog
 title: what’s really going on in my company?
 sub_heading: 'We have 22 software applications. We average 200 emails and 5 hours
-  of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
+  of meetings or calls per person per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 video_id: ''
 banner_image: "/uploads/what is going on.jpg"
