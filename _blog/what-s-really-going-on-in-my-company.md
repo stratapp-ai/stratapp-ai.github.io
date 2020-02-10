@@ -52,7 +52,7 @@ We lose so much time having people working in disparate systems, including a bun
 
 I have totally lost patience with IT integrations - trying to get a dozen different systems to talk to each other and constantly chasing our tail each year on upgrades and maintenance.
 
-\#stratapp is [10 apps in 1](https://stratapp.ai/blog/stratapp-explainer-video/ "10 apps in 1"), so we will use that to seamlessly align every employee on both strategic and daily work:
+\#stratapp is [10 apps in 1](https://stratapp.ai/blog/stratapp-explainer-video/ "10 apps in 1"), so we will use #stratapp to seamlessly align every employee on both strategic and daily work:
 
 ![](/uploads/10 apps in 1 - with title.png)
 
