@@ -1,7 +1,8 @@
 ---
 author: _people/ash-richardson.md
-category: []
-date: 2020-02-10 04:26:49 +0000
+category:
+- "#articles"
+date: 2019-09-16 10:26:00 +0000
 layout: blog
 title: what’s really going on in my company?
 sub_heading: 'We have 22 software applications. We average 200 emails and 5 hours
