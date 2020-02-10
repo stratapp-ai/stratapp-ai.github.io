@@ -46,7 +46,7 @@ Next, I am going to reduce our 22 different IT systems down to only 5:
 
 Apart from the social media platforms we use for lead generation and referral sales, these 5 systems will be it.
 
-## everyone working in the same space
+### everyone working in the same space
 
 We lose so much time having people working in disparate systems, including a bunch of different apps for social, tasks, projects, meetings and note taking. Quite often several of us are sitting in meetings and writing down our own subjective interpretation of the notes and actions, in different formats and places. #stratapp has live notes, including a timed meeting agenda and one click access to the meeting context, social, tasks, files and links.
 
@@ -60,7 +60,7 @@ I have totally lost patience with IT integrations - trying to get a dozen differ
 
 Finally, I am going to introduce 3 new operating principles:
 
-1. **No internal email** - all internal comms will be inside #stratapp, using their [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"). Eliminating internal email will reduce emails from 200 to about 20 per person per day. It will also make checking and replying to emails way more interesting and actually adding value.  Why?  Because all emails hitting our inbox will only be external - from customers, partners and suppliers.
+1. **No internal email** - all internal comms will be inside #stratapp, using their [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"). Eliminating internal email will reduce emails from about 200 to 10-20 per person per day. It will also make checking and replying to emails way more interesting and actually adding value.  Why?  Because all emails hitting our inbox will only be external - from customers, partners and suppliers.
 2. **Transparency** - we will encourage staff to make social and work collaboration transparent inside #stratapp, rather than marking everything as confidential or secret. [Ray Dalio](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Ray Dalio") has proven that org-wide transparency elevates individual, team, manager, executive and overall company performance.
 3. **Alignment** - we will strive to ensure that every task, initiative, project, idea, challenge, risk or note we are working on, has a direct or indirect link to our strategic goals->objectives->actions->projects. [Aligning day to day work to strategy](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "aligning day to day work to strategy") is easy to do inside #stratapp.
 
