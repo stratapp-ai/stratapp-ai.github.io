@@ -13,7 +13,7 @@ banner_image: "/uploads/what is going on.jpg"
 slug: what is really going on in my company
 seo_title: what’s really going on in my company?
 seo_description: 'We have 22 software applications. We average 200 emails and 5 hours
-  of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
+  of meetings or calls per person per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 feature_image: "/uploads/what is going on.jpg"
 
