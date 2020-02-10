@@ -36,7 +36,7 @@ Instead, this year I am going to make strategy and execution alive and interacti
 
 Next, I am going to reduce our 22 different IT systems down to only 5:
 
-1. #stratapp - for strategy and day to day work
+1. #stratapp - for both strategic and day to day work
 2. CRM+desk - for customer relationships and support
 3. Finance
 4. HR - for compliance and administration
