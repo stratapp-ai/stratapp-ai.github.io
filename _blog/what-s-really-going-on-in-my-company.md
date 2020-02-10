@@ -15,7 +15,6 @@ seo_description: 'We have 22 software applications. We average 200 emails and 5 
   of meetings or calls per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 feature_image: ''
-published: false
 
 ---
 Year on year I see daily priorities pulling our time and focus away from achieving our strategic goals. 
