@@ -46,7 +46,7 @@ Next, I am going to reduce our 22 different IT systems down to only 5:
 
 Apart from the social media platforms we use for lead generation and referral sales, these 5 systems will be it.
 
-### everyone working in the same space
+### everyone collaborating in the same space
 
 We lose so much time having people working in disparate systems, including a bunch of different apps for social, tasks, projects, meetings and note taking. Quite often several of us are sitting in meetings and writing down our own subjective interpretation of the notes and actions, in different formats and places. #stratapp has live notes, including a timed meeting agenda and one click access to the meeting context, social, tasks, files and links.
 
