@@ -30,7 +30,7 @@ I know that tinkering at the edges won’t work. I have decided to fundamentally
 
 Firstly, I am going to stop doing our big offsite annual planning workshops, which in the end only motivate a subset of those whom were able to attend. Every year we come away from those strategy offsites with a slide deck that most folks subsequently ignore or don’t understand.
 
-Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than consider strategy as an annual exercise or a static document.  Similar thinking to that acclaimed Harvard Business Review article on "[your strategy should be a hypothesis you constantly adjust](https://stratapp.ai/your-strategy-should-be-a-hypothesis-you-constantly-adjust-by-hbr-org/ "HBR article")".
+Instead, this year I am going to make strategy and execution alive and interactive. I want us to constantly apply what we are learning each week, rather than consider strategy as an annual exercise or a static document.  I might have been inspired by that acclaimed Harvard Business Review article on "[your strategy should be a hypothesis you constantly adjust](https://stratapp.ai/your-strategy-should-be-a-hypothesis-you-constantly-adjust-by-hbr-org/ "HBR article")".
 
 To achieve this, I am going to give every employee #stratapp, the world’s first org-wide strategy execution app.
 
