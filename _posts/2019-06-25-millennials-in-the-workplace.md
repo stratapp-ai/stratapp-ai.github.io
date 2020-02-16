@@ -11,7 +11,7 @@ banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 slug: millennials in the workplace by simon sinek
 
 ---
-## Y-gen / millennials are just magic, a breath of fresh air we can all learn from. 
+## Y-gen / millennials are just magic, a breath of fresh air we can all learn from.
 
 At the link below is an excellent interview with Simon Sinek on Inside Quest.
 
@@ -31,4 +31,4 @@ For y-generation: email = reset password,
 
 \#stratapp uniquely meets the expectations of both current and next generation workers.
 
-Source: [https://www.youtube.com/watch?v=hER0Qp6QJNU](https://www.youtube.com/watch?v=hER0Qp6QJNU "https://www.youtube.com/watch?v=hER0Qp6QJNU")
+[source](https://www.youtube.com/watch?v=hER0Qp6QJNU "millennials in the workplace by Simon Sinek")
