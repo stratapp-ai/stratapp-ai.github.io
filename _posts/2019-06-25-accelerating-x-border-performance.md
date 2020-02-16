@@ -10,7 +10,7 @@ banner_image: "/uploads/thirdwave-book.jpg"
 slug: seamlessly align your onshore and offshore teams
 
 ---
-## How to seamlessly align your onshore and offshore teams. 
+## How to seamlessly align your onshore and offshore teams.
 
 With so much hype on technology innovation, such as robotics and artificial intelligence, it is easy to overlook the massive ground shift taking place on org design and employment. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
 
@@ -36,4 +36,4 @@ At #stratapp, we’re walking the same talk. #stratapp is designed, built, suppo
 
 Australians love to innovate and solve problems, rather than get bogged down in repetitive tasks or process detail, so at #stratapp we make these attributes the focus of our onshore resources.
 
-Source: [https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231"){:target="_blank"}
+[source](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "The Third Wave by Scott Linden-Jones")
