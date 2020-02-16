@@ -10,7 +10,7 @@ banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 slug: how great leaders inspire action by simon sinek
 
 ---
-## Y-gen / millennials globally embrace Simon Sinek's TED talk on 'start with why'. 
+## Y-gen / millennials globally embrace Simon Sinek's TED talk on 'start with why'.
 
 _“People don’t buy what you do, they buy why you do it. And what you do simply proves what you believe.”_
 
@@ -20,4 +20,4 @@ He particularly resonates with y-generation. #stratapp is deliberately designed 
 
 Therefore, #stratapp’s strategy module includes a Why page - it is optional, but we’d love you to turn it on.
 
-Source: [https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action")
+[source](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action "how great leaders inspire action by Simon Sinek")
