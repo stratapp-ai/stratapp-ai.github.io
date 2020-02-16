@@ -11,7 +11,7 @@ banner_image: "/uploads/Catalan human tower.jpg"
 slug: gallup q12 index on measuring employee engagement
 
 ---
-## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp. 
+## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
 
 Ant Moorhouse is the founder of Coherent, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
 
@@ -33,4 +33,4 @@ Do you know what is expected of you at work?
 10. In the last six months, has someone at work talked to you about your progress?
 11. In the last year, have you had opportunities to learn and grow?
 
-Source: [https://q12.gallup.com/public/en-us/Features](https://q12.gallup.com/public/en-us/Features){:target="_blank"}
+[source](https://q12.gallup.com/public/en-us/Features "Q12 index by Gallup")
