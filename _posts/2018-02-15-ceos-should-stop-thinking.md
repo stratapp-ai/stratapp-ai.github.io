@@ -11,7 +11,7 @@ seo_description: 'Professor Roger Martin on what CEOs should really be doing in 
 slug: professor roger martin on what ceos should really be doing
 
 ---
-## Professor Roger Martin is a legend on strategy. 
+## Professor Roger Martin is a legend on strategy.
 
 His thinking plays well to #stratapp, the world’s first org-wide strategy application that includes execution of both strategy and day to day work, alongside social collaboration with context and structure.
 
@@ -19,4 +19,4 @@ His thinking plays well to #stratapp, the world’s first org-wide strategy appl
 
 \#stratapp tightens this process of evolving strategic choices and progressively learning from execution, providing a real-time line-of-sight through strategy, KPIs/OKRs, day to day work and culture.  This elevates collective performance by keeping everyone aligned; from board, CEO and senior executives, through to middle management, team leaders and front line employees.
 
-source: https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution
+[source](https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution "Professor Roger Martin on what CEOs should really be doing")
