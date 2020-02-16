@@ -10,7 +10,7 @@ seo_description: How to Excel at Both Strategy and Execution by HBR.org. Accordi
 slug: how to excel at both strategy and execution by hbr org
 
 ---
-## Company leaders rarely excel at both strategy and execution. 
+## Company leaders rarely excel at both strategy and execution.
 
 “According to a global survey of 700 executives across a variety of industries, conducted by the strategy consulting division of PwC, only 8% of company leaders were said to excel at both strategy and execution.”
 
@@ -22,4 +22,4 @@ This is exactly why #stratapp is not a strategy-only application.
 
 \#stratapp enables all leaders, regardless of their underlying skill orientation, to deliver on both strategy and execution.
 
-Source: https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution
+[source](https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution "how to excel at both strategy and execution by HBR")
