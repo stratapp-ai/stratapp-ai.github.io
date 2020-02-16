@@ -12,7 +12,7 @@ feature_image: ''
 slug: many strategies fail because they’re not actually strategies by hbr org
 
 ---
-## Static strategy docs and top-down comms is so old school! 
+## Static strategy docs and top-down comms is so old school!
 
 _“The strategy consultants come in, do their work, and document the new strategy in a PowerPoint presentation and a weighty report. Town hall meetings are organized, employees are told to change their behavior, balanced scorecards are reformulated, and budgets are set aside to support initiatives that fit the new strategy. And then nothing happens.”_
 
@@ -26,4 +26,4 @@ The second, is the need to break the age old paradigm of static documents and th
 
 \#stratapp helps solve both problems, not only by killing internal email. When you start to articulate your strategy inside #stratapp, the transparency and tree hierarchy naturally drives clarity in strategic choices. There are no static documents and all social collaboration takes place within the context of that hierarchy - so instead of just adding more noise, the social engagement, at all levels of the organization, has a direct and meaningful impact on strategic choices, strategy development, execution planning, execution and the evolution of those four.
 
-Source: [https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies "https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies")
+[source](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies "many strategies fail because they're not actually strategies")
