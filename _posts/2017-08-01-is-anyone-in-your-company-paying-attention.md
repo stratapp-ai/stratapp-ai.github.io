@@ -11,7 +11,7 @@ seo_description: 'Is anyone in your company paying attention to strategic alignm
 slug: is anyone in your company paying attention to strategic alignment by hbr org
 
 ---
-## How to achieve strategic alignment at all levels, roles and generations. 
+## How to achieve strategic alignment at all levels, roles and generations.
 
 “All too often, individual leaders seek — indeed are incentivized — to protect and optimize their own domains, and find themselves locked in energy-sapping internal turf wars, rather than working with peers to align and improve across the entire enterprise.”
 
@@ -21,4 +21,4 @@ There is no better cure for this energy-sapping trait of human behaviour, than r
 
 Without the strategic context and alignment provided by #stratapp, social and work collaboration tools just add more noise.
 
-Source: https://hbr.org/2018/01/is-anyone-in-your-company-paying-attention-to-strategic-alignment
+[source](https://hbr.org/2018/01/is-anyone-in-your-company-paying-attention-to-strategic-alignment "is anyone in your company paying attention to strategic alignment")
