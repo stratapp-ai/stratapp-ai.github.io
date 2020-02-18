@@ -8,7 +8,7 @@ faqs:
 
     In fact, clients can easily achieve an org-wide rollout within that timeframe.
 
-    There are no set-up fees or hardware costs, and you do not need technical skills to configure and deploy #stratapp.  You are also able to deploy subsets of the app down to individual users, minimizing the need for training or change management.
+    There are no set-up fees or hardware costs, and you do not need technical skills to configure and deploy #stratapp.  It is also easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
 
     Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy enterprise software.
 - question: How does annual billing work?  What is the currency and contract term?
