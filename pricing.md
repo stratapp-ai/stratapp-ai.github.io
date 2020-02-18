@@ -39,7 +39,7 @@ faqs:
     * Video Tutorials - for each key section of the app
     * In-App Help Hints - for a quick explanation of key pages
     * Knowledge Base - searchable articles
-    * In-App Boards - connecting end users directly with our product team, including your ability to vote on new feature ideas and view those that have progressed to our roadmap
+    * In-App Boards - connecting end users directly with our product team, including your ability to vote on new feature ideas and view those features that have progressed to our roadmap
     * Support Tickets - emailing support when required
 
     We are also building up a network of consultants who can assist with clients with getting started on #stratapp.
