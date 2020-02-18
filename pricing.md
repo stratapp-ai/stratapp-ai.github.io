@@ -29,7 +29,7 @@ faqs:
     billing information, payment history and invoices.
 - question: Do you offer implementation support?
   answer: |-
-    You do not need technical skills to configure and deploy #stratapp.  It is also easy to deploy specific pages of the app, down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
+    You do not need technical skills to configure and deploy #stratapp.  It is also easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
 
     Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy enterprise software.
 
