@@ -42,7 +42,7 @@ faqs:
     * In-App Boards - connecting end users directly with our product team, including your ability to vote on new feature ideas and view those features that have progressed to our roadmap
     * Support Tickets - emailing support when required
 
-    We are also building up a network of consultants who can assist with clients with getting started on #stratapp.
+    We are also building up a network of consultants who can assist clients with getting started on #stratapp.
 - question: Is our data safe?
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
