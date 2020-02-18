@@ -74,4 +74,4 @@ menu:
 
 # 10 apps in 1 for unprecedented org-wide collaboration and radical transparency on both strategy execution and day to day work
 
-##### affordable, so you can achieve genuine org-wide employee engagement
+##### affordable pricing, so you can achieve genuine org-wide employee engagement
