@@ -35,7 +35,7 @@ faqs:
 
     We offer the following implementation support:
 
-    * Getting Started article - on our knowledge base
+    * Getting Started - step by step article on our knowledge base
     * Video Tutorials - for each key section of the app
     * In-App Help Hints - for a quick explanation of key pages
     * Knowledge Base - searchable articles
