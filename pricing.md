@@ -29,11 +29,20 @@ faqs:
     billing information, payment history and invoices.
 - question: Do you offer implementation support?
   answer: |-
-    Yes, we have partnered with Coherent to coach and support our clients on implementation.
+    You do not need technical skills to configure and deploy #stratapp.  It is also easy to deploy specific pages of the app, down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
 
-    As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
+    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy enterprise software.
 
-    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforeseen costs of implementation.
+    We offer the following implementation support:
+
+    * Getting Started article - on our knowledge base
+    * Video Tutorials - for each key section of the app
+    * In-App Help Hints - for a quick explanation of key pages
+    * Knowledge Base - searchable articles
+    * In-App Boards - connecting end users directly with our product team, including your ability to vote on new feature ideas and view those that have progressed to our roadmap
+    * Support Tickets - emailing support when required
+
+    We are also building up a network of consultants who can assist with clients with getting started on #stratapp.
 - question: Is our data safe?
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
