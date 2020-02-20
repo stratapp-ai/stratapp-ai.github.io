@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-17 17:49:00 +1000
+date: 2019-09-17T07:49:00.000+00:00
 layout: blog
 title: '5 reasons why #stratapp is the best strategy execution software app in the
   world right now'
@@ -36,8 +36,10 @@ Here’s how #stratapp helps make strategy execution consistently exceed expecta
 
 To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
 
-We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love. 
+We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.
 
 You might also like to read [why we've added structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure").
+
+If you are a CEO, business owner or CxO, you may also like to read "[what's really going on in my company?](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "what's really going on in my company?")"
 
 Thank you for reading (and hopefully sharing).
