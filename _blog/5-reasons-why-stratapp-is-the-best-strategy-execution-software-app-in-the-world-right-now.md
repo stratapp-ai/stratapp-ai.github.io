@@ -40,6 +40,6 @@ We hope you become a passionate advocate of #stratapp, the strategy execution ap
 
 You might also like to read [why we've added structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure").
 
-If you are a CEO, business owner or CxO, you will probably enjoy reading "[what's really going on in my company?](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "what's really going on in my company?")"
+If you are a CEO, business owner or CxO, you will probably enjoy "[what's really going on in my company?](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "what's really going on in my company?")"
 
 Thank you for reading (and hopefully sharing).
