@@ -22,7 +22,7 @@ Looking back, I wish I had #stratapp.
 
 # my VC role
 
-For me the post-deal aspect of the role was awesome, balancing time across four things:
+For me the post-deal aspect of the VC role was awesome, balancing time across four things:
 
 1. Ensuring clarity on the strategy versus what we’ll achieve each quarter
 2. Solving problems and assisting with talent and distribution connections
