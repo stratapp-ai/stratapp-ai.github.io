@@ -12,9 +12,9 @@ video_id: ''
 banner_image: "/uploads/venture capital and stratapp.jpg"
 slug: ''
 seo_title: venture capital and next gen tech to create value
-seo_description: 'I was a VC once.  I personally loathed reviewing 250 opportunities
-  and meeting 100 founders per year.  But I loved the bit that came after: deal structuring,
-  deal closing and working with inspiring founders.  Looking back, I wish I had #stratapp.'
+seo_description: 'I was a VC once. I personally loathed reviewing 250 opportunities
+  and meeting 100 founders per year. But I loved the bit that came after: deal structuring,
+  deal closing and working with inspiring founders. Looking back, I wish I had #stratapp.'
 feature_image: "/uploads/venture capital and stratapp.jpg"
 
 ---
