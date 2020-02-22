@@ -5,9 +5,9 @@ category:
 date: 2019-09-12 04:33:54 +0000
 layout: blog
 title: venture capital and next gen tech to create value
-sub_heading: 'I was a VC once.  I personally loathed reviewing 250 opportunities and
-  meeting 100 founders per year.  But I loved the bit that came after: deal structuring,
-  deal closing and working with inspiring founders.  Looking back, I wish I had #stratapp.  '
+sub_heading: 'I was a VC once. I personally loathed reviewing 250 opportunities and
+  meeting 100 founders per year. But I loved the bit that came after: deal structuring,
+  deal closing and working with inspiring founders. Looking back, I wish I had #stratapp.  '
 video_id: ''
 banner_image: "/uploads/venture capital and stratapp.jpg"
 slug: ''
@@ -18,6 +18,8 @@ seo_description: 'I was a VC once.  I personally loathed reviewing 250 opportuni
 feature_image: "/uploads/venture capital and stratapp.jpg"
 
 ---
+Looking back, I wish I had #stratapp.
+
 # my VC role
 
 For me the post-deal aspect of the role was awesome, balancing time across four things:
