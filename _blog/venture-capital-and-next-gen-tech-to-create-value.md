@@ -5,9 +5,9 @@ category:
 date: 2019-09-12 04:33:54 +0000
 layout: blog
 title: venture capital and new tech to create value
-sub_heading: 'I was a VC once. I personally loathed reviewing 250 opportunities and
-  meeting 100 founders per year. But I loved the bit that came after: deal structuring,
-  deal closing and working with inspiring founders.'
+sub_heading: 'I was a VC. I personally loathed reviewing 250 opportunities and meeting
+  100 founders per year. But I loved the bit that came after: deal structuring, deal
+  closing and working with inspiring founders.'
 video_id: ''
 banner_image: "/uploads/venture capital and stratapp.jpg"
 slug: venture capital and next gen tech to create value
@@ -18,7 +18,7 @@ seo_description: 'I was a VC once. I personally loathed reviewing 250 opportunit
 feature_image: "/uploads/venture capital and stratapp.jpg"
 
 ---
-_I was a VC once. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders._
+_I was a VC. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders._
 
 # my VC role
 
@@ -33,7 +33,7 @@ For me the post-deal aspects of the VC role was just awesome, balancing time acr
 
 When I look back now I think:
 
-* So much time, momentum and clarity gets lost between the cycle of calls/meetings/emails/reports
+* Momentum and clarity gets lost between the cycle of calls/meetings/emails/reports
 * Founders get overwhelmed with their own learning curve, especially as the company starts to scale, and the personal struggles they are going through often surface too late
 * Strategy and execution evolves fast, and avoidable mistakes start to kick in
 * The best and worst of human nature abounds, with no shortage of surprises
