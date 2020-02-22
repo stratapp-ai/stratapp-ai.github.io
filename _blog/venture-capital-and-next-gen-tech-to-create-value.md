@@ -65,7 +65,7 @@ When I look back now I think:
 
 I remember during 2005 to 2009 there was a wave of SaaS products for VC portfolio management. I didn’t rate them, as I thought modern CRMs were perfect for tracking opportunities from deal generation through deal filtering and deal doing. CRMs offer way more flexibility on customising layouts, workflow, dashboards and reporting, not to mention mobile functionality. CRM companies also have bigger budgets to innovate faster.
 
-But post-deal, the value creation work (ideas, strategies, plans, risks, projects and performance) needs to sit within the investee company itself. For two reasons: 1) subsequent round due-diligence; and 2) onboarding new hires.
+However post-deal, the value creation work (ideas, strategies, plans, risks, projects and performance) needs to sit within the investee company itself. For two reasons: 1) subsequent round due-diligence; and 2) onboarding new hires.
 
 Therefore, post investment, I believe VCs should encourage their invested companies to embrace #stratapp.
 
