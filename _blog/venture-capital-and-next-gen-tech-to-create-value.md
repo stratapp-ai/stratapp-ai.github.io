@@ -77,7 +77,7 @@ The same capability provides an incredible onboarding experience for the team le
 
 ### investment managers & company directors
 
-Technology is fast changing how boards of directors operate, especially on start-ups. Progressive company directors are proficient on SaaS apps for finance, CRM and MarTech. They don’t need to bombard management teams with questions in preparation for board meetings. Progressive company directors can actually drive the SaaS apps that generate the board reports.
+Technology is fast changing how boards of directors operate, especially on start-ups. Progressive company directors are proficient on SaaS apps for finance, CRM and MarTech. They don’t need to bombard management teams with questions in preparation for board meetings. Progressive company directors can actually drive and drill down on the SaaS apps that generate the board reports.
 
 The role of the board of directors encompasses strategy, execution performance, risk management and culture - which is all at their fingertips inside #stratapp. The rapidly improving aptitude and skills of investment managers and directors to embrace next gen tech is good timing for #stratapp.
 
