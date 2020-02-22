@@ -61,7 +61,7 @@ When I look back now I think:
 
 # leveraging tech to create VC portfolio value
 
-\#stratapp, the [world’s first org-wide strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's first org-wide strategy execution app"), delivers on everything I have listed above.
+\#stratapp, the [world’s first org-wide strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's first org-wide strategy execution app"), delivers on **everything I have listed above**.
 
 I remember during 2005 to 2009 there was a wave of SaaS products for VC portfolio management. I didn’t rate them, as I thought modern CRMs were perfect for tracking opportunities from deal generation through deal filtering and deal doing. CRMs offer way more flexibility on customising layouts, workflow, dashboards and reporting, not to mention mobile functionality. CRM companies also have bigger budgets to innovate faster.
 
