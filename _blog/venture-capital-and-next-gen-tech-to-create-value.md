@@ -22,7 +22,7 @@ _I was a VC once. I personally loathed reviewing 250 opportunities and meeting 1
 
 # my VC role
 
-For me the post-deal aspect of the VC role was just awesome, balancing time across four things:
+For me the post-deal aspects of the VC role was just awesome, balancing time across four things:
 
 1. Ensuring clarity on the strategy versus what we’ll achieve each quarter
 2. Solving problems and assisting with talent and distribution connections
