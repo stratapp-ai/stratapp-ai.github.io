@@ -4,7 +4,7 @@ category:
 - "#articles"
 date: 2019-09-12 04:33:54 +0000
 layout: blog
-title: venture capital and next gen tech to create value
+title: venture capital and tech to create value
 sub_heading: 'I was a VC once. I personally loathed reviewing 250 opportunities and
   meeting 100 founders per year. But I loved the bit that came after: deal structuring,
   deal closing and working with inspiring founders.'
