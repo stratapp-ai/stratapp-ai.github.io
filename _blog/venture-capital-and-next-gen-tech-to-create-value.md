@@ -59,7 +59,7 @@ When I look back now I think:
 
 **Thirdly**, embracing [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency"). It is healthy for investee company management and employees to see the VC’s ongoing contributions firsthand. This builds trust and engagement, and it accelerates professional development of investee management teams. Radical Transparency was made famous by [Ray Dalio's book Principles](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Principles by Ray Dalio").
 
-# leveraging tech to create portfolio value
+# leveraging tech to create VC portfolio value
 
 \#stratapp, the [world’s first org-wide strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's first org-wide strategy execution app"), delivers on everything I have listed above.
 
