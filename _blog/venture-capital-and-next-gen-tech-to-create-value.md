@@ -55,7 +55,7 @@ When I look back now I think:
 
 ![](/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png)
 
-**Secondly**, being able to freely engage in the debates, discussions and ideas taking place at all different levels inside the investee company. Breaking free of the traditional constraints of functional silos, management hierarchy and meeting cycles. 2018 saw a wave of news articles on [Elon Mask tackling the problem of silos and hierarchy](https://www.google.com/url?q=https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html&sa=D&ust=1582348134617000&usg=AFQjCNHwrSCHL54e38f2AgYLbAW5cfzL5A "Elon Mask").
+**Secondly**, being able to freely engage in the debates, discussions and ideas taking place at all different levels inside the investee company. Breaking free of the traditional constraints of functional silos, management hierarchy and meeting cycles. Here is one of many recent articles on [Elon Mask tackling the problem of silos and hierarchy](https://www.google.com/url?q=https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html&sa=D&ust=1582348134617000&usg=AFQjCNHwrSCHL54e38f2AgYLbAW5cfzL5A "Elon Mask").
 
 **Thirdly**, embracing [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency"). It is healthy for investee company management and employees to see the VC’s ongoing contributions firsthand. This builds trust and engagement, and it accelerates professional development of investee management teams. Radical Transparency was made famous by [Ray Dalio's book Principles](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Principles by Ray Dalio").
 
