@@ -26,7 +26,7 @@ For me the post-deal aspect of the VC role was awesome, balancing time across fo
 
 1. Ensuring clarity on the strategy versus what we’ll achieve each quarter
 2. Solving problems and assisting with talent and distribution connections
-3. Looking for ways to leap-frog on growth and value creation
+3. Searching for ways to leap-frog on growth and value creation
 4. Planning ahead for the next funding or transaction milestone
 
 # my VC reality
