@@ -87,7 +87,7 @@ Use a tier-1 CRM to manage deal flow, engagement, due diligence and completion, 
 
 Use #stratapp inside each investee company to:
 
-1. Accelerate strategy execution, through genuine org-wide engagement and alignment as the investee scales
+1. Accelerate strategy execution, achieving org-wide engagement and alignment as the investee scales
 2. De-risk the investment, [bringing risk management alive and interactive](https://stratapp.ai/blog/risk-management-short-version/ "making risk management alive and interactive") inside the investee
 3. Provide depth and credibility for passing due diligence on future funding rounds
 4. Improve the speed and quality of onboarding new hires as the investee company scales
