@@ -85,7 +85,7 @@ The role of the board of directors encompasses strategy, execution performance, 
 
 # conclusions
 
-Use a tier-1 CRM to manage deal flow, engagement, due diligence and completion, as well as overall portfolio compliance.
+Use a tier-1 CRM to manage deal flow, engagement, due diligence and completion, as well as overall portfolio reporting and compliance.
 
 Use #stratapp inside each investee company to:
 
