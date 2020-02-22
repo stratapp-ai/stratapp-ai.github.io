@@ -69,7 +69,7 @@ However post-deal, the value creation work (ideas, strategies, plans, risks, pro
 
 Therefore, post investment, I believe VCs should encourage their invested companies to embrace #stratapp.
 
-### due diligence & new hires
+### subsequent round due diligence & new hires
 
 Imagine how simple due-diligence will be on subsequent funding rounds, when the investee company can show inside #stratapp everything that has taken place on the journey thus far - the struggles, the pivots and the wins, and how the culture has evolved over time. Data that is live and interactive, and therefore credible, rather than produced as a one-off exercise in an attempt to pass DD.
 
