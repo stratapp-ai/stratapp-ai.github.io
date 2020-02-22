@@ -20,8 +20,6 @@ feature_image: "/uploads/venture capital and stratapp.jpg"
 ---
 I was a VC once. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders.
 
-Looking back, I wish I had #stratapp.
-
 # my VC role
 
 For me the post-deal aspect of the VC role was awesome, balancing time across four things:
