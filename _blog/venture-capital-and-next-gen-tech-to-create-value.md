@@ -59,11 +59,11 @@ When I look back now I think:
 
 **Thirdly**, embracing [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency"). It is healthy for investee company management and employees to see the VC’s ongoing contributions firsthand. This builds trust and engagement, and it accelerates professional development of investee management teams. Radical Transparency was made famous by [Ray Dalio's book Principles](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Principles by Ray Dalio").
 
-# leveraging next gen tech to create portfolio value
+# VCs leveraging next gen tech to create portfolio value
 
 \#stratapp, the [world’s first org-wide strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's first org-wide strategy execution app"), delivers on everything I have listed above.
 
-I remember during 2005 to 2009 there was a wave of SaaS products for VC portfolio management. I didn’t rate them, as I thought modern CRMs were perfect for tracking opportunities from deal generation through deal filtering and deal doing. CRMs offered way more flexibility on customising layouts, workflow, dashboards and reporting, not to mention mobile functionality. CRM companies also have bigger budgets to innovate faster.
+I remember during 2005 to 2009 there was a wave of SaaS products for VC portfolio management. I didn’t rate them, as I thought modern CRMs were perfect for tracking opportunities from deal generation through deal filtering and deal doing. CRMs offer way more flexibility on customising layouts, workflow, dashboards and reporting, not to mention mobile functionality. CRM companies also have bigger budgets to innovate faster.
 
 But post-deal, the value creation work (ideas, strategies, plans, risks, projects and performance) needs to sit within the investee company itself. For two reasons: 1) subsequent round due-diligence; and 2) onboarding new hires.
 
