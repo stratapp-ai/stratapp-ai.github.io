@@ -24,7 +24,7 @@ _I was a VC. I personally loathed reviewing 250 opportunities and meeting 100 fo
 
 The post-deal aspects of the VC role were just awesome, balancing my time across four things:
 
-1. Ensuring clarity on the strategy versus what we’ll achieve each quarter
+1. Ensuring clarity on strategy versus what we’ll achieve each quarter
 2. Solving problems and assisting with talent and distribution connections
 3. Searching for ways to go 10x on growth and value creation
 4. Planning ahead for the next funding or transaction milestones
