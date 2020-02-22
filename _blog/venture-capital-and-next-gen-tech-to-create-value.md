@@ -96,7 +96,7 @@ Use #stratapp inside each investee company to:
 
 # about #stratapp
 
-The author, Ash Richardson, is ex-Accenture and went onto become managing partner of Europe’s leading digital media firm, Oyster Partners (now [https://www.digitas.com](https://www.digitas.com "https://www.digitas.com")), before lead roles in corporate finance and early-stage tech VC, coached by two of the best at the time, Bruce Scott and Bob Christiansen.
+The author, Ash Richardson, is ex-Accenture and went onto become managing partner of Europe’s leading digital media firm, Oyster Partners (now [https://www.digitas.com](https://www.digitas.com "https://www.digitas.com")), before lead roles in corporate finance and early-stage tech VC, coached by two of the best, Bruce Scott and Bob Christiansen.
 
 \#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program and will be inviting Microsoft to invest on their Series A round in 2020.
 
