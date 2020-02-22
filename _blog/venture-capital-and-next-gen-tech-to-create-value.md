@@ -77,7 +77,7 @@ Imagine how simple due-diligence will be on subsequent funding rounds, when the 
 
 The same capability provides an incredible onboarding experience for the team leaders, managers and executives that join as the company scales. Taking a pause to look back and learn, is just as important as looking forward.
 
-### investment managers & boards of directors
+### investment managers & company directors
 
 Technology is fast changing how boards of directors operate, especially on start-ups. Progressive company directors are proficient on SaaS apps for finance, CRM and MarTech. They don’t need to bombard management teams with questions in preparation for board meetings. Progressive company directors can actually drive the SaaS apps that generate the board reports.
 
