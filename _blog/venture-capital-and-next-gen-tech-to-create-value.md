@@ -18,11 +18,11 @@ seo_description: 'I was a VC once. I personally loathed reviewing 250 opportunit
 feature_image: "/uploads/venture capital and stratapp.jpg"
 
 ---
-I was a VC once. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders.
+_I was a VC once. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders._
 
 # my VC role
 
-For me the post-deal aspect of the VC role was awesome, balancing time across four things:
+For me the post-deal aspect of the VC role was just awesome, balancing time across four things:
 
 1. Ensuring clarity on the strategy versus what we’ll achieve each quarter
 2. Solving problems and assisting with talent and distribution connections
