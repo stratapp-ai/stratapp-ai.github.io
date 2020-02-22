@@ -40,7 +40,7 @@ When I look back now I think:
 * Strategy and execution evolves fast, and avoidable mistakes start to kick in
 * The best and worst of human nature abounds, with no shortage of surprises
 
-# what would have helped me as a VC
+# what would have helped me
 
 **Firstly**, being able to see, in real time, the exact status and underlying cadence on:
 
@@ -61,7 +61,7 @@ When I look back now I think:
 
 **Thirdly**, embracing [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency"). It is healthy for investee company management and employees to see the VC’s ongoing contributions firsthand. This builds trust and engagement, and it accelerates professional development of investee management teams. Radical Transparency was made famous by [Ray Dalio's book Principles](https://stratapp.ai/principles-by-ray-dalio-embracing-radical-transparency/ "Principles by Ray Dalio").
 
-# VCs leveraging next gen tech to create portfolio value
+# VCs leveraging tech to create portfolio value
 
 \#stratapp, the [world’s first org-wide strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's first org-wide strategy execution app"), delivers on everything I have listed above.
 
