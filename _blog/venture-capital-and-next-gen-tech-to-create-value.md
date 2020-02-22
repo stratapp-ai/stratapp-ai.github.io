@@ -77,9 +77,9 @@ The same capability provides an incredible onboarding experience for team leader
 
 ### investment managers & company directors
 
-Technology is fast changing how boards of directors operate, especially on start-ups. Progressive company directors are proficient on SaaS apps for finance, CRM and MarTech. They don’t need to bombard management teams with questions in preparation for board meetings. Progressive company directors can actually drive and drill down on the SaaS apps that generate the board reports.
+Technology is fast changing how boards of directors operate, especially on start-ups. Progressive company directors are proficient on SaaS apps for finance, CRM and MarTech. They don’t need to bombard management teams with questions in preparation for board meetings. Progressive company directors can actually drill down inside the SaaS apps that generate the board reports.
 
-The role of the board of directors encompasses strategy, execution performance, risk management and culture - which is all at their fingertips inside #stratapp. The rapidly improving aptitude and skills of VC investment managers and company directors to embrace next gen tech is good timing for #stratapp.
+The role of the board of directors encompasses strategy, execution performance, risk management and culture - which is all at their fingertips inside #stratapp. The rapidly improving aptitude of VCs and company directors to embrace next gen tech is good timing for #stratapp.
 
 # conclusions
 
@@ -90,7 +90,7 @@ Use #stratapp inside each investee company to:
 1. Accelerate strategy execution, achieving org-wide engagement and alignment as the investee scales
 2. De-risk the investment, [bringing risk management alive and interactive](https://stratapp.ai/blog/risk-management-short-version/ "making risk management alive and interactive") inside the investee
 3. Provide depth and credibility for passing due diligence on future funding rounds
-4. Improve the speed and quality of onboarding new hires as the investee company scales
+4. Improve the speed and quality of onboarding new hires as the investee scales
 
 # about #stratapp
 
