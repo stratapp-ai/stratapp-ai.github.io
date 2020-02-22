@@ -73,7 +73,7 @@ Therefore post-deal, I believe VCs should encourage their investees to embrace #
 
 Imagine how simple due-diligence will be on subsequent funding rounds, when the investee company can show inside #stratapp everything that has taken place on the journey thus far - the struggles, the pivots and the wins, and how the culture has evolved over time. Data that is live and interactive, and therefore credible, rather than produced as a one-off exercise to pass DD.
 
-The same capability provides an incredible onboarding experience for the team leaders, managers and executives that join as the company scales. Taking a pause to look back and learn, is just as important as looking forward.
+The same capability provides an incredible onboarding experience for the team leaders, managers and executives that join as the investee company scales. Taking a pause to look back and learn, is just as important as looking forward.
 
 ### investment managers & company directors
 
