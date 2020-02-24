@@ -122,6 +122,8 @@ You can also view KPIs overlayed onto the Live Org Chart, so you can quickly see
 
 Finally, a personal favourite, in one click every employee in your organization can see their own KPIs, including status, importance and due date.
 
+![](/uploads/value vs time.jpg)
+
 # referrals
 
 \#stratapp rewards you for introducing new clients.
