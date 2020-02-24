@@ -52,7 +52,7 @@ The easiest quick wins are to start with these five productivity and culture win
 Imagine you want to send a message, ask a question or invite to a task or workboard, everyone who is in:
 
 * @G/APAC/Australia/Queensland - the geography of Queensland in Australia
-* @F/Marketing/Digital - the Digital function within Marketing
+* @F/Marketing/Digital - the Digital team within the Marketing function
 * @L<3 - more senior than level 3 on the Live Org Chart
 
 That takes about 4 seconds to do inside #stratapp, and you can even do it as AND/OR.
