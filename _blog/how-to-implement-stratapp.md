@@ -18,7 +18,7 @@ feature_image: "/uploads/value vs time.jpg"
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy software.
 
-# no need for big bang rollouts
+# no need for big bang roll outs
 
 One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
