@@ -107,9 +107,9 @@ For the “risks” page, here is the [thinking behind including risk management
 
 ## business performance | KPIs & OKRs
 
-Lastly, we recommend turning on “KPIs” to manage KPIs and OKRs.
+Lastly, we recommend turning on “KPIs” to manage KPIs and/or OKRs.
 
-Any KPI added to an item in the strategy tree, will be deemed a “strategic KPI”.
+KPIs added to an item in the strategy tree, will be deemed a “strategic KPI”.
 
 KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of but need attention_”.
 
