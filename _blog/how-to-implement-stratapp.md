@@ -116,7 +116,7 @@ For the “risks” page, here is the [thinking behind including risk management
 
 ## business performance | KPIs & OKRs
 
-Lastly, we recommend turning on the “KPIs” page to elevate business performance through KPIs and/or OKRs.
+Lastly, we recommend the “KPIs” page to elevate business performance through KPIs and/or OKRs.
 
 You might need to read the next three paragraphs a few times to fully appreciate the KPI construct inside #stratapp.  That is because we have designed the whole of #stratapp with (almost) no rules, so you can easily adapt #stratapp to suit how you operate your unique business, rather than the expense, time, hassle and stress of having to adapt your business to suit #stratapp.
 
