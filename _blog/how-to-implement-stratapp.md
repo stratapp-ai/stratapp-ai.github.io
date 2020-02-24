@@ -77,7 +77,7 @@ For example, “_in the last 72 hours, what questions have been asked, decisions
 Not only that, the results are presented so you can:
 
 * Search or drill down further, including refining the time filter to say 3, 12, 24 or 48 hours
-* One click access to view the source of each match, so you can quickly understand the context
+* View the source of each match, so you can quickly understand the context
 * Reply directly from this column of results, without having to open the respective sources
 
 Under social/teams you will also notice #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for say the Digital team within Marketing, as that is done automatically for you.
