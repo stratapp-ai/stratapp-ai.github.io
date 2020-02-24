@@ -128,7 +128,7 @@ Finally, a personal favourite!  In one click, on desktop or mobile, every employ
 
 ![](/uploads/value vs time.jpg)
 
-# REFERRALS
+# REFERRAL INCENTIVES
 
 \#stratapp rewards anyone who introduces a new client.
 
