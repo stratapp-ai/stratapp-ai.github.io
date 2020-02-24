@@ -18,7 +18,7 @@ feature_image: "/uploads/value vs time.jpg"
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy software.
 
-# no need for big bang roll outs
+# NO NEED FOR BIG BANG ROLL OUTS
 
 One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
@@ -44,7 +44,7 @@ Most organizations establish two internal roles:
 1. Power Users - who manage settings and become the go-to people on how to use #stratapp
 2. Sponsors - who lead the cultural shift to org-wide collaboration, [transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") and [eliminating internal email](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "eliminating internal email")
 
-# manage pages for progressive rollouts
+# MANAGE PAGES FOR PROGRESSIVE ROLL OUTS
 
 It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deploying #stratapp progressively.
 
@@ -124,7 +124,7 @@ Finally, a personal favourite, in one click every employee in your organization 
 
 ![](/uploads/value vs time.jpg)
 
-# referrals
+# REFERRALS
 
 \#stratapp rewards you for introducing new clients.
 
