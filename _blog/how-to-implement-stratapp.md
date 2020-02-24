@@ -20,15 +20,20 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 # no need for big bang rollouts
 
-One beauty of #stratapp is that you can do the rollout progressively, usually starting as either:
+One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
+This means you can immediately go org-wide with "productivity & culture" features, whilst key people work on preparing the content for strategy and KPIs.
+
+Clients usually start as either:
+
+* Org-wide - for "productivity & culture" features only
 * Top down - top 3 layers - the CEO/business owner, each of their direct reports and the next layer of direct reports below that
 * Functions - one function at a time
 * Geography - one geography at a time
 
 ## no end user training (or minimal)
 
-If you use manage pages (see below) to roll out the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing. 
+If you use manage pages (see below) to roll out the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing.
 
 \#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all self-onboarded tech, user proficiency requires a little patience, some experimentation and an open mind.
 
@@ -63,7 +68,7 @@ Imagine the power of this @org-design feature for productivity and collaboration
 
 Most SaaS apps these days have built-in social. However #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
 
-\#stratapp also has a social/work page. This soon becomes your go-to page to **maximise your own productivity and responsiveness**. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive example would only take you 3-5 seconds to conclude inside #stratapp. 
+\#stratapp also has a social/work page. This soon becomes your go-to page to **maximise your own productivity and responsiveness**. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive example would only take you 3-5 seconds to conclude inside #stratapp.
 
 Not only that, the results are presented in a way you can:
 
@@ -89,7 +94,7 @@ You can easily collaborate on tasks and workboards inside #stratapp, including u
 
 ## ideation
 
-After rolling out the above five aspects of "productivity & culture", next we recommend turning on “ideation” to capture ideas and to run challenges.  Challenges allow you to crowdsource ideas and contributions from your most valuable asset, the employees in your organization, as well as the external stakeholders you collaborate with (customers, partners and suppliers). 
+After rolling out the above five aspects of "productivity & culture", next we recommend turning on “ideation” to capture ideas and to run challenges.  Challenges allow you to crowdsource ideas and contributions from your most valuable asset, the employees in your organization, as well as the external stakeholders you collaborate with (customers, partners and suppliers).
 
 You can add an idea or challenge to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards.
 
