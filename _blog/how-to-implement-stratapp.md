@@ -85,7 +85,7 @@ You can easily collaborate on tasks and workboards inside #stratapp, including u
 
 ### workspace
 
-\#stratapp provides a workspace for employees to manage their own private tasks. This workspace also pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. strategy related tasks) and your role (e.g. tasks I have assigned to others, that are due this week).
+\#stratapp provides a workspace for employees to manage their own private tasks. This workspace also pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. _strategy related tasks_) and your role (e.g. _tasks I have assigned to others, that are due this week_).
 
 ## ideation
 
