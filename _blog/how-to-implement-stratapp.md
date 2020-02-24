@@ -119,8 +119,8 @@ Finally, a personal favourite, in one click every employee in your organization 
 
 # referrals
 
-\#stratapp rewards you for introducing a new client.
+\#stratapp rewards you for introducing new clients.
 
-For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be US$885 per quarter paid to you. That soon adds up, especially if you refer #stratapp to 3x such organizations … **US$2,655 per quarter paid to you**.
+For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be **US$885 per quarter paid to you**. That soon adds up, especially if you refer #stratapp to 3x organizations that grow to 500 users, meaning **US$2,655 per quarter paid to you**.
 
 To learn more, please see our [referral model](bit.ly/stratapp-referral-model "referral model").
