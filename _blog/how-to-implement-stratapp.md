@@ -75,7 +75,7 @@ Under social/teams you will also notice #stratapp applies the @org-design (expla
 
 ### notes & meetings
 
-\#stratapp has built in notes, that you can add to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. This helps to [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
+\#stratapp has built in notes, that you can add to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. This helps every executive, manager and front line employee to [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
 
 For meetings you can add a purpose and an agenda, and you can live edit notes with meeting participants, whilst also interacting live with social, shared links and files. You can run a meeting clock, to time the overall meeting and how long you spend on each agenda item.
 
