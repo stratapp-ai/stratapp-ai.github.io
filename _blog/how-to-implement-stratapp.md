@@ -11,8 +11,8 @@ video_id: ''
 banner_image: "/uploads/value vs time.jpg"
 slug: how to implement
 seo_title: 'how to implement #stratapp'
-seo_description: Most clients start with productivity and culture, before adding ideation,
-  strategy execution and business performance.
+seo_description: Most clients start with productivity and culture, before advancing
+  to ideation, strategy execution and business performance.
 feature_image: "/uploads/value vs time.jpg"
 
 ---
