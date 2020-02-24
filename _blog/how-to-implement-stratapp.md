@@ -22,7 +22,7 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
-This means you can immediately go org-wide with "productivity & culture" features, whilst preparing content for strategy and KPIs.
+This means you can immediately go org-wide with the quick win "productivity & culture" features, whilst preparing content for strategy and KPIs.
 
 Clients usually start as either:
 
@@ -130,8 +130,8 @@ Finally, a personal favourite!  In one click, on desktop or mobile, every employ
 
 # REFERRALS
 
-\#stratapp rewards you for introducing new clients.
+\#stratapp rewards anyone who introduces a new client.
 
-For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be **US$885 per quarter paid to you**. That soon adds up, especially if you refer #stratapp to 3x organizations that grow to 500 users, meaning **US$2,655 per quarter paid to you**.
+For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be **US$885 per quarter paid to you**. That soon adds up, especially if you refer #stratapp to three organizations that grow to 500 users, meaning **US$2,655 per quarter paid to you**.
 
 To learn more, please see our [referral model](bit.ly/stratapp-referral-model "referral model").
