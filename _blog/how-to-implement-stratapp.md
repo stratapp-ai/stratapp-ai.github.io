@@ -94,11 +94,11 @@ You can easily collaborate on tasks and workboards inside #stratapp, including u
 
 ## ideation
 
-After rolling out the above five aspects of "productivity & culture", next we recommend turning on “ideation” to capture ideas and to run challenges.  Challenges allow you to crowdsource ideas and contributions from your most valuable asset, the employees in your organization, as well as the external stakeholders you collaborate with (customers, partners and suppliers).
+After rolling out the above five aspects of "productivity & culture", next we recommend turning on “ideation” to capture ideas and run challenges.  Challenges allow you to crowdsource ideas and contributions from your most valuable asset, the employees in your organization, as well as the external stakeholders you collaborate with (customers, partners and suppliers).
 
 You can add an idea or challenge to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards.
 
-Ideation also provides employees and managers a positive outlet to capture ideas and new thinking, whilst staying focused on the current priorities.
+Ideation also provides employees and managers a positive outlet to capture ideas and new thinking, whilst staying focused on their current priorities.
 
 ## strategy execution
 
