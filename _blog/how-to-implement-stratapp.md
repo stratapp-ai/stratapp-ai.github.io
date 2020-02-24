@@ -93,7 +93,7 @@ After rolling out the above five aspects of "productivity & culture", next we re
 
 You can add an idea or challenge to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards.
 
-Ideation also provides employees and managers a positive outlet to capture ideas and new thinking, whilst staying focused on current priorities.
+Ideation also provides employees and managers a positive outlet to capture ideas and new thinking, whilst staying focused on the current priorities.
 
 ## strategy execution
 
