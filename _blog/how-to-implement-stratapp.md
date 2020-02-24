@@ -22,7 +22,7 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
-This means you can immediately go org-wide with the quick win "productivity & culture" elevation, whilst preparing content for strategy and KPIs.
+This means you can immediately go org-wide with the quick win "productivity & culture" elevation, whilst preparing your strategy and KPIs.
 
 Clients usually start as either:
 
