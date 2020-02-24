@@ -108,7 +108,7 @@ For the “direction” page, it is worth reading [Professor Roger Martin on wha
 
 For the “our plan” page, it is worth applying these [two tips for communicating your business strategy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "two tips for communicating strategy").
 
-For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.  Note, risk cards can be added to almost anything inside #stratapp, not only strategic items.
+For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.  Note, risk cards can be added to almost anything inside #stratapp, not only strategic items.  This makes risk management alive and interactive, org-wide and easy to cascade clear ownership.
 
 ## business performance | KPIs & OKRs
 
