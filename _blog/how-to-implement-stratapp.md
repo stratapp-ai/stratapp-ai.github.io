@@ -114,6 +114,8 @@ For the “risks” page, here is the [thinking behind including risk management
 
 Lastly, we recommend turning on the “KPIs” page to manage KPIs and/or OKRs.
 
+You might need to read the next three paragraphs a few times to fully understand the KPI construct inside #stratapp.  That is because, we have designed the whole of #stratapp with (almost) no rules, so you can easily adapt #stratapp to suit your unique business, rather than the other way around.
+
 KPIs added to an item in the strategy tree, will show under “strategic KPIs”.
 
 Both strategic and operational KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of, with a status of needs attention_”.  Again, that powerful insight will only take you 3-5 seconds to conclude inside #stratapp.
