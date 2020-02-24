@@ -26,14 +26,14 @@ This means you can immediately go org-wide with "productivity & culture" feature
 
 Clients usually start as either:
 
-* Org-wide - for "productivity & culture" features only
+* Org-wide - for the "productivity & culture" features
 * Top down - top 3 layers - the CEO/business owner, each of their direct reports and the next layer of direct reports below that
 * Functions - one function at a time
 * Geography - one geography at a time
 
 ## no end user training (or minimal)
 
-If you use manage pages (see below) to roll out the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing.
+If you use manage pages to roll out the rich functionality progressively, you should not need any end user training. #stratapp is intuitive and best learnt by doing.
 
 \#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all modern collaboration tech, end user proficiency requires a little patience, some experimentation and an open mind.
 
