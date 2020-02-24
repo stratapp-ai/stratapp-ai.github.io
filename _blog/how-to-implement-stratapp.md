@@ -122,7 +122,7 @@ Both strategic and operational KPIs can be tagged to one or more Balanced Scorec
 
 You can view both strategic and operational KPIs overlaid onto the Live Org Chart, so you can quickly see who in the organization owns what KPIs.  Not only that, the parent:child hierarchy of KPIs can exist independent of the reporting lines on the Live Org Chart, meaning you can infinitely cascade KPIs to match your unique properties of @org-design.
 
-Finally, a personal favourite, in one click, on desktop or mobile, every employee in your organization can see their own KPIs, including status, importance and due date.
+Finally, a personal favourite!  In one click, on desktop or mobile, every employee in your organization can see their own KPIs - including status, importance and due date.
 
 ![](/uploads/value vs time.jpg)
 
