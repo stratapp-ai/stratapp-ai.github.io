@@ -22,8 +22,8 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 One beauty of #stratapp is that you can do the rollout progressively, usually starting as either:
 
-* Top down - the CEO/business owner, their direct reports and the next layer below that, or
-* Functions - one function at a time, or
+* Top down - top 3 layers - the CEO/business owner, each of their direct reports and the next layer of direct reports below that
+* Functions - one function at a time
 * Geography - one geography at a time
 
 ## no end user training (or minimal)
