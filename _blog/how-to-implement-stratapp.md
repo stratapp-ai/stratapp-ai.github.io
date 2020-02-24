@@ -43,7 +43,7 @@ If you use manage pages to roll out the rich functionality progressively, you sh
 
 Most clients establish two roles:
 
-1. Power Users - who manage settings and become the go-to people on how to use #stratapp
+1. Power Users - who manage settings and become the go-to people on how to use
 2. Sponsors - who lead the cultural shift to org-wide engagement, collaboration, [transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") and [eliminating internal email](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "eliminating internal email")
 
 # MANAGE PAGES FOR PROGRESSIVE ROLL OUTS
