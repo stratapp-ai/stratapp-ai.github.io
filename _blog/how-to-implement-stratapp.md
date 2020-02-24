@@ -68,7 +68,7 @@ Imagine the power of this unique @org-design feature for productivity and collab
 
 ### social with structure
 
-Most business apps have built-in social. However #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
+Most business apps have social, but #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
 
 \#stratapp also has a clever social/work page. This becomes your go-to page to **maximise your own productivity and responsiveness**.
 
