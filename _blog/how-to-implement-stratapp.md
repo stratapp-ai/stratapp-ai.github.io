@@ -35,7 +35,7 @@ Clients usually start as either:
 
 If you use manage pages (see below) to roll out the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing.
 
-\#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all self-onboarded tech, user proficiency requires a little patience, some experimentation and an open mind.
+\#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all modern collaboration tech, end user proficiency requires a little patience, some experimentation and an open mind.
 
 ## two roles for success
 
