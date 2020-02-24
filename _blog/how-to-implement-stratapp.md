@@ -97,13 +97,13 @@ Ideation also provides employees and managers a positive outlet to capture ideas
 
 ## strategy execution
 
-We recommend starting with the “direction” page, then adding your top 3 goals to the “our plan” page.
+Once you are ready for "strategy execution", we recommend starting with the “direction” page, then adding your top 3 goals to the “our plan” page.
 
 For the “direction” page, it is worth reading [Professor Roger Martin on what CEOs should really be doing](https://stratapp.ai/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin").
 
 For the “our plan” page, it is worth applying these [two tips for communicating your business strategy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "two tips for communicating strategy").
 
-For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.
+For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.  Note, risk cards can be added to almost anything inside #stratapp, not only strategic items.
 
 ## business performance | KPIs & OKRs
 
