@@ -27,7 +27,7 @@ This means you can immediately go org-wide with the quick win "productivity & cu
 Clients usually start as either:
 
 * Org-wide - for the "productivity & culture" features
-* Top down - top 3 layers - the CEO/business owner, each of their direct reports and the next layer of direct reports below that
+* Top down - top 3 layers - the CEO/owner, each direct report and their next layer of direct reports
 * Functions - one function at a time
 * Geography - one geography at a time
 
