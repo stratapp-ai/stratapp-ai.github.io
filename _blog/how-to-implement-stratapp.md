@@ -112,7 +112,7 @@ For the “risks” page, here is the [thinking behind including risk management
 
 ## business performance | KPIs & OKRs
 
-Lastly, we recommend turning on “KPIs” to manage KPIs and/or OKRs.
+Lastly, we recommend turning on the “KPIs” page to manage KPIs and/or OKRs.
 
 KPIs added to an item in the strategy tree, will show under “strategic KPIs”.
 
