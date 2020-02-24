@@ -5,14 +5,14 @@ category:
 date: 2019-09-10 13:01:48 +0000
 layout: blog
 title: 'how to implement #stratapp'
-sub_heading: Most clients start with productivity & culture, before advancing to ideation,
+sub_heading: Most start with productivity & culture, before advancing to ideation,
   strategy execution and business performance.
 video_id: ''
 banner_image: "/uploads/value vs time.jpg"
 slug: how to implement
 seo_title: 'how to implement #stratapp'
-seo_description: Most clients start with productivity & culture, before advancing
-  to ideation, strategy execution and business performance.
+seo_description: Most start with productivity & culture, before advancing to ideation,
+  strategy execution and business performance.
 feature_image: "/uploads/value vs time.jpg"
 
 ---
