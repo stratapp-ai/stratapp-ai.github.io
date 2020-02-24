@@ -117,4 +117,4 @@ In one click, every employee can see their own KPIs, including the status, impor
 
 For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be US$885 per quarter paid to you. That soon adds up, especially if you refer #stratapp to 3x such organizations … **US$2,655 per quarter paid to you**.
 
-To learn more, please see our referral model.
+To learn more, please see our [referral model](bit.ly/stratapp-referral-model "referral model").
