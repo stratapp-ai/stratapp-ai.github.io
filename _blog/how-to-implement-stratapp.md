@@ -57,7 +57,7 @@ Imagine you want to send a message, ask a question or invite to a task or workbo
 
 That takes about 4 seconds to do inside #stratapp, and you can even do it as AND/OR.
 
-Imagine the power of this @org-design feature for productivity and collaboration, compared to old school email address lists and having to know the recipients actual name in order to add them.
+Imagine the power of this @org-design feature for productivity and collaboration, compared to old school email address lists and having to know the recipients actual name in order to collaborate with them.
 
 ### social with structure
 
