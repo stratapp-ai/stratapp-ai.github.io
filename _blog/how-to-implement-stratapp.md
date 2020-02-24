@@ -28,7 +28,9 @@ One beauty of #stratapp is that you can do the rollout progressively, usually st
 
 ## no end user training (or minimal)
 
-If you use manage pages (see below) to rollout the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing. #stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all self-onboarded tech, user proficiency requires a little patience, some experimentation and an open mind.
+If you use manage pages (see below) to roll out the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing. 
+
+\#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all self-onboarded tech, user proficiency requires a little patience, some experimentation and an open mind.
 
 ## two roles for success
 
@@ -43,7 +45,7 @@ It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deployin
 
 ## productivity & culture
 
-The easiest quick win is to start with these five productivity and culture wins.
+The easiest quick wins are to start with these five productivity and culture wins.
 
 ### @org-design
 
