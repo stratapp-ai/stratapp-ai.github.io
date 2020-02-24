@@ -8,12 +8,12 @@ title: 'how to implement #stratapp'
 sub_heading: Most clients start with productivity and culture, before adding ideation,
   strategy execution and business performance.
 video_id: ''
-banner_image: "/uploads/#stratapp - implementing - value vs time.jpg"
+banner_image: "/uploads/value vs time.jpg"
 slug: how to implement
 seo_title: 'how to implement #stratapp'
 seo_description: Most clients start with productivity and culture, before adding ideation,
   strategy execution and business performance.
-feature_image: "/uploads/#stratapp - implementing - value vs time.jpg"
+feature_image: "/uploads/value vs time.jpg"
 
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy software.
