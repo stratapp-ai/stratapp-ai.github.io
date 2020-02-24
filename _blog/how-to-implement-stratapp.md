@@ -115,7 +115,7 @@ KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the p
 
 You can also view KPIs overlayed onto the Live Org Chart, so you can quickly see who in the organization owns what KPIs.  Not only that, the parent:child hierarchy of KPIs can exist independent of the reporting lines on the Live Org Chart.
 
-In one click, every employee can see their own KPIs, including the status, importance and due date.
+Finally, a personal favourite, in one click every employee in your organization can see their own KPIs, including status, importance and due date.
 
 # referrals
 
