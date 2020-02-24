@@ -116,7 +116,7 @@ Lastly, we recommend turning on “KPIs” to manage KPIs and/or OKRs.
 
 KPIs added to an item in the strategy tree, will show under “strategic KPIs”.
 
-KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of, but need attention_”.  Again, getting to that powerful insight will only take you 3-5 seconds inside #stratapp.
+Both strategic and operational KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of, with a status of needs attention_”.  Again, that powerful insight will only take you 3-5 seconds to conclude inside #stratapp.
 
 You can also view KPIs overlayed onto the Live Org Chart, so you can quickly see who in the organization owns what KPIs.  Not only that, the parent:child hierarchy of KPIs can exist independent of the reporting lines on the Live Org Chart.
 
