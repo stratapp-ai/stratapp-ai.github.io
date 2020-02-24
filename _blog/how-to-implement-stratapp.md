@@ -63,13 +63,15 @@ Imagine the power of this @org-design feature for productivity and collaboration
 
 Most SaaS apps these days have built-in social. However #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
 
-\#stratapp also has a social/work page. This soon becomes your go-to page to **maximise your own productivity and responsiveness**. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive example would only take you 3-5 seconds inside #stratapp. Not only that, the results are presented in a way you can:
+\#stratapp also has a social/work page. This soon becomes your go-to page to **maximise your own productivity and responsiveness**. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive example would only take you 3-5 seconds to conclude inside #stratapp. 
+
+Not only that, the results are presented in a way you can:
 
 * Search or drill down further, including refining the time filter to say 3, 12, 24 or 48 hours
 * One click access to view the source, so you can quickly understand the context
 * Reply directly from this column of results, without actually opening the sources
 
-Under social/teams you will see how #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for the Digital team within Marketing, re the example above, as that is done automatically for you.
+Under social/teams you will also notice #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for the Digital team within Marketing, re the example above, as that is done automatically for you.
 
 ### notes & meetings
 
