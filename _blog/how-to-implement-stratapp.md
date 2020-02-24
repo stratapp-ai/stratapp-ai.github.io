@@ -33,7 +33,9 @@ Clients usually start as either:
 
 ## no or minimal end user training
 
-If you use manage pages to roll out the rich functionality progressively, you should not need any end user training. #stratapp is intuitive and best learnt by doing.
+If you use manage pages to roll out the rich functionality progressively, you should not need end user training.
+
+\#stratapp is intuitive and best learnt by doing.
 
 \#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all modern collaboration tech, end user proficiency requires a little patience, some experimentation and an open mind.
 
