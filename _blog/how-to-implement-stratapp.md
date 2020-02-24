@@ -70,7 +70,9 @@ Imagine the power of this unique @org-design feature for productivity and collab
 
 Most business apps have built-in social. However #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
 
-\#stratapp also has a clever social/work page. This becomes your go-to page to **maximise your own productivity and responsiveness**. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive snapshot would only take you 3-5 seconds to conclude inside #stratapp.
+\#stratapp also has a clever social/work page. This becomes your go-to page to **maximise your own productivity and responsiveness**.
+
+For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive snapshot would only take you 3-5 seconds to conclude inside #stratapp.
 
 Not only that, the results are presented in a way you can:
 
