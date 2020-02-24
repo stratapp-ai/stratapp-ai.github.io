@@ -1,0 +1,120 @@
+---
+author: _people/ash-richardson.md
+category:
+- "#articles"
+date: 2019-09-10 13:01:48 +0000
+layout: blog
+title: 'how to implement #stratapp'
+sub_heading: Most clients start with productivity and culture, before adding ideation,
+  strategy execution and business performance.
+video_id: ''
+banner_image: "/uploads/#stratapp - implementing - value vs time.jpg"
+slug: how to implement
+seo_title: 'how to implement #stratapp'
+seo_description: Most clients start with productivity and culture, before adding ideation,
+  strategy execution and business performance.
+feature_image: "/uploads/#stratapp - implementing - value vs time.jpg"
+
+---
+You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy software.
+
+# no need for big bang rollouts
+
+One beauty of #stratapp is that you can do the rollout progressively, usually starting as either:
+
+* Top down - the CEO/business owner, their direct reports and the next layer below that, or
+* Functions - one function at a time, or
+* Geography - one geography at a time
+
+## no end user training (or minimal)
+
+If you use manage pages (see below) to rollout the rich functionality progressively, you shouldn’t need to do any end user training. #stratapp is intuitive and best learnt by doing. #stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all self-onboarded tech, user proficiency requires a little patience, some experimentation and an open mind.
+
+## two roles for success
+
+Most organizations establish two internal roles:
+
+1. Power Users - who manage settings and become the go-to people on how to use #stratapp
+2. Sponsors - who lead the cultural shift to org-wide collaboration, [transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") and [eliminating internal email](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "eliminating internal email")
+
+# manage pages for progressive rollouts
+
+It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deploying #stratapp progressively.
+
+## productivity & culture
+
+The easiest quick win is to start with these five productivity and culture wins.
+
+### @org-design
+
+Imagine you want to send a message, ask a question or invite to a task or workboard, everyone who is in:
+
+* @G/APAC/Australia/Queensland - the geography of Queensland in Australia
+* @F/Marketing/Digital - the Digital function within Marketing
+* @L<3 - more senior than level 3 on the Live Org Chart
+
+That takes about 4 seconds to do inside #stratapp, and you can even do it as AND/OR.
+
+Imagine the power of this @org-design feature for productivity and collaboration, compared to old school email address lists and having to know the recipients actual name in order to add them.
+
+### social with structure
+
+Most progressive SaaS apps have built-in social. However #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
+
+\#stratapp also has a social/work page. This soon becomes your go-to page, to maximise your own productivity and responsiveness. For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive example would only take you 3-5 seconds inside #stratapp. Not only that, the results are presented in a way you can:
+
+* Search or drill down further, including refining the time filter to say 3, 12, 24 or 48 hours
+* One click access to view the source, so you can quickly understand the context
+* Reply directly from this column of results, without actually opening the sources
+
+Under social/teams you will see how #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for the Digital team within Marketing, re the example above, as that is done automatically for you.
+
+### notes & meetings
+
+\#stratapp has built in notes, that you can add to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. This helps to [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
+
+For meetings you can add a purpose and an agenda, and you can live edit notes with meeting participants, whilst also interacting live with social, shared links and files. You can run a meeting clock, to time the overall meeting and how long you spend on each agenda item.
+
+### tasks & workboards
+
+You can easily collaborate on tasks and workboards inside #stratapp, including using #stratapp’s unique @org-design feature (explained above) to quickly invite members. #stratapp’s workboards include the ability to filter on [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), making it fast and easy for executives and others not involved day to day to quickly get up to speed on the aspects they are interested in.
+
+### workspace
+
+\#stratapp provides a workspace for employees to manage their own private tasks. This workspace also pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. strategy related tasks) and your role (e.g. tasks I have assigned to others, that are due this week).
+
+## ideation
+
+Next we recommend turning on “ideation” to capture ideas and to run challenges inside #stratapp. You can add an idea or challenge to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards.
+
+Ideation also provides employees and managers a positive outlet to capture ideas and new thinking, whilst staying focused on current priorities.
+
+## strategy execution
+
+We recommend starting with the “direction” page, then adding your top 3 goals to the “our plan” page.
+
+For the “direction” page, it is worth reading [Professor Roger Martin on what CEOs should really be doing](https://stratapp.ai/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin").
+
+For the “our plan” page, it is worth applying these [two tips for communicating your business strategy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "two tips for communicating strategy").
+
+For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.
+
+## business performance | KPIs & OKRs
+
+Lastly, we recommend turning on “KPIs” to manage KPIs and OKRs.
+
+Any KPI added to an item in the strategy tree, will be deemed a “strategic KPI”.
+
+KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of but need attention_”.
+
+You can also view KPIs overlayed onto the Live Org Chart, so you can quickly see who owns what KPIs.
+
+In one click, every employee can see their own KPIs, including the status, importance and due date.
+
+# referrals
+
+\#stratapp rewards you for introducing a new client.
+
+For example, if you refer #stratapp to an organization that grows to 500 users, with our 10% referral fee that would be US$885 per quarter paid to you. That soon adds up, especially if you refer #stratapp to 3x such organizations … **US$2,655 per quarter paid to you**.
+
+To learn more, please see our referral model.
