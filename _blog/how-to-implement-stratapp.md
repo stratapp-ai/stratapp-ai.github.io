@@ -114,7 +114,7 @@ For the “risks” page, here is the [thinking behind including risk management
 
 Lastly, we recommend turning on the “KPIs” page to manage KPIs and/or OKRs.
 
-You might need to read the next three paragraphs a few times to fully appreciate the KPI construct inside #stratapp.  That is because we have designed the whole of #stratapp with (almost) no rules, so you can easily adapt #stratapp to suit your unique business, rather than the other way around.
+You might need to read the next three paragraphs a few times to fully appreciate the KPI construct inside #stratapp.  That is because we have designed the whole of #stratapp with (almost) no rules, so you can easily adapt #stratapp to suit your unique business, rather than the expense, time, hassle and stress of having to adapt the business to suit #stratapp.
 
 KPIs added to an item in the strategy tree, will show under “strategic KPIs”.
 
