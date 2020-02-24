@@ -16,7 +16,7 @@ seo_description: Most clients start with productivity and culture, before adding
 feature_image: "/uploads/value vs time.jpg"
 
 ---
-You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy software.
+You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy business software.
 
 # NO NEED FOR BIG BANG
 
