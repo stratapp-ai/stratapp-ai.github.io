@@ -86,7 +86,7 @@ For meetings you can add a purpose and an agenda, and you can live-edit notes wi
 
 ### tasks & workboards
 
-You can easily collaborate on tasks and workboards inside #stratapp, including using #stratapp’s unique @org-design feature (explained above) to quickly invite members. #stratapp’s workboards include the ability to filter on [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), making it fast and easy for executives and others not involved day to day to quickly get up to speed on the aspects they are interested in.
+You can easily collaborate on tasks and workboards inside #stratapp, including using #stratapp’s unique @org-design feature (explained above) to quickly invite members. Inside each #stratapp workboard you have the ability to filter on [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), making it fast and easy for executives and others not involved day to day to quickly get up to speed on the aspects they are interested in.  We hope this feature helps to overcome [why work collaboration has remained a blind-spot for senior executives](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "work collaboration blind spot").
 
 ### workspace
 
