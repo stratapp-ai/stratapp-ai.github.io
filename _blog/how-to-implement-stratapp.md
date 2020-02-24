@@ -108,13 +108,13 @@ For the “direction” page, it is worth reading [Professor Roger Martin on wha
 
 For the “our plan” page, it is worth applying these [two tips for communicating your business strategy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "two tips for communicating strategy").
 
-For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.  Note, risk cards can be added to almost anything inside #stratapp, not only strategic items.  This makes risk management alive and interactive, org-wide and easy to cascade clear ownership.
+For the “risks” page, here is the [thinking behind including risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "risk management") inside #stratapp.  Note, risk cards can be added to almost anything inside #stratapp, not only strategic items.  This makes risk management alive and interactive, transparent, org-wide and easy to cascade clear ownership.
 
 ## business performance | KPIs & OKRs
 
 Lastly, we recommend turning on “KPIs” to manage KPIs and/or OKRs.
 
-KPIs added to an item in the strategy tree, will be deemed a “strategic KPI”.
+KPIs added to an item in the strategy tree, will show under “strategic KPIs”.
 
 KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of, but need attention_”.  Again, getting to that powerful insight will only take you 3-5 seconds inside #stratapp.
 
