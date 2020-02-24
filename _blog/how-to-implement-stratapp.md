@@ -73,7 +73,7 @@ Most business apps have built-in social. However #stratapp has [social with stru
 Not only that, the results are presented in a way you can:
 
 * Search or drill down further, including refining the time filter to say 3, 12, 24 or 48 hours
-* One click access to view the source, so you can quickly understand the context
+* One click access to view the source of each match, so you can quickly understand the context
 * Reply directly from this column of results, without actually opening the sources
 
 Under social/teams you will also notice #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for the Digital team within Marketing, re the example above, as that is done automatically for you.
