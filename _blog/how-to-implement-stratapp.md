@@ -60,7 +60,7 @@ Imagine you want to send a message, ask a question or invite to a task or workbo
 
 * @G/APAC/Australia/Queensland - the geography of Queensland in Australia
 * @F/Marketing/Digital - the Digital team within the Marketing function
-* @L<3 - more senior than level 3 on the Live Org Chart
+* @L<3 - top 2 levels on the Live Org Chart
 
 That takes about 4 seconds to do inside #stratapp, and you can even do it as AND or OR.
 
