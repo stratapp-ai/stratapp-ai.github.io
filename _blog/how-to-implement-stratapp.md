@@ -60,7 +60,7 @@ Imagine you want to send a message, ask a question or invite to a task or workbo
 * @F/Marketing/Digital - the Digital team within the Marketing function
 * @L<3 - more senior than level 3 on the Live Org Chart
 
-That takes about 4 seconds to do inside #stratapp, and you can even do it as AND/OR.
+That takes about 4 seconds to do inside #stratapp, and you can even do it as AND or OR.
 
 Imagine the power of this @org-design feature for productivity and collaboration, compared to old school email address lists and having to know the recipients actual name in order to collaborate with them.
 
