@@ -80,7 +80,7 @@ Not only that, the results are presented so you can:
 * View the source of each match, so you can quickly understand the context
 * Reply directly from this column of results, without having to open the respective sources
 
-Under social/teams you will also notice #stratapp applies the @org-design (explained above) to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for say the Digital team within Marketing, as that is done automatically for you.
+Under social/teams you will also notice #stratapp applies @org-design to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for say the Digital team within Marketing, as that is done automatically for you.
 
 ### notes & meetings
 
