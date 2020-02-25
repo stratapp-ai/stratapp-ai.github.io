@@ -24,9 +24,8 @@ One beauty of #stratapp is that you can do the roll out progressively, selecting
 
 This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst preparing your strategy and KPIs content.
 
-Clients usually start as either:
+Clients usually start org-wide for "productivity & culture" elevation, then advance to ideation, strategy execution and business performance as either:
 
-* Org-Wide - "productivity & culture" elevation
 * Top Down - top 3 layers, including the CEO/owner
 * Functions - one function at a time
 * Geography - one geography at a time
@@ -122,7 +121,7 @@ For the “risks” page, here is the [thinking behind including risk management
 
 ## business performance | KPIs & OKRs
 
-Lastly, we recommend the “KPIs” page to elevate business performance through KPIs and/or OKRs.
+Lastly, we recommend the “KPIs” page to elevate business performance.
 
 You may need to read the next three paragraphs a few times to fully appreciate the KPI construct inside #stratapp.  That is because we have designed the whole of #stratapp with (almost) no rules, so you can easily adapt #stratapp to suit how you operate your business, rather than the expense, time, and stress of adapting your business to suit #stratapp.
 
