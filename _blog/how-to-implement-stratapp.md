@@ -30,9 +30,9 @@ Clients usually start org-wide with "productivity & culture" elevation, then adv
 * Functions - one function at a time
 * Geography - one geography at a time
 
-## no (or minimal) end user training
+## no/minimal end user training
 
-If you use manage pages to roll out the rich functionality progressively, you should not need to do end user training.
+If you use manage pages to roll out progressively, you should not need to do end user training.
 
 \#stratapp is intuitive and best learnt by doing.
 
