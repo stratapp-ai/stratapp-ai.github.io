@@ -26,8 +26,8 @@ This means you can immediately go org-wide with the quick wins on "productivity 
 
 Clients usually start as either:
 
-* Org-wide - "productivity & culture" elevation
-* Top down - top 3 layers, including the CEO/owner
+* Org-Wide - "productivity & culture" elevation
+* Top Down - top 3 layers, including the CEO/owner
 * Functions - one function at a time
 * Geography - one geography at a time
 
