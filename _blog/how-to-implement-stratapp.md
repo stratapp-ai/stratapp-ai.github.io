@@ -82,17 +82,21 @@ Not only that, the results are presented so you can:
 
 Under social/teams you will also notice #stratapp applies @org-design to automatically create teams inside #stratapp. That is, you don’t need to manually create and maintain a social group for say the Digital team within Marketing, as that is done automatically for you.
 
-### notes & meetings
+### 3 - notes & meetings
 
-\#stratapp has built in notes, that you can add to almost anything inside #stratapp - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. This helps every executive, manager and front line employee to [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
+\#stratapp has built in notes, that you can add to almost anything - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. 
+
+This helps everyone  [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
 
 For meetings you can add a purpose and an agenda, and you can live-edit notes with other meeting participants, whilst also interacting live with social, meeting actions, shared links and files. You can run a meeting clock, to time the overall meeting and how long you spend on each agenda item.
 
-### tasks & workboards
+### 4 - tasks & workboards
 
-You can easily collaborate on tasks and workboards inside #stratapp, including using #stratapp’s unique @org-design feature (explained above) to quickly invite members. Inside each #stratapp workboard you have the ability to filter on [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), making it fast and easy for executives and others not involved day to day to quickly get up to speed on the aspects they are interested in.  We hope this feature helps to overcome [why work collaboration has remained a blind-spot for senior executives](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "work collaboration blind spot").
+You can easily collaborate on tasks and workboards inside #stratapp, including using #stratapp’s unique @org-design feature to quickly invite members.
 
-### workspace
+Inside each #stratapp workboard you have the ability to filter on [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), making it fast and easy for executives and others not involved day to day to quickly get up to speed on the aspects they are interested in.  We hope this feature helps to overcome [why work collaboration has remained a blind-spot for senior executives](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "work collaboration blind spot").
+
+### 5 - workspace
 
 \#stratapp has a workspace for employees to manage private tasks. The workspace automatically pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. _strategy related tasks_) and your role (e.g. _tasks I have assigned to others, that are due this week_).
 
