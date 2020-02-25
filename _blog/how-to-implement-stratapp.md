@@ -72,7 +72,7 @@ Most business apps have social, but #stratapp has [social with structure](https:
 
 \#stratapp also has a clever social/work page. This becomes your go-to for **maximising your own productivity and responsiveness**.
 
-For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive snapshot would only take you 3-5 seconds to conclude inside #stratapp.
+For example, “_in the last 72 hours, what questions have been asked, decisions or approvals made, on anything to do with strategy, risks or current projects, that I either created or assigned to others_.” That comprehensive snapshot only takes you 3-5 seconds to conclude inside #stratapp.
 
 Not only that, the results are presented so you can:
 
