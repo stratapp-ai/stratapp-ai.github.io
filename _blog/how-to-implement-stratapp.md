@@ -22,11 +22,11 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
 
-This means you can immediately go org-wide with the quick win "productivity & culture" elevation, whilst preparing your strategy and KPIs.
+This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst preparing your strategy and KPIs.
 
 Clients usually start as either:
 
-* Org-wide - for the "productivity & culture" features
+* Org-wide - "productivity & culture" elevation
 * Top down - top 3 layers, including the CEO/owner
 * Functions - one function at a time
 * Geography - one geography at a time
@@ -37,7 +37,7 @@ If you use manage pages to roll out the rich functionality progressively, you sh
 
 \#stratapp is intuitive and best learnt by doing.
 
-\#stratapp’s UX has been designed for all generations, tech aptitudes and frequencies of use. Like all modern collaboration tech, end user proficiency requires a little patience, some experimentation and an open mind.
+\#stratapp has been designed for all generations, tech aptitudes and frequencies of use. Like all modern collaboration tech, end user proficiency requires a little patience, some experimentation and an open mind.
 
 ## two roles for success
 
