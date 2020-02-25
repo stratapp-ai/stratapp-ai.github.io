@@ -98,7 +98,9 @@ Inside each #stratapp workboard you have the ability to filter on [social with s
 
 ### 5 - workspace
 
-\#stratapp has a workspace for employees to manage private tasks. The workspace automatically pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. _strategy related tasks_) and your role (e.g. _tasks I have assigned to others, that are due this week_).
+\#stratapp has a workspace for employees to manage private tasks.
+
+The workspace automatically pulls together all tasks from across the whole of #stratapp, including the ability to filter by source type (e.g. _strategy related tasks_) and your role (e.g. _tasks I have assigned to others, that are due this week_).
 
 ## ideation
 
