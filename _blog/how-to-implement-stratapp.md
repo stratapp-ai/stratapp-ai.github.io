@@ -52,21 +52,21 @@ It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deployin
 
 ## productivity & culture
 
-The easy quick wins are to start with these five core features for elevating productivity and culture.
+The easy quick wins are to start with these five core features for elevating productivity & culture.
 
-### @org-design
+### 1 - @org-design
 
 Imagine you want to send a message, ask a question or invite to a task or workboard, everyone who is in:
 
 * @G/APAC/Australia/Queensland - the geography of Queensland in Australia
 * @F/Marketing/Digital - the Digital team within the Marketing function
-* @L<3 - top 2 levels on the Live Org Chart
+* @L<4 - top 3 levels on the Live Org Chart
 
 That takes about 4 seconds to do inside #stratapp, and you can even do it as AND or OR.
 
 Imagine the power of this unique @org-design feature for productivity and collaboration, compared to old school email address lists and having to know the recipients name in order to collaborate.
 
-### social with structure
+### 2 - social with structure
 
 Most business apps have social, but #stratapp has [social with structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), a concept initially conceived by the talented folks at Atlassian’s Stride.
 
