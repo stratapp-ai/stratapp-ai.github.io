@@ -20,9 +20,9 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 # NO NEED FOR BIG BANG
 
-One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app, right down to each individual employee.
+One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app.  You can do this in seconds, right down to each individual employee or by your org-design.  For example, "_I want everyone in the executive team, who is based in Singapore, to have access to strategy execution_".
 
-This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst preparing your strategy and KPIs content.
+This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst taking some time to refine your strategy and KPIs content.
 
 Clients usually start org-wide for "productivity & culture" elevation, then advance to ideation, strategy execution and business performance as either:
 
@@ -83,7 +83,7 @@ Under social/teams you will also notice #stratapp applies @org-design to automat
 
 ### 3 - notes & meetings
 
-\#stratapp has built in notes, that you can add to almost anything - including the strategy tree hierarchy, KPIs, risks, tasks and workboards. 
+\#stratapp has built in notes, that you can add to almost anything - including the strategy tree hierarchy, KPIs, risks, tasks and workboards.
 
 This helps everyone  [align day to day work to a relevant strategic context](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "align day to day work to strategy").
 
