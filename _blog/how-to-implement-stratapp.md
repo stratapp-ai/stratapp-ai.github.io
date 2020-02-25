@@ -20,9 +20,9 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 # NO NEED FOR BIG BANG
 
-One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app.  You can do this within a few seconds, right down to each individual employee or by your org-design.  For example, "_I want everyone in the executive and R&D teams, who are based in Singapore, to have access to ideation and strategy_".
+One beauty of #stratapp is that you can do the roll out progressively, selecting who sees what pages in the app.  You can do this within a few seconds, right down to each individual employee or by your org-design.  For example, "_I now want everyone in the executive and R&D teams, who are based in Singapore, to have access to ideation and strategy_".
 
-This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst taking some time to refine your strategy and KPIs content.
+This means you can immediately go org-wide with the quick wins on "productivity & culture" elevation, whilst taking some time to prepare your strategy and KPIs content.
 
 Clients usually start org-wide for "productivity & culture" elevation, then advance to ideation, strategy execution and business performance as either:
 
