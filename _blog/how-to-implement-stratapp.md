@@ -18,7 +18,7 @@ feature_image: "/uploads/value vs time.jpg"
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy business software.
 
-# NO NEED FOR BIG BANG
+# NO NEED FOR BIG BANG ROLL OUTS
 
 One beauty of #stratapp is that you can do the roll out progressively, easily selecting who sees what.  You can do this within just a few seconds, right down to each individual employee or by your unique attributes of org-design.  For example, "_I want everyone in the executive and R&D teams, who are based in Singapore, to now have access to ideation and strategy_".
 
