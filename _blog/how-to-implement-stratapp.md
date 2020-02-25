@@ -22,7 +22,7 @@ You should be up and running on #stratapp within 2 cups of coffee, which is a fa
 
 One beauty of #stratapp is that you can do the roll out progressively, easily selecting who sees what.  You can do this within just a few seconds, right down to each individual employee or by your unique attributes of org-design.  For example, "_I want everyone in the executive and R&D teams, who are based in Singapore, to now have access to ideation and strategy_".
 
-This means you can start org-wide with the quick wins on "productivity & culture" elevation, explained below, whilst in parallel taking some time to prepare your strategy and KPIs content.
+This means you can start org-wide with the quick wins on "productivity & culture" elevation, whilst in parallel taking some time to prepare your strategy and KPIs content.
 
 Clients usually start org-wide with "productivity & culture" elevation, then advance to ideation, strategy execution and business performance as either:
 
@@ -32,7 +32,7 @@ Clients usually start org-wide with "productivity & culture" elevation, then adv
 
 ## no (or minimal) end user training
 
-If you use manage pages to roll out the rich functionality progressively, you should not need end user training.
+If you use manage pages to roll out the rich functionality progressively, you should not need to do end user training.
 
 \#stratapp is intuitive and best learnt by doing.
 
