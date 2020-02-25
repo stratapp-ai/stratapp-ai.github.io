@@ -26,7 +26,7 @@ This means you can go org-wide with the quick wins on "productivity & culture" e
 
 Clients usually start org-wide for "productivity & culture" elevation, then advance to ideation, strategy execution and business performance as either:
 
-* Top Down - top 3 layers, including the CEO/owner
+* Top Down - top 3 layers as the first phase, including the CEO/owner
 * Functions - one function at a time
 * Geography - one geography at a time
 
