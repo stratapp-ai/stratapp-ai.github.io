@@ -1,7 +1,7 @@
 ---
 title: resources
 layout: resources
-description: thought leaders in strategy, execution and B2B SaaS
+description: 'thought leaders in strategy, execution and B2B SaaS '
 publish_date: 2019-11-06T14:00:00.000+00:00
 seo_title: thought leaders in strategy, execution and B2B SaaS
 seo_description: "#stratapp's founders are thought leaders in strategy, execution

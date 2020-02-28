@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-10 13:01:48 +0000
+date: 2019-09-10T13:01:48.000+00:00
 layout: blog
 title: 'how to implement #stratapp'
 sub_heading: Most start with productivity & culture, before advancing to ideation,
@@ -129,7 +129,7 @@ KPIs added to an item in the strategy tree, will show under “strategic KPIs”
 
 Both strategic and operational KPIs can be tagged to one or more Balanced Scorecard quadrants, as well as the properties of @org-design. This makes filtering on KPIs very powerful, for example: “_I want to see sales and marketing KPIs that belong to @G/APAC/Australia, that I am not a member of, with a status of needs attention_”.  Again, that powerful insight will only take you 3-5 seconds to conclude inside #stratapp.
 
-You can view both strategic and operational KPIs overlaid onto the Live Org Chart, so you can quickly see who in the organization owns what KPIs.  Not only that, the parent:child hierarchy of KPIs can exist independent of the reporting lines on the Live Org Chart, meaning you can infinitely cascade KPIs to match the unique properties of your @org-design.
+You can view both strategic and operational KPIs overlaid onto the Live Org Chart, so you can quickly see who in the organization owns what KPIs.  Not only that, the parent:child hierarchy of KPIs can exist independent of the reporting lines on the Live Org Chart, meaning you can infinitely cascade KPIs to match the unique properties of your org-design.
 
 Finally, a personal favourite!  In one click, on desktop or mobile, every employee in your organization can see their own KPIs - including status, importance and due date.
 
