@@ -1,8 +1,7 @@
 ---
 author: _people/marten-jagers.md
-category:
-- "#reflections"
-date: 2020-03-09 05:13:12 +0000
+category: []
+date: 2019-08-30 14:00:00 +0000
 layout: blog
 title: creating a connected workspace
 sub_heading: 'The burning question hammering away became: how do I enable my teams
