@@ -110,10 +110,18 @@ If you multiply this effect across 50x 25 year olds in your company, you create 
 
 Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Asking how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines? Offshoring the offshoring!
 
-You may like to read a subtle shift in offshoring, that actually works and the excellent book by Scott Linden-Jones referenced therein.
+You may like to read [a subtle shift in offshoring, that actually works](https://stratapp.ai/seamlessly-align-your-onshore-and-offshore-teams/ "a subtle shift in offshoring, that actually works") and the excellent book by Scott Linden-Jones referenced therein.
 
 ## about #stratapp
 
 \#stratapp is the world’s first SaaS to solve strategy execution as an every-employee org-wide experience.
 
 Quick reads:
+
+[best strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
+
+[what's really going on in my company](what's really going on in my company "what's really going on in my company")
+
+[why we lump our CFOs with risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "why we lump our CFOs with risk management")
+
+[radical transparency suits all generations, not only millennials](https://stratapp.ai/blog/radical-transparency/ "radical transparency by Ray Dalio")
