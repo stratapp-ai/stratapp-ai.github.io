@@ -13,7 +13,7 @@ slug: creating a connected workspace
 seo_title: creating a connected workspace
 seo_description: 'The burning question hammering away became: how do I enable my teams
   for success? For me, the answer was clear – create a simple and connected workspace. '
-feature_image: ''
+feature_image: "/uploads/connected workspace.jpeg"
 
 ---
 **_“_**_Marten, we currently use Jira, Confluence, Xero, Salesforce, Harvest, Google Docs and Slack, and I still have no idea what’s happening in my business.”_
