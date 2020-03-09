@@ -8,7 +8,7 @@ title: creating a connected workspace
 sub_heading: 'The burning question hammering away became: how do I enable my teams
   for success? For me, the answer was clear – create a simple and connected workspace. '
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/connected workspace.jpeg"
 slug: creating a connected workspace
 seo_title: creating a connected workspace
 seo_description: 'The burning question hammering away became: how do I enable my teams
