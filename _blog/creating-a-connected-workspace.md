@@ -1,6 +1,7 @@
 ---
 author: _people/marten-jagers.md
-category: []
+category:
+- "#articles"
 date: 2019-08-30 14:00:00 +0000
 layout: blog
 title: creating a connected workspace
