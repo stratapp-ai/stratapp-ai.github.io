@@ -20,8 +20,6 @@ seo_description: 'Several countries, including the USA, Singapore, Italy and Sou
 feature_image: "/uploads/coronavirus.jpg"
 
 ---
-## previous thinking on working from home
-
 We thought employees needed these five things to work effectively from home:
 
 1. Reliable fast internet and power
