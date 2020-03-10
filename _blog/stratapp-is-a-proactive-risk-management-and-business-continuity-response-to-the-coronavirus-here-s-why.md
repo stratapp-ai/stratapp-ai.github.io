@@ -101,7 +101,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## new thinking on scale through offshoring
+## new thinking on scaling through offshoring
 
 I am talking about achieving scale, **not** removing or replacing your onshore talent.
 
@@ -123,7 +123,7 @@ Not only that, our 25 year olds are now on a fast track to professional developm
 
 If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
-### what's coming next?
+### the next evolution of hybrid offshoring
 
 Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: thinking about how to scale up and give early career development experience to our best people in the Philippines.
 
