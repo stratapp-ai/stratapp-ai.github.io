@@ -68,7 +68,18 @@ Context is the key to making remote working successful and sustainable.
 
 \#stratapp wasn't the first company to think of this, but we are the first to bring it to market.
 
-\#stratapp allows you to tag your social posts as one of ten categories: comment | agree | disagree | question | task | risk | idea | decision | approval | note that
+\#stratapp allows you to tag your social posts as one of ten categories:
+
+* comment
+* agree
+* disagree
+* question
+* task
+* risk
+* idea
+* decision
+* approval
+* note that
 
 Why? This saves an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
