@@ -34,7 +34,7 @@ To make working from home, or anywhere else, both effective and sustainable, emp
 
   **Context!**
 
-![](/uploads/simon sinek.PNG)#stratapp helps business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
+![](/uploads/simon sinek.PNG)#stratapp makes it easy for business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
 
 Context is the key to making remote working successful and sustainable.
 
