@@ -118,7 +118,7 @@ Not only that, our 25 year olds are now on a fast track to professional developm
 
 If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
-### the next evolution of hybrid offshoring
+### the next evolution
 
 Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people in the Philippines._
 
