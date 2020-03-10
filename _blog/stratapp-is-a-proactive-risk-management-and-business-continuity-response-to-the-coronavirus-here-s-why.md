@@ -88,7 +88,7 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 ## get ready to scale through offshoring
 
-Note, I am talking about scale, not removing or replacing onshore talent.
+Note, I am talking about scale, not removing or replacing your onshore talent.
 
 If your employees embrace #stratapp and remote working, you can grow your employee base anywhere.
 
