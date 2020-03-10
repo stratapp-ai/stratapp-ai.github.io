@@ -32,7 +32,7 @@ We thought employees needed these five things to work effectively from home:
 
 To make working from home, or anywhere else, both effective and sustainable, employees need one more thing.  **Context!**
 
-![](https://lh4.googleusercontent.com/aQUfuwSJu_VrgUVklX7Bxvu1PcorRk2ZRvZB_amBGcrDJmGSwU8wL6FNsRLej-mOOuozjTi0Z9meNgD9MgbIkW7M7AlZ5TOp-IWdVUrzv6Jz0HnjhICWSFffVpNa2gPJfMqXj-vF =698x69)#stratapp helps business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
+![](/uploads/simon sinek.PNG)#stratapp helps business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
 
 Context is the key to making remote working successful and sustainable.
 
