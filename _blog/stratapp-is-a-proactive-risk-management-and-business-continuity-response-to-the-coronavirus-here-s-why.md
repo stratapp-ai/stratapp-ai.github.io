@@ -22,8 +22,8 @@ feature_image: "/uploads/coronavirus.jpg"
 ---
 We thought employees needed these five things to work effectively from home:
 
-1. Reliable fast internet and power
-2. Physical space and devices
+1. Reliable fast internet and electricity
+2. Workspace and devices
 3. Email and shared docs
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
