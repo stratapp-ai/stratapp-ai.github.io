@@ -74,15 +74,15 @@ Context is the key to making remote working successful and sustainable.
 
 Why? This saves an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
-#### Example #1
+_Example #1_
 
 _I’ve been away for 72 hours. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to only the strategy aspects I own or am directly involved in._
 
-#### Example #2
+_Example #2_
 
 _For the risks, ideas and challenges I currently own, what is the status of tasks I have assigned to others?_
 
-#### Example #3
+Example #3
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
@@ -93,6 +93,8 @@ To learn more about the power of social with structure, you can read [Atlassian 
 Note, I am talking about scale, not removing or replacing onshore talent.
 
 If your employees embrace #stratapp and remote working, you can grow your employee base anywhere.
+
+### fast track the development of your best talent
 
 In the past I have used this to bring forward the professional development of our best people. It is often not cost feasible to build up an onshore team of 5 employees under a 25 year old. However #stratapp, seamless remote working and offshoring changes the game and opens up new possibilities.
 
@@ -107,6 +109,8 @@ Assuming the 5x offshore team members are each effective to a net 75% (adjusting
 Not only that, our 25 year old is now on a fast track to professional development, rapidly learning new skills at an early age on managing people, x-border cultural differences and how to “work on the business” not just in it.
 
 If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale both up AND down. You increase morale, profits and resilience all at once.
+
+### what's next
 
 Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Asking how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines? Offshoring the offshoring!
 
