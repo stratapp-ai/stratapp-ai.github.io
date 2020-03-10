@@ -70,7 +70,7 @@ Context is the key to making remote working successful and sustainable.
 
 ## new thinking on social-with-structure
 
-\#stratapp wasn't the first company to think of this, but we are the first to bring it to market.
+\#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
 \#stratapp allows you to tag your social posts as one of ten categories:
 
