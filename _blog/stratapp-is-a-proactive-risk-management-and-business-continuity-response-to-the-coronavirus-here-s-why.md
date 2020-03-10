@@ -105,6 +105,8 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 I am talking about achieving scale, **not** removing or replacing your onshore talent.
 
+If you have #stratapp and remote working in place, you can scale through offshoring.
+
 ### fast track the development of your best talent
 
 I use hybrid offshoring to accelerate the professional development of our best people.
