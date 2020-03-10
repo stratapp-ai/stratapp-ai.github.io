@@ -114,7 +114,7 @@ Assuming the 5x offshore team members are each effective to a net 75% (adjusting
 
 I also ask them to dial back to 100%, rather than work 120%, so they can invest more personal time into fitness, recreation, learning, loved ones and family.
 
-Not only that, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's incredible learning and development at such a young age.
+Not only that, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's an incredible learning opportunity at such a young age.
 
 If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
