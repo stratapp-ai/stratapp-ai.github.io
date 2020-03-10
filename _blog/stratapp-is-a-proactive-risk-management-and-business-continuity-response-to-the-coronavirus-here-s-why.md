@@ -96,15 +96,15 @@ If your employees embrace #stratapp and remote working, you can grow your employ
 
 ### fast track the development of your best talent
 
-In the past I have used this to bring forward the professional development of our best people. It is often not cost feasible to build up an onshore team of 5 employees under a 25 year old. However #stratapp, seamless remote working and offshoring changes the game and opens up new possibilities.
+I use offshoring to bring forward the professional development of our best people. It is often not cost feasible to build up an onshore team of 5 employees under a 25 year old. However with #stratapp, seamless remote working and offshoring you can open up new possibilities.
 
-Rather than have that onshore 25 year old working 120% of the working week, I teach them to split their time to:
+Rather than have that onshore 25 year old working 120% of the working week, I teach each of them to split their time to:
 
 * 50% producing
 * 20% improving how work gets done
-* 30% managing a team of 5 offshore
+* 30% managing a team of 5 people offshore
 
-Assuming the 5x offshore team members are each effective to a net 75% (adjusting for admin, learning, development and internal events) we have now increased the overall capacity of that 25 year old to 425%. We also asked them to stop working 120% and to invest more personal time into fitness, recreation, learning and family.
+Assuming the 5x offshore team members are each effective to a net 75% (adjusting for admin, learning, development and internal events) we have now increased the overall capacity of that 25 year old to 425%.  I also ask them to dial back to 100%, rather than work 120%, and to invest more personal time into fitness, recreation, learning and family.
 
 Not only that, our 25 year old is now on a fast track to professional development, rapidly learning new skills at an early age on managing people, x-border cultural differences and how to “work on the business” not just in it.
 
