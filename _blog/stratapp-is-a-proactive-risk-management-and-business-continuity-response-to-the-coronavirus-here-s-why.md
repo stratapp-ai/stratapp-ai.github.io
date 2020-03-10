@@ -110,7 +110,7 @@ Rather than have the onshore 25 year olds working 120% of the week, I teach them
 * 20% improving how work gets done
 * 30% managing a team of 5 people offshore
 
-Assuming the 5x offshore team members are each effective to a net 75% (adjusting for admin, learning, development and internal events) we have now increased the overall capacity of each 25 year old to 425%.  Pause for a moment, think about that.
+Assuming the 5x offshore team members are each effective to a net 75% (adjusting for location, learning, development, admin and internal events) we have now increased the overall capacity of each 25 year old to 425%.  Pause for a moment, think about that.
 
 I also ask them to dial back to 100%, rather than work 120%, so they can invest more personal time into fitness, recreation, learning, loved ones and family.
 
