@@ -30,7 +30,9 @@ We thought employees needed these five things to work effectively from home:
 
 ## new thinking on working from home
 
-To make working from home, or anywhere else, both effective and sustainable, employees need one more thing.  **Context!**
+To make working from home, or anywhere else, both effective and sustainable, employees need one more thing.
+
+  **Context!**
 
 ![](/uploads/simon sinek.PNG)#stratapp helps business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
 
