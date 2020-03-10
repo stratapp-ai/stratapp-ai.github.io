@@ -7,8 +7,8 @@ layout: blog
 title: "#stratapp is a proactive risk management and business continuity response
   to the Coronavirus, here's why"
 sub_heading: 'Several countries, including the USA, Singapore, Italy and South Korea,
-  have recently found themselves working from home. #stratapp helps make this a positive
-  disruption.'
+  have recently found themselves working from home. #stratapp helps you to make this
+  a positive disruption.'
 video_id: ''
 banner_image: "/uploads/coronavirus.jpg"
 slug: business continuity response to coronavirus
