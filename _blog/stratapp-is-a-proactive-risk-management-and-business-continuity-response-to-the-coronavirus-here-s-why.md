@@ -109,7 +109,7 @@ I am talking about achieving scale, **not** removing or replacing your onshore t
 
 I use hybrid offshoring to accelerate the professional development of our best people.
 
-It is often not cost, time or risk feasible to build up an onshore team of 5 employees under a 25 year old. However the combination of #stratapp and hybrid offshoring opens up new possibilities.
+It is often not cost, time or risk feasible to build up an onshore team of 5 employees under a 25 year old. However the combination of #stratapp and a hybrid approach to offshoring opens up new possibilities.
 
 Rather than have that onshore 25 year old working 120% of the working week, I teach each of them to split their time to:
 
