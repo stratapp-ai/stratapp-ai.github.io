@@ -106,13 +106,15 @@ Rather than have that onshore 25 year old working 120% of the working week, I te
 
 Assuming the 5x offshore team members are each effective to a net 75% (adjusting for admin, learning, development and internal events) we have now increased the overall capacity of that 25 year old to 425%.  I also ask them to dial back to 100%, rather than work 120%, and to invest more personal time into fitness, recreation, learning and family.
 
-Not only that, our 25 year old is now on a fast track to professional development, rapidly learning new skills at an early age on managing people, x-border cultural differences and how to “work on the business” not just in it.
+Not only that, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's incredible development at such a young age.
 
-If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale both up AND down. You increase morale, profits and resilience all at once.
+If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale both up AND down.
+
+In one move you increase morale, profits and resilience, whilst de-risking the business.
 
 ### what's next
 
-Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Asking how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines? Offshoring the offshoring!
+Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Thinking about how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines? Offshoring the offshoring!
 
 You may like to read [a subtle shift in offshoring, that actually works](https://stratapp.ai/seamlessly-align-your-onshore-and-offshore-teams/ "a subtle shift in offshoring, that actually works") and the excellent book by Scott Linden-Jones referenced therein.
 
