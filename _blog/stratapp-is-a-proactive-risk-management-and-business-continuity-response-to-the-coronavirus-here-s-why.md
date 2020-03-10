@@ -78,15 +78,15 @@ Context is the key to making remote working successful and sustainable.
 
 Why? This saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
-_Example #1_
+_example #1_
 
 _I’ve been away for 72 hours. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to only the strategy aspects I own or am directly involved in._
 
-_Example #2_
+_example #2_
 
 _For the risks, ideas and challenges I currently own, what is the status of tasks I have assigned to others?_
 
-_Example #3_
+_example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
