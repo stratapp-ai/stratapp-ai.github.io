@@ -64,7 +64,7 @@ Context is the key to making remote working successful and sustainable.
 
 **good news:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience that actually works.
 
-## remote working needs social with structure
+## use social with structure
 
 \#stratapp wasn't the first company to think of this, but we are the first to bring it to market.
 
@@ -99,9 +99,7 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 ## get ready to scale through offshoring
 
-Note, I am talking about scale, not removing or replacing your onshore talent.
-
-If your employees embrace #stratapp and remote working, you can grow your employee base anywhere.
+I am talking about scale, not removing or replacing your onshore talent.
 
 ### fast track the development of your best talent
 
