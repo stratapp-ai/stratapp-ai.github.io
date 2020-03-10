@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-12 04:33:54 +0000
+date: 2019-09-12T04:33:54.000+00:00
 layout: blog
 title: venture capital and new tech to create value
 sub_heading: 'I was a VC. I personally loathed reviewing 250 opportunities and meeting
@@ -18,8 +18,6 @@ seo_description: 'I was a VC. I personally loathed reviewing 250 opportunities a
 feature_image: "/uploads/venture capital and stratapp.jpg"
 
 ---
-_I was a VC. I personally loathed reviewing 250 opportunities and meeting 100 founders per year. But I loved the bit that came after: deal structuring, deal closing and working with inspiring founders._
-
 # my VC role
 
 The post-deal aspects of the VC role were just awesome, balancing my time across four things:
