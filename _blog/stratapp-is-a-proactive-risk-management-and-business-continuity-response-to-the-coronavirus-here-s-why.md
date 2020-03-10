@@ -30,7 +30,7 @@ We thought employees needed these five things to work effectively from home:
 
 ## new thinking on working from home
 
-To make working from home, or anywhere else, both effective and sustainable, employees need one more thing.
+To make working from home, or anywhere else, both effective and sustainable, employees need one more thing:
 
   **Context!**
 
