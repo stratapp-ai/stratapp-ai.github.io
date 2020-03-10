@@ -122,7 +122,7 @@ If you multiply this effect across 50x 25 year olds in your company, you create 
 
 Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but we now find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people offshore._
 
-That is, we are now exploring which countries to add new team members to work for our emerging best talent.  As my mate Rob says: "Ash, you're offshoring the offshoring!"
+That is, we are now exploring which countries to add new team members to work for our emerging offshore talent.  As my mate Rob says: "Ash, you're offshoring the offshoring!"
 
 You may like to read [a subtle shift in offshoring, that actually works](https://stratapp.ai/seamlessly-align-your-onshore-and-offshore-teams/ "a subtle shift in offshoring, that actually works") and the excellent book by Scott Linden-Jones referenced therein.
 
