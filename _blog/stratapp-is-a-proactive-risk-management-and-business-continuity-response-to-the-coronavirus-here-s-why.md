@@ -133,7 +133,7 @@ You may like to read [a subtle shift in offshoring, that actually works](https:/
 
 Quick reads:
 
-[best strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
+[world's best strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's best strategy execution app")
 
 [what's really going on in my company](what's really going on in my company "what's really going on in my company")
 
