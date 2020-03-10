@@ -32,10 +32,10 @@ We thought employees needed these five things to work effectively from home:
 
 To make working from home, or anywhere else, both effective and sustainable, employees need one more thing:
 
-  **Context!**
+**Context!**
 
-![](/uploads/simon sinek.PNG)  
-  
+![](/uploads/simon sinek.PNG)
+
 \#stratapp makes it easy for business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
 
 Context is the key to making remote working successful and sustainable.
@@ -95,7 +95,7 @@ _Example #2_
 
 _For the risks, ideas and challenges I currently own, what is the status of tasks I have assigned to others?_
 
-Example #3
+_Example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
@@ -139,7 +139,7 @@ Quick reads:
 
 [world's best strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's best strategy execution app")
 
-[what's really going on in my company](what's really going on in my company "what's really going on in my company")
+\[what's really going on in my company\](what's really going on in my company "what's really going on in my company")
 
 [why we lump our CFOs with risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "why we lump our CFOs with risk management")
 
