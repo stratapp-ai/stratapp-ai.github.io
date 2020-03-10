@@ -83,7 +83,7 @@ Context is the key to making remote working successful and sustainable.
 * approval
 * note that
 
-Why? This saves an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
+Why? This saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
 _Example #1_
 
