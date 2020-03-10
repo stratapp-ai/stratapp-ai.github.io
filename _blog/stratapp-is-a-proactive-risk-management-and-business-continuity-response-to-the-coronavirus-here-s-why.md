@@ -102,7 +102,7 @@ If you have #stratapp and remote working, you can scale through a new approach t
 
 I use hybrid offshoring to accelerate the professional development of our best people.
 
-It is often not cost, time or risk feasible to build up an onshore team of 5 employees under a 25 year old. However, the combination of #stratapp and a hybrid approach to offshoring opens up new possibilities.
+It is usually not cost, time or risk feasible to build up an onshore team of 5 employees under a 25 year old. However, the combination of #stratapp and a hybrid approach to offshoring opens up new possibilities.
 
 Rather than have the onshore 25 year olds working 120% of the week, I teach them to split their time to:
 
