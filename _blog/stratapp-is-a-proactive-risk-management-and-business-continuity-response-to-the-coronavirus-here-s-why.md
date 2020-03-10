@@ -120,7 +120,7 @@ If you multiply this effect across 50x 25 year olds in your company, you create 
 
 ### the next evolution of hybrid offshoring
 
-Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: thinking about how to scale up and give early career development experience to our best people in the Philippines.
+Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people in the Philippines._
 
 That is, we are now exploring which countries to add new team members to work for our emerging best talent in Philippines?  As my mate Rob says: "Ash, you're offshoring the offshoring!"
 
