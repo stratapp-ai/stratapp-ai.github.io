@@ -114,7 +114,7 @@ In one move you increase morale, profits and resilience, whilst de-risking the b
 
 ### what's next
 
-Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Thinking about how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines? Offshoring the offshoring!
+Several years ago I started learning and applying this hybrid approach to offshoring. I didn’t foresee this but now we find ourselves at the next evolution. Thinking about how to scale up and give early career development experience to our best people in the Philippines. That is, we are exploring which countries to add new team members to work for our emerging best talent in Philippines?  As my mate Rob says: "Ash, you're offshoring the offshoring!"
 
 You may like to read [a subtle shift in offshoring, that actually works](https://stratapp.ai/seamlessly-align-your-onshore-and-offshore-teams/ "a subtle shift in offshoring, that actually works") and the excellent book by Scott Linden-Jones referenced therein.
 
