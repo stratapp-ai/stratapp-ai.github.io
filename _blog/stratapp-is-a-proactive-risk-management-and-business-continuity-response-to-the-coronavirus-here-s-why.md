@@ -139,7 +139,7 @@ Quick reads:
 
 [world's best strategy execution app](https://stratapp.ai/blog/best-strategy-execution-software-app/ "world's best strategy execution app")
 
-\[what's really going on in my company\](what's really going on in my company "what's really going on in my company")
+[what's really going on in my company?](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "what is really going on in my company")
 
 [why we lump our CFOs with risk management](https://stratapp.ai/blog/why-we-lump-our-cfos-with-risk-management/ "why we lump our CFOs with risk management")
 
