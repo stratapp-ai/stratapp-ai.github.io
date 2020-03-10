@@ -101,7 +101,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## get ready to scale through offshoring
+## go a step further, scale through offshoring
 
 I am talking about scale, not removing or replacing your onshore talent.
 
