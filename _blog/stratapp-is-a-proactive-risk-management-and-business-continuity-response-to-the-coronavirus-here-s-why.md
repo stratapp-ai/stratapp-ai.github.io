@@ -28,7 +28,7 @@ We thought employees needed these five things to work effectively from home:
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
 
-## new thinking on what's missing
+## new thinking on working remotely
 
 To make working from home, or anywhere else, both effective and sustainable, employees need one more thing:
 
