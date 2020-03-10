@@ -5,7 +5,7 @@ category:
 date: 2019-08-30 23:47:40 +0000
 layout: blog
 title: "#stratapp is a proactive risk mgt and business continuity response to the
-  Coronavirus, here's why"
+  Coronavirus"
 sub_heading: 'Several countries, including the USA, Singapore, Italy and South Korea,
   have recently found themselves working from home. #stratapp helps make this a positive
   disruption.'
