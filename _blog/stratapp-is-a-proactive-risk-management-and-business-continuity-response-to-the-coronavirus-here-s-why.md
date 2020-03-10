@@ -117,9 +117,9 @@ Assuming the 5x offshore team members are each effective to a net 75% (adjusting
 
 Not only that, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's incredible development at such a young age.
 
-If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale both up AND down.
+If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.
 
-In one move you increase morale, profits and resilience, whilst de-risking the business.
+In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
 ### what's next
 
