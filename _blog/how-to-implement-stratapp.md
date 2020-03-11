@@ -51,7 +51,7 @@ It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deployin
 
 ### productivity & culture
 
-The easy quick wins are to start with these five core features for elevating productivity & culture.
+The easy quick wins are to start with these 5 core features for elevating productivity & culture.
 
 #### _1 - @org-design_
 
