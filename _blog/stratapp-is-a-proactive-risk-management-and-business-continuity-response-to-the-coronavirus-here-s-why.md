@@ -120,7 +120,7 @@ If you multiply this effect across fifty 25 year olds in your company, you creat
 
 ### the next evolution of developing talent
 
-Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people based offshore._
+Several years ago I started experimenting with this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people based offshore._
 
 That is, we are now exploring which countries to add new team members to work for our emerging offshore talent.  As my mate Rob says: "Ash, you're offshoring the offshoring!"
 
