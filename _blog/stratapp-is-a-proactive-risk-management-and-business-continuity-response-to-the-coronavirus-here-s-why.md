@@ -114,13 +114,13 @@ Assuming the 5x offshore team members are each effective to a net 75% (adjusting
 
 I then ask them to dial back to 100%, rather than work 120%, so they can invest more personal time into fitness, recreation, learning, loved ones and family.
 
-As a result, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's an incredible learning opportunity at such a young age.
+As a result, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to _work on the business_ not just in it.  That's an incredible learning opportunity at such a young age.
 
-If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
+If you multiply this effect across fifty 25 year olds in your company, you create an enormous capability to scale, _both up and down_.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
 ### the next evolution
 
-Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but we now find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people offshore._
+Several years ago I started developing and applying this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people based offshore._
 
 That is, we are now exploring which countries to add new team members to work for our emerging offshore talent.  As my mate Rob says: "Ash, you're offshoring the offshoring!"
 
