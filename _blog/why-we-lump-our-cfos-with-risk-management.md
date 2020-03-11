@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-12 00:00:00 +1000
+date: 2019-09-11T14:00:00.000+00:00
 layout: blog
 title: why we lump our CFOs with risk management
 sub_heading: If made easier, most of us would embrace risk management. But it’s not,
@@ -64,7 +64,7 @@ These are the exact same 10 components that make up the risk cards that sit insi
 To learn more about the risk management piece, watch: [https://stratapp.ai/blog/risk-management/](https://stratapp.ai/blog/risk-management/ "https://stratapp.ai/blog/risk-management/")
 
 ![](/uploads/risk matrix.png)  
-... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.  
+... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.
 
 Imagine filtering and tracking risks globally or locally by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
@@ -76,7 +76,7 @@ CEOs and business owners don’t want to send employees to 10+ different apps to
 
 \#stratapp is 10-apps-in-1, and this includes risk management:
 
-![](/uploads/10 apps in 1.jpg "#stratapp's 10 apps in 1")
+![](/uploads/10 apps in 1 - with title.png)
 
 To learn more watch: [https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/")
 
