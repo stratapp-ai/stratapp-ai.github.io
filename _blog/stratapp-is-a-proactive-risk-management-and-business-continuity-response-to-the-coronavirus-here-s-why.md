@@ -28,7 +28,7 @@ We thought employees needed these five things to work effectively from home:
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
 
-## working remotely needs a key ingredient
+## working remotely: the key ingredient
 
 To make working remotely both **effective** and **sustainable**, employees need one more thing:
 
