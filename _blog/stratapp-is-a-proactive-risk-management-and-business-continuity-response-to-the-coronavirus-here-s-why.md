@@ -28,7 +28,7 @@ We thought employees needed these five things to work effectively from home:
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
 
-## new thinking on working remotely
+## working remotely needs a key ingredient
 
 To make working remotely both **effective** and **sustainable**, employees need one more thing:
 
@@ -68,7 +68,7 @@ Context is the key to making remote working successful and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
-## new thinking on social-with-structure
+## remote working: social-with-structure
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
@@ -92,7 +92,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## new thinking on scaling through offshoring
+## remote working: scale through offshoring
 
 The strategic opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
 
