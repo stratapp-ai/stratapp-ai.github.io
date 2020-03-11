@@ -2,9 +2,10 @@
 title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
-  work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
-  .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
-  data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
+  work in one place\n\n##### the world's first SaaS app to align and engage every
+  employee, org-wide\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid
+  btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how it
+  works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -43,10 +44,10 @@ features:
     working
 seo_title: "#stratapp | strategy execution software for every employee"
 seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
-  and business planning software for all roles, levels and generations
+  and business planning software for all roles, levels and generations.
 redirect_from:
-  - /events/
-  - /tutorials/
+- "/events/"
+- "/tutorials/"
 feature_image: "/uploads/feature image - home page 2.JPG"
 stratapp_features:
 - feature_title: culture elevation
