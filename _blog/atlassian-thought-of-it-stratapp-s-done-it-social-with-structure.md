@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-16T08:00:00.000+00:00
+date: 2019-08-31 08:00:00 +0000
 layout: blog
 title: 'Atlassian thought of it, #stratapp’s done it - social with structure'
 sub_heading: 'Those of you into B2B SaaS will remember Stride, a clever innovation
