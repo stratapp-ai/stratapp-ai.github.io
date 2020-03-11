@@ -18,7 +18,7 @@ feature_image: "/uploads/value vs time.jpg"
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy business software.
 
-## NO NEED FOR BIG BANG ROLL OUTS
+## no need for big bang rollouts
 
 One beauty of #stratapp is that you can do the roll out progressively, easily selecting who sees what.  You can do this within just a few seconds, right down to each individual employee or by your unique attributes of org-design.  For example, "_I want everyone in the executive and R&D teams, who are based in Singapore, to now have access to ideation and strategy_".
 
@@ -45,7 +45,7 @@ Most clients establish two roles:
 1. Power Users - who manage settings and become the go-to people on how to use
 2. Sponsors - who lead the cultural shift to org-wide engagement, collaboration, [transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") and [eliminating internal email](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "eliminating internal email")
 
-## MANAGE PAGES FOR PROGRESSIVE ROLL OUTS
+## manage pages for progressive rollouts
 
 It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deploying #stratapp progressively.
 
@@ -53,7 +53,7 @@ It is wonderful that #stratapp is 10 apps in 1. That said, we recommend deployin
 
 The easy quick wins are to start with these five core features for elevating productivity & culture.
 
-#### 1 - @org-design
+#### _1 - @org-design_
 
 Imagine you want to send a message, ask a question or invite to a task or workboard, everyone who is in:
 
@@ -135,7 +135,7 @@ Finally, a personal favourite!  In one click, on desktop or mobile, every employ
 
 ![](/uploads/value vs time.jpg)
 
-## REFERRAL INCENTIVES
+## referral incentives
 
 \#stratapp favourably rewards new client referrals.
 
