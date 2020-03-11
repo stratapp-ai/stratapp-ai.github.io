@@ -72,11 +72,11 @@ Context is the key to making remote working successful and sustainable.
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
+Why? This saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
+
 \#stratapp allows you to tag your social posts as one of ten categories:
 
 ![](/uploads/social post.jpeg)
-
-Why? This saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
 _example #1_
 
@@ -94,9 +94,9 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 ## new thinking on scaling through offshoring
 
-I am actually talking about achieving scale, **not** removing or replacing your onshore talent.
+This is about achieving scale, **not** removing or replacing your onshore talent.
 
-If you have #stratapp and remote working, you can scale through a new approach to offshoring.
+If you have #stratapp and remote working, you can more easily scale, both up and down, through a new approach to offshoring.
 
 ### fast track the development of your best talent
 
