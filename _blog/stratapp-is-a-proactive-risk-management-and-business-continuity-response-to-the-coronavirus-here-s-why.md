@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-08-30 23:47:40 +0000
+date: 2019-09-16 08:00:00 +0000
 layout: blog
 title: "#stratapp is a proactive crisis management and business continuity response
   to the Coronavirus"
