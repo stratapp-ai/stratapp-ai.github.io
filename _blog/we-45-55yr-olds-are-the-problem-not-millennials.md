@@ -68,4 +68,4 @@ Julie doesn’t care where the best ideas came from. Julie just wants the best r
 
 I’ve worked with about 400 “Patricks” across six countries.
 
-I’m 51. I prefer how millennials roll.
+I prefer how these millennials roll.
