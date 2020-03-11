@@ -68,7 +68,7 @@ Context is the key to making remote working successful and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
-## working remotely: social-with-structure
+## working remotely: needs social-with-structure
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
