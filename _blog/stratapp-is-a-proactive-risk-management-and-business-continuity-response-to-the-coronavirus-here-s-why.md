@@ -30,7 +30,7 @@ We thought employees needed these five things to work effectively from home:
 
 ## new thinking on working remotely
 
-To make working from home, or anywhere else, both effective and sustainable, employees need one more thing:
+To make working from home, or anywhere else, both **effective and sustainable**, employees need one more thing:
 
 **Context!**
 
@@ -51,7 +51,7 @@ Context is the key to making remote working successful and sustainable.
 * What is our plan to get there? \[[cascading our strategy as a logical hierarchy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "strategy tree - 2 tips")\]
   * Goals -> Objectives -> Actions -> Projects
 
-**good news:** each of these _strategic contexts_ are easy features inside #stratapp
+**note:** each of these _strategic contexts_ are easy features inside #stratapp
 
 ### day-to-day context
 
@@ -66,13 +66,13 @@ Context is the key to making remote working successful and sustainable.
   * The strategic goal above that objective
   * The overall why and direction that strategic goal is pointing at
 
-**good news:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
+**note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
 ## new thinking on social-with-structure
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
-Why? This saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
+Why? Adding structure to social collaboration saves everybody an enormous amount of time. Not only for your recipients, but also for you when coming back to check what you have asked, assigned or provided to others.
 
 \#stratapp allows you to tag your social posts as one of ten categories:
 
