@@ -94,7 +94,7 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 ## new thinking on scaling through offshoring
 
-The strategic opportunity is to achieve scale through offshoring, rather than removing or replacing your onshore talent.
+The strategic opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
 
 If you have #stratapp and remote working up and running, you can easily scale, both up and down, through a hybrid approach to offshoring.
 
