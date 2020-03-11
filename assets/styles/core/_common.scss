@@ -186,3 +186,13 @@ h1 {
 	-moz-transition: all 0.5s ease;
 	transition: all 0.5s ease;
 }
+
+
+.connects-section-front {
+	@include media-breakpoint-down(md) {
+		img {
+			max-height: 65px;
+			width: auto !important;
+		}
+	}	
+}

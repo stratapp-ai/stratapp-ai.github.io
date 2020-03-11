@@ -79,7 +79,13 @@ layout: default
 							{% endif %}
 							<div class="px-4 py-3">
 						          <h5 class="font-weight-bold text-primary mb-3"><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
-						          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a title="Read {{ post.title }}" class="text-primary" href="{{ post.url | absolute_url }}">see more</a></p>
+						          {% if post.sub_heading and post.sub_heading != "" %}
+						          	<p class="mb-0">{{ post.sub_heading }} 
+						          	<a title="Read {{ post.title }}" class="text-primary" href="{{ post.url | absolute_url }}">see more</a>
+						          </p>
+						          {% else %}
+						          	<p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a title="Read {{ post.title }}" class="text-primary" href="{{ post.url | absolute_url }}">see more</a></p>
+						          {% endif %}
 						          
 						    </div>
 						</div>
