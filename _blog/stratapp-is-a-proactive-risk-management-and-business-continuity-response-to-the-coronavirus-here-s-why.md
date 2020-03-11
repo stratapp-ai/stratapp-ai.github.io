@@ -68,7 +68,7 @@ Context is the key to making remote working successful and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
-## remote working: social-with-structure
+## working remotely: social-with-structure
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
@@ -92,7 +92,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## remote working: scale through offshoring
+## working remotely: sets you up to scale
 
 The strategic opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
 
