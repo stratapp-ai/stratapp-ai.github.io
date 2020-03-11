@@ -112,9 +112,9 @@ Rather than have the onshore 25 year olds working 120% of the week, I coach them
 
 Assuming the 5x offshore team members are each effective to a net 75% (adjusting for location, learning, development, admin and internal events) we have now increased the overall capacity of each 25 year old to 425%.  Pause for a moment, think about that.
 
-I also ask them to dial back to 100%, rather than work 120%, so they can invest more personal time into fitness, recreation, learning, loved ones and family.
+I then ask them to dial back to 100%, rather than work 120%, so they can invest more personal time into fitness, recreation, learning, loved ones and family.
 
-Not only that, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's an incredible learning opportunity at such a young age.
+As a result, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to “work on the business” not just in it.  That's an incredible learning opportunity at such a young age.
 
 If you multiply this effect across 50x 25 year olds in your company, you create an enormous capability to scale, both up AND down.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
