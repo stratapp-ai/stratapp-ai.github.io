@@ -118,7 +118,7 @@ As a result, our 25 year olds are now on a fast track to professional developmen
 
 If you multiply this effect across fifty 25 year olds in your company, you create an enormous capability to scale, _both up and down_.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
-### the next evolution of developing talent
+### the next evolution
 
 Several years ago I started experimenting with this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people based offshore._
 
