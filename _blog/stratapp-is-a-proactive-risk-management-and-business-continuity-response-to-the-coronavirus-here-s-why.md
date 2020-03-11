@@ -92,7 +92,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## working remotely: sets you up to scale
+## working remotely: setting up to scale
 
 The strategic opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
 
