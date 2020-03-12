@@ -20,7 +20,9 @@ seo_description: 'Due to the coronavirus, several countries, including the USA, 
 feature_image: "/uploads/coronavirus.jpg"
 
 ---
-We thought employees needed these five things to work effectively from home:
+## working remotely: the basics
+
+Employees need five basic things to work remotely:
 
 1. Reliable fast internet and electricity
 2. Workspace and devices
@@ -30,7 +32,7 @@ We thought employees needed these five things to work effectively from home:
 
 ## working remotely: the key to succeeding
 
-To make working remotely both **effective** and **sustainable**, employees need one more thing:
+To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles often take for granted:
 
 **Context!**
 
