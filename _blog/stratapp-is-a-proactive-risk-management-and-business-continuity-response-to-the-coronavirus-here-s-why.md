@@ -32,7 +32,7 @@ Employees need five basic things to work remotely:
 
 ## working remotely: the key to succeeding
 
-To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles often take for granted:
+To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles take for granted:
 
 **Context!**
 
