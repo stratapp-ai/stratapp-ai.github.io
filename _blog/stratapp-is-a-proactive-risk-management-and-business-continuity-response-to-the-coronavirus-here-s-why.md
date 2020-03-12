@@ -22,7 +22,7 @@ feature_image: "/uploads/coronavirus.jpg"
 ---
 ## working remotely: the basics
 
-Employees need five basic things to work remotely
+Employees need five basic things to work remotely:
 
 1. Reliable fast internet and electricity
 2. Workspace and devices
