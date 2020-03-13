@@ -4,16 +4,16 @@ category:
 - "#articles"
 date: 2019-09-16 08:00:00 +0000
 layout: blog
-title: 'Coronavirus: #stratapp is a proactive crisis management and business continuity
-  response'
+title: 'Coronavirus: working remotely as a proactive crisis management and business
+  continuity response'
 sub_heading: 'Several countries, including the USA, Singapore, Italy and South Korea,
   have recently found themselves working from home. #stratapp helps make this a positive
   disruption.'
 video_id: ''
 banner_image: "/uploads/coronavirus.jpg"
 slug: business continuity response to coronavirus
-seo_title: 'Coronavirus: #stratapp is a proactive risk management and business continuity
-  response'
+seo_title: 'Coronavirus: working remotely as a proactive risk management and business
+  continuity response'
 seo_description: 'Due to the coronavirus, several countries, including the USA, Singapore,
   Italy and South Korea, have recently found themselves working from home. #stratapp
   helps make this a positive disruption.'
