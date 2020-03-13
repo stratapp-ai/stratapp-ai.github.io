@@ -40,7 +40,7 @@ To make working remotely both **effective** and **sustainable**, employees need 
 
 \#stratapp makes it easy for business owners, CEOs, executives, managers and team leaders to deliver context - seamlessly connecting strategy/vision/plans with day to day work/engagement/collaboration.
 
-Context is the key to making remote working successful and sustainable.
+Context is the key to making remote working effective and sustainable.
 
 ### strategic context
 
@@ -96,7 +96,7 @@ To learn more about the power of social with structure, you can read [Atlassian 
 
 ## working remotely: opportunity to scale
 
-The strategic opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
+The big opportunity is to achieve scale through offshoring, rather than seeking to replace your onshore talent.
 
 If you have #stratapp and effective remote working up and running, you can easily create the capability to scale, both up and down, through a hybrid approach to offshoring.
 
