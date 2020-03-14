@@ -6,8 +6,8 @@ date: 2019-08-09 08:00:00 +0000
 layout: blog
 title: employees working remotely - key to succeeding that most of us leaders take
   for granted
-sub_heading: How to make it effective and sustainable? Whilst building a strategic
-  capability for your organization to scale up or down.
+sub_heading: How to make it effective and sustainable? How to build a strategic capability
+  for you to scale up or down?
 video_id: ''
 banner_image: "/uploads/working remotely.jpg"
 slug: working remotely
