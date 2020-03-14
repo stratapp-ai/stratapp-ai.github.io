@@ -10,14 +10,14 @@ sub_heading: 'Several countries, including the USA, Singapore, Italy and South K
   have recently found themselves working from home. #stratapp helps make this a positive
   disruption.'
 video_id: ''
-banner_image: "/uploads/working remotely.jpg"
+banner_image: ''
 slug: working remotely
 seo_title: employees working remotely - the key to succeeding that most leaders take
   for granted
 seo_description: 'Due to the coronavirus, several countries, including the USA, Singapore,
   Italy and South Korea, have recently found themselves working from home. #stratapp
   helps make this a positive disruption.'
-feature_image: "/uploads/working remotely.jpg"
+feature_image: ''
 
 ---
 ## working remotely: the basics
