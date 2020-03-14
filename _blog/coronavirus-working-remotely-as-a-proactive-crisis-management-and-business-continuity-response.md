@@ -29,7 +29,7 @@ Employees need these five basics to work remotely:
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
 
-## working remotely: key to succeeding
+## working remotely: the key to succeeding
 
 To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles take for granted:
 
@@ -69,7 +69,7 @@ Context is the key to making remote working effective and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
-## working remotely: works when you have social-with-structure
+## working remotely: works best when you have _social with structure_
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
@@ -93,7 +93,7 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## working remotely: build a strategic capability to scale up/down
+## working remotely: build a strategic capability to _scale up/down_
 
 The strategic opportunity is to achieve scale through offshoring, rather than replacing your onshore talent.
 
