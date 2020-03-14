@@ -28,7 +28,7 @@ Employees need these five basics to work remotely:
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
 
-## working remotely: the key to succeeding
+## working remotely: key to succeeding
 
 To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles take for granted:
 
