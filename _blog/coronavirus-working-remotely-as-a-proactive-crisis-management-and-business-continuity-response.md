@@ -9,13 +9,13 @@ title: employees working remotely - key to succeeding that most of us leaders ta
 sub_heading: How to solve employees working remotely whilst building a strategic capability
   to scale up or down.
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/working remotely v2.jpg"
 slug: working remotely
 seo_title: employees working remotely - key to succeeding that most of us leaders
   take for granted
 seo_description: How to make employees working remotely successful. How to build a
   strategic capability to scale up or down. How to develop your best emerging talent.
-feature_image: ''
+feature_image: "/uploads/working remotely v2.jpg"
 
 ---
 ## working remotely: 5 basics
