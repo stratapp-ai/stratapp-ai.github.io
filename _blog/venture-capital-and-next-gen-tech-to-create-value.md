@@ -65,7 +65,7 @@ I remember during 2005 to 2009 there was a wave of SaaS products for VC portfoli
 
 However post-deal, the value creation work (ideas, strategies, direction, why, plans, risks, initiatives, projects and day to day execution) needs to sit within the investee company itself. For three reasons: 1) that's where you want the IP, strategy and execution value created; 2) subsequent investment rounds due-diligence; and 3) effective onboarding of new hires as the company scales.
 
-Therefore post-deal, I believe VCs should encourage their investee companies to embrace #stratapp, as it is a natural win:win:win:win for investors:founders:management:employees.
+Therefore post-deal, I believe VCs should encourage their investee companies to **embrace #stratapp**, as it is a **natural win:win:win:win** for investors:founders:management:employees.
 
 ### subsequent round due diligence & new hires
 
