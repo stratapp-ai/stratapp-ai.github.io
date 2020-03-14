@@ -13,8 +13,8 @@ banner_image: "/uploads/working remotely.jpg"
 slug: working remotely
 seo_title: employees working remotely - key to succeeding that most of us leaders
   take for granted
-seo_description: How to make working remotely successful. How to scale up or down
-  as required.  How to develop your best emerging talent.
+seo_description: How to make employees working remotely successful. How to build a
+  strategic capability to scale up or down. How to develop your best emerging talent.
 feature_image: "/uploads/working remotely.jpg"
 
 ---
