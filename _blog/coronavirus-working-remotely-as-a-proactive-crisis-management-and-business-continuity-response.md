@@ -19,7 +19,7 @@ seo_description: 'Due to the coronavirus, several countries, including the USA, 
 feature_image: "/uploads/working remotely.jpg"
 
 ---
-## working remotely: the basics
+## working remotely: 5 basics
 
 Employees need these five basics to work remotely:
 
@@ -69,7 +69,7 @@ Context is the key to making remote working effective and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
-## working remotely: social-with-structure
+## working remotely: works when you have social-with-structure
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
@@ -93,13 +93,13 @@ _Who is having the most influence on strategy or KPI related work? Who are the e
 
 To learn more about the power of social with structure, you can read [Atlassian thought of it, #stratapp’s done it](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, #stratapp's done it").
 
-## working remotely: opportunity to scale
+## working remotely: build a strategic capability to scale up/down
 
 The strategic opportunity is to achieve scale through offshoring, rather than replacing your onshore talent.
 
 If you have #stratapp and effective remote working up and running, you can easily create the capability to scale, both up and down, through a hybrid approach to offshoring.
 
-### fast track the development of your best talent
+### fast track your best talent
 
 I use hybrid offshoring to accelerate the professional development of our best people.
 
@@ -119,7 +119,7 @@ As a result, our 25 year olds are now on a fast track to professional developmen
 
 If you multiply this effect across fifty 25 year olds in your company, you create an enormous capability to scale, _both up and down_.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
-### the next evolution
+### the next evolution of scaling best talent
 
 Several years ago I started experimenting with this hybrid approach to offshoring. I didn’t foresee it back then, but now we find ourselves at the next evolution: _thinking about how to scale up and give early career development experience to our best people based offshore._
 
