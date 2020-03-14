@@ -1,24 +1,23 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#articles"
-date: 2019-09-16 08:00:00 +0000
+- "#reflections"
+date: 2019-08-09 08:00:00 +0000
 layout: blog
-title: 'Coronavirus: working remotely as a proactive crisis management and business
-  continuity response'
+title: employees working remotely - the key to succeeding that most leaders take for
+  granted
 sub_heading: 'Several countries, including the USA, Singapore, Italy and South Korea,
   have recently found themselves working from home. #stratapp helps make this a positive
   disruption.'
 video_id: ''
-banner_image: "/uploads/coronavirus.jpg"
-slug: business continuity response to coronavirus
-seo_title: 'Coronavirus: working remotely as a proactive risk management and business
-  continuity response'
+banner_image: "/uploads/working remotely.jpg"
+slug: working remotely
+seo_title: employees working remotely - the key to succeeding that most leaders take
+  for granted
 seo_description: 'Due to the coronavirus, several countries, including the USA, Singapore,
   Italy and South Korea, have recently found themselves working from home. #stratapp
   helps make this a positive disruption.'
-feature_image: "/uploads/coronavirus.jpg"
-published: false
+feature_image: "/uploads/working remotely.jpg"
 
 ---
 ## working remotely: the basics
