@@ -6,16 +6,15 @@ date: 2019-08-09 08:00:00 +0000
 layout: blog
 title: employees working remotely - key to succeeding that most of us leaders take
   for granted
-sub_heading: Several countries, including the USA, Singapore, Italy and South Korea,
-  have recently found themselves working from home.
+sub_heading: How to make it effective and sustainable? Whilst building a strategic
+  capability for your organization to scale up or down.
 video_id: ''
 banner_image: "/uploads/working remotely.jpg"
 slug: working remotely
 seo_title: employees working remotely - key to succeeding that most of us leaders
   take for granted
-seo_description: 'Due to the coronavirus, several countries, including the USA, Singapore,
-  Italy and South Korea, have recently found themselves working from home. #stratapp
-  helps make this a positive disruption.'
+seo_description: How to make it effective and sustainable? Whilst building a strategic
+  capability for your organization to scale up or down.
 feature_image: "/uploads/working remotely.jpg"
 
 ---
