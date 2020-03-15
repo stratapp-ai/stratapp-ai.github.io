@@ -25,7 +25,7 @@ faqs:
     Payments are securely processed through the reputable Stripe payment gateway.
 - question: How do we access billing and past invoices?
   answer: Our billing engine runs on the secure Chargebee platform, which provides
-    you with a client portal to access your subscription status, payment methods,
+    you with a private client portal to access your subscription status, payment methods,
     billing information, payment history and invoices.
 - question: Do you offer implementation support?
   answer: |-
