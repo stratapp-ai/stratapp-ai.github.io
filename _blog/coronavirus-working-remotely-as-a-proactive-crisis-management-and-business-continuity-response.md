@@ -4,15 +4,15 @@ category:
 - "#articles"
 date: 2019-09-16 08:00:00 +0000
 layout: blog
-title: employees working remotely - key to succeeding that most of us leaders take
-  for granted
+title: 'employees working remotely: key to succeeding that most of us leaders take
+  for granted'
 sub_heading: How to solve for employees working remotely whilst building a strategic
   capability to scale up or down.
 video_id: ''
 banner_image: "/uploads/coronavirus.jpg"
 slug: working remotely
-seo_title: employees working remotely - key to succeeding that most of us leaders
-  take for granted
+seo_title: 'employees working remotely: key to succeeding that most of us leaders
+  take for granted'
 seo_description: How to make employees working remotely successful. How to build a
   strategic capability to scale up or down. How to develop your best emerging talent.
 feature_image: "/uploads/working remotely v2.jpg"
