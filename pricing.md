@@ -53,10 +53,8 @@ faqs:
 
     \#stratapp supports SAML/SSO.
 - question: 'What happens when I stop using #stratapp?'
-  answer: |-
-    No problem, there are no termination fees.
-
-    In future releases we will be adding APIs for you to link your data to external BI tools.
+  answer: 'No problem, there are no termination fees or contract terms beyond your
+    chosen billing cycle. '
 seo_title: 10 apps in 1 for org-wide collaboration on strategy and execution
 seo_description: Affordable strategy software that achieves genuine org-wide collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
