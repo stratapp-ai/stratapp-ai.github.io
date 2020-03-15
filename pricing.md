@@ -47,9 +47,9 @@ faqs:
     We are also building up a network of consultants who can assist clients with getting started on #stratapp.
 - question: Is our data safe?
   answer: |-
-    Yes, we use the latest in data encryption and authentication technology.
+    Yes, #stratapp uses the latest in data encryption and authentication technology.
 
-    \#stratapp is built on scalable micro-services on top of Microsoft Service Fabric, hosted on Microsoft Azure.
+    \#stratapp is built on scalable micro-services on Microsoft Service Fabric, hosted on Microsoft Azure.
 
     \#stratapp supports SAML/SSO.
 - question: 'What happens when I stop using #stratapp?'
