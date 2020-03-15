@@ -55,6 +55,25 @@ faqs:
 - question: 'What happens when I stop using #stratapp?'
   answer: 'No problem, there are no termination fees or contract terms beyond your
     chosen billing cycle. '
+- question: What is your future roadmap?
+  answer: |-
+    We are experienced SaaS founders, backed by investors who are market leaders.
+
+    \#stratapp is currently 10-apps-in-1, at a compelling price point, to become the world's first SaaS app to achieve org-wide alignment and engagement, within a strategic context.
+
+    We have an amazing product roadmap.  Although we cannot share the details publicly, you have probably already concluded it will comprise:
+
+    * org-wide experiences, that do not require end user training
+    * compelling pricing
+    * everything you need to execute both strategic and day to day work
+    * applying best practices in strategy, management, human capital and tech, and taking select aspects a step further
+    * adding AI in an ethical way that adds value and builds trust at all levels  - owners, directors, executives, managers and employees
+    * eliminating:
+      * unnecessary integrations and expense
+      * single-use apps
+      * sending employees to multiple apps
+      * complicated user experiences
+      * disruption that adds no value
 seo_title: 10 apps in 1 for org-wide collaboration on strategy and execution
 seo_description: Affordable strategy software that achieves genuine org-wide collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
