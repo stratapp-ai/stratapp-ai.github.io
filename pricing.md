@@ -61,7 +61,9 @@ faqs:
 
     \#stratapp is the world's first SaaS app to achieve org-wide alignment and engagement, within a strategic context.  #stratapp is currently 10-apps-in-1, at a compelling price point.
 
-    We do have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.  Although we cannot share the details publicly, you have probably already concluded it will comprise:
+    We have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.
+
+    Although we cannot share the details publicly, you have probably already concluded it will comprise:
 
     * everything you need to execute both strategic and day to day work
     * org-wide experiences, that don't require end user training
