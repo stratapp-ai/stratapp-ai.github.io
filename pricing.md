@@ -59,15 +59,13 @@ faqs:
   answer: |-
     We are experienced SaaS founders, backed by investors who are market leaders.
 
-    \#stratapp is currently 10-apps-in-1, at a compelling price point.
+    \#stratapp is the world's first SaaS app to achieve org-wide alignment and engagement, within a strategic context.  #stratapp is currently 10-apps-in-1, at a compelling price point.
 
-    \#stratapp is the world's first SaaS app to achieve org-wide alignment and engagement, within a strategic context.
+    We do have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.  Although we cannot share the details publicly, you have probably already concluded it will comprise:
 
-    We have an amazing product roadmap.  Although we cannot share the details publicly, you have probably already concluded it will comprise:
-
+    * everything you need to execute both strategic and day to day work
     * org-wide experiences, that don't require end user training
     * compelling pricing, with no lock-in contracts
-    * everything you need to execute both strategic and day to day work
     * applying best practices in strategy, management, human capital and tech, and innovating some aspects a step further
     * adding AI in an ethical way that adds value and builds trust with all stakeholders internally (owners, directors, executives, managers and employees) and externally (customers, partners, contractors and suppliers)
     * innovating together with those stakeholders
