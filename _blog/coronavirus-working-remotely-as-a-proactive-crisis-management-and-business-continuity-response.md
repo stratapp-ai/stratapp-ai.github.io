@@ -9,7 +9,7 @@ title: employees working remotely - key to succeeding that most of us leaders ta
 sub_heading: How to solve for employees working remotely whilst building a strategic
   capability to scale up or down.
 video_id: ''
-banner_image: "/uploads/working remotely v2.jpg"
+banner_image: "/uploads/coronavirus.jpg"
 slug: working remotely
 seo_title: employees working remotely - key to succeeding that most of us leaders
   take for granted
@@ -27,6 +27,8 @@ Employees need these five basics to work remotely:
 3. Email and shared docs
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
+
+![](/uploads/working remotely v2.jpg)
 
 ## working remotely: key to succeeding
 
