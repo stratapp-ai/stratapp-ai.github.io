@@ -65,11 +65,12 @@ faqs:
 
     We have an amazing product roadmap.  Although we cannot share the details publicly, you have probably already concluded it will comprise:
 
-    * org-wide experiences, that do not require end user training
-    * compelling pricing
+    * org-wide experiences, that don't require end user training
+    * compelling pricing, with no lock-in contracts
     * everything you need to execute both strategic and day to day work
-    * applying best practices in strategy, management, human capital and tech, and taking select aspects a step further
-    * adding AI in an ethical way that adds value and builds trust at all levels  - owners, directors, executives, managers and employees
+    * applying best practices in strategy, management, human capital and tech, and innovating some aspects a step further
+    * adding AI in an ethical way that adds value and builds trust with all stakeholders internally (owners, directors, executives, managers and employees) and externally (customers, partners, contractors and suppliers)
+    * innovating together with those stakeholders
     * eliminating:
       * unnecessary integrations and expense
       * single-use apps
