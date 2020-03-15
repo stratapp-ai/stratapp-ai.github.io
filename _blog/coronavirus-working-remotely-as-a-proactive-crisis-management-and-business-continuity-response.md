@@ -1,8 +1,8 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#reflections"
-date: 2019-08-09 08:00:00 +0000
+- "#articles"
+date: 2019-09-16 08:00:00 +0000
 layout: blog
 title: employees working remotely - key to succeeding that most of us leaders take
   for granted
