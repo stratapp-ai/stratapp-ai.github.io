@@ -22,7 +22,7 @@ faqs:
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
 
-    Payments are securely processed through the Stripe payment gateway. We do not hold or access credit card details.
+    Payments are securely processed through the reputable Stripe payment gateway.
 - question: How do we access billing and past invoices?
   answer: Our billing engine runs on the secure Chargebee platform, which provides
     you with a client portal to access your subscription status, payment methods,
