@@ -17,7 +17,7 @@ faqs:
 
     Pricing shown above is US$.
 
-    There is no contract term beyond the billing cycle.
+    There is no contract term beyond the billing cycle.  We want you to continue to use #stratapp because you love it, not because we locked you into a 3 or 5 year contract.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
