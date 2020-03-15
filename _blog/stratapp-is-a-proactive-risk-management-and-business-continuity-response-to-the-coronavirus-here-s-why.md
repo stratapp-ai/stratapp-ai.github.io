@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#articles"
+- "#reflections"
 date: 2019-09-16 08:00:00 +0000
 layout: blog
 title: 'Coronavirus: working remotely as a proactive crisis management and business
