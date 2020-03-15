@@ -17,7 +17,7 @@ faqs:
 
     Pricing shown above is US$.
 
-    There is no contract term beyond the billing cycle chosen by the client.
+    There is no contract term beyond the billing cycle.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
