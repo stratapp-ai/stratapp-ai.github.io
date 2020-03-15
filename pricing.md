@@ -55,7 +55,7 @@ faqs:
 - question: 'What happens when I stop using #stratapp?'
   answer: 'No problem, there are no termination fees or contract terms beyond your
     chosen billing cycle. '
-- question: What is your future roadmap?
+- question: 'What is your future roadmap for #stratapp?'
   answer: |-
     We are experienced SaaS founders, backed by investors who are market leaders.
 
