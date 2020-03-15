@@ -25,7 +25,7 @@ Employees need these five basics to work remotely:
 1. Reliable fast internet and electricity
 2. Workspace and devices
 3. Email and shared docs
-4. Social and work collaboration tools
+4. Social and work collaboration tools \[read below before nodding\]
 5. Mutual trust, positivity, recognition and commitment
 
 ![](/uploads/working remotely v2.jpg)
