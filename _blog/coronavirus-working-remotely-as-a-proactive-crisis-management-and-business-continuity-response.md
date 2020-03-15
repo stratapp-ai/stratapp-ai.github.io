@@ -6,8 +6,8 @@ date: 2019-08-09 08:00:00 +0000
 layout: blog
 title: employees working remotely - key to succeeding that most of us leaders take
   for granted
-sub_heading: How to solve employees working remotely whilst building a strategic capability
-  to scale up or down.
+sub_heading: How to solve for employees working remotely whilst building a strategic
+  capability to scale up or down.
 video_id: ''
 banner_image: "/uploads/working remotely v2.jpg"
 slug: working remotely
