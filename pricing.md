@@ -35,7 +35,7 @@ faqs:
 
     It is also easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
 
-    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on enterprise software.
+    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on org-wide software.
 
     We offer the following implementation support:
 
