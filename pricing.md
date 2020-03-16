@@ -3,16 +3,16 @@ title: pricing
 layout: pricing
 faqs:
 - question: Do you offer a free trial?
-  answer: "We offer a 15 day free trial, plenty of time to get started and familiar
-    with #stratapp.\n\nIn fact, clients can easily achieve an org-wide rollout within
-    that timeframe, see [https://stratapp.ai/blog/how-to-implement](https://stratapp.ai/blog/how-to-implement/
-    \"https://stratapp.ai/blog/how-to-implement/\").\n\nThere are no set-up fees or
-    hardware costs, and you don't need any technical skills to configure and deploy
-    #stratapp.  \n\nIt is easy to deploy specific pages of the app, right down to
-    individual users, thereby making your rollout progressive and hopefully eliminating
-    the need for end user training.\n\nMost clients are up and running within 2 cups
-    of tea or coffee, a far cry from the weeks or months it usually takes to deploy
-    and achieve time-to-value on enterprise software."
+  answer: |-
+    We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
+
+    In fact, clients can easily achieve an org-wide rollout within that timeframe, see [https://stratapp.ai/blog/how-to-implement](https://stratapp.ai/blog/how-to-implement/ "https://stratapp.ai/blog/how-to-implement/").
+
+    There are no set-up fees or hardware costs, and you don't need any technical skills to configure and deploy #stratapp.
+
+    It is easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
+
+    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on org-wide software.
 - question: How does annual billing work?  What is the currency and contract term?
   answer: |-
     You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 22-29% on monthly pricing.
