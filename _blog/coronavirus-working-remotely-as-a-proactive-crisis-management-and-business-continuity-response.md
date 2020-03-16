@@ -15,7 +15,7 @@ seo_title: 'employees working remotely: key to succeeding that most of us leader
   take for granted'
 seo_description: How to make employees working remotely successful. How to build a
   strategic capability to scale up or down. How to develop your best emerging talent.
-feature_image: "/uploads/working remotely v2.jpg"
+feature_image: "/uploads/coronavirus.jpg"
 
 ---
 ## working remotely: 5 basics
