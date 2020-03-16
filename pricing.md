@@ -6,7 +6,7 @@ faqs:
   answer: |-
     We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
-    In fact, clients can easily achieve an org-wide rollout within that timeframe, see [https://stratapp.ai/blog/how-to-implement](https://stratapp.ai/blog/how-to-implement/ "https://stratapp.ai/blog/how-to-implement/").
+    Most clients can achieve an org-wide rollout within 15 days, by starting out light with the "productivity & culture" features; see [https://stratapp.ai/blog/how-to-implement](https://stratapp.ai/blog/how-to-implement/ "https://stratapp.ai/blog/how-to-implement/").
 
     There are no set-up fees or hardware costs, and you don't need any technical skills to configure and deploy #stratapp.
 
