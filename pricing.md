@@ -62,17 +62,18 @@ faqs:
     is the world's first SaaS app to achieve org-wide alignment and engagement, within
     a strategic context. \n\n\\#stratapp is currently 10-apps-in-1, at a compelling
     price point.\n\nWe have an exciting product roadmap, that we believe will reshape
-    the global B2B SaaS landscape.\n\nAlthough we cannot share the details publicly,
-    you have probably already concluded it will comprise:\n\n* everything you need
-    to execute both strategic and day to day work\n* org-wide experiences, that don't
+    the global B2B SaaS landscape.\n\nAlthough we cannot share details publicly, you
+    have probably already concluded our roadmap comprises:\n\n* streamlining how to
+    execute both strategic and day to day work\n* org-wide experiences, that don't
     require end user training\n* compelling pricing, with no lock-in contracts\n*
-    applying best practices in strategy, management, human capital and tech, and innovating
-    some aspects a step further\n* adding AI in an ethical way that adds value and
-    builds trust with all stakeholders internally (owners, directors, executives,
-    managers and employees) and externally (customers, partners, contractors and suppliers)\n*
-    innovating together with those stakeholders\n* eliminating:\n  * unnecessary integrations
-    and expense\n  * single-use apps\n  * sending employees to multiple apps\n  *
-    complicated user experiences\n  * disruption that adds no value"
+    applying best practices in strategy, management, human capital and tech, whilst
+    further innovating several aspects with new IP\n* adding AI in an ethical way
+    that adds value and builds trust with all stakeholders internally (owners, directors,
+    executives, managers and employees) and externally (customers, partners, contractors
+    and suppliers)\n* innovating in a collaborative space, together with those stakeholders\n*
+    eliminating:\n  * unnecessary integrations and expense\n  * single-use apps\n
+    \ * sending employees to multiple apps\n  * complicated user experiences\n  *
+    disruption that adds little or no value"
 seo_title: 10 apps in 1 for org-wide collaboration on strategy and execution
 seo_description: Affordable strategy software that achieves genuine org-wide collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
