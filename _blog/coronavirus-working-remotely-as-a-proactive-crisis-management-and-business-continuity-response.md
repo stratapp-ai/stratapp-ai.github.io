@@ -126,6 +126,8 @@ I then ask them to dial back to 100%, rather than work 120%, so they can invest 
 
 As a result, our 25 year olds are now on a fast track to professional development, rapidly learning new skills on managing people, x-border cultural differences and how to _work on the business_ not just in it.  That's an incredible learning opportunity at such a young age.
 
+Interestingly, the 25 year olds often end up managing higher skilled staff offshore, which further contributes to their own professional development.
+
 If you multiply this effect across fifty 25 year olds in your company, you create an enormous capability to scale, _both up and down_.  In one relatively easy strategic move you increase morale, profits and resilience, whilst de-risking the overall business.
 
 ### the next evolution of scaling best talent
