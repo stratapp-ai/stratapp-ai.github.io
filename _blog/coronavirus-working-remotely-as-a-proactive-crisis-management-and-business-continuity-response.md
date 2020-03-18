@@ -76,9 +76,7 @@ How many meetings and calls do you do each day?  Multiply that across one month.
 
 Imagine if all participants were on the same (digital) page - live editing together, sharing ideas within structured social, adding files and links, and capturing actions.  Then in one click seeing all actions, from all meetings and calls, neatly displayed on your workspace, in a way you can easily trace back to their sources and context.
 
-See video here:
-
-[https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/")
+See video: [https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/")
 
 ## working remotely: social with structure
 
