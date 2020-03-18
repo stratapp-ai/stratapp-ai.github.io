@@ -70,6 +70,16 @@ Context is the key to making remote working effective and sustainable.
 
 **note:** each of these _day to day contexts_ are powered by #stratapp, as an intuitive org-wide experience
 
+## working remotely: live meeting notes
+
+How many meetings and calls do you do each day?  Multiply that across one month.
+
+Imagine if all participants were on the same (digital) page - live editing together, sharing ideas within structured social, adding files and links, and capturing actions.  Then in one click seeing all actions, from all meetings and calls, neatly displayed on your workspace, in a way you can easily trace back to their sources and context.
+
+See video here:
+
+[https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/")
+
 ## working remotely: works best when you have _social with structure_
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
