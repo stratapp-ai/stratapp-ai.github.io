@@ -80,7 +80,7 @@ See video here:
 
 [https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/")
 
-## working remotely: works best when you have _social with structure_
+## working remotely: _social with structure_
 
 \#stratapp wasn't the first SaaS company to think of this, but we are the first to bring it to market.
 
