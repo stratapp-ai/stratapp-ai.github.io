@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-16 08:00:00 +0000
+date: 2019-09-16T08:00:00.000+00:00
 layout: blog
 title: 'employees working remotely: key to succeeding that most of us leaders take
   for granted'
@@ -27,8 +27,6 @@ Employees need these five basics to work remotely:
 3. Email and shared docs
 4. Social and work collaboration tools
 5. Mutual trust, positivity, recognition and commitment
-
-![](/uploads/working remotely v2.jpg)
 
 ## working remotely: key to succeeding
 
