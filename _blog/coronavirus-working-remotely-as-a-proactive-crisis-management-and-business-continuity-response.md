@@ -30,9 +30,7 @@ Employees need these five basics to work remotely:
 
 ## working remotely: key to succeeding
 
-To make working remotely both **effective** and **sustainable**, employees need one more critical thing that most of us in leadership roles take for granted:
-
-**Context!**
+For working remotely to be **effective** and **sustainable**, employees need more than just social chat and video calls, **employees need context**.
 
 ![](/uploads/simon sinek.PNG)
 
@@ -55,13 +53,13 @@ Context is the key to making remote working effective and sustainable.
 
 ### day-to-day context
 
-* Who is working on what right now?
+* Who is working on what right now?  How can I add value?
 * How is my team going?
 * What should I work on next to have the greatest impact?
 * How are each of these digital items connected?
   * This meeting
   * The task this meeting relates to
-  * The workboard that task sits on
+  * The workboard/project/initiative that task sits on
   * The strategic objective that workboard belongs to
   * The strategic goal above that objective
   * The overall why and direction that strategic goal is pointing at
