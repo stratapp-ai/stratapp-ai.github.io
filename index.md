@@ -3,9 +3,9 @@ title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
   work in one place\n\n##### the world's first org-wide strategy execution SaaS app
-  | achieve org-wide engagement, remote working and fast scaling up/down within days\n\n{:.mt-4
-  .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
-  data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
+  | achieve genuine org-wide engagement, remote working and fast scaling up/down within
+  days\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white
+  rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
