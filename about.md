@@ -15,7 +15,7 @@ intro_text: |-
 
   We did not invent new management buzz words, theory or methods. We carefully designed #stratapp around what you already know.
 
-  Therefore, your time-to-value on #stratapp is days - not weeks, months or quarters.
+  Therefore, your time-to-value on #stratapp is days - not weeks or months.
 intro_image: "/uploads/all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
@@ -54,4 +54,4 @@ menu:
 
 # we are changing how leaders think about strategy execution, day-to-day work and org-wide collaboration
 
-##### #stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs, business planning, social and work collaboration in one seamless user experience. 10-apps-in-1 for about half the price of one. Elevate your culture, get ready for the next generation of millennials, increase employee productivity and drive business performance. You'll love #stratapp. 
+##### #stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs, business planning, social and work collaboration in one seamless user experience. 10-apps-in-1 for about half the price of one. Elevate your culture, get ready for the next generation of millennials, increase employee productivity and drive business performance. You'll love #stratapp.
