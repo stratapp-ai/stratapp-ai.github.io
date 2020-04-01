@@ -57,22 +57,30 @@ faqs:
   answer: 'No problem, there are no termination fees or contract terms beyond your
     chosen billing cycle. '
 - question: 'What is your future roadmap for #stratapp?'
-  answer: "We are experienced SaaS founders, backed by investors who are market leaders.\n\n\\#stratapp
-    is the world's first SaaS app to achieve org-wide alignment and engagement, within
-    a strategic context. \n\n\\#stratapp is currently 10-apps-in-1, at a compelling
-    price point.\n\nWe have an exciting product roadmap, that we believe will reshape
-    the global B2B SaaS landscape.\n\nAlthough we cannot share details publicly, you
-    have probably already concluded our roadmap comprises:\n\n* streamlining how to
-    execute both strategic and day to day work\n* org-wide experiences, that don't
-    require end user training\n* compelling pricing, with no lock-in contracts\n*
-    applying best practices in strategy, management, human capital and tech, whilst
-    further innovating several aspects with new IP\n* adding AI in an ethical way
-    that adds value and builds trust with all stakeholders internally (owners, directors,
-    executives, managers and employees) and externally (customers, partners, contractors
-    and suppliers)\n* innovating in a collaborative space, together with those stakeholders\n*
-    eliminating:\n  * unnecessary integrations and expense\n  * single-use apps\n
-    \ * sending employees to multiple apps\n  * complicated user experiences\n  *
-    disruption that adds little or no value"
+  answer: |-
+    We are experienced SaaS founders, backed by investors who are market leaders.
+
+    \#stratapp is the world's first SaaS app to achieve genuine alignment and engagement, within a strategic context.
+
+    \#stratapp is currently 10-apps-in-1, at a compelling price point.
+
+    We have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.
+
+    Although we cannot share details publicly, you have probably already concluded our roadmap comprises:
+
+    * creating a connected workspace, bringing together leading tech in the B2B SaaS ecosystem
+    * streamlining how to execute both strategic and day to day work
+    * creating org-wide experiences, that don't require end user training
+    * maintaining compelling pricing, with no lock-in contracts
+    * applying best practices in strategy, management, human capital and tech, whilst further innovating several aspects with new IP
+    * adding AI in an ethical way that adds value and builds trust with all stakeholders internally (owners, directors, executives, managers and employees) and externally (customers, partners, contractors and suppliers)
+    * innovating in a collaborative space, together with those stakeholders
+    * eliminating:
+      * unnecessary integrations and expense
+      * single-use apps
+      * sending employees to multiple apps
+      * complicated user experiences
+      * disruption that adds little or no value
 seo_title: 10 apps in 1 for affordable collaboration on strategy and execution
 seo_description: Affordable strategy software that achieves genuine collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
