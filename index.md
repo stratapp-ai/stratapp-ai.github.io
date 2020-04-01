@@ -55,7 +55,7 @@ stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
     * radical transparency and trust
-    * real-time org-wide collaboration
+    * real-time alignment and collaboration
     * way more than just a job, at all levels
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
