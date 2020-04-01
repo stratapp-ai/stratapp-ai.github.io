@@ -35,15 +35,14 @@ faqs:
 
     It is also easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
 
-    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on org-wide software.
+    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on high value software.
 
     We offer the following implementation support:
 
     * Getting Started - step by step article on our knowledge base
-    * Video Tutorials - for each key section of the app
     * In-App Help Hints - for a quick explanation of key pages
     * Knowledge Base - searchable articles
-    * In-App Boards - connecting end users directly with our product team, including your ability to ask questions, vote on new feature ideas and view features that have been added to our overall roadmap
+    * In-App Canny Boards - connecting end users directly with our product team, including your ability to ask questions, vote on new feature ideas and view features that have been added to our overall roadmap
     * Support Tickets - emailing support when required
 
     We are also building up a network of consultants who can assist clients with getting started on #stratapp.
