@@ -73,8 +73,8 @@ faqs:
     eliminating:\n  * unnecessary integrations and expense\n  * single-use apps\n
     \ * sending employees to multiple apps\n  * complicated user experiences\n  *
     disruption that adds little or no value"
-seo_title: 10 apps in 1 for org-wide collaboration on strategy and execution
-seo_description: Affordable strategy software that achieves genuine org-wide collaboration
+seo_title: 10 apps in 1 for affordable collaboration on strategy and execution
+seo_description: Affordable strategy software that achieves genuine collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
 quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
