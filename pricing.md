@@ -90,6 +90,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# 10 apps in 1 for org-wide collaboration and radical transparency on both strategy execution and day to day work
+# 10 apps in 1 delivering seamless collaboration and radical transparency on both strategy execution and day to day work
 
-##### affordable pricing, so you can achieve genuine org-wide engagement
+##### affordable pricing, so you can empower everyone you need to
