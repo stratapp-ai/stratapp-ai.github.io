@@ -19,8 +19,3 @@ fields:
   label: layout
   hidden: false
   default: tutorials
-pages:
-- _tutorials/algorithma.md
-- _tutorials/cmg.md
-- _tutorials/darren-robson.md
-- _tutorials/the-outstanding-company.md
