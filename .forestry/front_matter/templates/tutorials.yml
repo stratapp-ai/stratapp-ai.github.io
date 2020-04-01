@@ -21,11 +21,6 @@ fields:
   default: tutorials
 pages:
 - _tutorials/algorithma.md
-- _tutorials/anthony-curtin.md
 - _tutorials/cmg.md
-- _tutorials/cross-fade-partners.md
 - _tutorials/darren-robson.md
-- _tutorials/fractal-systems.md
-- _tutorials/luseco.md
-- _tutorials/s2l-consulting.md
 - _tutorials/the-outstanding-company.md
