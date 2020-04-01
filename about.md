@@ -52,6 +52,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# we are changing how leaders think about strategy execution, day-to-day work and org-wide collaboration
+# we are changing how leaders think about strategy execution, day-to-day work and social collaboration
 
-##### #stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs, business planning, social and work collaboration in one seamless user experience. 10-apps-in-1 for about half the price of one. Elevate your culture, get ready for the next generation of millennials, increase employee productivity and drive business performance. You'll love #stratapp.
+##### #stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas, challenges, live meeting notes and social collaboration in one seamless user experience. 10-apps-in-1, for about half the price of one. You'll love #stratapp.
