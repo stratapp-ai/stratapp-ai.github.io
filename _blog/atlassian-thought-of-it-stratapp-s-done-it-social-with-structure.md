@@ -2,20 +2,19 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-08-31 08:00:00 +0000
+date: 2019-08-31T08:00:00.000+00:00
 layout: blog
 title: 'Atlassian thought of it, #stratapp’s done it - social with structure'
 sub_heading: 'Those of you into B2B SaaS will remember Stride, a clever innovation
-  by Atlassian that had a huge waiting list for Beta, including me, then it was buried
-  by #slack.'
+  by Atlassian that had a huge waiting list for Beta, then it was buried by #slack.'
 video_id: ''
 banner_image: "/uploads/Stride logo.jpeg"
 slug: atlassian stride social with structure
 seo_title: 'Atlassian''s Stride created social with structure | Buried by #slack'
 seo_description: 'Those of you into B2B SaaS will remember Stride, a clever innovation
-  by Atlassian that had a huge waiting list for Beta, including me, then it was buried
-  by #slack. #stratapp has taken the idea a step further, adding more tags and a strategic
-  context to social.'
+  by Atlassian that had a huge waiting list for Beta, then it was buried by #slack.
+  #stratapp has taken the idea a step further, adding more tags and a strategic context
+  to social.'
 feature_image: ''
 
 ---
