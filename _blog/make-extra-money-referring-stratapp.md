@@ -12,7 +12,6 @@ slug: referring
 seo_title: ''
 seo_description: ''
 feature_image: "/uploads/referring.jpg"
-published: false
 
 ---
 ## why should I refer #stratapp?
@@ -49,9 +48,23 @@ _Rgds, <name>_
 
 We offer two tiers:
 
-* referral partner (which can be anyone) - 10% of SaaS fees for 18 months
-* business partner (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of active business partners they introduce below them, capped to one layer down
+* **referral partner** (which can be anyone) - 10% of SaaS fees for 18 months
+* **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of active business partners they introduce below them, capped to one layer down
+
+We are also working on an equity partner program, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what is the referral process?
 
+We keep it simple:
+
+1. register potential client - by emailing sales@stratapp.ai, so we first check that client does not yet already belong to another reffer
+2. introduce potential client
+3. receive % of SaaS fees - quarterly, when the client reaches 20 or more paid users
+
 ## how can I learn more?
+
+Please refer to this short slide deck entitled [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+
+## what assets may I share clients?
+
+You may share these [useful links](https://support.stratapp.ai/portal/kb/articles/useful-links "useful links") with potential clients, especially the [quick overview](http://bit.ly/stratapp-quick-overview  "quick overview").
