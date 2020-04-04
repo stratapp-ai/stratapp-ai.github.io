@@ -31,7 +31,7 @@ By reaching out to your network.  For example, with a note like this:
 
 ***
 
-Hi <name> - have you come across [https://stratapp.ai](https://stratapp.ai "https://stratapp.ai"), thought I’d share it with you?
+Hi <name> - have you come across [#stratapp](https://stratapp.ai "stratapp"), thought I’d share it with you?
 
 \#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so you can achieve genuine engagement, alignment, remote working and fast scaling within days.
 
