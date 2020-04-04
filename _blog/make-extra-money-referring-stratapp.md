@@ -61,8 +61,8 @@ We are also working on an **equity partner** model, which you can read about [he
 
 We keep it simple:
 
-1. **register** potential client - by emailing sales@stratapp.ai, so we first check that client does not yet already belong to another reffer
-2. **introduce** potential client
+1. **register** the potential client - by emailing sales@stratapp.ai, so we first check that client does not yet already belong to another reffer
+2. **introduce** the potential client
 3. **receive** % of SaaS fees - quarterly, when the client reaches 20 or more paid users
 
 ## how can I learn more?
