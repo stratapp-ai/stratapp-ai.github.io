@@ -11,9 +11,9 @@ video_id: ''
 banner_image: "/uploads/referring-2.jpg"
 slug: referring
 seo_title: 'make extra money referring #stratapp'
-seo_description: 'We have a generous referral model, making it fairly easy to achieve
-  US$40,000 per year from referring #stratapp to like minded team leaders, managers,
-  executives and business owners.'
+seo_description: 'We have a generous referral model, making it relatively easy to
+  achieve US$40,000 per year from referring #stratapp to your network team leaders,
+  managers, executives and business owners.'
 feature_image: "/uploads/referring-2.jpg"
 
 ---
@@ -59,7 +59,7 @@ It does not have to be the CEO, a CxO role or owner, even though these roles hav
 
 We offer 2 types:
 
-1. **referral partner** (which can be anyone, including the end users of existing clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
+1. **referral partner** (which can be anyone, including employees of clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
 2. **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of business partners they introduce
 
 We are also working on an **equity partner** model, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
