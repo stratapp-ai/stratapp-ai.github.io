@@ -7,11 +7,11 @@ layout: blog
 title: 'make extra money referring #stratapp'
 sub_heading: we have a generous referral model
 video_id: ''
-banner_image: "/uploads/referring.jpg"
+banner_image: "/uploads/referring-2.jpg"
 slug: referring
 seo_title: ''
 seo_description: ''
-feature_image: "/uploads/referring.jpg"
+feature_image: "/uploads/referring-2.jpg"
 
 ---
 ## why should I refer #stratapp?
