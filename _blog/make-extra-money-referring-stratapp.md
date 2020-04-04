@@ -55,10 +55,10 @@ You can refer #stratapp into any level of a potential client - a team leader, ma
 
 ## what is the referral model?
 
-We offer two types:
+We offer 2 types:
 
-* **referral partner** (which can be anyone, including the end users of existing clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
-* **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of business partners they introduce
+1. **referral partner** (which can be anyone, including the end users of existing clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
+2. **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of business partners they introduce
 
 We are also working on an **equity partner** model, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
