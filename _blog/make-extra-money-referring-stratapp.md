@@ -25,6 +25,8 @@ There are 3 reasons to refer #stratapp:
 2. make money
 3. gain an edge
 
+$US40,000 in referral fees equates to only 5 clients of 1,000 paid users each.  That's not too hard, when you think of how many people you know.  We have one referrer in Virginia USA, who has introduced 6x potential clients, each with 10,000 to 60,000 employees.
+
 ## how can I refer #stratapp?
 
 By reaching out to your network.  For example, with a note like this:
