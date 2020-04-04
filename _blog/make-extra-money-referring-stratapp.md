@@ -35,7 +35,7 @@ Hi <name> - have you come across [#stratapp](https://stratapp.ai "stratapp"), th
 
 \#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so you can achieve genuine engagement, alignment, remote working and fast scaling within days.
 
-With #stratapp, you can seamlessly execute strategy and day to day work in one place.
+With #stratapp, your teams can seamlessly execute strategy and day to day work in one place.
 
 Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration in one seamless experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams.
 
