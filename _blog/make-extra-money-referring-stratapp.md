@@ -37,7 +37,7 @@ Hi <name> - have you come across [#stratapp](https://stratapp.ai "stratapp"), th
 
 With #stratapp, you can seamlessly execute strategy and day to day work in one place.
 
-Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration all in one seamless user experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams.
+Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration in one seamless experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams.
 
 I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you.
 
@@ -82,4 +82,4 @@ You may share these [useful links](https://support.stratapp.ai/portal/kb/article
 
 Thank you for taking the time to read about our referral model.
 
-If you can think of others who may benefit from some extra income, especially those working in business-to-business services, feel free to share this article with them.
+If you can think of others who may benefit from some extra income, especially those working in business-to-business services (e.g. consultants, coaches, agencies and professional services), feel free to share this article with them.
