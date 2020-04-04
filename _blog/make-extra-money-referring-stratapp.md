@@ -74,7 +74,7 @@ We keep it simple:
 
 ## how can I learn more?
 
-Here is a short slide deck on how to [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+Here is a short deck on how to [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what can I share with potential clients?
 
