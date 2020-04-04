@@ -46,14 +46,14 @@ Rgds, <name>
 
 \#stratapp is sector, geography, culture and size agnostic.
 
-\#stratapp suits organizations from 5 to 500,000 employees.
+\#stratapp suits most organizations from 5 to 500,000 employees.
 
 ## what is the referral model?
 
-We offer two tiers:
+We offer two types of referral partner:
 
-* **referral partner** (which can be anyone) - 10% of SaaS fees for 18 months
-* **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of active business partners they introduce below them, capped to one layer down
+* **referral partner** (which can be anyone, including end users of existing clients) - 10% of SaaS fees for the first 18 months on clients they referrer
+* **business partner** (by invitation) - 10% of SaaS fees for life whilst active, plus 10% for life from the clients of business partners they introduce, capped to one layer down
 
 We are also working on an equity partner program, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
