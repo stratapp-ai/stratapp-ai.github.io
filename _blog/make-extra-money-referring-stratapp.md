@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#reflections"
+- "#articles"
 date: 2019-09-12 06:06:45 +0000
 layout: blog
 title: make money referring
