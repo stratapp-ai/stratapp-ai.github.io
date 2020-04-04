@@ -26,17 +26,21 @@ feature_image: "/uploads/referring.jpg"
 
 Reaching out to your network.  For example, with a note like this:
 
-_Hi <name> - have you come across_ [_https://stratapp.ai_](https://stratapp.ai "https://stratapp.ai")_, thought I’d share it with you?_
+***
 
-_#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so you can achieve genuine engagement, alignment, remote working and fast scaling within days._
+Hi <name> - have you come across [https://stratapp.ai](https://stratapp.ai "https://stratapp.ai"), thought I’d share it with you?
 
-_With #stratapp, you can seamlessly execute strategy and day to day work in one place._
+\#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so you can achieve genuine engagement, alignment, remote working and fast scaling within days.
 
-_Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration all in one seamless user experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams._
+With #stratapp, you can seamlessly execute strategy and day to day work in one place.
 
-_I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you._
+Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration all in one seamless user experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams.
 
-_Rgds, <name>_
+I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you.
+
+Rgds, <name>
+
+***
 
 ## who are the target clients?
 
