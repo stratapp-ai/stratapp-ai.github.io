@@ -51,7 +51,7 @@ I know the team behind it, so if youâ€™d like a personal intro, hit me up and Iâ
 
 \#stratapp suits most organizations, from 5 to 500,000 employees.
 
-You can refer #stratapp into any level of a potential client - a team member, team leader, manager, senior manager, executive or business owner.
+You can refer #stratapp into any level of a potential client - team member, team leader, manager, senior manager, executive or business owner.
 
 It does not have to be a CxO role or business owner, even though these roles have the most influence and will join the dots on the competitive advantage and business valuation potential of #stratapp.
 
