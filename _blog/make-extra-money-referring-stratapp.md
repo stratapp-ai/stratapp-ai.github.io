@@ -67,7 +67,7 @@ We keep it simple:
 
 ## how can I learn more?
 
-Please refer to this short slide deck on [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+Please refer to this short slide deck on how to [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what assets may I share clients?
 
