@@ -33,9 +33,9 @@ By reaching out to your network.  For example, with a note like this:
 
 Hi {name} - have you come across [stratapp](https://stratapp.ai "stratapp"), thought I’d share it with you?
 
-\#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so you can achieve genuine engagement, alignment, remote working and fast scaling within days.
+\#stratapp is the world’s first strategy execution SaaS app to create a connected workspace, so organizations can achieve genuine engagement, alignment, remote working and fast scaling within days.
 
-With #stratapp, your teams can seamlessly execute strategy and day to day work in one place.
+With #stratapp, teams can seamlessly execute strategy and day to day work in one place.
 
 Imagine strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, meetings notes and social collaboration in one seamless experience. 10 apps in 1 for about half the price of 1. #stratapp is built on the secure and scalable Microsoft Service Fabric, hosted on Microsoft Azure and feeds to #slack and Microsoft Teams.
 
