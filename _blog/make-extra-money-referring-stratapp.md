@@ -6,7 +6,7 @@ date: 2019-09-12 06:06:45 +0000
 layout: blog
 title: 'make money referring #stratapp'
 sub_heading: we have a generous referral model and innovative plans to rewrite the
-  SaaS playbook on sharing our success with partners who help build the company
+  SaaS playbook on sharing our success with those who help build the company
 video_id: ''
 banner_image: "/uploads/referring-2.jpg"
 slug: referring
