@@ -55,7 +55,7 @@ We offer two types:
 * **referral partner** (which can be anyone, including the end users of existing clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
 * **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of business partners they introduce
 
-We are also working on an **equity partner** program, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+We are also working on an **equity partner** model, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what is the referral process?
 
