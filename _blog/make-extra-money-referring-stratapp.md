@@ -24,7 +24,7 @@ There are 3 reasons to refer #stratapp:
 
 ## how can I refer #stratapp?
 
-Reaching out to your network.  For example, with a note like this:
+By reaching out to your network.  For example, with a note like this:
 
 ***
 
@@ -46,29 +46,33 @@ Rgds, <name>
 
 \#stratapp is sector, geography, culture and size agnostic.
 
-\#stratapp suits most organizations from 5 to 500,000 employees.
+\#stratapp suits most organizations, from 5 to 500,000 employees.
 
 ## what is the referral model?
 
-We offer two types of referral partner:
+We offer two types:
 
-* **referral partner** (which can be anyone, including end users of existing clients) - 10% of SaaS fees for the first 18 months on clients they referrer
-* **business partner** (by invitation) - 10% of SaaS fees for life whilst active, plus 10% for life from the clients of business partners they introduce, capped to one layer down
+* **referral partner** (which can be anyone, including the end users of existing clients) - 10% of SaaS fees, for the first 18 months on clients they referrer
+* **business partner** (by invitation) - 10% of SaaS fees for life, plus 10% for life from the clients of business partners they introduce
 
-We are also working on an equity partner program, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+We are also working on an **equity partner** program, which you can read about [here](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what is the referral process?
 
 We keep it simple:
 
-1. register potential client - by emailing sales@stratapp.ai, so we first check that client does not yet already belong to another reffer
-2. introduce potential client
-3. receive % of SaaS fees - quarterly, when the client reaches 20 or more paid users
+1. **register** potential client - by emailing sales@stratapp.ai, so we first check that client does not yet already belong to another reffer
+2. **introduce** potential client
+3. **receive** % of SaaS fees - quarterly, when the client reaches 20 or more paid users
 
 ## how can I learn more?
 
-Please refer to this short slide deck entitled [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
+Please refer to this short slide deck on [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
 ## what assets may I share clients?
 
 You may share these [useful links](https://support.stratapp.ai/portal/kb/articles/useful-links "useful links") with potential clients, especially the [quick overview](http://bit.ly/stratapp-quick-overview  "quick overview").
+
+## thank you
+
+Thank you for taking the time to read this.  If you can think of others who may benefit from some extra income, especially those working in business-to-business services, feel free to share this article with them.
