@@ -75,4 +75,6 @@ You may share these [useful links](https://support.stratapp.ai/portal/kb/article
 
 ## thank you
 
-Thank you for taking the time to read this.  If you can think of others who may benefit from some extra income, especially those working in business-to-business services, feel free to share this article with them.
+Thank you for taking the time to read about our referral model.
+
+If you can think of others who may benefit from some extra income, especially those working in business-to-business services, feel free to share this article with them.
