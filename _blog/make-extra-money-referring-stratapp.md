@@ -70,7 +70,7 @@ We keep it simple:
 
 1. **register** the potential client - by emailing sales@stratapp.ai, so we first check the potential client does not yet already belong to another referrer
 2. **introduce** the potential client
-3. **receive** % of SaaS fees - quarterly, when the client reaches 20 or more paid users
+3. **receive** % of SaaS fees - paid to you quarterly, when the client reaches 20 or more paid users
 
 ## how can I learn more?
 
