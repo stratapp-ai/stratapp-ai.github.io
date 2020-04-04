@@ -45,7 +45,7 @@ Rgds, <name>
 
 ***
 
-## who are the target clients?
+## who are the ideal clients?
 
 \#stratapp is sector, geography, culture and size agnostic.
 
