@@ -84,4 +84,4 @@ You may share these [useful links](https://support.stratapp.ai/portal/kb/article
 
 Thank you for taking the time to read about our referral model.
 
-If you can think of others who may benefit from making some extra money, especially those working in B2B services (e.g. consultants, coaches, agencies and professional services ... even lawyers!), feel free to share this article with them.
+If you can think of others who may benefit from making some extra money, especially those working in B2B services (e.g. consultants, coaches, agencies and professional services), feel free to share this article with them.
