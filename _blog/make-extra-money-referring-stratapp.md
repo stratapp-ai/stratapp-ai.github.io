@@ -16,7 +16,7 @@ feature_image: "/uploads/referring.jpg"
 ---
 ## why should I refer #stratapp?
 
-3 reasons why you should consider sharing #stratapp:
+There are 3 reasons to refer #stratapp:
 
 1. add value to others
 2. make money
