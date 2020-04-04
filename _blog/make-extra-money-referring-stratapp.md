@@ -12,8 +12,8 @@ banner_image: "/uploads/referring-2.jpg"
 slug: referring
 seo_title: 'make extra money referring #stratapp'
 seo_description: 'We have a generous referral model, making it fairly easy to achieve
-  US$40,000 per year from referring #stratapp to like minded team leaders, managers
-  and executives.'
+  US$40,000 per year from referring #stratapp to like minded team leaders, managers,
+  executives and business owners.'
 feature_image: "/uploads/referring-2.jpg"
 
 ---
