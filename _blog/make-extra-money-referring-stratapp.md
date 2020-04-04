@@ -74,7 +74,7 @@ We keep it simple:
 
 Please refer to this short slide deck on how to [make money referring #stratapp](http://bit.ly/make-money-referring-stratapp "make money referring #stratapp").
 
-## what assets may I share clients?
+## what assets may I share with clients?
 
 You may share these [useful links](https://support.stratapp.ai/portal/kb/articles/useful-links "useful links") with potential clients, especially the [quick overview](http://bit.ly/stratapp-quick-overview  "quick overview").
 
