@@ -50,7 +50,7 @@ Rgds, <name>
 
 \#stratapp suits most organizations, from 5 to 500,000 employees.
 
-You can refer #stratapp into any level of a potential client - a team leader, manager or executive.  It does not have to be the CEO, a CxO role or owner, even though those roles have the most influence and will see the competitive and valuation potential of #stratapp.
+You can refer #stratapp into any level of a potential client - a team leader, manager or executive.  It does not have to be the CEO, a CxO role or owner, even though those roles have the most influence and tend to see the competitive advantage and business valuation potential of #stratapp.
 
 ## what is the referral model?
 
