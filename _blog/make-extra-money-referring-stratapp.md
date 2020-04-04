@@ -5,7 +5,8 @@ category:
 date: 2019-09-12 06:06:45 +0000
 layout: blog
 title: 'make extra money referring #stratapp'
-sub_heading: we have a generous referral model
+sub_heading: we have a generous referral model and plans to rewrite the SaaS playbook
+  on sharing our success with those partners who help build the company
 video_id: ''
 banner_image: "/uploads/referring-2.jpg"
 slug: referring
