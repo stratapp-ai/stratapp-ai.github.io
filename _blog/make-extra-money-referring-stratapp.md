@@ -5,8 +5,8 @@ category:
 date: 2019-09-12T06:06:45.000+00:00
 layout: blog
 title: make money referring
-sub_heading: we have a generous referral model and a neat plan to rewrite the SaaS
-  playbook on sharing our success with those who help build the company
+sub_heading: we have a generous referral model and a plan to rewrite the SaaS playbook
+  on sharing our success with those who help build the company
 video_id: ''
 banner_image: "/uploads/referring-2.jpg"
 slug: referring
