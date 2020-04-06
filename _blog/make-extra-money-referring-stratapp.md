@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-12 06:06:45 +0000
+date: 2019-09-12T06:06:45.000+00:00
 layout: blog
 title: make money referring
 sub_heading: we have a generous referral model and a neat plan to rewrite the SaaS
@@ -33,17 +33,17 @@ By reaching out to your network.  For example, with a note like this:
 
 ***
 
-Hi {name} - have you come across [stratapp](https://stratapp.ai "stratapp"), thought I’d share it with you?
+_Hi {name} - have you come across_ [_stratapp_](https://stratapp.ai "stratapp")_, thought I’d share it with you?_
 
-\#stratapp is the world’s first strategy execution SaaS app to create a **connected workspace**, so organizations can achieve genuine engagement, alignment, [remote working](https://stratapp.ai/blog/working-remotely/ "remote working") and fast scaling within days.
+_#stratapp is the world’s first strategy execution SaaS app to create a **connected workspace**, so organizations can achieve genuine engagement, alignment,_ [_remote working_](https://stratapp.ai/blog/working-remotely/ "remote working") _and fast scaling within days._
 
-With #stratapp, teams can **seamlessly execute strategy and day to day work in one place**.
+_With #stratapp, teams can **seamlessly execute strategy and day to day work in one place**._
 
-Imagine [strategy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "2 tips for communicating strategy"), heatmap, [KPIs/OKRs](https://stratapp.ai/blog/KPI-software-OKR-software-short-version/ "KPIs OKRs"), planning, initiatives, [projects](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "project workboards"), tasks, [risks](https://stratapp.ai/blog/risk-management/ "risk management"), [ideation](https://stratapp.ai/blog/crowdsource-ideas-to-drive-ideation-and-innovation/ "ideation"), [live org chart](https://stratapp.ai/blog/live-org-chart-software/ "live org chart"), [live meetings notes](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "live meeting notes") and [next-gen](https://stratapp.ai/blog/radical-transparency/ "next gen and radical transparency") social collaboration (with context, [structure](https://stratapp.ai/blog/social-apps-with-structure-reduce-noise/ "social with structure"), [org-design](https://stratapp.ai/blog/social-collaboration-apps-with-org-design-and-structure-short-version/ "social with org design") and powerful filtering by role, time, context and post type) in one seamless experience. [10 apps in 1](https://stratapp.ai/blog/stratapp-explainer-video/ "10 apps in 1"), for about half the price of 1.
+_Imagine_ [_strategy_](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "2 tips for communicating strategy")_, heatmap,_ [_KPIs/OKRs_](https://stratapp.ai/blog/KPI-software-OKR-software-short-version/ "KPIs OKRs")_, planning, initiatives,_ [_projects_](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "project workboards")_, tasks,_ [_risks_](https://stratapp.ai/blog/risk-management/ "risk management")_,_ [_ideation_](https://stratapp.ai/blog/crowdsource-ideas-to-drive-ideation-and-innovation/ "ideation")_,_ [_live org chart_](https://stratapp.ai/blog/live-org-chart-software/ "live org chart")_,_ [_live meetings notes_](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "live meeting notes") _and_ [_next-gen_](https://stratapp.ai/blog/radical-transparency/ "next gen and radical transparency") _social collaboration (with context,_ [_structure_](https://stratapp.ai/blog/social-apps-with-structure-reduce-noise/ "social with structure")_,_ [_org-design_](https://stratapp.ai/blog/social-collaboration-apps-with-org-design-and-structure-short-version/ "social with org design") _and powerful filtering by role, time, context and post type) in one seamless experience._ [_10 apps in 1_](https://stratapp.ai/blog/stratapp-explainer-video/ "10 apps in 1")_, for about half the price of 1._
 
-\#stratapp is built on the secure and scalable Microsoft Service Fabric platform, hosted on Microsoft Azure and connects to #slack and Microsoft Teams.
+_#stratapp is built on the secure and scalable Microsoft Service Fabric platform, hosted on Microsoft Azure and connects to #slack and Microsoft Teams._
 
-I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you.
+_I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you._
 
 ***
 
