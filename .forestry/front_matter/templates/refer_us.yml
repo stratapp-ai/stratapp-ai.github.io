@@ -8,21 +8,30 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: description
-  label: description
-- type: datetime
-  name: publish_date
-  label: publish_date
-- type: text
-  name: seo_title
-  label: seo_title
-- type: text
-  name: seo_description
-  label: seo_description
-- type: text
-  name: feature_image
-  label: feature_image
-- type: text
-  name: slug
-  label: slug
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- name: sections
+  type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sections
