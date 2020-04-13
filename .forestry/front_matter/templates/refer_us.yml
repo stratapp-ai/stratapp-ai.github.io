@@ -35,3 +35,5 @@ fields:
     max: 
     labelField: 
   label: Sections
+pages:
+- refer-us.md
