@@ -35,5 +35,14 @@ fields:
     max: 
     labelField: 
   label: Sections
+- name: form_intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Form Intro
 pages:
 - refer-us.md
