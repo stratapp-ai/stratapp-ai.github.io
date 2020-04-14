@@ -6,7 +6,7 @@ layout: default
 {% endcomment %}
 
 
- 		<section class="l-section">
+ 		<section class="l-section-sm refer-intro">
           <div class="container container--small text-center">
 
            {{ content }}
@@ -22,38 +22,55 @@ layout: default
 
             <div class="col-md-8">
                 
-                some content here
+                <div class="section-content p-3 refer-content bg-lightblue">
+                {% for feature in page.sections %} 
+
+                  <div class="section-feature d-flex align-items-center" data-aos="flip-up" data-aos-delay="100">
+
+                    <div class="col-md-4 text-center p-1">
+                      <h5 class="feature-label bg-medblue font-weight-bold text-white">{{ feature.label }}</h5>
+                    </div>
+
+                    <div class="col-md-8">
+                      
+                      {{ feature.content | markdownify }}
+
+                    </div>
+                  </div>
+                {% endfor %} 
+                </div>
 
             </div>
 
             <div class="col-md-4">
               
-              <div class="form-outer bg-dark p-1 border-rounded">
+              <div class="refer-form form-outer bg-dark p-4" data-aos="flip-up" data-aos-delay="100">
 
-                <p class="text-white font-weight-bold text-left mb-1">refer form</p>
+                <div class="text-white text-left mb-2">{{ page.form_intro  | markdownify }}</div>
+
                      <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads4060852000005163001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4060852000005163001()' accept-charset='UTF-8'>
+                   
                      <input type='text' style='display:none;' name='xnQsjsdp' value='0e0451cf55ef81e789cc75a4b789b0167e95e8d9c42c171cead3a908db0d53f7'></input> 
                      <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
                      <input type='text' style='display:none;' name='xmIwtLD' value='d31b5dadb4fde283500edff1888d1231279b178e03bc272fada3ee7ae8e3d64c'></input> 
                      <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
-                     <input type='text' style='display:none;' name='returnURL' value='https://stratappsaas.com/thankyou' > </input><br></br>
+                     <input type='text' style='display:none;' name='returnURL' value='https://stratappsaas.com/thankyou' > </input>
 
-              
-                      <div class="col-sm-12 mb-1">
+                      <div class="form-element mb-2">
                         <label for="formInputFirstName" class="sr-only">first name</label>
-                        <input type="text" id="formInputFirstName" name='First Name' placeholder="first name" class="form-control form-control-lg">
+                        <input type="text" id="formInputFirstName" name='First Name' placeholder="first name" class="form-control form-control-sm">
                       </div>
-                      <div class="col-sm-12 mb-1">
+                      <div class="form-element mb-2">
                         <label for="formInputLastName" class="sr-only">last name</label>
-                        <input type="text" id="formInputLastName" name='Last Name' placeholder="last name" class="form-control form-control-lg">
+                        <input type="text" id="formInputLastName" name='Last Name' placeholder="last name" class="form-control form-control-sm">
                       </div>
-                      <div class="col-sm-12 mb-1">
+                      <div class="form-element mb-2">
                         <label for="formInputEmail" class="sr-only">email</label>
-                        <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control form-control-lg">
+                        <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control form-control-sm">
                       </div>
-                      <div class="col-md-12 mb-1">
+                      <div class="form-element mb-2">
                         <label for="formInputContactNumber" class="sr-only">Contact Number</label>
-                        <input type="text" id="formInputContactNumber" name="ContactNumber" placeholder="contact number" class="form-control form-control-lg">
+                        <input type="text" id="formInputContactNumber" name="ContactNumber" placeholder="contact number" class="form-control form-control-sm">
                       </div>
                     
                  
@@ -80,49 +97,50 @@ layout: default
                     </div>
 
 
-                      <script>
-                        var mndFileds=new Array('Last Name','Company');
-                        var fldLangVal=new Array('Last Name','Company'); 
-                        var name='';
-                        var email='';
+                     <script>
+                      var mndFileds=new Array('Last Name');
+                      var fldLangVal=new Array('Last Name'); 
+                      var name='';
+                      var email='';
 
-                        function checkMandatory4060852000000260001() {
-                        for(i=0;i<mndFileds.length;i++) {
-                          var fieldObj=document.forms['WebToLeads4060852000000260001'][mndFileds[i]];
-                          if(fieldObj) {
-                          if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
-                           if(fieldObj.type =='file')
-                            { 
-                             alert('Please select a file to upload.'); 
-                             fieldObj.focus(); 
-                             return false;
-                            } 
-                          alert(fldLangVal[i] +' cannot be empty.'); 
-                                  fieldObj.focus();
-                                  return false;
-                          }  else if(fieldObj.nodeName=='SELECT') {
-                                 if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
-                            alert(fldLangVal[i] +' cannot be none.'); 
-                            fieldObj.focus();
-                            return false;
-                             }
-                          } else if(fieldObj.type =='checkbox'){
-                           if(fieldObj.checked == false){
-                            alert('Please accept  '+fldLangVal[i]);
-                            fieldObj.focus();
-                            return false;
-                             } 
+                      function checkMandatory4060852000005163001() {
+                      for(i=0;i<mndFileds.length;i++) {
+                        var fieldObj=document.forms['WebToLeads4060852000005163001'][mndFileds[i]];
+                        if(fieldObj) {
+                        if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
+                         if(fieldObj.type =='file')
+                          { 
+                           alert('Please select a file to upload.'); 
+                           fieldObj.focus(); 
+                           return false;
+                          } 
+                        alert(fldLangVal[i] +' cannot be empty.'); 
+                                fieldObj.focus();
+                                return false;
+                        }  else if(fieldObj.nodeName=='SELECT') {
+                               if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
+                          alert(fldLangVal[i] +' cannot be none.'); 
+                          fieldObj.focus();
+                          return false;
+                           }
+                        } else if(fieldObj.type =='checkbox'){
+                         if(fieldObj.checked == false){
+                          alert('Please accept  '+fldLangVal[i]);
+                          fieldObj.focus();
+                          return false;
                            } 
-                           try {
-                               if(fieldObj.name == 'Last Name') {
-                            name = fieldObj.value;
-                              }
-                          } catch (e) {}
+                         } 
+                         try {
+                             if(fieldObj.name == 'Last Name') {
+                          name = fieldObj.value;
                             }
-                        }
-                        document.getElementById('formsubmit').disabled=true;
+                        } catch (e) {}
+                          }
                       }
-                    </script>
+                      document.getElementById('formsubmit').disabled=true;
+                    }
+                  </script>
+            
                   </form>
 
                 </div>
@@ -134,90 +152,4 @@ layout: default
 
 
       {% include signupform.html class="bg-dark text-white" %}
-
-
-
-      <!-- Note :
-   - You can modify the font style and form style to suit your website. 
-   - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code. 
-   - The Mandatory check script can modified as to suit your business needs. 
-   - It is important that you test the modified form before going live.-->
-<div id='crmWebToEntityForm' style='width:600px;margin:auto;'>
-   <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
-   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads4060852000005163001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4060852000005163001()' accept-charset='UTF-8'>
- <input type='text' style='display:none;' name='xnQsjsdp' value='0e0451cf55ef81e789cc75a4b789b0167e95e8d9c42c171cead3a908db0d53f7'></input> 
- <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
- <input type='text' style='display:none;' name='xmIwtLD' value='d31b5dadb4fde283500edff1888d1231279b178e03bc272fada3ee7ae8e3d64c'></input> 
- <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
- <input type='text' style='display:none;' name='returnURL' value='https://stratappsaas.com/thankyou' > </input><br></br>
-   <!-- Do not remove this code. -->
-  <style>
-    #crmWebToEntityForm tr , #crmWebToEntityForm td { 
-      padding:6px;
-      border-spacing:0px;
-      border-width:0px;
-      }
-  </style>
-  <table style='width:600px;background-color:#ffffff;background-color:white;color:black'><tr><td colspan='2' align='left' style='color:black;font-family:Arial;font-size:14px;word-break: break-word;'><strong>Referral Form</strong></td></tr> <br></br><tr><td  style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%;'>First Name</td><td style='width:40%;' ><input type='text' style='width:100%;box-sizing:border-box;'  maxlength='40' name='First Name' /></td><td style='width:30%;'></td></tr><tr><td  style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%;'>Last Name<span style='color:red;'>*</span></td><td style='width:40%;' ><input type='text' style='width:100%;box-sizing:border-box;'  maxlength='80' name='Last Name' /></td><td style='width:30%;'></td></tr><tr><td  style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%;'>Email</td><td style='width:40%;' ><input type='text' style='width:100%;box-sizing:border-box;'  maxlength='100' name='Email' /></td><td style='width:30%;'></td></tr><tr><td  style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%;'>Mobile</td><td style='width:40%;' ><input type='text' style='width:100%;box-sizing:border-box;'  maxlength='30' name='Mobile' /></td><td style='width:30%;'></td></tr><tr><td  style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%;'>Lead Source</td><td style='width:40%;'>
-    <select style='width:100%;box-sizing:border-box;' name='Lead Source'>
-      <option value='-None-'>-None-</option>
-      <option value='Data&#x20;Mining'>Data Mining</option>
-      <option value='Data&#x20;Mining&#x20;-&#x20;bycatch'>Data Mining - bycatch</option>
-      <option value='Dux&#x20;Soup'>Dux Soup</option>
-      <option value='Direct&#x20;Relationship'>Direct Relationship</option>
-      <option value='P2P&#x20;Referral'>P2P Referral</option>
-      <option value='B2B&#x20;Referral'>B2B Referral</option>
-      <option value='Partner&#x20;Referral'>Partner Referral</option>
-      <option value='Website'>Website</option>
-      <option value='Other'>Other</option>
-    </select></td><td style='width:30%;'></td></tr>
-
-  <tr><td colspan='2' style='text-align:center; padding-top:15px;font-size:12px;'>
-    <input style='margin-right: 5px;cursor: pointer;font-size:12px;color:#000000' id='formsubmit' type='submit' value='Submit'  ></input> <input type='reset' name='reset' style='cursor: pointer;font-size:12px;color:#000000' value='Reset' ></input> </td></tr></table>
-  <script>
-    var mndFileds=new Array('Last Name');
-    var fldLangVal=new Array('Last Name'); 
-    var name='';
-    var email='';
-
-    function checkMandatory4060852000005163001() {
-    for(i=0;i<mndFileds.length;i++) {
-      var fieldObj=document.forms['WebToLeads4060852000005163001'][mndFileds[i]];
-      if(fieldObj) {
-      if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
-       if(fieldObj.type =='file')
-        { 
-         alert('Please select a file to upload.'); 
-         fieldObj.focus(); 
-         return false;
-        } 
-      alert(fldLangVal[i] +' cannot be empty.'); 
-              fieldObj.focus();
-              return false;
-      }  else if(fieldObj.nodeName=='SELECT') {
-             if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
-        alert(fldLangVal[i] +' cannot be none.'); 
-        fieldObj.focus();
-        return false;
-         }
-      } else if(fieldObj.type =='checkbox'){
-       if(fieldObj.checked == false){
-        alert('Please accept  '+fldLangVal[i]);
-        fieldObj.focus();
-        return false;
-         } 
-       } 
-       try {
-           if(fieldObj.name == 'Last Name') {
-        name = fieldObj.value;
-          }
-      } catch (e) {}
-        }
-    }
-    document.getElementById('formsubmit').disabled=true;
-  }
-</script>
-  </form>
-</div>
-
      
