@@ -17,6 +17,8 @@ sections:
 - label: gain an edge
   content: "\\#stratapp is a big play, it is the next big thing in B2B SaaS, which
     can give you an edge as an employee, team leader, executive, consultant or advisor"
+form_intro: If you would like to discuss this in person, before referring, please
+  send this form, otherwise, you may go straight to the  "get started" button below.
 
 ---
 {:.font-weight-bold}
