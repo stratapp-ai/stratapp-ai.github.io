@@ -56,7 +56,7 @@ stratapp_features:
   feature_text: |-
     * radical transparency and trust
     * real-time alignment and collaboration
-    * way more than just a job, at all levels
+    * genuine digital transformation and remote working
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
   feature_text: |-
