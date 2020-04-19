@@ -5,48 +5,74 @@ layout: default
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
 
+    
+      <section class="bg-danger text-white c-refer-banner">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-5 c-refer-banner__left">
+              
+              {{ content }}
 
- 		<section class="l-section-sm refer-intro">
-          <div class="container container--small text-center">
-
-           {{ content }}
-
+            </div>
+            <div class="col-lg-7 d-none d-lg-flex align-items-center c-refer-banner__right">
+              <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
+            </div>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
+
 
       <section class="l-section-sm">
+
         <div class="container">
 
           <div class="row">
 
-            <div class="col-md-8">
+            <div class="col-md-12">
                 
-                <div class="section-content p-3 refer-content bg-lightblue">
-                {% for feature in page.sections %} 
+                
+              <div id="refer-content" role="tabpanel" aria-labelledby="refer-tabs" class="tab-pane">
 
-                  <div class="section-feature d-flex align-items-center" data-aos="flip-up" data-aos-delay="100">
-
-                    <div class="col-md-4 text-center p-1">
-                      <h5 class="feature-label bg-medblue font-weight-bold text-white">{{ feature.label }}</h5>
+                <div class="c-prices text-center">
+                  {% for feature in page.sections %} 
+                    
+                  <div class="c-price card mb-4 shadow-lg" data-aos="flip-up" data-aos-delay="100">
+                    <div class="card-header bg-primary text-white">
+                      <h3 class="my-0 c-price__title">{{ feature.label }}</h3>
                     </div>
-
-                    <div class="col-md-8">
-                      
-                      {{ feature.content | markdownify }}
-
+                    <div class="card-body">
+                      <div class="h6 mb-0 mt-1 l-spacing-up">{{ feature.content | markdownify }}</div>
                     </div>
                   </div>
-                {% endfor %} 
+                  
+                  {% endfor %}
+
                 </div>
 
+              </div>
+
+                
             </div>
 
-            <div class="col-md-4">
-              
-              <div class="refer-form form-outer bg-primary p-4" data-aos="flip-up" data-aos-delay="100">
+        
 
-                <div class="text-white text-left mb-2">{{ page.form_intro  | markdownify }}</div>
+          </div>
+
+        </div>
+
+      </section>
+
+      <section class="section-enquiry bg-light l-section-sm">
+
+      <div class="container">
+
+        <div class="row d-flex justify-content-center">
+
+            <div class="col-md-8">
+              
+              <div class="refer-form form-outer" data-aos="flip-up" data-aos-delay="100">
+
+                <div class="text-dark text-center mb-4 l-spacing-up">{{ page.form_intro  | markdownify }}</div>
 
                      <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads4060852000005163001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4060852000005163001()' accept-charset='UTF-8'>
                    
@@ -55,24 +81,26 @@ layout: default
                      <input type='text' style='display:none;' name='xmIwtLD' value='d31b5dadb4fde283500edff1888d1231279b178e03bc272fada3ee7ae8e3d64c'></input> 
                      <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
                      <input type='text' style='display:none;' name='returnURL' value='https://stratappsaas.com/thankyou' > </input>
-
-                      <div class="form-element mb-2">
-                        <label for="formInputFirstName" class="sr-only">first name</label>
-                        <input type="text" id="formInputFirstName" name='First Name' placeholder="first name" class="form-control form-control-sm">
-                      </div>
-                      <div class="form-element mb-2">
-                        <label for="formInputLastName" class="sr-only">last name</label>
-                        <input type="text" id="formInputLastName" name='Last Name' placeholder="last name" class="form-control form-control-sm">
-                      </div>
-                      <div class="form-element mb-2">
-                        <label for="formInputEmail" class="sr-only">email</label>
-                        <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control form-control-sm">
-                      </div>
-                      <div class="form-element mb-2">
-                        <label for="formInputContactNumber" class="sr-only">Contact Number</label>
-                        <input type="text" id="formInputContactNumber" name="ContactNumber" placeholder="contact number" class="form-control form-control-sm">
-                      </div>
                     
+                    <div class="row">
+
+                      <div class="form-element mb-3 col-md-6">
+                        <label for="formInputFirstame" class="sr-only">first name</label>
+                        <input type="text" id="formInputFirstName" name='First Name' placeholder="first name" class="form-control refer-form-control rounded-pill mb-3 mb-lg-0">
+                      </div>
+                      <div class="form-element mb-3 col-md-6">
+                        <label for="formInputLastName" class="sr-only">last name</label>
+                        <input type="text" id="formInputLastName" name='Last Name' placeholder="last name" class="form-control refer-form-control rounded-pill mb-3 mb-lg-0">
+                      </div>
+                      <div class="form-element mb-3 col-md-6">
+                        <label for="formInputEmail" class="sr-only">email</label>
+                        <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control refer-form-control rounded-pill mb-3 mb-lg-0">
+                      </div>
+                      <div class="form-element mb-3 col-md-6">
+                        <label for="formInputContactNumber" class="sr-only">Contact Number</label>
+                        <input type="text" id="formInputContactNumber" name="ContactNumber" placeholder="contact number" class="form-control refer-form-control rounded-pill mb-3 mb-lg-0">
+                      </div>
+                    </div>
                  
                     <select style='display:none;width:250px;' name='Lead Source'>
                       <option value='-None-'>-None-</option>
@@ -92,8 +120,8 @@ layout: default
                       <option value='other'>other</option>
                     </select>
 
-                    <div class="text-right">
-                      <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
+                    <div class="text-center">
+                      <button type="submit" id="formsubmit" class="btn btn-primary rounded-pill">Submit</button>
                     </div>
 
 
@@ -148,11 +176,6 @@ layout: default
 
                 </div>
 
-                <div class="text-center mt-3 d-block">
-                      
-                      <a class="btn btn-primary" href="https://bit.ly/make-money-referring-stratapp" target="_blank">get started</a>
-
-                </div>
 
               </div>
         </div>

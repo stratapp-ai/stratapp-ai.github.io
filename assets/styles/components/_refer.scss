@@ -1,3 +1,37 @@
+$hero-banner-section-left-padding-y: 9.25rem;
+
+.c-refer-banner {
+	overflow: hidden;
+
+	&__left {
+	    padding-top: $hero-banner-section-left-padding-y / 2.5;
+	    padding-bottom: $hero-banner-section-left-padding-y / 2.5;
+	}
+	&__right {
+        padding-left: 5rem;
+        img {
+        	height: 90%;
+        }
+	}
+}
+@include media-breakpoint-up(lg) {
+	.c-refer-banner {
+		background: linear-gradient(100deg, darken($red, 5%) 46%, $red 46%);
+
+		&__left {
+			// padding-top: $hero-banner-section-left-padding-y;
+		 //    padding-bottom: $hero-banner-section-left-padding-y;
+
+		    h1 {
+		    	font-size: 3.125rem;
+		    }
+		}
+	}
+}
+.l-spacing-up {
+	line-height: 1.4;
+}
+
 .refer-intro {
 	h1 {
 		font-size: 3rem;
@@ -19,24 +53,31 @@
 		font-weight: 600;
 	}
 }
-.refer-content {
-	border-radius: 10px;
-	
-	.section-feature {
-		padding: 1em 0;
+#refer-content {
+	.c-price .card-header {
+		padding-top: 1.5rem;
+    	padding-bottom: 1.5rem;
 	}
-
-	.feature-label {
-		border-radius: 10px;
-		background: lighten($blue,10%);
-		padding: 0.75em 1em;
+	.c-price .card-body {
+		padding-top: 1.5rem;
+    	padding-bottom: 1.5rem;
+    	padding-left: 1.9rem;
+    	padding-right: 1.9rem;
+    	p {
+    		margin-bottom: 0.5em;
+    	}
+	}
+	.c-price__title {
+		font-size: 2rem;
 	}
 }
 
 .refer-form {
-	border-radius: 10px;
 
 	p {
 		margin-bottom: 0;
+	}
+	.refer-form-control {
+		border-color: $dark;
 	}
 }
