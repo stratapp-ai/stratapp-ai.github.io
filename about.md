@@ -27,7 +27,7 @@ section_text: "{:.font-weight-bold}\n\n### execution rarely meets expectations\n
   one place.\n\nWe did not invent new management buzz words, theory or methods. We
   have carefully designed #stratapp on what you already know.\n\nYour time-to-value
   on #stratapp is days - not weeks or months."
-section_image: "/uploads/all generations.jpg"
+section_image: "/uploads/about us - top down image.JPG"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
 seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
