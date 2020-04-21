@@ -46,7 +46,7 @@ menu:
     weight: 4
 
 ---
-{:.font-weight-bold}
+.font-weight-bold}
 
 # world's first strategy execution SaaS app to create a connected workspace across strategic and day to day work - save time, focus on what matters
 
