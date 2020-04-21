@@ -5,7 +5,7 @@ intro_text: |-
   {:.text-danger}
   {:.font-weight-bold}
 
-  ### your time-to-value is days
+  ### time-to-value is days, not months
 
   1 day to set-up.
 
