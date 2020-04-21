@@ -22,11 +22,11 @@ intro_image: "/uploads/collaboration.jpg"
 section_text: "{:.font-weight-bold}\n\n### execution rarely meets expectations\n\nFor
   30 years strategy formation, communication and execution has been flawed.\n\nThe
   age old paradigm of top-down static docs doesn't work.  For most organizations,
-  executing strategy has rarely met expectations. \n\nIt is time we fixed this.\n\nWe
-  have created a seamless user experience for executing both strategic and day-to-day
-  work, in one place.\n\nWe did not invent new management buzz words, theories or
-  methods. We have carefully designed #stratapp on what you already know.\n\nSo your
-  time-to-value on #stratapp is days - not weeks or months."
+  executing strategy has rarely met expectations. \n\nIt is time we fixed this.\n\n\\#stratapp
+  has created a seamless user experience for executing both strategic and day-to-day
+  work, in one place, in one simple app.\n\nWe did not invent new management buzz
+  words, theories or methods. We carefully designed the experience to what you already
+  know.\n\nSo your time-to-value on #stratapp is days - not weeks or months."
 section_image: "/uploads/website - about us - top down slide.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
