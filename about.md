@@ -5,7 +5,7 @@ intro_text: |-
   {:.text-danger}
   {:.font-weight-bold}
 
-  ### time-to-value is days, not months
+  ### time-to-value is fast, real fast
 
   1 day to set-up.
 
