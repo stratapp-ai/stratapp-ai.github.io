@@ -24,7 +24,7 @@ section_text: |-
 
   ### we are experienced SaaS founders, with a 10 year vision backed by investors who are market leaders
 
-  For 30 years strategy formation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back.  Strategy execution has rarely met expectations. It is time we fixed this.
+  For 30 years strategy formation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back.  Strategy execution rarely meets expectations. It is time we fixed this.
 
   We have innovated to create a seamless experience for executing both strategic and day-to-day work, in one place.
 
