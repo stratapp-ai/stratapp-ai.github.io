@@ -20,7 +20,7 @@ intro_image: "/uploads/all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we are rethinking SaaS playbooks on time-to-value
+  ### we are rethinking the B2B SaaS playbook on time-to-value
 
   1 day to set-up.
 
