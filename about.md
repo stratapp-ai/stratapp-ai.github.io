@@ -19,14 +19,22 @@ intro_text: |-
 
   Your time-to-value on #stratapp is days - not weeks or months.
 intro_image: "/uploads/collaboration.jpg"
-section_text: "{:.font-weight-bold}\n\n### execution rarely meets expectations\n\nFor
-  30 years strategy formation, communication and execution has been flawed. \n\nThe
-  age old paradigms of static docs and top down control are holding us back.  Strategy
-  execution has rarely met expectations. It is time we fixed this.\n\nWe have created
-  a seamless user experience for executing both strategic and day-to-day work, in
-  one place.\n\nWe did not invent new management buzz words, theory or methods. We
-  have carefully designed #stratapp on what you already know.\n\nYour time-to-value
-  on #stratapp is days - not weeks or months."
+section_text: |-
+  {:.font-weight-bold}
+
+  ### execution rarely meets expectations
+
+  For 30 years strategy formation, communication and execution has been flawed.
+
+  The age old paradigms of static docs and top down control are holding us back.  Executing strategy rarely meets expectations.
+
+  It is time we fixed this.
+
+  We have created a seamless user experience for executing both strategic and day-to-day work, in one place.
+
+  We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp on what you already know.
+
+  Your time-to-value on #stratapp is days - not weeks or months.
 section_image: "/uploads/website - about us - top down slide.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
@@ -46,8 +54,6 @@ menu:
     weight: 4
 
 ---
-.font-weight-bold}
-
 # world's first strategy execution SaaS app to create a connected workspace across strategic and day to day work - save time, focus on what matters
 
 ##### imagine strategy, heatmap, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, live org chart, live meetings notes and next-gen social collaboration (with context, structure, @org-design and powerful filtering by role, time, context and post type) in one seamless experience
