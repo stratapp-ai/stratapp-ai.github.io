@@ -11,28 +11,28 @@ intro_text: |-
 
   3 weeks to achieve digital transformation, on clear ground rules that include leading by example and eliminating internal email.
 
-  Start with one grouping of 10 to 100 people.  After 3 weeks, rollout progressively by level, function or geography.
+  Start with one grouping of 10 to 100 people.  After 3 weeks, roll out progressively by level, function or geography.
 
   Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage our coaching partner.
 
-  Rollout in 4 easy phases, as explained here.
+  Roll out in 4 easy phases, as explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
 
-  Your time-to-value on #stratapp is days - not months, quarters or years.
+  Your time-to-value on #stratapp is days - not weeks or months.
 intro_image: "/uploads/all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
 
   ### we are experienced SaaS founders, with a 10 year vision backed by investors who are market leaders
 
-  For 30 years strategy formation, documentation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back.  Strategy execution rarely meets expectations.
+  For 30 years strategy formation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back.  Strategy execution has rarely met expectations.
 
   It is time we fixed this.
 
-  We embraced progressive thinking in social and work collaboration tech, to create a seamless experience for executing both strategy and day-to-day work, in one place.
+  We have embraced progressive thinking in social and work collaboration tech, to create a seamless experience for executing both strategic and day-to-day work, in one place.
 
-  We did not invent new management buzz words, theory or methods. We carefully designed #stratapp around what you already know.
+  We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp on what you already know.
 
-  Therefore, your time-to-value on #stratapp is days - not weeks or months.
+  Your time-to-value on #stratapp is days - not weeks or months.
 section_image: "/uploads/collaborating.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
