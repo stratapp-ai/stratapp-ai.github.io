@@ -30,9 +30,9 @@ section_text: |-
 
   We have created a seamless user experience for executing both strategic and day-to-day work, in one place.
 
-  We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp on what you already know.
+  We did not invent new management buzz words, theories or methods. We have carefully designed #stratapp on what you already know.
 
-  Your time-to-value on #stratapp is days - not weeks or months.
+  So your time-to-value on #stratapp is days - not weeks or months.
 section_image: "/uploads/website - about us - top down slide.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
