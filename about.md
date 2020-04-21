@@ -38,8 +38,7 @@ seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, i
   challenges, live meeting notes and social collaboration in one seamless user experience
 seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
   planning, initiatives, projects, tasks, risks, ideas, challenges, live meeting notes
-  and social collaboration in one seamless user experience. 10-apps-in-1, for about
-  half the price of one. You'll love #stratapp."
+  and social collaboration in one seamless user experience. You'll love #stratapp."
 footer_cta: |-
   ### **join us and other CxOs**
 
