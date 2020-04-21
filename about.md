@@ -7,11 +7,11 @@ intro_text: |-
 
   ### we are experienced SaaS founders, with a 10 year vision backed by investors who are market leaders
 
-  For 30 years strategy formation, documentation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back. It is a global problem, affecting most organizations regardless of size, sector, culture or country.
+  For 30 years strategy formation, documentation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back, such that strategy execution rarely meets expectations.
 
   It is time we fixed this.
 
-  We embraced the progressive thinking in social and work collaboration tech of the last 11 years, to create a seamless experience for executing both strategy and day-to-day work, in one place.
+  We embraced progressive thinking in social and work collaboration tech, to create a seamless experience for executing both strategy and day-to-day work, in one place.
 
   We did not invent new management buzz words, theory or methods. We carefully designed #stratapp around what you already know.
 
