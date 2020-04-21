@@ -5,7 +5,7 @@ intro_text: |-
   {:.text-danger}
   {:.font-weight-bold}
 
-  ### we are rethinking the B2B SaaS playbook on time-to-value
+  ### your time-to-value is days
 
   1 day to set-up.
 
