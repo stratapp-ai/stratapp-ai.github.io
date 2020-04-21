@@ -21,11 +21,11 @@ intro_text: |-
 intro_image: "/uploads/collaboration.jpg"
 section_text: "{:.font-weight-bold}\n\n### execution rarely meets expectations\n\nFor
   30 years strategy formation, communication and execution has been flawed. \n\nThe
-  age old paradigms of static documents and top down control are holding us back.
-  \ Strategy execution has rarely met expectations. Time we fixed this.\n\nWe have
-  created a seamless user experience for executing both strategic and day-to-day work,
-  in one place.\n\nWe did not invent new management buzz words, theory or methods.
-  We have carefully designed #stratapp on what you already know.\n\nYour time-to-value
+  age old paradigms of static docs and top down control are holding us back.  Strategy
+  execution has rarely met expectations. It is time we fixed this.\n\nWe have created
+  a seamless user experience for executing both strategic and day-to-day work, in
+  one place.\n\nWe did not invent new management buzz words, theory or methods. We
+  have carefully designed #stratapp on what you already know.\n\nYour time-to-value
   on #stratapp is days - not weeks or months."
 section_image: "/uploads/all generations.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
