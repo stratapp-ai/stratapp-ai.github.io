@@ -22,11 +22,15 @@ section_text: |-
 
   ### we are rethinking SaaS playbooks on time-to-value
 
-  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the clients to figure out implementation, putting forward a list of 'preferred partners' who offer different advice, methodologies, resources and pricing.
+  1 day to set-up.
 
-  In contrast, we have actually designed the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
+  3 weeks to achieve digital transformation, on clear ground rules that include leading by example and eliminating internal email.
 
-  Why?  We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
+  Start with one grouping of 10 to 100 people.  After 3 weeks, rollout progressively by level, function or geography.
+
+  Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage our coaching partner.
+
+  Rollout in 4 easy phases, as explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
 
   Your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
