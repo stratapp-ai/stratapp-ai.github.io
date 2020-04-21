@@ -27,5 +27,3 @@ form_intro: |-
 # be rewarded, <br>we have a generous referral model
 
 ##### you do the warm intro, we do the follow-up
-
-<a class="btn btn-primary rounded-pill mt-3" href="https://bit.ly/make-money-referring-stratapp" target="_blank">get started</a>
