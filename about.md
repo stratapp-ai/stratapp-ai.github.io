@@ -18,7 +18,7 @@ intro_text: |-
   Roll out in 4 easy phases, as explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
 
   Your time-to-value on #stratapp is days - not weeks or months.
-intro_image: "/uploads/all generations.jpg"
+intro_image: "/uploads/collaboration.jpg"
 section_text: |-
   {:.font-weight-bold}
 
@@ -33,7 +33,7 @@ section_text: |-
   We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp on what you already know.
 
   Your time-to-value on #stratapp is days - not weeks or months.
-section_image: "/uploads/collaborating.jpg"
+section_image: "/uploads/all generations.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
 seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
