@@ -26,9 +26,7 @@ section_text: |-
 
   For 30 years strategy formation, communication and execution has been flawed.
 
-  The old paradigms of top-down and static docs are holding us back.  For most organizations, executing strategy rarely meets expectations.
-
-  It is time we fixed this.
+  The old paradigms of top-down and static docs are holding us back.  For most organizations, executing strategy rarely meets expectations. It is time we fixed this.
 
   We have created a seamless user experience for executing both strategic and day-to-day work, in one place.
 
