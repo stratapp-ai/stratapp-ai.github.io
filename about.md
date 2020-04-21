@@ -26,7 +26,7 @@ section_text: |-
 
   For 30 years strategy formation, communication and execution has been flawed. The age old paradigms of static documents and top down control are holding us back.  Strategy execution rarely meets expectations. It is time we fixed this.
 
-  We have innovated to create a seamless experience for executing both strategic and day-to-day work, in one place.
+  We have created a seamless user experience for executing both strategic and day-to-day work, in one place.
 
   We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp on what you already know.
 
