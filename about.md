@@ -46,6 +46,6 @@ menu:
     weight: 4
 
 ---
-# world's first strategy execution SaaS app to create a connected workspace across strategic and day to day work - save time, focus on what matters
+# world's first strategy execution SaaS app to create a connected workspace across all levels of strategic and day to day work - save everyone time, focus on what matters
 
 ##### imagine strategy, heatmap, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, live org chart, live meetings notes and next-gen social collaboration (with context, structure, @org-design and powerful filtering by role, time, context and post type) in one seamless experience
