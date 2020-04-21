@@ -51,6 +51,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# #stratapp is the world's first strategy execution SaaS app to create a connected workspace - engagement, alignment, digital transformation & remote working
+# world's first strategy execution SaaS app to create a connected workspace - save time, focus on what matters
 
-##### Imagine strategy, heatmap, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, live org chart, live meetings notes and next-gen social collaboration (with context, structure, @org-design and powerful filtering by role, time, context and post type) in one seamless experience. 10 apps in 1, for about half the price of 1.  #stratapp is built on the secure and scalable Microsoft Service Fabric platform, hosted on Microsoft Azure and connects to #slack and Microsoft Teams.
+##### Imagine strategy, heatmap, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, live org chart, live meetings notes and next-gen social collaboration (with context, structure, @org-design and powerful filtering by role, time, context and post type) in one seamless experience. 10 apps in 1, for about half the price of 1.  
