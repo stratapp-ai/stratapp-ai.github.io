@@ -3,24 +3,24 @@ title: refer us
 layout: refer-us
 description: refer
 publish_date: '2019-12-03T14:00:00.000+00:00'
-seo_title: ask a question or become a partner
+seo_title: 'make money referring #stratapp'
 seo_description: refer
 feature_image: "/uploads/refer-image.svg"
 slug: refer-us
 sections:
 - label: add value
   content: you will be helping employees, team leaders, managers, CEOs and owners
-    to achieve genuine engagement, alignment and success on strategy execution
+    to achieve genuine engagement, alignment and success on execution
 - label: make money
   content: for every 5 clients of \~1,000 paid users, that’s **US$41,400/year** paid
     to you
 - label: gain an edge
   content: "\\#stratapp is a big play, it is the next big thing in B2B SaaS, which
-    can give you an edge as an employee, team leader, executive, consultant or advisor"
-form_intro: |-
-  ## lets discuss 
-  If you would like to discuss this in person, before referring, please send this form, 
-  otherwise, you may go straight to the  "get started" button above.
+    can give you an edge as an employee, team leader, executive or advisor"
+form_intro: "## lets discuss \nIf you would like to discuss this in person, before
+  referring, please send this form, \notherwise, you may go straight to the  \"get
+  started\" button above."
+
 ---
 {:.font-weight-bold}
 
