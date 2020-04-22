@@ -42,9 +42,9 @@ seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/
   planning, initiatives, projects, tasks, risks, ideas, challenges, live meeting notes
   and social collaboration in one seamless user experience. You'll love #stratapp."
 footer_cta: |-
-  ### **join us and other CxOs**
+  ### we'd love to show you #stratapp
 
-  <a class="bookademo-btn btn btn-danger text-white rounded-pill">book an demo</a>
+  <a class="bookademo-btn btn btn-danger text-white rounded-pill">book a demo</a>
 footer_image_background: "/uploads/bottom-banner-bg.png"
 feature_image: "/uploads/collaborating.jpg"
 slug: ''
