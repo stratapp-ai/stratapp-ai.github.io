@@ -30,11 +30,11 @@ section_text: |-
 
   It is time we fixed this.
 
-  \#stratapp has created a seamless user experience for executing both strategic and day-to-day work, in one place, in one simple app.
+  \#stratapp has created a seamless experience for executing both strategic and day-to-day work, in one place, in one simple app.
 
-  We did not invent new management buzz words, theories or methods. We carefully designed the experience to what you already know.
+  We didn't invent new buzz words, theories or methods. We carefully designed the experience around what you already know.
 
-  So your time-to-value on #stratapp is days - not weeks or months.
+  Your time-to-value on #stratapp is days - not weeks or months.
 section_image: "/uploads/website - about us - top down slide.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
