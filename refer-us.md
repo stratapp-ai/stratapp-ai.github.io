@@ -5,7 +5,7 @@ description: refer
 publish_date: '2019-12-03T14:00:00.000+00:00'
 seo_title: 'make money referring #stratapp'
 seo_description: refer
-feature_image: "/uploads/refer-image.svg"
+feature_image: "/uploads/refer us.JPG"
 slug: refer-us
 sections:
 - label: add value
