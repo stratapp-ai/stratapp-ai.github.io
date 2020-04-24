@@ -17,10 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# thought leaders in strategy, execution and B2B SaaS
+# these resources inspire us
 
-##### “Those who know _what_  they do, tend to work harder. Those who know _why_, tend to work smarter.”
-
-{:.font-italic}
-
-##### - Simon Sinek -
+##### we've taken a moment to share how each of them are relevant to #stratapp
