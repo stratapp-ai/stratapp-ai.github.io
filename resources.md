@@ -19,4 +19,4 @@ menu:
 
 # these resources inspire us
 
-##### we've taken a moment to share how each of them are relevant to #stratapp
+##### we've taken a moment to share and explain how each are relevant to #stratapp
