@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# these resources inspire us
+# these thought leaders inspire us
 
-##### we've taken a moment to share and explain how each are relevant to #stratapp
+##### we've taken a moment to explain how each are relevant to #stratapp
