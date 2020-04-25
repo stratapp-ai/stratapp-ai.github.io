@@ -9,7 +9,7 @@ intro_text: |-
 
   1 day to set-up.
 
-  3 weeks to achieve digital transformation, on clear ground rules that include leading by example and eliminating internal email.
+  3 weeks to achieve genuine and sustainable digital transformation, on clear ground rules that include leading by example and eliminating internal email.
 
   Start with one grouping of 10 to 100 people.  After 3 weeks, roll out progressively by level, function or geography.
 
