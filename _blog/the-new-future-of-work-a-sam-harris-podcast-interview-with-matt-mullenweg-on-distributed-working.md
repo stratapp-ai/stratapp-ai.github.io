@@ -51,7 +51,7 @@ Hence my awkward realization. Matt Mullenweg can explain the value of #stratapp,
 
 ### matching Matt’s thinking to #stratapp’s features
 
-Here are a few examples of the existing out-of-the-box features inside #stratapp, as they directly correspond to the capabilities Matt describes in his conversation with Sam:
+Here are a few examples of the [existing out-of-the-box features inside #stratapp](https://stratappsaas.com/features/ "stratapp's features"), as they directly correspond to the capabilities Matt describes in his conversation with Sam:
 
 1. **Live Meeting Notes** - Matt articulates the importance of live meeting notes, to reflect the shared understanding on what’s agreed to. This is a core feature of #stratapp (including a timed agenda, live editing, private notes, social chat, links and meeting actions that automatically appear in your workspace). You can link the Live Meeting Note to any workboard or card (strategy, KPI, risk, idea or task) inside #stratapp, so you can easily keep track of what Live Meeting Notes belong to what, and easily navigate back to the source.
 2. **Social with Context** - Automattic have configured an internal blogging solution, so that the organization can collaborate on topics, with nested conversations, including search and keyword trending. This is built into #stratapp. Not only that, those nested and searchable social conversations take place on each card or workboard, giving immediate context to the social conversations and appropriate notifications. #stratapp presentes global hashtag popular vs trending data, and trending conversations are presented for strategy and KPIs. Imagine all that, combined with powerful filters and one click access to the source and context.
