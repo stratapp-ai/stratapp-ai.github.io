@@ -68,7 +68,7 @@ Upon reflection, I wish I had reached out to Matt a few years ago as we were sta
 
 \#stratapp makes it easy to provide all levels of your organization with purpose, autonomy and transparency.  #stratapp is the world's first SaaS product to bring together strategy, KPIs/OKRs, people and work into one seamless experience:
 
-![](/uploads/line of sight.PNG)
+![](/uploads/connected workspace.JPG)
 
 ## distributed working - journey success
 
