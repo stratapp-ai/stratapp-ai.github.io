@@ -64,7 +64,7 @@ Here are a few examples of the existing out-of-the-box features inside #stratapp
 
 Upon reflection, I wish I had reached out to Matt a few years ago as we were starting our journey on product design. I think he would have saved us a few iterations to arrive at the wonderful UX and roadmap we have now.
 
-## distributed working - purpose, autonomy & transparency
+## distributed working - connected workspace
 
 \#stratapp makes it easy to provide all levels of your organization with purpose, autonomy and transparency.  #stratapp is the world's first SaaS product to bring together strategy, KPIs/OKRs, people and work into one seamless experience:
 
@@ -72,6 +72,6 @@ Upon reflection, I wish I had reached out to Matt a few years ago as we were sta
 
 ## distributed working - journey success
 
-I recommend listening to Sam Harris’ podcast conversation, The New Future of Work, with Matt Mullenweg, and as you start to think about your organization's journey to what Matt describes as levels 3, 4 and 5, I encourage you to embrace #stratapp.
+I recommend listening to [Sam Harris’ podcast conversation, The New Future of Work, with Matt Mullenweg](https://samharris.org/podcasts/194-new-future-work/ "The New Future of Work"), and as you start to think about your organization's journey to what Matt describes as levels 3, 4 and 5, I encourage you to embrace #stratapp.
 
 \#stratapp will make your journey through levels 3 and 4, and then onto 5, so much easier.
