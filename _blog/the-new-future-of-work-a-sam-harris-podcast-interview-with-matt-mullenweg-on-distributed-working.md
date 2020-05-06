@@ -64,7 +64,7 @@ Here are a few examples of the existing out-of-the-box features inside #stratapp
 
 Upon reflection, I wish I had reached out to Matt a few years ago as we were starting our journey on product design. I think he would have saved us a few iterations to arrive at the wonderful UX and roadmap we have now.
 
-## distributed working - seamless UX
+## distributed working - seamless EX
 
 \#stratapp makes it easy to provide all levels of your organization with purpose, autonomy and transparency.  #stratapp is the world's first SaaS product to bring together strategy, KPIs/OKRs, people and work into one seamless experience:
 
