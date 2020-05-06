@@ -62,6 +62,8 @@ Here are a few examples of the [existing out-of-the-box features inside #stratap
 7. **Output Matters, not the Hours Worked** - Matt talks about removing the hard-wired lizard-brain bias we all have. One thing I love with #stratapp, is being able to see the work of all levels in the organization, and to interact within the context of that work. Output is what matters, and #stratapp helps you achieve Ray Dalio’s thinking on an ideas meritocracy - an environment where the best idea wins, not those of positional power. I also love the bottom-up accountability. When a person 4-5 management levels below asks me a question on a card or workboard inside #stratapp, I feel compelled to answer thoughtfully and timely, as a bunch of our colleagues at all levels will probably see the interaction.
 8. **Well Being & Work:Life Balance** - this is a core value of Automattic and we have some exciting ideas for our product roadmap. Right now we add value through real time clarity, structure and context - we give a purpose to the work and we power autonomy. We also kill about 95% of internal email without flooding users with a firehose of random social posts - that alone seems to elevate employee well being.
 
+### should've reached out to Matt a few years ago
+
 Upon reflection, I wish I had reached out to Matt a few years ago as we were starting our journey on product design. I think he would have saved us a few iterations to arrive at the wonderful UX and roadmap we have now.
 
 ## distributed working - seamless EX
