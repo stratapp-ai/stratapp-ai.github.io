@@ -23,7 +23,7 @@ feature_image: "/uploads/distributed working levels -matt mullenweg.jpg"
 ---
 [Sam Harris’ podcast conversation, The New Future of Work, with Matt Mullenweg](https://samharris.org/podcasts/194-new-future-work/ "The New Future of Work") is truly inspiring.
 
-Matt is the founder of [Automattic](https://automattic.com/ "Automattic"), the company behind Wordpress.com, Tumblr and WooCommerce. Every day, every employee at Automattic works from wherever they want to. Automattic does not have offices. Automattic has \~1,200 employees working from 75 countries and speaking over 90 languages.
+Matt is the founder of Automattic, the company behind Wordpress.com, Tumblr and WooCommerce. Every day, every employee at Automattic works from wherever they want to. Automattic does not have offices. Automattic has \~1,200 employees working from 75 countries and speaking over 90 languages.
 
 After listening to their conversation, I’ll now have to stop myself using the term “remote working”. Remote from what? Distributed working, with no offices to be remote from, is the new future of work.
 
@@ -51,7 +51,7 @@ Hence my awkward realization. Matt Mullenweg can explain the value of #stratapp,
 
 ### matching Matt’s thinking to #stratapp’s features
 
-Here are a few examples of the [existing out-of-the-box features inside #stratapp](https://stratappsaas.com/features/ "stratapp's features"), as they directly correspond to the capabilities Matt describes in his conversation with Sam:
+Here are a few examples of the existing out-of-the-box features inside #stratapp, as they directly correspond to the capabilities Matt describes in his conversation with Sam:
 
 1. **Live Meeting Notes** - Matt articulates the importance of live meeting notes, to reflect the shared understanding on what’s agreed to. This is a core feature of #stratapp (including a timed agenda, live editing, private notes, social chat, links and meeting actions that automatically appear in your workspace). You can link the Live Meeting Note to any workboard or card (strategy, KPI, risk, idea or task) inside #stratapp, so you can easily keep track of what Live Meeting Notes belong to what, and easily navigate back to the source.
 2. **Social with Context** - Automattic have configured an internal blogging solution, so that the organization can collaborate on topics, with nested conversations, including search and keyword trending. This is built into #stratapp. Not only that, those nested and searchable social conversations take place on each card or workboard, giving immediate context to the social conversations and appropriate notifications. #stratapp presentes global hashtag popular vs trending data, and trending conversations are presented for strategy and KPIs. Imagine all that, combined with powerful filters and one click access to the source and context.
@@ -62,9 +62,7 @@ Here are a few examples of the [existing out-of-the-box features inside #stratap
 7. **Output Matters, not the Hours Worked** - Matt talks about removing the hard-wired lizard-brain bias we all have. One thing I love with #stratapp, is being able to see the work of all levels in the organization, and to interact within the context of that work. Output is what matters, and #stratapp helps you achieve Ray Dalio’s thinking on an ideas meritocracy - an environment where the best idea wins, not those of positional power. I also love the bottom-up accountability. When a person 4-5 management levels below asks me a question on a card or workboard inside #stratapp, I feel compelled to answer thoughtfully and timely, as a bunch of our colleagues at all levels will probably see the interaction.
 8. **Well Being & Work:Life Balance** - this is a core value of Automattic and we have some exciting ideas for our product roadmap. Right now we add value through real time clarity, structure and context - we give a purpose to the work and we power autonomy. We also kill about 95% of internal email without flooding users with a firehose of random social posts - that alone seems to elevate employee well being.
 
-### should have reached out to Matt years ago
-
-Upon reflection, I wish I had reached out to Matt a few years ago as we were starting our journey on product design. I think he would have saved us a few iterations to arrive at the wonderful UX and roadmap we have now.
+Upon reflection, I wish I had reached out to Matt a few years ago as we were starting our journey on product design. I think he would have saved us a few iterations and lots of time to arrive at the wonderful UX and roadmap we have now.
 
 ## distributed working - seamless EX
 
