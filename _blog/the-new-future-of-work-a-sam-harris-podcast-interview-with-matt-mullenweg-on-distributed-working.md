@@ -12,7 +12,7 @@ video_id: ''
 banner_image: "/uploads/distributed working levels -matt mullenweg.jpg"
 slug: The New Future of Work a Sam Harris podcast interview with Matt Mullenweg on
   distributed working
-seo_title: The New Future of Work, a Sam Harris podcast interview with Matt Mullenweg
+seo_title: The New Future of Work, a Sam Harris podcast conversation with Matt Mullenweg
   on distributed working
 seo_description: Matt is the founder of Automattic, the company behind Wordpress.com,
   Tumblr and WooCommerce.  Every day, every employee at Automattic works from wherever
