@@ -4,7 +4,7 @@ category:
 - "#reflections"
 date: 2020-05-06 01:32:59 +0000
 layout: blog
-title: The New Future of Work, a Sam Harris podcast interview with Matt Mullenweg
+title: The New Future of Work, a Sam Harris podcast conversation with Matt Mullenweg
   on distributed working
 sub_heading: I’m feeling a bit awkward.  Why?  I’ve just heard another tech founder
   articulate the value pitch for our product, way better than I ever have.
