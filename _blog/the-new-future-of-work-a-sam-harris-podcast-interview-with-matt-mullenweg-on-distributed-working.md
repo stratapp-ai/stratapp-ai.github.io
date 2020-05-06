@@ -23,7 +23,7 @@ feature_image: "/uploads/distributed working levels -matt mullenweg.jpg"
 ---
 [Sam Harris’ podcast conversation, The New Future of Work, with Matt Mullenweg](https://samharris.org/podcasts/194-new-future-work/ "The New Future of Work") is truly inspiring.
 
-Matt is the founder of Automattic, the company behind Wordpress.com, Tumblr and WooCommerce. Every day, every employee at Automattic works from wherever they want to. Automattic does not have offices. Automattic has \~1,200 employees working from 75 countries and speaking over 90 languages.
+Matt is the founder of [Automattic](https://automattic.com/ "Automattic"), the company behind Wordpress.com, Tumblr and WooCommerce. Every day, every employee at Automattic works from wherever they want to. Automattic does not have offices. Automattic has \~1,200 employees working from 75 countries and speaking over 90 languages.
 
 After listening to their conversation, I’ll now have to stop myself using the term “remote working”. Remote from what? Distributed working, with no offices to be remote from, is the new future of work.
 
