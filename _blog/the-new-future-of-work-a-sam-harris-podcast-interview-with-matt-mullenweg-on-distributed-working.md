@@ -43,7 +43,7 @@ Matt was inspired by [Daniel Pink’s work in the book Drive](https://www.amazon
 
 What struck me as I was listening to this, yet another brilliant interview by Sam, is the extensive efforts Matt and his team have gone to to make distributed working actually work. Not just their clever org design thinking and ability to learn objectively and evolve way beyond what analysts thought possible. What really caught my attention (and that of a shareholder who sent me the podcast) is their underlying tech set-up, and the leadership, discipline and processes it must take to induct, adhere to, keep organized and maintain.
 
-## distributed working - making it actually work
+## distributed working - making it work
 
 Automattic has pulled together a whole bunch of different tech capabilities to make distributed working actually work. When I listen to how Matt describes these enabling capabilities, almost everything he mentions is out-of-the-box and ready to go inside #stratapp.
 
