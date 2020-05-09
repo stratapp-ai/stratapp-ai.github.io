@@ -20,7 +20,7 @@ sections:
 form_intro: |-
   ## let's discuss
 
-  If you would like to discuss please send this form, otherwise click 'get started' above:
+  If you would like to discuss please send this form, otherwise click 'get started' button above:
 
 ---
 {:.font-weight-bold}
