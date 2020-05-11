@@ -12,7 +12,7 @@ sections:
   content: you will be helping employees, team leaders, managers, CEOs and owners
     to achieve genuine engagement, alignment and success on execution
 - label: make money
-  content: for every 5 clients of \~1,000 paid users, that’s **US$41,400/year** paid
+  content: for every 5 clients of \~1,000 paid users, that’s **US$35,400/year** paid
     to you
 - label: gain an edge
   content: "\\#stratapp is a big play, it is the next big thing in B2B SaaS, which
