@@ -42,7 +42,9 @@ As the ideas start to flow in, Julie creates several virtual teams. She breaks t
 
 Like Patrick, Julie also wants to consult key stakeholders, so she makes a list and invites them to the same digital workboard. Some of them are senior executives in the company, and they are somewhat surprised to find themselves added to different digital groups with a buzz of people interacting from all over the globe on this new project. At first it feels like chaos, but after a day or two of participating these executives start to see the power of what’s taking place: real-time collaboration towards a common goal.
 
-Next Julie creates a google doc, and allows anyone with the link to add comments. She maintains edit control, so she can balance the inputs she is receiving with her own thoughts and research. As she starts to write, about 50 people pop in and out of the live doc to see her progress go from rough notes, to sentences, to something that starts to resemble a business plan. As people add questions and suggestions, other people start to reply before Julie has even had a chance to read the original posts. There is a free flowing exchange of ideas, and the project is racing along.
+Next Julie creates a google doc, and allows anyone with the link to add comments. She maintains edit control, so she can balance the inputs she is receiving with her own thoughts and research. As she starts to write, about 50 people pop in and out of the live doc to see her progress go from rough notes, to sentences, to something that starts to resemble a business plan. As people add questions and suggestions, other people start to reply before Julie has even had a chance to read the original posts.
+
+There is a free flowing exchange of ideas, and the project is racing along.
 
 ##### Back To Patrick
 
@@ -68,4 +70,4 @@ Julie doesn’t care where the best ideas came from. Julie just wants the best r
 
 I’ve worked with about 400 “Patricks” across six countries.
 
-I prefer how these millennials roll.
+I prefer how millennials roll.
