@@ -98,6 +98,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# 10 apps in 1 delivering seamless collaboration and radical transparency on both strategy execution and day to day work
+# deliver seamless collaboration and radical transparency on both strategy execution and day to day work
 
-##### affordable pricing, so you can empower everyone you need to
+##### affordable pricing, so you can engage and align everyone you need to
