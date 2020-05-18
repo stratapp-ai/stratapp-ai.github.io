@@ -7,7 +7,7 @@ hero_image: "/uploads/07.png"
 date: 2019-06-21T08:00:00.000+00:00
 feature_image: ''
 slug: social and work collaboration software
-
+layout: feature
 ---
 \#stratapp allows you to add, for free, guest users who are external to your organization.
 

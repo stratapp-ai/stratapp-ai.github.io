@@ -7,7 +7,7 @@ hero_image: "/uploads/11.png"
 date: 2019-06-14T08:00:00.000+00:00
 feature_image: ''
 slug: crowsource ideas and run challenges to drive innovation
-
+layout: feature
 ---
 When do the best ideas hit us?  Certainly not during quarterly or annual surveys!
 

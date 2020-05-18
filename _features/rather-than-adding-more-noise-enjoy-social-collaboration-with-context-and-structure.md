@@ -9,7 +9,7 @@ hero_image: "/uploads/10.png"
 date: 2019-06-15T08:00:00.000+00:00
 feature_image: ''
 slug: social collaboration without adding noise
-
+layout: feature
 ---
 Social apps without context or structure, just add more noise. Especially as you move above 50 employees into mid-market and corporates. Social fast becomes a twitter-style fire hose of notifications, or like being on the end of hundreds of reply-all emails per day.
 

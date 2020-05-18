@@ -8,7 +8,7 @@ seo_description: 'Strategy software you already know and understand, you do not 
 date: 2019-06-26T14:00:00.000+00:00
 feature_image: ''
 slug: strategy software you already know and understand
-
+layout: feature
 ---
 With #stratapp, you do not need to learn new management practices, methodologies or terms.
 

@@ -7,7 +7,7 @@ hero_image: "/uploads/feature-heatmap.png"
 date: 2019-06-12T08:00:00.000+00:00
 feature_image: "/uploads/feature-heatmap.png"
 slug: heatmap live view of your people and work
-
+layout: feature
 ---
 Imagine if you could see in real time what is happening across the whole organization.
 

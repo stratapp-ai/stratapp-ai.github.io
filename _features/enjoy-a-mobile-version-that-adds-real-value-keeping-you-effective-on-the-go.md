@@ -8,7 +8,7 @@ hero_image: "/uploads/14.png"
 date: 2019-06-11T08:00:00.000+00:00
 feature_image: "/uploads/14-1.png"
 slug: steve jobs passion for thumb browsing
-
+layout: feature
 ---
 \#stratapp puts “your company in your pocket!”
 

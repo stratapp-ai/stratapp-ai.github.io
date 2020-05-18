@@ -7,7 +7,7 @@ seo_description: Strategy software with org-wide collaboration on strategy execu
 date: 2019-06-24T08:00:00.000+00:00
 feature_image: ''
 slug: strategy software with org wide collaboration
-
+layout: feature
 ---
 Gallup & Deloitte concluded from a recent 5 year study that no factor has more impact on employee engagement than “_clearly defined goals that are written down and shared freely._”
 

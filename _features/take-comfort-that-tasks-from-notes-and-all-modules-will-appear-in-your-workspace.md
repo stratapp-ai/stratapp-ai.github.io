@@ -8,7 +8,7 @@ hero_image: "/uploads/08.png"
 date: 2019-06-20T08:00:00.000+00:00
 feature_image: ''
 slug: live meeting notes with tasks to your workspace
-
+layout: feature
 ---
 Eliminate double handling and deliver on accountability.
 

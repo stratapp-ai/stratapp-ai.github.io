@@ -7,7 +7,7 @@ hero_image: "/uploads/06.png"
 date: 2019-06-22T08:00:00.000+00:00
 feature_image: ''
 slug: risk management software for every employee
-
+layout: feature
 ---
 In theory, boards of directors, CEOs and company officers are to track and manage risks.
 

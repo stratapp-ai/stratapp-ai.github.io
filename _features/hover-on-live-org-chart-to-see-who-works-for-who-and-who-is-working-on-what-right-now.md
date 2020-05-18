@@ -9,7 +9,7 @@ hero_image: "/uploads/09.png"
 date: 2019-06-18T08:00:00.000+00:00
 feature_image: ''
 slug: live org chart software for collaboration
-
+layout: feature
 ---
 “_I wonder why Sam is not getting back to me, I sent him that over a week ago?_”
 
