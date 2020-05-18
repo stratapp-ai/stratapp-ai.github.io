@@ -1,0 +1,52 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used by the documents in the _posts/ collection
+{% endcomment %}
+
+</div>
+<section class="l-section pt-5">
+  
+    <div class="container container--extra-small">
+
+        <article class="article" itemscope itemtype="http://schema.org/Article">
+
+          <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">
+
+          <h1 itemprop="name" class="text-primary font-weight-bold mb-3">{{ page.title }}</h1>
+            
+          <h2 class="mb-3">{{ page.sub_heading }}</h2>
+
+          
+
+           <div class="c-feature__img mx-auto mb-4 mb-md-0">
+              
+              {% if page.hero_image and page.hero_image != "" %}
+                <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+              {% else %}
+                <div class="color-block c-feature__img mx-auto mb-4 mb-md-0"></div>
+              {% endif %}
+
+            </div>
+        
+          <span itemprop="articleBody">{{ content }}</span>
+          
+          <hr>
+
+           
+      <a href="/features" class="text-dark d-inline-block mt-4">< back to all features</a>
+
+      </div>
+
+    </article>
+
+</section>
+
+     
+
+{% include signupform.html class="bg-dark text-white" %}
+
+{% include explainer-video-popup.html class="explainer-video-popup" %}
+
+
