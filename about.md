@@ -54,6 +54,6 @@ menu:
     weight: 4
 
 ---
-# strategy execution suffers from a disconnect between management and employees
+# strategy execution suffers from the disconnect between management and employees
 
-##### plus urgent takes over important, with internal email consuming 40% of our time - solve both with #stratapp
+##### and urgent takes over important, with internal email consuming 40% of our time - solve both with #stratapp
