@@ -98,6 +98,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# seamless collaboration and radical transparency on both strategy execution and day to day work
+# strategy execution at pricing affordable for everyone
 
-##### affordable pricing, so you can deliver a "connected workspace" to everyone you need to
+##### 
