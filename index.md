@@ -1,8 +1,8 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
-  work in one place\n\n##### a simple SaaS app that solves the disconnect between
+hero_intro: "{:.font-weight-bold}\n\n# strategy execution and day to day work in one
+  connected workspace\n\n##### a simple SaaS app that solves the disconnect between
   management and employees - save time, focus on what matters, eliminate noise\n\n{:.mt-4
   .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
   data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
