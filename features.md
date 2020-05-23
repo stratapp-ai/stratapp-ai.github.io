@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution features, so you achieve time to value in days
+# strategy execution features, achieving time to value in days
 
 ##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
