@@ -35,7 +35,7 @@ section_text: |-
   We didn't invent new buzz words, theories or methods. We carefully designed the experience around what you already know.
 
   Your time-to-value on #stratapp is days - not weeks or months.
-section_image: "/uploads/top-down.JPG"
+section_image: "/uploads/top-down-2.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
 seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
