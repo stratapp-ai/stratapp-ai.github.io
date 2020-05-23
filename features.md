@@ -19,4 +19,4 @@ menu:
 
 # strategy execution features, so you achieve time to value in days
 
-##### by creating a connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
+##### a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
