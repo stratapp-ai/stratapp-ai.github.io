@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution features, so you achieve time to value in days
+# strategy execution features, that achieve time to value in days
 
 ##### a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
