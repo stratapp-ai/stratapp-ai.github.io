@@ -19,4 +19,4 @@ menu:
 
 # strategy execution features, achieving time to value in days
 
-##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
+##### by creating a connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
