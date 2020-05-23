@@ -54,6 +54,6 @@ menu:
     weight: 4
 
 ---
-# strategy execution rarely meets expectations, often due to a disconnect between execs, managers and employees
+# strategy execution rarely meets expectations, often due to a disconnect between managers and employees
 
 ##### and each day at work, urgent takes over important, and internal email consumes 40% of our time - solve all three with #stratapp, within days, not weeks or months
