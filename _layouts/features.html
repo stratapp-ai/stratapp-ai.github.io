@@ -51,16 +51,18 @@ layout: default
               	{% when 4 or 8 or 12 or 16 %}
               		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
               	{% endcase %}	
-              <div class="h5 mb-3 shrinkable">{{ feature.content }}</div>
+           <!--    <div class="h5 mb-3 shrinkable">{{ feature.content }}</div> -->
               
-              <!-- 
+              
 
-                {{ feature.url | relative_url }}
+               <!--  {{ feature.url | relative_url }} -->
+                
                <div class="h5 mb-3 shrinkable">{{ feature.content  | strip_html | truncatewords: 50}}</div> 
+
                 <a class="post-link" href="{{ feature.url | absolute_url }}">Read More</a>
 
 
-
+      <!--
               <a class="c-feature__link" data-toggle="collapse" href="#collapse{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
                   Read more >
                </a>

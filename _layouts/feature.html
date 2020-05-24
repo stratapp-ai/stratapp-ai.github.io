@@ -8,19 +8,13 @@ layout: default
 </div>
 <section class="l-section pt-5">
   
-    <div class="container container--extra-small">
-
-        <article class="article" itemscope itemtype="http://schema.org/Article">
-
-          <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">
-
-          <h1 itemprop="name" class="text-primary font-weight-bold mb-3">{{ page.title }}</h1>
-            
-          <h2 class="mb-3">{{ page.sub_heading }}</h2>
-
+    <div class="container container--small">
           
+      <article class="article" itemscope itemtype="http://schema.org/Article">
 
-           <div class="c-feature__img mx-auto mb-4 mb-md-0">
+          <div class="d-md-flex align-items-md-top text-left text-md-left" data-aos="fade-up" data-aos-delay="100">
+            
+            <div class="c-feature__img mx-auto mb-4 mb-md-0">
               
               {% if page.hero_image and page.hero_image != "" %}
                 <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
@@ -29,15 +23,21 @@ layout: default
               {% endif %}
 
             </div>
-        
-          <span itemprop="articleBody">{{ content }}</span>
+              
+            <div class="feature__body col-md-9 pl-md-5">
+
+              <h1 itemprop="name" class="text-primary font-weight-bold mb-3">{{ page.title }}</h1>
+
+              <span itemprop="articleBody">{{ content }}</span>
           
-          <hr>
+              <hr>
 
            
-      <a href="/features" class="text-dark d-inline-block mt-4">< back to all features</a>
+              <a href="/features" class="h5 text-dark d-inline-block mt-4">< back to all features</a>
 
-      </div>
+            </div>
+
+          </div>
 
     </article>
 
