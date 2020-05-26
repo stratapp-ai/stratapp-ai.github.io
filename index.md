@@ -1,12 +1,11 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
-  work in one place\n\n##### world's first strategy execution SaaS app to create a
-  connected workspace | achieve engagement, alignment, distributed working and fast
-  scaling within days | everyone wins\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
-  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
-  it works</a>"
+hero_intro: "{:.font-weight-bold}\n\n# strategy execution and day to day work, in
+  one app\n\n##### an intuitive SaaS app solving the disconnect between managers and
+  employees, and the problem of urgent overtaking important\n\n{:.mt-4 .mb-0}  \n<a
+  href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\"
+  data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}

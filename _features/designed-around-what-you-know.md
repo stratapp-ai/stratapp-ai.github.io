@@ -9,12 +9,13 @@ date: 2019-06-26T14:00:00.000+00:00
 feature_image: ''
 slug: strategy software you already know and understand
 layout: feature
+
 ---
 With #stratapp, you do not need to learn new management practices, methodologies or terms.
 
 \#stratapp applies what most CEOs, executives, managers and team leaders already know.
 
-The Strategic Planning tree cascades as: goals > objectives > actions > projects.
+The strategic plan cascades as: goals > objectives > actions > projects.
 
 At each tree level you can assign different owners, teams, workboards, tasks and KPIs.
 

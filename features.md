@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution collaboration SaaS that even millennials love
+# strategy execution features that achieve time to value in days
 
-##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
+##### a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters

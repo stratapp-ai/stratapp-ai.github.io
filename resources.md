@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# these thought leaders inspire us
+# strategy execution resources from inspiring thought leaders
 
 ##### we've taken a moment to explain how each are relevant to #stratapp

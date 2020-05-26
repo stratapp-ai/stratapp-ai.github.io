@@ -35,7 +35,7 @@ section_text: |-
   We didn't invent new buzz words, theories or methods. We carefully designed the experience around what you already know.
 
   Your time-to-value on #stratapp is days - not weeks or months.
-section_image: "/uploads/website - about us - top down slide.jpg"
+section_image: "/uploads/top-down-2.jpg"
 seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
   challenges, live meeting notes and social collaboration in one seamless user experience
 seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
@@ -54,6 +54,6 @@ menu:
     weight: 4
 
 ---
-# world's first strategy execution SaaS app to create a connected workspace across all levels of strategic and day to day work - save everyone time, focus on what matters
+# strategy execution rarely meets expectations, often due to a disconnect between managers and employees
 
-##### imagine strategy, heatmap, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideation, live org chart, live meetings notes and next-gen social collaboration (with context, structure, @org-design and powerful filtering by role, time, context and post type) in one seamless experience
+##### and each day at work, urgent takes over important, and internal email consumes 40% of our time - you can easily solve all three with #stratapp, in just days rather than weeks or months
