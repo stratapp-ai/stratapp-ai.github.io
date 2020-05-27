@@ -1,6 +1,6 @@
 ---
 title: strategy execution
-slug: ''
+slug: strategy-execution
 seo_title: ''
 seo_description: ''
 feature_image: ''
@@ -15,8 +15,8 @@ page_sections:
     alt_text: alt text
 - template: full-width-media-element
   block: media-1
-  image: ''
-  caption: ''
+  image: "/uploads/10 apps in 1 - with title.png"
+  caption: caption here
 
 ---
 Some Copy Here
