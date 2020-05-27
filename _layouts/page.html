@@ -20,3 +20,7 @@ layout: default
           </div>
         </div>
  </section>
+
+{% for section in page.page_sections %} 
+  {% include block-{{ section.block }}.html %}
+{% endfor %} 
