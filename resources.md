@@ -1,12 +1,12 @@
 ---
 title: resources
 layout: resources
-description: 'thought leaders in strategy, execution and B2B SaaS '
+description: strategy execution resources from inspiring thought leaders
 publish_date: 2019-11-06T14:00:00.000+00:00
-seo_title: thought leaders in strategy, execution and B2B SaaS
-seo_description: "#stratapp's founders are thought leaders in strategy, execution
-  and B2B SaaS. Applying the best of Simon Sinek, Richard Rumelt, Ricardo Semler and
-  Roger Martin."
+seo_title: strategy execution resources from inspiring thought leaders
+seo_description: Strategy execution resources from inspiring thought leaders, including
+  thought leaders Simon Sinek, Richard Rumelt, Ricardo Semler, Dr Roger Martin and
+  HBR.org.
 feature_image: ''
 slug: ''
 menu:
@@ -19,4 +19,4 @@ menu:
 
 # strategy execution resources from inspiring thought leaders
 
-##### we've taken a moment to explain how each are relevant to #stratapp
+##### we've taken a moment to explain how each of these strategy execution resources are relevant to #stratapp
