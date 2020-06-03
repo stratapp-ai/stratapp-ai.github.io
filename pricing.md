@@ -6,7 +6,7 @@ faqs:
   answer: |-
     We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
-    Most clients rollout within 2-3 days, by starting out light with the "productivity & culture" features; see [https://stratapp.ai/blog/how-to-implement](https://stratapp.ai/blog/how-to-implement/ "https://stratapp.ai/blog/how-to-implement/").
+    Most clients rollout within 2-3 days, by starting out light with the "productivity & culture" features; see [https://stratappsaas.com/blog/how-to-implement/](https://stratappsaas.com/blog/how-to-implement/ "https://stratappsaas.com/blog/how-to-implement/").
 
     There are no set-up fees or hardware costs, and you don't need any technical skills to configure and deploy #stratapp.
 
@@ -81,9 +81,9 @@ faqs:
       * sending employees to multiple apps
       * complicated user experiences
       * disruption that adds little or no value
-seo_title: 10 apps in 1 for affordable collaboration on strategy and execution
-seo_description: Affordable strategy software that achieves genuine collaboration
-  and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
+seo_title: strategy execution at pricing affordable for everyone
+seo_description: Strategy execution at pricing affordable to everyone, so you can
+  elevate culture, productivity and performance, and be ready for the next gen workforce.
 quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
 
@@ -100,4 +100,4 @@ menu:
 
 # strategy execution at pricing affordable for everyone
 
-##### elevate culture, productivity and performance, and be ready for the next gen workforce 
+##### elevate culture, productivity and performance, and be ready for the next gen workforce
