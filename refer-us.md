@@ -3,8 +3,9 @@ title: refer us
 layout: refer-us
 description: refer
 publish_date: '2019-12-03T14:00:00.000+00:00'
-seo_title: 'make money referring #stratapp'
-seo_description: refer
+seo_title: strategy execution SaaS app with a generous referral model
+seo_description: Strategy execution SaaS app with a generous referral model. You do
+  the warm intro, we do the follow-up.
 feature_image: "/uploads/refer us.JPG"
 slug: refer-us
 sections:
