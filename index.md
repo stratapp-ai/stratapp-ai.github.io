@@ -45,8 +45,8 @@ features:
     working
 seo_title: strategy execution SaaS app for every employee
 seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
-  to day work in one place. Strategy execution solving the disconnect between leaders
-  and teams.
+  to day work in one place. Strategy execution that solves the disconnect between
+  leaders and teams.
 redirect_from:
 - "/events/"
 - "/tutorials/"
