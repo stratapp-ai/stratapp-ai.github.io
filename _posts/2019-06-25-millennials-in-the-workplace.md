@@ -3,9 +3,9 @@ date: 2019-06-16T05:28:22.000+00:00
 layout: post
 title: millennials in the workplace by Simon Sinek
 seo_title: Millennials in the Workplace by Simon Sinek
-seo_description: Millennials in the Workplace by Simon Sinek. Y-gen millennials are
-  just magic, a breath of fresh air. They hate pretending to work and they don’t go
-  looking for work that doesn’t make sense or relate to strategy execution.
+seo_description: Y-gen millennials are just magic, a breath of fresh air. They hate
+  pretending to work and they don’t go looking for work that doesn’t make sense or
+  relate to strategy execution.
 author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 slug: millennials in the workplace by simon sinek
