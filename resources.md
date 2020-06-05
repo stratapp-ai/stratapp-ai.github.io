@@ -19,4 +19,4 @@ menu:
 
 # strategy execution resources from inspiring thought leaders
 
-##### we've taken a moment to explain how each of these strategy execution resources are relevant to #stratapp
+##### explaining why each of these strategy execution resources are relevant
