@@ -1,13 +1,15 @@
 ---
-title: view a live global heatmap of where your people are and what’s hot right now
-seo_title: heatmap live view of your people and work
-seo_description: 'Heatmap live view of people and work, that shows globally what''s
-  hot right now and who is traveling where for what. You''ll love #stratapp.'
+title: view strategy execution and daily work on a live global heatmap
+seo_title: strategy execution displayed on a live heatmap
+seo_description: 'Strategy execution displayed on a live heatmap, view of people and
+  work and see globally what''s hot right now and who is traveling where for what.
+  You''ll love #stratapp.'
 hero_image: "/uploads/feature-heatmap.png"
 date: 2019-06-12T08:00:00.000+00:00
 feature_image: "/uploads/feature-heatmap.png"
-slug: heatmap live view of your people and work
+slug: strategy execution displayed on a live heatmap
 layout: feature
+
 ---
 Imagine if you could see in real time what is happening across the whole organization.
 
