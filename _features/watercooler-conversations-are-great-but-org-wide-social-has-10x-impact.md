@@ -1,12 +1,12 @@
 ---
-title: strategy execution powered by social with structure and context
-seo_title: strategy execution powered by social with structure and context
+title: strategy execution powered by authentic social at all levels
+seo_title: strategy execution powered by authentic social at all levels
 seo_description: Strategy execution powered by social has 10x impact. Avoid chinese
   whispers and align all levels of your organization - from the CEO to frontline employees.
 hero_image: "/uploads/12.png"
 date: 2019-06-13T08:00:00.000+00:00
 feature_image: "/uploads/12-1.png"
-slug: strategy execution powered by social with structure and context
+slug: strategy execution powered by authentic social at all levels
 layout: feature
 
 ---
