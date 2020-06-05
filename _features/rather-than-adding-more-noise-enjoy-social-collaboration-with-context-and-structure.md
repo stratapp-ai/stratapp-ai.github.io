@@ -1,15 +1,15 @@
 ---
-title: rather than adding more noise, enjoy social collaboration with context and
+title: strategy execution without noise, social collaboration with context and structure
+seo_title: strategy execution without noise, social collaboration with context and
   structure
-seo_title: social collaboration without adding noise
-seo_description: 'Social collaboration without adding noise is a core value proposition
-  of #stratapp.  #stratapp has built in structure, to eliminate email without adding
-  more noise.'
+seo_description: 'Strategy execution without noise, powered by social collaboration
+  with context and structure. This is a core value proposition of #stratapp.'
 hero_image: "/uploads/10.png"
 date: 2019-06-15T08:00:00.000+00:00
 feature_image: ''
-slug: social collaboration without adding noise
+slug: strategy execution without noise
 layout: feature
+
 ---
 Social apps without context or structure, just add more noise. Especially as you move above 50 employees into mid-market and corporates. Social fast becomes a twitter-style fire hose of notifications, or like being on the end of hundreds of reply-all emails per day.
 
