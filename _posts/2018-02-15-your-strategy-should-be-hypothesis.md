@@ -10,7 +10,7 @@ seo_description: 'Your strategy should be a hypothesis you constantly adjust by 
 slug: your strategy should be a hypothesis you constantly adjust by hbr org
 
 ---
-## Strategy should be constantly evolving - not static or annual.
+## strategy should be constantly evolving - not static or annual.
 
 This article on evolving strategy as you learn, goes to the heart of #stratapp.
 
