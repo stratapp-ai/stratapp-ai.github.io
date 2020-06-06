@@ -92,6 +92,18 @@ xxx
 
 ## **breaking the hierarchy deadlock on innovation & strategy execution**
 
+Elon Mask
+
+Middle Management have a role ... but its not to filter comms
+
 ## **proactively managing risks on strategy execution**
 
-## **bringing alive key strategic questions**
+## **strategic execution's key questions**
+
+where to play
+
+how to win
+
+what capabiliyt
+
+and htose in your why deck
