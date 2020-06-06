@@ -47,4 +47,32 @@ page_sections:
   caption: caption here
 
 ---
-Some Copy Here
+## **strategy execution articulated as a tree hierarchy**
+
+best practice = tree, with 3 to 6
+
+verb noun
+
+link to blog video
+
+### Simon Sinek's Start With Why
+
+xxxx
+
+### Dr Roger Martin / Deloitte / HBR.org
+
+xxxx
+
+###  
+
+## **becoming agile on strategy execution**
+
+## **KPIs/OKRs that cascade for strategy execution**
+
+## **achieving employee engagement on strategy execution**
+
+## **breaking the hierarchy deadlock on innovation & strategy execution**
+
+## **proactively managing risks on strategy execution**
+
+## **bringing alive key strategic questions**
