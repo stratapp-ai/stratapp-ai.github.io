@@ -86,7 +86,9 @@ For example, you might have a strategic goal to grow market share in Europe.  Th
 
 20, 100 or 1,000 employees cannot collaborate on a document or presentation that articulates strategy.  Most employees won't even read it.
 
-\#stratapp makes your strategy alive and accessible toeveryone.
+\#stratapp makes your strategy alive and accessible to everyone.
+
+xxx
 
 ## **breaking the hierarchy deadlock on innovation & strategy execution**
 
