@@ -64,11 +64,13 @@ Most importantly, all social collaboration on strategy execution has both [struc
 
 ### Simon Sinek's Start With Why
 
+\[change h3 to why and vision for strategy execution; then mention Sinek in the text with an external link\]
+
 xxxx \[remember to use the term strategy execution in each para\]
 
 ### Dr Roger Martin / Deloitte / HBR.org
 
-xxxx
+xxxx\[change ditto\]
 
 ###  
 
