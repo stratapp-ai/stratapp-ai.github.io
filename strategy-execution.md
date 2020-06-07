@@ -65,7 +65,7 @@ xxxx
 
 ###  
 
-## **becoming agile on strategy execution**
+## **be agile on strategy execution**
 
 world's first app to enable org-wide collaboration at any level in the strategy tree
 
@@ -74,7 +74,7 @@ you are not constrained by rules, at an ylevel int he tree you can add
 
 people get used to the format = fast and agile
 
-## **KPIs/OKRs that cascade for strategy execution**
+## **cascading KPIs/OKRs for strategy execution**
 
 \#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to general operations.
 
@@ -90,7 +90,7 @@ For example, you might have a strategic goal to grow market share in Europe.  Th
 
 xxx
 
-## **breaking the hierarchy deadlock on innovation & strategy execution**
+## **breaking the comms hierarchy on innovation & strategy execution**
 
 Elon Mask
 
@@ -98,7 +98,7 @@ Middle Management have a role ... but its not to filter comms
 
 ## **proactively managing risks on strategy execution**
 
-## **strategic execution's key questions**
+## **key questions for strategic execution**
 
 where to play
 
