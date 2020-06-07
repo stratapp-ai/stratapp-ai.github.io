@@ -62,7 +62,13 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 
 Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it")  For example, in seconds you can jump to "any questions or decisions made on strategic goals in the last 72 hours."
 
-### Simon Sinek's Start With Why
+### vision and why - context for strategy execution
+
+\#stratapp allows you to turn on/off the pages for strategic context.
+
+You might choose to articulate the vision, mission and values.
+
+Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek.  This is also a page for you to edit and publish in #stratapp.  You might also liek to read about our 
 
 \[change h3 to why and vision for strategy execution; then mention Sinek in the text with an external link\]
 
@@ -72,7 +78,7 @@ xxxx \[remember to use the term strategy execution in each para\]
 
 xxxx\[change ditto\]
 
-###  
+### 
 
 ## **be agile on strategy execution**
 
