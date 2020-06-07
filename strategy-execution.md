@@ -49,11 +49,18 @@ page_sections:
 ---
 ## **strategy execution articulated as a tree hierarchy**
 
-best practice = tree, with 3 to 6
+If you want everyone in your organziation to understand both your strategy and how you will achieve strategy execution, then best practice is to represent the strategy as a tree hierarchy.
 
-verb noun
+This template is built into #stratapp as goals > objectives > actions > projects.
 
-link to blog video
+This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms") explains two tips for communicating strategy:
+
+* 3 to 6 rule - for each level in the tree hierarchy (e.g. 3 overall goals, that each break down to 3 to 6 objectives, and so on)
+* verb noun rule - express each in verb noun format (e.g. "Develop our ...", "Improve our ...", "Solve how to ...")
+
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals), and at any level in the tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
+
+Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it")  For example, in seconds you can jump to "any questions or decisions made on strategic goals in the last 72 hours."
 
 ### Simon Sinek's Start With Why
 
