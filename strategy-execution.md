@@ -49,7 +49,7 @@ page_sections:
 ---
 ## **strategy execution articulated as a tree hierarchy**
 
-If you want everyone in your organziation to understand both your strategy and how you will achieve strategy execution, then best practice is to represent the strategy as a tree hierarchy.
+For everyone in your organziation to understand and collaborate on strategy execution, best practice is to represent the strategy as a tree hierarchy.
 
 This template is built into #stratapp as goals > objectives > actions > projects.
 
