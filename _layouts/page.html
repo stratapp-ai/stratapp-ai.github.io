@@ -21,6 +21,10 @@ layout: default
         </div>
  </section>
 
-{% for section in page.page_sections %} 
-  {% include block-{{ section.block }}.html %}
-{% endfor %} 
+{% if page.page_sections %}
+<div class="sections">
+  {% for section in page.page_sections %} 
+    {% include block-{{ section.block }}.html %}
+  {% endfor %}
+</div>
+{% endif %}
