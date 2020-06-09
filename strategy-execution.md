@@ -33,6 +33,12 @@ page_sections:
   media:
     image: "/uploads/time-on-email.JPG"
     alt_text: ''
+- template: video-element
+  block: video-element
+  youtube_id: OYzsV1Xbi-s
+  caption: ''
+  video: ''
+  vimeo_id: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/10 apps in 1 - with title.png"
