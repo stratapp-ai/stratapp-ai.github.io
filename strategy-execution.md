@@ -89,11 +89,11 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 ## **cascading KPIs/OKRs for strategy execution**
 
-\#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to general operations.
+\#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations.
 
 In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"), setting targets is not a strategy.  The strategy tree reflects your strategy.  The KPI/OKR tree reflects your targets.
 
-For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.  Cascading the KPIs is not a strategy, they are measures of outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
+For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.  Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
 
 ## **achieving employee engagement on strategy execution**
 
