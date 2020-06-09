@@ -139,7 +139,7 @@ You can easily track risks on both strategy execution and day to day work.
 
 Similar to our design philosophy on other features, #stratapp applies what you already know, so that your time to value is days, not weeks, months or quarters.  The CFO monkey link above lists the 10 components of risk management inside #stratapp - things like status, impact, probability and mitigations - as you read that list of 10, you'll realise you already know them.
 
-By applying what you already know, within a consistent UX alongside the other features, #stratapp makes it easy for you to proactively manage risks on both strategy execution and day to day operations.  You might still hand the overall monkey to the CFO, but now the CFO can easily make sure risk ownership and management cascades through the organization, in a meaningful way and without creating an administrative burden.
+By applying what you already know, within a consistent UX alongside the other features, #stratapp makes it easy for you to proactively manage risks on both strategy execution and day to day operations.  You might still hand the risk monkey to the CFO, but now that CFO will have the capability to make sure risk ownership and management cascades through the organization, in a meaningful way that does not create an administrative burden.
 
 ## **key questions for strategy execution**
 
