@@ -50,10 +50,6 @@ page_sections:
   caption: ''
   video: ''
   vimeo_id: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/10 apps in 1 - with title.png"
-  caption: caption here
 
 ---
 ## **strategy execution articulated as a tree hierarchy**
