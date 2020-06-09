@@ -10,7 +10,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: strategy execution is changing for the better
-  content: strategy execution has been top down and broken for years, not anymore
+  content: |-
+    strategy execution has been top down and broken for years, not anymore
+
+    [Book a Demo](#bookdemo "Book a Demo")
   media:
     image: "/uploads/hero_graphics.svg"
     alt_text: strategy execution is changing for the better
