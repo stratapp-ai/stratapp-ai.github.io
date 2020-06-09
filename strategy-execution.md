@@ -4,7 +4,7 @@ slug: strategy-execution
 seo_title: strategy execution is changing for the better
 seo_description: Strategy execution is changing for the better. Strategy execution
   has been top down and broken for years, not anymore.
-feature_image: "/uploads/hero_graphics.svg"
+feature_image: "/uploads/hero_graphic_strategy_execution.png"
 page_sections:
 - template: content-feature
   block: feature-1
@@ -15,7 +15,7 @@ page_sections:
 
     [Book a Demo](#){: .bookademo-btn}
   media:
-    image: "/uploads/hero_graphics.svg"
+    image: "/uploads/hero_graphic_strategy_execution.png"
     alt_text: strategy execution is changing for the better
 - template: content-feature
   block: feature-1
