@@ -16,7 +16,7 @@ page_sections:
     Regardless of the approach, two things fail:
 
     1. **Urgent takes over important** - people don’t have the skill, will or time to focus on strategy execution, and pretty soon day to day priorities consume everyone
-    2. **Out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization focuses on
+    2. **Out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
   media:
     image: "/uploads/top-down-2.jpg"
     alt_text: strategy execution as top down
@@ -28,19 +28,11 @@ page_sections:
 
     Email and messaging apps are now a real time medium, consuming 40% of our time, with another 45-55% lost to meetings, routine tasks and being reactive.
 
-    Executives, managers and team leaders are fast losing the headspace to think deeply, plan carefully, experiment and flawlessly execute on strategy, new capabilities and change.
+    Executives, managers and team leaders are fast losing the headspace to think deeply, plan carefully, experiment and flawlessly execute on strategy execution, new capabilities and change.
   headline: "<strong>strategy execution gets lost in noise</strong>"
   media:
     image: "/uploads/time-on-email.JPG"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>strategy execution vs daily work</strong>"
-  content: tbd
-  media:
-    image: "/uploads/connect.JPG"
-    alt_text: strategy execution as a connected workspace
 - template: full-width-media-element
   block: media-1
   image: "/uploads/10 apps in 1 - with title.png"
