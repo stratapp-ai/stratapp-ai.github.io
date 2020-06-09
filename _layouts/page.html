@@ -6,7 +6,15 @@ layout: default
 {% endcomment %}
 
 
- <section class="l-section bg-primary-grad" >
+{% if page.page_sections %}
+<div class="sections">
+  {% for section in page.page_sections %} 
+    {% include block-{{ section.block }}.html %}
+  {% endfor %}
+</div>
+{% endif %}
+
+ <section class="l-section bg-primary-grad {% if page.page_sections %} page-with-sections{% endif %}">
         <div class="container">
           <div class="row align-items-center" data-aos="fade-up" data-aos-delay="100">
             <div class="col-md-12">
@@ -21,10 +29,3 @@ layout: default
         </div>
  </section>
 
-{% if page.page_sections %}
-<div class="sections">
-  {% for section in page.page_sections %} 
-    {% include block-{{ section.block }}.html %}
-  {% endfor %}
-</div>
-{% endif %}

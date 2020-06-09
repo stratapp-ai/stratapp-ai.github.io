@@ -13,7 +13,7 @@ page_sections:
   content: |-
     strategy execution has been top down and broken for years, not anymore.
 
-    \[Book a Demo\](#){: .btn bookademo-btn btn-primary}
+    [Book a Demo](#){: .bookademo-btn}
   media:
     image: "/uploads/hero_graphics.svg"
     alt_text: strategy execution is changing for the better

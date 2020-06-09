@@ -6,7 +6,7 @@
     <div class="py-4 row align-items-center">
       <div class="col-md-6 text">
         <h3 class="hero-color">{{ section.headline }}</h3>
-        <p>{{ section.content }}</p>
+         {{ section.content | markdownify }}
       </div>
       <div class="col-md-6 media">
         <img class="w-100 d-block" src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
