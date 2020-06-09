@@ -113,25 +113,25 @@ By 2025, 75% of the workforce will be millennials.  To better understand their f
 
 Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"), and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
-At #stratapp, we share the same view.  The hierarchy is there to allocate responsibility, for example, spending limits, or looking after a team or process.
+At #stratapp we share the same view.  The hierarchy is there to allocate responsibility; for example, spending limits, or looking after a team, customer or process.
 
-Separate to org structure hierarchy, communication should be free flowing and open.  However, on the other hand we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that creates noise and distraction.
+Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that creates noise and distraction.
 
-\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"), however we are the first and only B2B SaaS app to bring it to market.
+\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"), however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  Hopefully you and your organization will take this step change opportunity to eliminate 95% of internal email.
 
-But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be non-strategic day to day work.
+But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be those for day to day work.
 
 By design, #stratapp has solved 3 things at once:
 
-1. **Engaging employees on strategy execution** - because they can do strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage
+1. **Engaging employees on strategy execution** - because they can do strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage each day
 2. **Executives, leaders and teams can collaborate efficiently** - with just the right level of structure and context, to save you time without hindering engagement
-3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution - whilst elevating culture and org/team/individual performance
+3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution - whilst elevating culture and org-wide/team/individual performance
 
 ## **proactively managing risks on strategy execution**
 
-For most organisations, risk management is all talk, no action.
+For most organisations risk management is all talk, no action.
 
-If it was easier to do and keep up to date, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs").
+If it was easier to log and keep up to date, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs").
 
 \#stratapp makes risk management easy, org-wide and natural.
 
@@ -139,7 +139,7 @@ You can easily track risks on both strategy execution and day to day work.
 
 Similar to our design philosophy on other features, #stratapp applies what you already know, so that your time to value is days, not weeks, months or quarters.  The CFO monkey link above lists the 10 components of risk management inside #stratapp - things like status, impact, probability and mitigations - as you read that list of 10, you'll realise you already know them.
 
-By applying what you already know, within a consistent UX compared to other features, #stratapp makes it easy for you to proactively manage risks on both strategy execution and day to day operations.
+By applying what you already know, within a consistent UX alongside the other features, #stratapp makes it easy for you to proactively manage risks on both strategy execution and day to day operations.  You might still hand the overall monkey to the CFO, but now the CFO can easily make sure risk ownership and management cascades through the organization, in a meaningful way and without creating an administrative burden.
 
 ## **key questions for strategy execution**
 
