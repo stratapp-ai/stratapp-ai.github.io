@@ -163,6 +163,4 @@ Love work.  Love life.
 
 Be effective.  Anywhere.  Anytime.
 
-Everything you need, in your pocket.
-
-\#stratapp!
+Everything you need, in your pocket.  #stratapp!
