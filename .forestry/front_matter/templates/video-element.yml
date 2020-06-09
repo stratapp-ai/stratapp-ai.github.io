@@ -1,0 +1,25 @@
+---
+label: video-element
+hide_body: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: video-element
+- type: file
+  name: video
+  label: Video
+- type: text
+  name: caption
+  label: Caption
+- name: youtube_id
+  type: text
+  config:
+    required: false
+  label: YouTube ID
+- name: vimeo_id
+  type: text
+  config:
+    required: false
+  label: Vimeo ID
