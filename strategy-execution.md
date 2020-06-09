@@ -99,13 +99,15 @@ For example, you might have a strategic goal to grow market share in Europe.  Th
 
 20, 100, 1,000 or 50,000 employees cannot collaborate on a strategy document or presentation.  Let's be honest, most employees won't even read it.
 
-\#stratapp makes your strategy alive and accessible to everyone.
+\#stratapp brings your strategy alive, in an interactive digital format, accessible to everyone.
 
-By making the strategy tree alive and interactive at all levels, you naturally create employee engagement on strategy execution.  People at all levels of the organization can ask questions, contribute ideas, identify risks and volunteer to get involved.
+By making strategy alive and interactive, you naturally create employee engagement on strategy execution.  People at all levels of the organization can ask questions, contribute ideas, identify risks and volunteer to get involved.
 
 You immediately tap into the talents and potential of everyone in the organization.
 
-By 2025, 75% of the workforce will be millennials.  To understand their perspective on radical transparency and work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration").
+Furthermore, the evolution of strategy, based on experimentation, employee and market feedback, becomes part of the culture - a learning organization that can actually execute, by breaking free of the rigid structure of static point-in-time documents and top-down control.
+
+By 2025, 75% of the workforce will be millennials.  To better understand their fresh perspective on radical transparency and digital work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration").
 
 ## **breaking the comms hierarchy on innovation & strategy execution**
 
