@@ -6,8 +6,8 @@ banner_image: "/uploads/rogermartin.jpg"
 author: Ash Richardson
 seo_title: Professor Roger Martin on what CEOs should really be doing
 seo_description: 'Professor Roger Martin on what CEOs should really be doing in relation
-  to strategy, compared to their executives, managers and teams. #stratapp tightens
-  this process of evolving strategic choices.'
+  to strategy and strategy execution, compared to their executives, managers and teams.
+  #stratapp tightens this process of evolving strategic choices.'
 slug: professor roger martin on what ceos should really be doing
 
 ---

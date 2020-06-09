@@ -36,11 +36,10 @@ section_text: |-
 
   Your time-to-value on #stratapp is days - not weeks or months.
 section_image: "/uploads/top-down-2.jpg"
-seo_title: strategy, KPIs/OKRs, planning, initiatives, projects, tasks, risks, ideas,
-  challenges, live meeting notes and social collaboration in one seamless user experience
-seo_description: "#stratapp is the world's first SaaS to deliver strategy, KPIs/OKRs,
-  planning, initiatives, projects, tasks, risks, ideas, challenges, live meeting notes
-  and social collaboration in one seamless user experience. You'll love #stratapp."
+seo_title: strategy execution rarely meets expectations, solve this within days
+seo_description: 'Strategy execution rarely meets expectations, often due to a subtle
+  disconnect between leaders and teams. #stratapp helps make strategy execution successful,
+  within days.'
 footer_cta: |-
   ### we'd love to show you #stratapp
 
@@ -54,6 +53,6 @@ menu:
     weight: 4
 
 ---
-# strategy execution rarely meets expectations, often due to a disconnect between managers and employees
+# strategy execution rarely meets expectations, often due to a subtle disconnect between leaders and teams
 
 ##### and each day at work, urgent takes over important, and internal email consumes 40% of our time - you can easily solve all three with #stratapp, in just days rather than weeks or months

@@ -1,13 +1,15 @@
 ---
-title: bring risk management alive
-seo_title: risk management software | project management software
-seo_description: 'Risk management software as part of #stratapp''s 10 apps in 1, making
-  risk management software adoption easy, at all levels and org-wide.'
+title: strategy execution balanced with easy risk management
+seo_title: strategy execution balanced with easy risk management
+seo_description: Strategy execution balanced with easy risk management. In theory,
+  boards of directors, CEOs and company officers are to track and manage risks. In
+  practice, this is hard to do, so often we delegate risk management to the CFO role.
 hero_image: "/uploads/06.png"
 date: 2019-06-22T08:00:00.000+00:00
 feature_image: ''
-slug: risk management software for every employee
+slug: strategy execution balanced with easy risk management
 layout: feature
+
 ---
 In theory, boards of directors, CEOs and company officers are to track and manage risks.
 

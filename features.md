@@ -1,10 +1,10 @@
 ---
 title: features
 layout: features
-seo_title: strategy+execution+collaboration SaaS that even millennials love
-seo_description: 'Seamlessly execute strategy, business plans, KPIs/OKRs, ideation
-  and initiatives, alongside day to day work. #stratapp is 10-apps-in-1 seamless user
-  experience, that even the millennials love.'
+seo_title: strategy execution features that achieve time to value in days
+seo_description: Strategy execution delivered in a seamless connected workspace to
+  save time, remove silos, eliminate internal email and engage everyone on what really
+  matters.
 hero_image: ''
 date: 
 feature_image: "/uploads/feature image - features page-1.JPG"
@@ -19,4 +19,4 @@ menu:
 
 # strategy execution features that achieve time to value in days
 
-##### a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
+##### strategy execution delivered in a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters

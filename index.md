@@ -2,10 +2,10 @@
 title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# strategy execution and day to day work, in
-  one app\n\n##### an intuitive SaaS app solving the disconnect between managers and
-  employees, and the problem of urgent overtaking important\n\n{:.mt-4 .mb-0}  \n<a
-  href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\"
-  data-aos-delay=\"500\">how it works</a>"
+  one app\n\n##### an intuitive SaaS app solving the disconnect between leaders and
+  teams, and the problem of urgent overtaking important\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
+  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
+  it works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -43,9 +43,10 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: "#stratapp | strategy execution software for every employee"
-seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
-  and business planning software for all roles, levels and generations.
+seo_title: strategy execution SaaS app for every employee
+seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
+  to day work in one place. Strategy execution that solves the disconnect between
+  leaders and teams.
 redirect_from:
 - "/events/"
 - "/tutorials/"

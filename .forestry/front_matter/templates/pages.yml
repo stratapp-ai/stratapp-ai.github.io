@@ -12,7 +12,17 @@ fields:
   config: {}
   template: seo
   label: 'SEO '
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - content-feature
+  - full-width-media-element
+  config:
+    min: 
+    max: 
 pages:
 - fair-usage.md
 - privacy.md
+- strategy-execution.md
 - terms.md

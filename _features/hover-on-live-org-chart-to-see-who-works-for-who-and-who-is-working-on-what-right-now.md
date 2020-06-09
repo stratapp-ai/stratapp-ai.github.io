@@ -1,15 +1,17 @@
 ---
-title: hover on Live Org Chart to see who works for who, and who is working on what
-  right now
-seo_title: live org chart software for collaboration
-seo_description: 'Live org chart software for collaboration inside #stratapp. #stratapp''s
-  live org chart includes both direct and indirect reporting lines, and who is working
-  on what right now.'
+title: strategy execution on a Live Org Chart showing who is working on what right
+  now
+seo_title: strategy execution on a Live Org Chart showing who is working on what right
+  now
+seo_description: "Sstrategy execution on a Live Org Chart showing who is working on
+  what right now. \n #stratapp's live org chart includes both direct and indirect
+  reporting lines, and who is working on what right now."
 hero_image: "/uploads/09.png"
 date: 2019-06-18T08:00:00.000+00:00
 feature_image: ''
-slug: live org chart software for collaboration
+slug: strategy execution on a live org chart
 layout: feature
+
 ---
 “_I wonder why Sam is not getting back to me, I sent him that over a week ago?_”
 

@@ -1,14 +1,15 @@
 ---
-title: take comfort that tasks from notes and all modules will appear in your workspace
-seo_title: live meeting notes with tasks to your workspace
-seo_description: Live meeting notes with tasks to your workspace, moving everyone
-  in the same direction without having to manually track meeting actions and who has
-  delegated what to whom.
+title: strategy execution powered by live meetings notes and actions to your workspace
+seo_title: strategy execution powered by live meetings notes and actions to your workspace
+seo_description: Sstrategy execution powered by live meetings notes and actions to
+  your workspace, moving everyone in the same direction without having to manually
+  track meeting actions and who has delegated what to whom.
 hero_image: "/uploads/08.png"
 date: 2019-06-20T08:00:00.000+00:00
 feature_image: ''
-slug: live meeting notes with tasks to your workspace
+slug: strategy execution powered by live meetings notes and actions to your workspace
 layout: feature
+
 ---
 Eliminate double handling and deliver on accountability.
 

@@ -1,13 +1,15 @@
 ---
-title: collaborate effectively with clients, partners and suppliers
-seo_title: social and work collaboration software
-seo_description: Social and work collaboration software for your employees, clients,
-  partners and suppliers.
+title: strategy execution powered by collaboration with clients, partners and suppliers
+seo_title: strategy execution powered by collaboration with clients, partners and
+  suppliers
+seo_description: Strategy execution powered by collaboration with your clients, partners
+  and suppliers, with structure and context.
 hero_image: "/uploads/07.png"
 date: 2019-06-21T08:00:00.000+00:00
 feature_image: ''
-slug: social and work collaboration software
+slug: strategy execution powered by collaboration with clients, partners and suppliers
 layout: feature
+
 ---
 \#stratapp allows you to add, for free, guest users who are external to your organization.
 

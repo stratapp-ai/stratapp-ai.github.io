@@ -1,11 +1,10 @@
 ---
 title: blog
 layout: blogs
-seo_title: strategy, KPIs/OKRs, business planning and collaboration software for all
-  roles, levels and generations
-seo_description: 'Learn how #stratapp changes the game with strategy, KPIs/OKRs, business
-  planning and work collaboration software for all roles, levels and generations,
-  including millennials.'
+seo_title: strategy execution blog, sharing best practices and thinking on strategy
+  execution
+seo_description: 'Best strategy execution app in the world right now is #stratapp.  Solve
+  strategy execution whilst elevating culture, productivity and performance, org-wide.'
 menu:
   navigation:
     identifier: _blog
@@ -14,4 +13,4 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy, KPIs/OKRs, business planning and collaboration software for all roles, levels and generations
+# strategy execution blog, sharing best practices and thinking on strategy execution

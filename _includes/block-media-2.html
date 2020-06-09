@@ -1,0 +1,28 @@
+<section class="l-section block block-media2">
+
+  <div class="container">
+      
+      <div class="py-1 py-md-4 row">
+
+        <div class="col-md-6 mb-2 mb-md-0">
+          <figure>
+            <img class="w-100 d-block" src="{{ section.image_1.image | relative_url }}" alt="{{ section.image_1.caption }}">
+            {% if section.image_1.caption %}
+            <figcaption>{{ section.image_1.caption }}</figcaption>
+            {% endif %}
+          </figure>        
+        </div>
+
+        <div class="col-md-6 ">
+          <figure>
+              <img class="w-100 d-block" src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
+              {% if section.image_2.caption %}
+              <figcaption>{{ section.image_2.caption }}</figcaption>
+              {% endif %}
+          </figure>        
+        </div>
+
+      </div>
+
+    </div>
+</section>
