@@ -18,6 +18,7 @@ fields:
   template_types:
   - content-feature
   - full-width-media-element
+  - video-element
   config:
     min: 
     max: 
