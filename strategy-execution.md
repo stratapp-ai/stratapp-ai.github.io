@@ -56,7 +56,7 @@ This template is built into #stratapp as goals > objectives > actions > projects
 This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms") explains two tips for communicating strategy:
 
 * 3 to 6 rule - for each level in the tree hierarchy (e.g. 3 overall goals, that each break down to 3 to 6 objectives, and so on)
-* verb noun rule - express each in verb noun format (e.g. "Develop our ...", "Improve our ...", "Solve how to ...")
+* verb noun rule - express each in verb noun format (e.g. "develop our ...", "improve our ...", "solve how to ...")
 
 \#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals), and at any level in the tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
@@ -68,26 +68,30 @@ Most importantly, all social collaboration on strategy execution has both [struc
 
 You might choose to articulate the vision, mission and values.
 
-Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek.  This is also a page for you to edit and publish in #stratapp.  You might also liek to read about our 
+Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek, which is built into #stratapp.
 
-\[change h3 to why and vision for strategy execution; then mention Sinek in the text with an external link\]
+### winning aspiration & where to play
 
-xxxx \[remember to use the term strategy execution in each para\]
+\#stratapp also includes the templates developed by [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"), in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte") and [Harvard Business Review](https://hbr.org/ "Harvard Business Review").
 
-### Dr Roger Martin / Deloitte / HBR.org
+Prof Martin argues that CEOs and business owners should focus on getting right the strategic choices, so their leaders and teams have a clear frame of reference for strategy execution and innovation. This template is included in #stratapp under the "direction" page, allowing you to articulate:
 
-xxxx\[change ditto\]
+* winning aspiration
+* where to play
+* how to win
+* capabilities
 
-### 
+Then the strategy tree hierarchy inside #stratapp becomes the place to articulate, innovate, evolve and collaborate on strategy execution, against that frame of reference.
 
 ## **be agile on strategy execution**
 
-world's first app to enable org-wide collaboration at any level in the strategy tree
+Hardly a week goes by without a management article or high profile blog post talking to the need for organizations to become agile.  If you study those, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of how exactly how to achieve it, especially if you have 50 to 500,000 employees.
 
-you are not constrained by rules, at an ylevel int he tree you can add  
-\- KPIs; workboards ....
+\#stratapp provides you the how.  #stratapp makes your time to value on agile days, rather than weeks or months.  #stratapp makes agile sustainable.
 
-people get used to the format = fast and agile
+\#stratapp is designed for org-wide execution and collaboration, within the context of strategy.  This is the key to becoming and sustaining a culture of agile.  If you don't have context and structure, the collaboration eventually becomes a fire-hose of distraction and noise.
+
+\#stratapp allows you to embrace agile as an org-wide capability for shaping, testing and evolving strategy execution, at speed.
 
 ## **cascading KPIs/OKRs for strategy execution**
 
