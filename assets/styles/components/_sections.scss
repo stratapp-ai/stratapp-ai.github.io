@@ -7,9 +7,11 @@
 	}
 	h3 {
 		font-size: 1.875rem;
+		color: $blue;
 	}
 	h4 {
 		font-size: 1.5625rem;
+		color: $blue;
 	}
 	h5 {
 		font-size: 1.25rem;
@@ -72,6 +74,29 @@
 		display: none;
 	}
 	background: transparent;
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+		color: $blue;
+	}
+	h3 {
+		font-size: 1.875rem;
+		color: $blue;
+	}
+	h4 {
+		font-size: 1.5625rem;
+		color: $blue;
+	}
+	h5 {
+		font-size: 1.25rem;
+	}
+	h6 {
+		font-size: 1.1rem;
+		font-weight: 600;
+	}
+
 
 	.container {
 		max-width: $container-small;
