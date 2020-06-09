@@ -133,6 +133,18 @@ By design, #stratapp has solved 3 things at once:
 
 ## **proactively managing risks on strategy execution**
 
+For most organizations, risk management is all talk, no action.
+
+If it was made easier, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs").
+
+\#stratapp makes risk management easy, org-wide and natural.
+
+You can easily track risks on both strategy execution and day to day work.  
+
+Similar to our design philosophy on other features, #stratapp applies what you already know, so that your time to value is days, not weeks, months or quarters.  The CFO monkey link above lists the 10 components of risk management inside #stratapp - things like status, impact, probability and mitigations - as you read that list, you'll realise you already know them.
+
+\#stratapp makes it easy for you to proactively manage risks on strategy execution, at all levels of the organization.
+
 ## **key questions for strategic execution**
 
 where to play
