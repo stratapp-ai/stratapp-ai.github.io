@@ -145,12 +145,24 @@ Similar to our design philosophy on other features, #stratapp applies what you a
 
 \#stratapp makes it easy for you to proactively manage risks on strategy execution, at all levels of the organization.
 
-## **key questions for strategic execution**
+## **key questions for strategy execution**
 
-where to play
+Our [starting with why](https://bit.ly/starting-with-why-not-how "starting with why") presentation finishes with 3 key questions on strategy execution:
 
-how to win
+1. What are the top 3 pain points?
+2. How will these change next 5 years?
+3. What top 3 things are holding back strategy execution?
 
-what capabiliyt
+The slide before that articulates the employee's perspective: 
 
-and htose in your why deck
+_we have plenty of apps, but there is nothing to run the actual company_
+
+_we want to collaborate on shared goals and plans, not get bogged down in single-use-apps and noise_
+
+We believe that if you ask yourself those key questions, and conclude that they are worth solving, then you will love #stratapp.
+
+Love work.  Love life.
+
+Be effective.  Anywhere.  Anytime.
+
+Everything you need, in your pocket.
