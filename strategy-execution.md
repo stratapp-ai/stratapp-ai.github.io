@@ -41,16 +41,18 @@ page_sections:
 ---
 ## **strategy execution articulated as a tree hierarchy**
 
-For everyone in your organisation to understand and collaborate on strategy execution, best practice is to articulate the strategy as a tree hierarchy.
+For everyone in your organisation to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
 
-This approach is built into #stratapp as: goals > objectives > actions > projects.
+You can do this under "our plan" in #stratapp as: goals > objectives > actions > projects.
 
 This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms") explains two tips for communicating strategy:
 
-* 3 to 6 rule - for each level in the tree hierarchy, thus making it easy to understand
-* verb noun rule - for example, "develop our ...", "improve our ...", "solve how to ..."
+* 3 to 6 rule - for each level in the strategy tree hierarchy
+* verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
 
-\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).  
+
+Because #stratapp is a genuine strategy execution app, at any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
 Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it")  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
@@ -58,13 +60,13 @@ Most importantly, all social collaboration on strategy execution has both [struc
 
 \#stratapp allows you to turn on/off the pages for strategic context.
 
-You might choose to articulate the vision, mission and values.
+You may choose to articulate the vision, mission and values.
 
-Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek, which is built into #stratapp.
+Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek, which is also built into #stratapp.
 
 ### winning aspiration & where to play
 
-\#stratapp includes the templates developed by [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"), in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte") and [Harvard Business Review](https://hbr.org/ "Harvard Business Review").
+\#stratapp includes the templates developed by the very talented [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"), in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte") and [Harvard Business Review](https://hbr.org/ "Harvard Business Review").
 
 Prof Martin argues that CEOs and business owners should focus on the strategic choices, so their leaders and teams have a clear frame of reference for strategy execution.  This thinking is included in #stratapp under the "direction" page, allowing you to articulate:
 
@@ -73,17 +75,17 @@ Prof Martin argues that CEOs and business owners should focus on the strategic c
 * how to win
 * capabilities
 
-The strategy tree hierarchy inside #stratapp then becomes the place to articulate, innovate, evolve and collaborate on strategy execution, against that frame of reference.
+The strategy tree hierarchy inside #stratapp becomes the place to articulate, innovate, evolve and collaborate on strategy execution, against that strategic frame of reference.
 
 ## **be agile on strategy execution**
 
-Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve it, especially if you have 50 to 500,000 employees.
+Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve agile, especially if you have 50 to 500,000 employees.
 
 \#stratapp makes the how easy.  #stratapp makes your time to value on agile days, rather than weeks or months.  #stratapp makes agile sustainable.
 
 \#stratapp is designed for org-wide execution and collaboration, within the context of strategy.  This is the key to becoming and sustaining a culture of agile.  If you don't have context and structure, collaboration becomes a fire-hose of distraction and noise.
 
-As a result, #stratapp allows you to embrace agile as an org-wide capability for shaping, testing and evolving strategy execution, at speed, whilst proactively managing risk.
+\#stratapp allows you to achieve agile as an org-wide capability for shaping, testing and evolving strategy execution, at speed, whilst proactively managing risk.
 
 ## **cascading KPIs/OKRs for strategy execution**
 
@@ -131,7 +133,7 @@ If it was easier to do and keep up to date, most of us would embrace risk manage
 
 \#stratapp makes risk management easy, org-wide and natural.
 
-You can easily track risks on both strategy execution and day to day work.  
+You can easily track risks on both strategy execution and day to day work.
 
 Similar to our design philosophy on other features, #stratapp applies what you already know, so that your time to value is days, not weeks, months or quarters.  The CFO monkey link above lists the 10 components of risk management inside #stratapp - things like status, impact, probability and mitigations - as you read that list of 10, you'll realise you already know them.
 
@@ -145,7 +147,7 @@ Our [starting with why](https://bit.ly/starting-with-why-not-how "starting with 
 2. How will these change next 5 years?
 3. What top 3 things are holding back strategy execution?
 
-The slide before that articulates the employee's perspective: 
+The slide before that articulates the employee's perspective:
 
 _we have plenty of apps, but there is nothing to run the actual company_
 
