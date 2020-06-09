@@ -115,9 +115,21 @@ By 2025, 75% of the workforce will be millennials.  To get inside their heads on
 
 ## **breaking the comms hierarchy on innovation & strategy execution**
 
-Elon Mask
+Elon Musk has 6 productivity rules at Tesla, and rule #5 is "Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen."
 
-Middle Management have a role ... but its not to filter comms
+At #stratapp, we share the same view.  The hierarchy is there to allocate responsibility, for example, spending limits, or looking after a team or process.
+
+But communication should be free flowing and open.  That said, we don't want to create a twitter or #slack style fire-hose of social posts, because in the end that creates chaos and distraction.
+
+\#stratapp has social with structure and context. We were not the first to think of this social with structure, and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"), however we are the first and only B2B SaaS app to bring it to market.
+
+But social with structure is only half the story.  We also have social with context, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be the day to day work.
+
+By design, #stratapp has solved 3 things at once:
+
+1. Engaging employees on strategy execution, because they can do strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage
+2. Executives, leaders and teams can collaborate efficiently - with just the right level of structure and context, to save time without hindering engagement
+3. Breaking free of the traditional comms hierarchy - tapping into the whole talent pool on innovation and evolving strategy execution - whilst at the same time elevating culture and org/team/individual performance
 
 ## **proactively managing risks on strategy execution**
 
