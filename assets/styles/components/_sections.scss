@@ -22,18 +22,17 @@
 	}
 	.block {
 		&:nth-child(1) {
-			background: $danger;
+			background: $red;
 			padding-top: 2em;
 			padding-bottom: 2em;
 			@include media-breakpoint-up(md) {
+				background: linear-gradient(100deg, darken($red, 5%) 46%, $red 46%);
 				.text {
 					padding-right: 4rem;
 				}
 			}
-			h2,h3,h4 {
+			h1,h2,h3,h4,h5 {
 				color: $white;
-				font-size: 3rem;
-				font-weight: bold;
 			}
 			p {
 				color: $white;
@@ -42,8 +41,10 @@
 			.bookademo-btn {
 				@extend .btn;
 				@extend .btn-primary;
+				margin-top: 1em;
 			}
 			img {
+				width: 90% !important;
 				background: transparent;
 				padding: 0;
 			}
