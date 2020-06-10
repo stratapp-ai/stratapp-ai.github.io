@@ -26,7 +26,7 @@
 			padding-top: 2em;
 			padding-bottom: 2em;
 			@include media-breakpoint-up(md) {
-				background: linear-gradient(100deg, darken($red, 5%) 46%, $red 46%);
+				background: linear-gradient(100deg, darken($red, 5%) 49%, $red 46%);
 				.text {
 					padding-right: 4rem;
 				}
@@ -51,6 +51,9 @@
 		}
 		&:nth-child(2) {
 		//	background: $bg-lightblue;
+			h2,h3,h4 {
+				color: $blue;
+			}
 		}
 		&:nth-child(3) {
 			background: $bg-lightblue;
