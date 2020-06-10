@@ -4,11 +4,7 @@ slug: strategy-execution
 seo_title: strategy execution is changing for the better
 seo_description: Strategy execution is changing for the better. Strategy execution
   has been top down and broken for years, not anymore.
-menu:
-  navigation:
-    identifier: _strategy execution
-    weight: 1
-feature_image: "/uploads/hero_graphic_strategy_execution.png"
+feature_image: "/uploads/strategy_execution.png"
 page_sections:
 - template: content-feature
   block: feature-1
@@ -56,6 +52,10 @@ page_sections:
   caption: ''
   video: ''
   vimeo_id: ''
+menu:
+  navigation:
+    identifier: _strategy execution
+    weight: 1
 
 ---
 ## **strategy execution articulated as a tree hierarchy**
