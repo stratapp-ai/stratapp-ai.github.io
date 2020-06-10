@@ -22,7 +22,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: strategy execution fails as top down
+  headline: "<strong>strategy execution fails as top down</strong>"
   content: |-
     Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events. Some do it with consultants. Some invite middle management. Some invite the whole company.
 
@@ -65,7 +65,7 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 * 3 to 6 rule - for each level in the strategy tree hierarchy
 * verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
 
-\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).  
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).
 
 Because #stratapp is a genuine strategy execution app, at any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
