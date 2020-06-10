@@ -5,9 +5,8 @@ category:
 date: 2019-09-11T05:20:58.000+00:00
 layout: blog
 title: "#stratapp is a consulting goldmine"
-sub_heading: 'Consultants open up a whole new world. The big opportunity is onselling,
-  as #stratapp provides more insights than any other tech. Clients remain in full
-  control, ensuring a win:win!'
+sub_heading: 'The big opportunity is onselling, as #stratapp provides more insights
+  than any other tech. Clients remain in full control, ensuring a win:win!'
 video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
 slug: consulting gold mine
@@ -20,20 +19,20 @@ feature_image: "/uploads/consulting goldmine.jpg"
 ---
 **#stratapp is a consulting goldmine!**
 
-# Why?
+# why?
 
-If you know what's going on, at all levels in the client's organization, you can add more value.  Not only that, the client's CEO and leadership team have a tangible context for collaborating on your ideas and proposals.
+If you know what's going on, at all levels in the client's organization, you can add more value.  Not only that, the client's CEO and leadership team have a tangible context for considering your ideas and proposals.
 
-## Consulting Sales Today
+## consulting sales today
 
-Consulting sales today are highly dependent on a few key relationships.  By investing energy into time consuming lunches, dinners and workshops, consultants try to understand and define _the problem_, before scoping out potential ways to help.
+Consulting sales today are highly dependent on a few key relationships.  By investing thoughtful effort into time consuming lunches, dinners and workshops, consultants try to understand and define _the problem_, before scoping out potential ways to help.
 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
 * Consultants get (partly) blamed for subsequent poor execution
-* Onselling additional work takes a lot of time, energy and luck
+* Onselling additional work takes a lot of time and effort, and some luck
 
-## Consulting Sales Future
+## consulting sales future
 
 \#stratapp changes the game on how consulting work gets identified, scoped, sold and delivered.
 
@@ -42,16 +41,16 @@ How?  #stratapp provides more data and insights than any other tech.
 * See everything objectively, at all levels in real time
 * Deliver work in a way that is alive and interactive
 * Derisk your work, by proactively assisting on blockers
-* Onsell with data, genuine insights and aligned interests
+* Onsell with real data, genuine insights and aligned interests
 
 Of course, what the consultant can see and edit inside #stratapp is controlled by the client.
 
-### More Insights Than Any Other Tech
+### more insights than any other tech
 
 Imagine if you could see, in just a few seconds, the exact status and underlying cadence of the client's:
 
 * strategy execution across goals->objectives->actions->projects
-* KPIs/OKRs
+* KPIs/OKRs - including the performance as these are cascaded
 * risks/mitigations/assumptions
 * projects/tasks
 * challenges/ideas
@@ -62,11 +61,13 @@ Imagine if you could see, in just a few seconds, the exact status and underlying
 
 ![](/uploads/line of sight.PNG)
 
+#### go deeper
+
 Imagine filtering by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
 This level of real time alignment and insight is unprecedented in B2B tech - giving progressive CEOs, leaders, employees and consultants unlimited opportunities to innovate strategy execution and day to day work.
 
-### Consulting Deliverables (no more static docs)
+### consulting deliverables (no more static docs)
 
 Old school consulting deliverables, in the form of point-in-time static docs, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
 
@@ -80,11 +81,11 @@ Consultants and clients need collaboration tech that is:
 * **Inclusive** - a user experience and price price that achieves org-wide engagement
 * **Easy** - naturally intuitive, making the time to value of minutes, not weeks
 * **Lasting** - adds value to the client beyond the life of the consulting engagement
-* **Efficient** - helping CTOs to eliminate single-purpose-apps and integrations
-* **Dual** - helps every employee execute both strategic and day to day work
-* **Next Gen ready** - noting [millennials](https://stratapp.ai/blog/radical-transparency/ "millennials") will be 75% of the workforce by 2025
+* **Efficient** - helps CTOs to eliminate single-purpose-apps and integrations
+* **Multi-dimensional** - helps every employee execute both strategic and day to day work
+* **Next Gen ready** - [millennials](https://stratapp.ai/blog/radical-transparency/ "millennials") will be 75% of the workforce by 2025
 
-# About #stratapp
+# about #stratapp
 
 The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi), before lead roles in corporate finance and start-up venture capital.
 
@@ -94,7 +95,7 @@ Ash has a deep understanding of the consulting life cycle, and the value of onse
 
 ![](/uploads/consulting landscape.jpg)
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program and will be inviting Microsoft to invest on their Series A round in 2020.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program.
 
 \#stratapp has experienced co-founders, with a 10 year vision backed by investors who are market leaders.
 
