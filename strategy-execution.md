@@ -9,9 +9,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: strategy execution is changing for the better
+  headline: ''
   content: |-
-    strategy execution has been top down and broken for years, not anymore.
+    # strategy execution is changing for the better
+
+    ##### strategy execution has been top down and broken for years, not anymore.
 
     [Book a Demo](#){: .bookademo-btn}
   media:
@@ -20,7 +22,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>strategy execution fails as top down</strong>"
+  headline: strategy execution fails as top down
   content: |-
     Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events. Some do it with consultants. Some invite middle management. Some invite the whole company.
 
