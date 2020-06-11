@@ -75,7 +75,7 @@ Because #stratapp is a genuine strategy execution app, at any level in the strat
 
 Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
-### vision and why, providing context for strategy execution
+### vision and why - providing context for strategy execution
 
 \#stratapp allows you to turn on/off the pages for strategic context.
 
