@@ -83,7 +83,7 @@ You may choose to articulate the vision, mission and values.
 
 Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why"){:target="_blank"} construct from Simon Sinek, which is also built into #stratapp.
 
-### winning aspiration & where to play
+### winning aspiration & where to play - strategic choices
 
 \#stratapp includes the templates developed by [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"){:target="_blank"}, in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte"){:target="_blank"} and [Harvard Business Review](https://hbr.org/ "Harvard Business Review"){:target="_blank"}.
 
