@@ -24,9 +24,9 @@ page_sections:
   media_alignment: Right
   headline: "<strong>strategy execution fails as a top down push</strong>"
   content: |-
-    Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events. Some do it with consultants. Some invite middle management. Some invite the whole company.
+    Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events/roadshows. Some hire consultants. Some invite middle management. Some invite the whole company.
 
-    Regardless of the approach, two things fail:
+    Regardless of the approach, two things have been failing us:
 
     1. **Urgent takes over important** - people don’t have the skill, will or time to focus on strategy execution, so day to day priorities consume everyone
     2. **Out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
