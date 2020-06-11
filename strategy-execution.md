@@ -28,7 +28,7 @@ page_sections:
 
     Regardless of the approach, two things fail:
 
-    1. **Urgent takes over important** - people don’t have the skill, will or time to focus on strategy execution, and pretty soon day to day priorities consume everyone
+    1. **Urgent takes over important** - people don’t have the skill, will or time to focus on strategy execution, so day to day priorities consume everyone
     2. **Out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
   media:
     image: "/uploads/top-down-2.jpg"
