@@ -71,7 +71,7 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 
 \#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).
 
-Because #stratapp is a genuine strategy execution app, at any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
+\#stratapp is a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
 Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
@@ -87,7 +87,7 @@ Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ 
 
 \#stratapp includes the templates developed by [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"){:target="_blank"}, in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte"){:target="_blank"} and [Harvard Business Review](https://hbr.org/ "Harvard Business Review"){:target="_blank"}.
 
-Prof Martin argues that CEOs and business owners should focus on the strategic choices, so their leaders and teams have a clear frame of reference for strategy execution.  This thinking is included in #stratapp under the "direction" page, allowing you to articulate:
+Prof Martin argues that CEOs and business owners should focus on the strategic choices, so their leaders and teams have a frame of reference for strategy execution.  This thinking is included in #stratapp under the "direction" page, allowing you to articulate:
 
 * winning aspiration
 * where to play
@@ -98,13 +98,13 @@ The strategy tree hierarchy inside #stratapp becomes the place to articulate, in
 
 ## **be agile on strategy execution**
 
-Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve agile, especially if you have 50 to 500,000 employees.
+Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve an agile culture and org-wide capability, especially if you have 50 to 500,000 employees.
 
-\#stratapp makes the how easy.  #stratapp makes your time to value on agile days, rather than weeks or months.  #stratapp makes agile sustainable.
+\#stratapp makes the how easy.  #stratapp accelerates your time to value on agile as a measure of days, rather than weeks or months.  #stratapp also makes your agile culture and org-wide capability sustainable.
 
-\#stratapp is designed for org-wide execution and collaboration, within the context of strategy.  This is the key to becoming and sustaining a culture of agile.  If you don't have context and structure, collaboration becomes a fire-hose of distraction and noise.
+\#stratapp is designed for org-wide execution and collaboration, within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining a culture of agile.  If you don't have context and structure, collaboration becomes a fire-hose of distraction and noise.
 
-\#stratapp allows you to achieve agile as an org-wide capability for shaping, testing and evolving strategy execution, at speed, whilst proactively managing risk.
+\#stratapp allows you to achieve agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk.
 
 ## **cascading KPIs/OKRs for strategy execution**
 
