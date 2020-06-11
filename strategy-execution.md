@@ -22,7 +22,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>strategy execution fails as top down</strong>"
+  headline: "<strong>strategy execution fails as top down command &amp; control</strong>"
   content: |-
     Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events. Some do it with consultants. Some invite middle management. Some invite the whole company.
 
@@ -42,7 +42,7 @@ page_sections:
     Email and messaging apps are now a real time medium, consuming 40% of our time, with another 45-55% lost to meetings, routine tasks and being reactive.
 
     Executives, managers and team leaders are fast losing the headspace to think deeply, plan carefully, experiment and flawlessly execute on strategy execution, new capabilities and change.
-  headline: "<strong>strategy execution gets lost in noise</strong>"
+  headline: "<strong>strategy execution gets lost in noise &amp; being busy</strong>"
   media:
     image: "/uploads/time-on-email.JPG"
     alt_text: ''
@@ -58,7 +58,7 @@ menu:
     weight: 1
 
 ---
-## **strategy execution articulated as a tree hierarchy**
+## **strategy execution as a tree hierarchy**
 
 For everyone in your organisation to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
 
@@ -114,7 +114,7 @@ In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tr
 
 For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.  Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
 
-## **achieving employee engagement on strategy execution**
+## **employee engagement on strategy execution**
 
 20, 100, 1,000 or 50,000 employees cannot collaborate on a strategy document or presentation.  Let's be honest, most employees won't even read it.
 
@@ -128,7 +128,7 @@ Furthermore, the evolution of strategy, based on experimentation, employee and m
 
 By 2025, 75% of the workforce will be millennials.  To better understand their fresh perspective on radical transparency and digital work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration"){:target="_blank"}.
 
-## **breaking the comms hierarchy on innovation & strategy execution**
+## **breaking the comms hierarchy**
 
 Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"){:target="_blank"}, and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
@@ -146,7 +146,7 @@ By design, #stratapp has solved 3 things at once:
 2. **Executives, leaders and teams can collaborate efficiently** - with just the right level of structure and context, to save you time without hindering engagement
 3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution - whilst elevating culture and org-wide/team/individual performance
 
-## **proactively managing risks on strategy execution**
+## **managing risks on strategy execution**
 
 For most organisations risk management is all talk, no action.
 
