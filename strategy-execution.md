@@ -180,7 +180,7 @@ _we want to collaborate on shared goals and plans, not get bogged down in single
 
 We believe that if you ask yourself those 3 key questions, and if you conclude that they are worth solving, then you will love #stratapp.
 
-## our why
+## **our why**
 
 Love work.  Love life.
 
