@@ -108,11 +108,13 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 ## **cascading KPIs/OKRs for strategy execution**
 
-\#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations.
+\#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations and your objectives on cadence.
 
 In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  The KPI/OKR tree reflects your targets.
 
-For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.  Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
+For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.
+
+Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
 
 ## **employee engagement on strategy execution**
 
@@ -132,19 +134,21 @@ By 2025, 75% of the workforce will be millennials.  To better understand their f
 
 Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"){:target="_blank"}, and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
-At #stratapp we share the same view.  The hierarchy is there to allocate responsibility; for example, spending limits, or looking after a team, customer or process.
+At #stratapp we share the same view.  The hierarchy is only there to allocate responsibility and manage risk.  For example, spending limits or looking after a team, customer or process.
 
-Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that creates noise and distraction.
+Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that just creates more noise and distraction.
 
-\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"){:target="_blank"}, however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  Hopefully you and your organization will take this step change opportunity to eliminate 95% of internal email.
+\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"){:target="_blank"}, however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  
 
-But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be those for day to day work.
+Hopefully your organization will take this step change opportunity to eliminate 95% of internal email.
+
+But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be all of those applied to day to day work.
 
 By design, #stratapp has solved 3 things at once:
 
-1. **Engaging employees on strategy execution** - because they can do strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage each day
+1. **Engaging employees on strategy execution** - because they can do both strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage each day
 2. **Executives, leaders and teams can collaborate efficiently** - with just the right level of structure and context, to save you time without hindering engagement
-3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution - whilst elevating culture and org-wide/team/individual performance
+3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution at speed - whilst elevating culture and org-wide/team/individual performance
 
 ## **managing risks on strategy execution**
 
@@ -176,7 +180,7 @@ _we want to collaborate on shared goals and plans, not get bogged down in single
 
 We believe that if you ask yourself those 3 key questions, and if you conclude that they are worth solving, then you will love #stratapp.
 
-### our why
+## our why
 
 Love work.  Love life.
 
