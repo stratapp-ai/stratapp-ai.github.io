@@ -100,9 +100,11 @@ The strategy tree hierarchy inside #stratapp becomes the place to articulate, in
 
 Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve an agile culture and org-wide capability, especially if you have 50 to 500,000 employees.
 
-\#stratapp makes the how easy.  #stratapp accelerates your time to value on agile as a measure of days, rather than weeks or months.  #stratapp also makes your agile culture and org-wide capability sustainable.
+\#stratapp makes "the how" easy.
 
-\#stratapp is designed for org-wide execution and collaboration, within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining a culture of agile.  If you don't have context and structure, collaboration becomes a fire-hose of distraction and noise.
+\#stratapp accelerates your time to value on agile in days, rather than weeks or months.  Importantly, #stratapp makes your agile culture and org-wide capability sustainable, going from strength to strength over time.
+
+\#stratapp has been designed for org-wide execution and collaboration, within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining agile.  If you don't have context and structure, agile collaboration soon becomes a fire-hose of distraction and noise.
 
 \#stratapp allows you to achieve agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk.
 
@@ -138,7 +140,7 @@ At #stratapp we share the same view.  The hierarchy is only there to allocate re
 
 Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that just creates more noise and distraction.
 
-\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"){:target="_blank"}, however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  
+\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"){:target="_blank"}, however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.
 
 Hopefully your organization will take this step change opportunity to eliminate 95% of internal email.
 
