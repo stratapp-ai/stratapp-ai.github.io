@@ -22,7 +22,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>strategy execution fails as top down command &amp; control</strong>"
+  headline: "<strong>strategy execution fails as a top down push</strong>"
   content: |-
     Traditionally the board or CEO would formulate strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events. Some do it with consultants. Some invite middle management. Some invite the whole company.
 
@@ -60,7 +60,7 @@ menu:
 ---
 ## **strategy execution as a tree hierarchy**
 
-For everyone in your organisation to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
+For everyone to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
 
 You can do this under "our plan" in #stratapp as: goals > objectives > actions > projects.
 
@@ -75,7 +75,7 @@ Because #stratapp is a genuine strategy execution app, at any level in the strat
 
 Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
-### vision and why - context for strategy execution
+### vision and why, providing context for strategy execution
 
 \#stratapp allows you to turn on/off the pages for strategic context.
 
@@ -85,7 +85,7 @@ Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ 
 
 ### winning aspiration & where to play
 
-\#stratapp includes the templates developed by the very talented [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"){:target="_blank"}, in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte"){:target="_blank"} and [Harvard Business Review](https://hbr.org/ "Harvard Business Review"){:target="_blank"}.
+\#stratapp includes the templates developed by [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"){:target="_blank"}, in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte"){:target="_blank"} and [Harvard Business Review](https://hbr.org/ "Harvard Business Review"){:target="_blank"}.
 
 Prof Martin argues that CEOs and business owners should focus on the strategic choices, so their leaders and teams have a clear frame of reference for strategy execution.  This thinking is included in #stratapp under the "direction" page, allowing you to articulate:
 
@@ -116,7 +116,7 @@ For example, you might have a strategic goal to grow market share in Europe.  Th
 
 ## **employee engagement on strategy execution**
 
-20, 100, 1,000 or 50,000 employees cannot collaborate on a strategy document or presentation.  Let's be honest, most employees won't even read it.
+20, 100, 1,000 or 50,000 employees cannot collaborate on a strategy doc or slides. Let's be honest, most employees won't even read it.
 
 \#stratapp brings your strategy alive, in an interactive digital format, accessible to everyone.
 
