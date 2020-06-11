@@ -162,7 +162,7 @@ By applying what you already know, within a consistent UX alongside the other fe
 
 ## **key questions for strategy execution**
 
-Our [starting with why](https://bit.ly/starting-with-why-not-how "starting with why") presentation finishes with 3 key questions to ask yourself on strategy execution:
+Our [starting with why](https://bit.ly/starting-with-why-not-how "starting with why"){:target="_blank"} presentation finishes with 3 key questions to ask yourself on strategy execution:
 
 1. What are the top 3 pain points?
 2. How will these change next 5 years?
