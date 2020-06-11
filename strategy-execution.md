@@ -1,7 +1,7 @@
 ---
 title: strategy execution
 slug: strategy-execution
-seo_title: strategy execution is changing for the better
+seo_title: strategy execution wins as bottom up engagement
 seo_description: Strategy execution is changing for the better. Strategy execution
   has been top down and broken for years, not anymore.
 feature_image: "/uploads/strategy_execution.png"
@@ -11,9 +11,9 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # strategy execution is changing for the better
+    # strategy execution wins as bottom up engagement
 
-    ##### strategy execution has been top down and broken for years, not anymore.
+    ##### strategy execution has been top down and broken for years, not anymore
 
     [Book a Demo](#){: .bookademo-btn}
   media:
@@ -64,7 +64,7 @@ For everyone in your organisation to understand and collaborate on strategy exec
 
 You can do this under "our plan" in #stratapp as: goals > objectives > actions > projects.
 
-This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms") explains two tips for communicating strategy:
+This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms"){:target="_blank"} explains two tips for communicating strategy:
 
 * 3 to 6 rule - for each level in the strategy tree hierarchy
 * verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
@@ -73,7 +73,7 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 
 Because #stratapp is a genuine strategy execution app, at any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
-Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it")  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
+Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
 ### vision and why - context for strategy execution
 
@@ -81,11 +81,11 @@ Most importantly, all social collaboration on strategy execution has both [struc
 
 You may choose to articulate the vision, mission and values.
 
-Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why") construct from Simon Sinek, which is also built into #stratapp.
+Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why"){:target="_blank"} construct from Simon Sinek, which is also built into #stratapp.
 
 ### winning aspiration & where to play
 
-\#stratapp includes the templates developed by the very talented [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"), in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte") and [Harvard Business Review](https://hbr.org/ "Harvard Business Review").
+\#stratapp includes the templates developed by the very talented [Prof Roger Martin](https://rogerlmartin.com/meet-roger "Prof Roger Martin"){:target="_blank"}, in collaboration with [Deloitte](https://www2.deloitte.com/ "Deloitte"){:target="_blank"} and [Harvard Business Review](https://hbr.org/ "Harvard Business Review"){:target="_blank"}.
 
 Prof Martin argues that CEOs and business owners should focus on the strategic choices, so their leaders and teams have a clear frame of reference for strategy execution.  This thinking is included in #stratapp under the "direction" page, allowing you to articulate:
 
@@ -110,7 +110,7 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 \#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations.
 
-In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"), setting targets is not a strategy.  The strategy tree reflects your strategy.  The KPI/OKR tree reflects your targets.
+In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  The KPI/OKR tree reflects your targets.
 
 For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by state.  Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
 
@@ -126,17 +126,17 @@ You immediately tap into the talents and potential of everyone in the organizati
 
 Furthermore, the evolution of strategy, based on experimentation, employee and market feedback, becomes part of the culture - a learning organization that can actually execute, by breaking free of the rigid structure of static point-in-time documents and top-down control.
 
-By 2025, 75% of the workforce will be millennials.  To better understand their fresh perspective on radical transparency and digital work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration").
+By 2025, 75% of the workforce will be millennials.  To better understand their fresh perspective on radical transparency and digital work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration"){:target="_blank"}.
 
 ## **breaking the comms hierarchy on innovation & strategy execution**
 
-Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"), and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
+Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"){:target="_blank"}, and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
 At #stratapp we share the same view.  The hierarchy is there to allocate responsibility; for example, spending limits, or looking after a team, customer or process.
 
 Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that creates noise and distraction.
 
-\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"), however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  Hopefully you and your organization will take this step change opportunity to eliminate 95% of internal email.
+\#stratapp has social with structure and context. We were not the first to think of this and [we give full credit to Atlassian in this article](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "social with structure"){:target="_blank"}, however we are the first and only B2B SaaS app to bring this powerful capability to market.  It is an integral part of the #stratapp UX and you will find yourself revelling in the social/work page.  Hopefully you and your organization will take this step change opportunity to eliminate 95% of internal email.
 
 But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be those for day to day work.
 
