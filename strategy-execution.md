@@ -33,6 +33,12 @@ page_sections:
   media:
     image: "/uploads/top-down-2.jpg"
     alt_text: strategy execution as top down
+- template: video-element
+  block: video-element
+  youtube_id: OYzsV1Xbi-s
+  caption: ''
+  video: ''
+  vimeo_id: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -46,12 +52,6 @@ page_sections:
   media:
     image: "/uploads/time-on-email.JPG"
     alt_text: ''
-- template: video-element
-  block: video-element
-  youtube_id: OYzsV1Xbi-s
-  caption: ''
-  video: ''
-  vimeo_id: ''
 menu:
   navigation:
     identifier: _strategy execution
