@@ -150,7 +150,7 @@ By design, #stratapp has solved 3 things at once:
 
 For most organisations risk management is all talk, no action.
 
-If it was easier to log and keep up to date, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs").
+If it was easier to log and keep up to date, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs"){:target="_blank"}.
 
 \#stratapp makes risk management easy, org-wide and natural.
 
