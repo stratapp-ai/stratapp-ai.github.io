@@ -1,9 +1,9 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# strategy execution and day to day work, in
-  one app\n\n##### an intuitive SaaS app solving the disconnect between leaders and
-  teams, and the problem of urgent overtaking important\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
+hero_intro: "{:.font-weight-bold}\n\n# strategy execution and daily work, in one app\n\n#####
+  an intuitive SaaS app solving the disconnect between leaders and teams, and the
+  problem of urgent overtaking important\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
   class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
   it works</a>"
 hero_image: "/uploads/tower-hero.svg"
