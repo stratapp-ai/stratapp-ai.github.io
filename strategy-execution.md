@@ -11,9 +11,9 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # strategy execution wins as bottom up engagement
+    # strategy execution wins with bottom up engagement
 
-    ##### strategy execution has been top down and broken for years, time we fixed this
+    ##### strategy execution has been top down and broken for years, it is time we fixed this
 
     [Book a Demo](#){: .bookademo-btn}
   media:
