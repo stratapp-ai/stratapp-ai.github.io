@@ -44,7 +44,7 @@ page_sections:
     Executives, managers and team leaders are fast losing the headspace to think deeply, plan carefully, experiment and flawlessly execute on strategy execution, new capabilities and change.
   headline: "<strong>strategy execution gets lost in noise &amp; being busy</strong>"
   media:
-    image: "/uploads/time-on-email.JPG"
+    image: "/uploads/time-on-email-without-heading.png"
     alt_text: ''
 - template: video-element
   block: video-element
