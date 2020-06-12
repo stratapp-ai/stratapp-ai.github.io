@@ -106,7 +106,7 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 \#stratapp has been designed for org-wide execution and collaboration, within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining agile.  If you don't have context and structure, agile collaboration soon becomes a fire-hose of distraction and noise.
 
-\#stratapp allows you to achieve agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk.
+\#stratapp allows you to achieve agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk at all levels of the organization.
 
 ## **cascading KPIs/OKRs for strategy execution**
 
