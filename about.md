@@ -55,4 +55,4 @@ menu:
 ---
 # strategy execution rarely meets expectations, often due to a subtle disconnect between leaders and teams
 
-##### and each day at work urgent takes over important, with internal email consuming 40% of our time - solve all this with #stratapp
+##### and each day at work urgent takes over important, with internal email consuming 40% of our time
