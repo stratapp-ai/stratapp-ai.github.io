@@ -35,7 +35,7 @@ section_text: |-
   We didn't invent new buzz words, theories or methods. We carefully designed the experience around what you already know.
 
   Your time-to-value on #stratapp is days - not weeks or months.
-section_image: "/uploads/top-down-2.jpg"
+section_image: "/uploads/top-down-with-heading.png"
 seo_title: strategy execution rarely meets expectations, solve this within days
 seo_description: 'Strategy execution rarely meets expectations, often due to a subtle
   disconnect between leaders and teams. #stratapp helps make strategy execution successful,
