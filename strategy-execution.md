@@ -96,7 +96,7 @@ Prof Martin argues that CEOs and business owners should focus on the strategic c
 
 The strategy tree hierarchy inside #stratapp becomes the place to articulate, innovate, evolve and collaborate on strategy execution, against that strategic frame of reference.
 
-## **be agile on strategy execution**
+## **becoming agile on strategy execution**
 
 Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve an agile culture and org-wide capability, especially if you have 50 to 500,000 employees.
 
