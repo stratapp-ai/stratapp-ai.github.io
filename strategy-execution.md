@@ -60,9 +60,9 @@ menu:
 ---
 ## **strategy execution as a tree hierarchy**
 
-For everyone to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
+For everyone to understand and collaborate on strategy execution, best practice is to articulate your strategy as a cascading tree.
 
-You can do this on the "our plan" page in #stratapp as: goals > objectives > actions > projects.
+You can easily do this on the "our plan" page in #stratapp as: goals > objectives > actions > projects.
 
 This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms"){:target="_blank"} explains two tips for communicating strategy:
 
