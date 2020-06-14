@@ -62,24 +62,24 @@ menu:
 
 For everyone to understand and collaborate on strategy execution, best practice is to articulate your strategy as a tree hierarchy.
 
-You can do this under "our plan" in #stratapp as: goals > objectives > actions > projects.
+You can do this on the "our plan" page in #stratapp as: goals > objectives > actions > projects.
 
 This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms"){:target="_blank"} explains two tips for communicating strategy:
 
 * 3 to 6 rule - for each level in the strategy tree hierarchy
 * verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
 
-\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals).
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals). #stratapp adapts to your unique org design and ways of working, rather than the hassle of having to adjust your business to suit the software.
 
-\#stratapp is a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
+\#stratapp is a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.  The user experience is easy and context relevant.
 
-Most importantly, social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
+Most importantly, your social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_" or refine that further to "@me".
 
 ### vision and why - providing context for strategy execution
 
-\#stratapp allows you to turn on or off the pages for strategic context.
+\#stratapp allows you to turn on and off different pages for strategic context.  Not only that, you can easily publish each module of the app by your org design attributes or named individuals.
 
-You may choose to articulate the vision, mission and values.
+For example, you may choose to articulate the vision, mission and values, and initially only publish that to executives and marketing team members based in APAC/Singapore and Europe/Germany.
 
 Or you may prefer to use the brilliant [start with why](https://simonsinek.com/ "start with why"){:target="_blank"} construct from Simon Sinek, which is also built into #stratapp.
 
