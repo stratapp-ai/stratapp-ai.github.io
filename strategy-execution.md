@@ -77,7 +77,7 @@ Most importantly, your social collaboration on strategy execution has both [stru
 
 ### vision and why - providing context for strategy execution
 
-\#stratapp allows you to turn on and off different pages for strategic context.  Not only that, you can easily publish each module of the app by your org design attributes or named individuals.
+\#stratapp allows you to turn on and off different pages for strategic context.  Not only that, you can easily publish each module of the app by your org design, or by individual users.
 
 For example, you may choose to articulate the vision, mission and values, and initially only publish that to executives and marketing team members based in APAC/Singapore and Europe/Germany.
 
