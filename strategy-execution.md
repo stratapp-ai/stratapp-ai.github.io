@@ -98,7 +98,7 @@ The strategy tree hierarchy inside #stratapp becomes the place to articulate, in
 
 ## **becoming agile on strategy execution**
 
-Hardly a week goes by without a management article or high profile blog post talking to the need for organisations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve an agile culture and org-wide capability, especially if you have 50 to 500,000 employees.
+Hardly a week goes by without a management article or high profile blog post talking to the need for organizations to become agile.  If you study them, you'll start to see a pattern - the talk is all about the why, benefits and learnings from becoming agile.  There is little or no mention of exactly how to achieve an agile culture and org-wide capability, especially if you have 50 to 500,000 employees.
 
 \#stratapp makes "the how" easy.
 
@@ -136,7 +136,7 @@ By 2025, 75% of the workforce will be millennials.  To better understand their f
 
 Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"){:target="_blank"}, and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
-At #stratapp we share the same view.  The hierarchy is only there to allocate responsibility and manage risk.  For example, spending limits or looking after a team, customer or process.
+At #stratapp we share the same view.  The organization hierarchy is only there to allocate responsibility and manage risk.  For example, spending limits or looking after a team, customer or process.
 
 Separate to the org structure and hierarchy, communication should be free flowing and open.  However, we don't want to create a twitter or #slack fire-hose of social posts and notifications, because in the end that just creates more noise and distraction.
 
@@ -154,7 +154,7 @@ By design, #stratapp has solved 3 things at once:
 
 ## **managing risks on strategy execution**
 
-For most organisations risk management is all talk, no action.
+For most organizations risk management is all talk, no action.
 
 If it was easier to log and keep up to date, most of us would embrace risk management.  But it's not, [so we pass the monkey to our CFOs](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "passing the risk management monkey to CFOs"){:target="_blank"}.
 
