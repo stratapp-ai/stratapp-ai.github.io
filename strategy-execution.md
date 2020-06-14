@@ -73,11 +73,11 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 
 \#stratapp is a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.
 
-Most importantly, all social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
+Most importantly, social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_."
 
 ### vision and why - providing context for strategy execution
 
-\#stratapp allows you to turn on/off the pages for strategic context.
+\#stratapp allows you to turn on or off the pages for strategic context.
 
 You may choose to articulate the vision, mission and values.
 
@@ -104,7 +104,7 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 \#stratapp accelerates your time to value on agile in days, rather than weeks or months.  Importantly, #stratapp makes your agile culture and org-wide capability sustainable, going from strength to strength over time.
 
-\#stratapp has been designed for org-wide execution and collaboration, within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining agile.  If you don't have context and structure, agile collaboration soon becomes a fire-hose of distraction and noise.
+\#stratapp has been designed for org-wide collaboration within the context of strategy.  Providing an interactive strategic context is the key to becoming and sustaining agile.  If you don't have context and structure, agile collaboration soon becomes a fire-hose of distraction and noise.
 
 \#stratapp allows you to achieve agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk at all levels of the organization.
 
@@ -144,7 +144,7 @@ Separate to the org structure and hierarchy, communication should be free flowin
 
 Hopefully your organization will take this step change opportunity to eliminate 95% of internal email.
 
-But _social with structure_ is only half the story.  We also have _social with context_, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be all of those applied to day to day work.
+But **_social with structure_** is only half the story.  We also have **_social with context_**, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be all of those applied to day to day work.
 
 By design, #stratapp has solved 3 things at once:
 
