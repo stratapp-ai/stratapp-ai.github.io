@@ -102,7 +102,7 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 \#stratapp makes "the how" easy.
 
-\#stratapp accelerates your time to value on agile in days, rather than weeks or months.  Importantly, #stratapp makes your agile culture and org-wide capability sustainable, going from strength to strength over time.
+\#stratapp accelerates your time to value on agile in days, rather than weeks or months.  Importantly, #stratapp makes your agile culture and org-wide capability sustainable, gaining strength over time.
 
 \#stratapp has been designed for org-wide collaboration within a strategic context.  Providing an interactive strategic context is the key to sustaining agile.  If you don't have context and structure, agile collaboration soon becomes a fire-hose of distraction and noise.
 
