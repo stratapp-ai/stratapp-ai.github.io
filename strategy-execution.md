@@ -167,7 +167,7 @@ Similar to our design philosophy on other features, #stratapp applies what you a
 
 By applying what you already know, within a consistent UX alongside the other features, #stratapp makes it easy for you to proactively manage risks on both strategy execution and day to day operations.  You might still hand the risk monkey to the CFO, but now that CFO will have the capability to make sure risk ownership and management cascades through the organization, in a meaningful way that does not create an administrative burden.
 
-## **key questions for strategy execution**
+## **reflecting on strategy execution**
 
 Our [starting with why](https://bit.ly/starting-with-why-not-how "starting with why"){:target="_blank"} presentation finishes with 3 key questions to ask yourself on strategy execution:
 
