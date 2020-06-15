@@ -132,7 +132,7 @@ Furthermore, the evolution of strategy, based on experimentation, employee and m
 
 By 2025, 75% of the workforce will be millennials.  To better understand their fresh perspective on radical transparency and digital work collaboration, you might enjoy this article characterising why [we 45-55yr olds are the problem](https://stratappsaas.com/blog/millennials/ "millennials and collaboration"){:target="_blank"}.
 
-## **positively breaking the comms hierarchy**
+## **positively disrupting the comms hierarchy**
 
 Elon Musk has [6 productivity rules at Tesla](https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html "Elon Musk's productivity rules at Tesla"){:target="_blank"}, and rule #5 is "_Communication should travel via the shortest path necessary to get the job done, not through the 'chain of command' ... It must be ok for people to talk directly and just make the right things happen._"
 
