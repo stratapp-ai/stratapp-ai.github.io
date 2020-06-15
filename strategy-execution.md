@@ -2,8 +2,9 @@
 title: strategy execution
 slug: strategy-execution
 seo_title: strategy execution wins as bottom up engagement
-seo_description: Strategy execution is changing for the better. Strategy execution
-  has been top down and broken for years, not anymore.
+seo_description: Strategy execution has been top down and broken for years, it is
+  time we fixed this. Strategy execution is easier to achieve as an interactive strategy
+  tree hierarchy.
 feature_image: "/uploads/strategy_execution.png"
 page_sections:
 - template: content-feature
