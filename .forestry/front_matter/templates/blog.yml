@@ -19,6 +19,11 @@ fields:
 - type: file
   name: banner_image
   label: Hero Image (or video thumbnail)
+- name: alt_text
+  type: text
+  config:
+    required: false
+  label: Image Alt Text
 - name: author
   type: select
   default: _people/ash-richardson.md
