@@ -20,6 +20,11 @@ fields:
 - type: file
   name: banner_image
   label: Hero Image
+- name: alt_text
+  type: text
+  config:
+    required: false
+  label: Image Alt Text
 - type: text
   name: layout
   label: layout
