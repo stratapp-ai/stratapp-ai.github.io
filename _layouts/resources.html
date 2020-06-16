@@ -24,7 +24,7 @@ layout: default
 			{% if post.banner_image and post.banner_image != "" %}
                 <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-lg">
             {% else %}
-                <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+                <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.alt_text }}">
             {% endif %}
 
 			<div class="px-4 px-lg-5 py-3">

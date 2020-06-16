@@ -17,7 +17,7 @@ layout: default
             <p class="text-primary">By {{ page.author }}</p>
 
             {% if page.banner_image and page.banner_image != "" %}
-                <img src="{{ page.banner_image | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+                <img src="{{ page.banner_image | absolute_url }}" alt="{{ page.alt_text }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
             {% else %}
                 <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
             {% endif %}
@@ -38,7 +38,7 @@ layout: default
                 <div class="col-lg-6">
                   <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
                      {% if post.banner_image and post.banner_image != "" %}
-                      <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
+                      <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.alt_text }}" class="c-article__img-sm">
                     {% else %}
                       <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
                     {% endif %}

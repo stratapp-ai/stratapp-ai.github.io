@@ -33,7 +33,7 @@ layout: default
             <div class="c-feature__img mx-auto mb-4 mb-md-0">
             	
             	{% if feature.hero_image and feature.hero_image != "" %}
-						    <img src="{{ feature.hero_image | relative_url }}" alt="{{ feature.title }}">
+						    <img src="{{ feature.hero_image | relative_url }}" alt="{{ feature.alt_text }}">
 				      {% else %}
                 <div class="color-block c-feature__img mx-auto mb-4 mb-md-0"></div>
 				      {% endif %}
@@ -51,28 +51,11 @@ layout: default
               	{% when 4 or 8 or 12 or 16 %}
               		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
               	{% endcase %}	
-           <!--    <div class="h5 mb-3 shrinkable">{{ feature.content }}</div> -->
-              
-              
-
-               <!--  {{ feature.url | relative_url }} -->
                 
                <div class="h5 mb-3 shrinkable">{{ feature.content  | strip_html | truncatewords: 50}}</div> 
 
-                <a class="post-link" href="{{ feature.url | absolute_url }}">Read More</a>
-
-
-      <!--
-              <a class="c-feature__link" data-toggle="collapse" href="#collapse{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
-                  Read more >
-               </a>
-
-               <div class="collapse" id="collapse{{ forloop.index }}">
-                
-                <div class="h6 mb-3">
-                  {{ feature.content }}
-                </div>
-              </div> -->
+               <a class="post-link" title="read more" href="{{ feature.url | absolute_url }}">read more</a>
+     
 
             </div>
           </div>

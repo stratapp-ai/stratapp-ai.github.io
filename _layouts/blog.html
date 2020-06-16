@@ -31,7 +31,7 @@ layout: default
           {% else %}
 
           {% if page.banner_image and page.banner_image != "" %}
-              <img itemprop="image" src="{{ page.banner_image | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+              <img itemprop="image" src="{{ page.banner_image | absolute_url }}" alt="{{ page.alt_text }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
           {% endif %}
           
           {% endif %}

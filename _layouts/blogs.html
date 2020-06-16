@@ -68,7 +68,7 @@ layout: default
 								{% if post.video_id and post.video_id != "" %}
 										<span class="play-button"></span>
 								{% endif %}
-								<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
+								<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.alt_text }}" class="c-article__img-md">
 							{% else %}
 								{% if post.video_id and post.video_id != "" %}
 									<a href="{{ post.url | absolute_url }}">

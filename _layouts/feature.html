@@ -17,7 +17,7 @@ layout: default
             <div class="c-feature__img mx-auto mb-4 mb-md-0">
               
               {% if page.hero_image and page.hero_image != "" %}
-                <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+                <img src="{{ page.hero_image | relative_url }}" alt="{{ page.alt_text }}">
               {% else %}
                 <div class="color-block c-feature__img mx-auto mb-4 mb-md-0"></div>
               {% endif %}
