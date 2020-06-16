@@ -23,8 +23,13 @@ fields:
 - name: hero_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 8
   label: Hero Image
+- name: alt_text
+  type: text
+  config:
+    required: false
+  label: Image Alt Text
 pages:
 - _features/10-apps-in-1.md
 - _features/bring-risk-management-alive-org-wide.md
