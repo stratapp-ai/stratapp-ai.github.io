@@ -52,7 +52,7 @@ layout: default
               		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
               	{% endcase %}	
                 
-               <div class="h5 mb-3 shrinkable">{{ feature.content  | strip_html | truncatewords: 50}}</div> 
+               <div class="h5 mb-3 feature_summary">{{ feature.content  | strip_html | truncatewords: 50}}</div> 
 
                <a class="post-link" title="read more" href="{{ feature.url | absolute_url }}">read more</a>
      
