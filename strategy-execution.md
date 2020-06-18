@@ -27,7 +27,7 @@ page_sections:
   content: |-
     Traditionally the board or CEO would formulate a strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events or roadshows. Some hire consultants. Some invite middle management. Some invite the whole company.
 
-    Regardless of the approach, two things have been failing us:
+    Regardless of the approach, two things fail:
 
     1. **_urgent overtakes important_** - people don’t have the skill, will or time to focus on strategy execution, as day to day priorities consume everyone
     2. **_fast out of date_** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
