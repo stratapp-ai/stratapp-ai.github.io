@@ -29,8 +29,8 @@ page_sections:
 
     Regardless of the approach, two things have been failing us:
 
-    1. **Urgent overtakes important** - people don’t have the skill, will or time to focus on strategy execution, so day to day priorities consume everyone
-    2. **Fast out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
+    1. **_urgent overtakes important_** - people don’t have the skill, will or time to focus on strategy execution, as day to day priorities consume everyone
+    2. **_fast out of date_** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
   media:
     image: "/uploads/top-down-without-heading.png"
     alt_text: strategy execution as top down
