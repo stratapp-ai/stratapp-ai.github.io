@@ -53,12 +53,6 @@ page_sections:
   caption: ''
   video: ''
   vimeo_id: ''
-- template: video-element
-  block: video-element
-  youtube_id: OYzsV1Xbi-s
-  video: ''
-  caption: ''
-  vimeo_id: ''
 menu:
   navigation:
     identifier: _strategy execution
