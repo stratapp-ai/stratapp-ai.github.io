@@ -23,6 +23,39 @@
   max-width: 165px;
   width:165px;
 }
+#navbarHeaderCollapse {
+	position: relative;
+	
+	@include media-breakpoint-down(lg) {
+		.rounded-pill {
+			margin-left: 1rem;
+		}
+		.link-app {
+	    	padding-left: 3em;
+		}
+	}
+
+	@include media-breakpoint-up(lg) {
+		.rounded-pill {
+			margin-left: 1rem;
+		}
+		.link-app {
+			margin-right: -3em;
+	    	padding-left: 1em;
+		}
+	}
+
+	@include media-breakpoint-up(xl) {
+		.rounded-pill {
+			margin-left: 2.5rem;
+		}
+		.link-app {
+			margin-right: -2em;
+	    	padding-left: 2.5em;
+		}
+	}
+}
+	
 @include media-breakpoint-down(md) {
 		.navbar-nav {
 			text-align: right;
@@ -39,11 +72,17 @@
 			}
 		}
 }
+@include media-breakpoint-down(lg) {
+	.nav-item {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+	}
+}
 @include media-breakpoint-up(lg) {
 	
 	.nav-item {
-		padding-left: $navbar-nav-item-padding-x;
-		padding-right: $navbar-nav-item-padding-x;
+		// padding-left: $navbar-nav-item-padding-x;
+		// padding-right: $navbar-nav-item-padding-x;
 
 		&:first-child {
 			padding-left: 0;
@@ -93,5 +132,11 @@
 		.navbar-brand {
 			order: 2;
 		}
+	}
+}
+@include media-breakpoint-up(xl) {
+	.nav-item {
+		padding-left: $navbar-nav-item-padding-x;
+		padding-right: $navbar-nav-item-padding-x;
 	}
 }
