@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-08-31 18:06:00 +0000
+date: 2019-08-29 14:00:00 +0000
 layout: blog
 title: make money referring
 sub_heading: we have a generous referral model and a plan to rewrite the SaaS playbook
