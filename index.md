@@ -43,7 +43,8 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: strategy execution SaaS app for every employee
+seo_title: strategy execution SaaS app for every employee to engage on strategy and
+  daily work
 seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
   to day work in one place. Making strategy execution successful whilst solving urgent
   overtaking important.
