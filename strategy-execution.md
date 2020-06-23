@@ -49,7 +49,7 @@ page_sections:
     alt_text: ''
 - template: video-element
   block: video-element
-  youtube_id: VovFADiDfMo
+  youtube_id: DlQAX7U0MHs
   caption: ''
   video: ''
   vimeo_id: ''
@@ -190,3 +190,5 @@ Love work.  Love life.
 Be effective.  Anywhere.  Anytime.
 
 Everything you need, in your pocket.  #stratapp!
+
+<iframe width="950" height="535" src="https://www.youtube.com/embed/VovFADiDfMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
