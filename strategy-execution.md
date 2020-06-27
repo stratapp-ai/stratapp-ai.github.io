@@ -149,9 +149,9 @@ But **_social with structure_** is only half the story.  We also have **_social 
 
 By design, #stratapp has solved 3 things at once:
 
-1. **Engaging employees on strategy execution** - because they can do both strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage each day
-2. **Executives, leaders and teams can collaborate efficiently** - with just the right level of structure and context, to save you time without hindering engagement
-3. **Break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution at speed - whilst elevating culture and org-wide/team/individual performance, and proactively managing risks
+1. **engaging employees on strategy execution** - because they can do both strategic and day to day work in one app - #stratapp adds value to every employee at every level (including simple things like meetings, tasks, workboards and what they've got on this week), making it worth their while to engage each day
+2. **executives, leaders and teams can collaborate efficiently** - with just the right level of structure and context, to save you time without hindering engagement
+3. **break free of the traditional comms hierarchy** - allowing you to tap into the whole talent pool on innovation and evolving strategy execution at speed - whilst elevating culture and org-wide/team/individual performance, and proactively managing risks
 
 ## **managing risks on strategy execution**
 
