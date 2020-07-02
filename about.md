@@ -13,7 +13,7 @@ intro_text: |-
 
   Start with one grouping of 10 to 100 people.  After 3 weeks, roll out progressively by level, function or geography.
 
-  Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage our coaching partner.
+  Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage one of our coaching partners.
 
   Roll out in 4 easy phases, explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
 
