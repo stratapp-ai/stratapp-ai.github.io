@@ -26,7 +26,7 @@ section_text: |-
 
   For 30 years strategy formation, communication and execution has been flawed.
 
-  The age old paradigm of top-down static docs doesn't work.  For most organizations, executing strategy rarely meets expectations.
+  The age old paradigm of top-down static docs does not work.  For most organizations, executing strategy rarely meets expectations.
 
   It is time we fixed this.
 
