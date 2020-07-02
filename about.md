@@ -55,4 +55,4 @@ menu:
 ---
 # strategy execution rarely meets expectations, often due to a subtle disconnect between leaders and teams
 
-##### and each day at work urgent takes over important, with internal email consuming 40% of our time
+##### and each day at work, urgent overtakes important, with internal comms consuming 40% of our time
