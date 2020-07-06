@@ -11,7 +11,7 @@ intro_text: |-
 
   3 weeks to achieve genuine and sustainable digital transformation, on clear ground rules that include leading by example and eliminating internal email.
 
-  Start with one grouping of 10 to 100 people.  After 3 weeks, roll out progressively by level, function or geography.
+  Start with one grouping of 10 to 100 people.  After 3 weeks thriving in this new paradigm, then roll out org-wide by level, function or geography.
 
   Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage one of our coaching partners.
 
