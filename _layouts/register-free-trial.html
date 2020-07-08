@@ -1,0 +1,72 @@
+---
+layout: default
+---
+{% comment %}
+    A general page layout. Used by default for all content on the site.
+{% endcomment %}
+
+
+ 		<section class="l-section">
+          <div class="container container--small text-center">
+
+           {{ content }}
+
+          </div>
+        </section>
+      </div>
+      <section class="l-section-sm">
+        <div class="container">
+          <div class="h3 font-weight-bold text-center mb-xxl">Register</div>
+             <form id="free-trial" action="https://api.stratapp.ai/api/register/link" method='POST' onSubmit='' accept-charset='UTF-8'>
+              
+
+           
+            <div class="row mb-4">
+              <div class="col-sm-6">
+                <label for="formInputEmail" class="sr-only">email</label>
+                <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control form-control-lg">
+              </div>
+              
+            </div>
+            
+           
+           
+            <div class="text-right">
+              <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
+            </div>
+
+
+              <script>
+              $("#free-trial").submit(function(event){
+                event.preventDefault(); //prevent default action 
+                var post_url = "https://api.stratapp.ai/api/register/link"; //get form action url
+                var request_method = "POST"; //get form GET/POST method
+                var form_data = $(this).serialize(); //Encode form elements for submission
+                //[{"key":"Authorization","value":"Api-Key ZiEQaPjOe06P49Ld4r+VTQ==","description":"","type":"text","enabled":true}]
+                $.ajax({
+                  url : post_url,
+                  type: request_method,
+                  processData:false,
+                  data : $('#formInputEmail').val(),
+                  headers: {
+                    'Authorization':'Api-Key ZiEQaPjOe06P49Ld4r+VTQ==',
+                    'Content-Type' : 'application/json'
+                    // more as you need
+                  }
+                }).done(function(response){ //
+                  console.log("response",response);
+                  $("#server-results").html(response);
+                });
+              });
+
+
+             
+            </script>
+          </form>
+        </div>
+      </section>
+
+
+      {% include signupform.html class="bg-dark text-white" %}
+
+     
