@@ -35,6 +35,7 @@ layout: default
               <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
             </div>
 
+            <div id="response"> </div>
 
               <script>
               $("#free-trial").submit(function(event){
@@ -47,7 +48,7 @@ layout: default
                   url : post_url,
                   type: request_method,
                   processData:false,
-                  data : $('#formInputEmail').val(),
+                  data : '"' + $('#formInputEmail').val() + '"',
                   headers: {
                     'Authorization':'Api-Key ZiEQaPjOe06P49Ld4r+VTQ==',
                     'Content-Type' : 'application/json'
@@ -55,7 +56,7 @@ layout: default
                   }
                 }).done(function(response){ //
                   console.log("response",response);
-                  $("#server-results").html(response);
+                  $("#response").text("thank you, please check your email - if you don’t receive it, please check your spam folder");
                 });
               });
 
