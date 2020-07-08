@@ -7,4 +7,4 @@ layout: register-free-trial
 ---
 # Register for a free trial using the form below. 
 
-### An activation email will be sent to your address.
+#### An activation email will be sent to your address.

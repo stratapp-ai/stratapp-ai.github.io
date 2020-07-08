@@ -4,10 +4,11 @@ layout: default
 {% comment %}
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
+    
+    </div>
 
-
- 		<section class="l-section">
-          <div class="container container--small text-center">
+ 		   <section class="l-section pt-5 pb-4 bg-primary">
+          <div class="container container--small text-center text-white">
 
            {{ content }}
 
@@ -16,26 +17,31 @@ layout: default
       </div>
       <section class="l-section-sm">
         <div class="container">
-          <div class="h3 font-weight-bold text-center mb-xxl">Register</div>
-             <form id="free-trial" action="https://api.stratapp.ai/api/register/link" method='POST' onSubmit='' accept-charset='UTF-8'>
-              
 
-           
-            <div class="row mb-4">
-              <div class="col-sm-6">
-                <label for="formInputEmail" class="sr-only">email</label>
-                <input type="text" id="formInputEmail" name='Email' placeholder="email" class="form-control form-control-lg">
+
+            <form id="free-trial" action="https://api.stratapp.ai/api/register/link" method='POST' onSubmit='' accept-charset='UTF-8'>
+                         
+            <div class="row mb-2 justify-content-center">
+
+              <div class="col-md-12"> 
+                 <h3 class="h3 font-weight-bold text-center">Register</h3>
               </div>
-              
-            </div>
-            
-           
-           
-            <div class="text-right">
-              <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
-            </div>
 
-            <div id="response"> </div>
+              <div class="col-md-6">
+                <label for="Email" class="sr-only">email</label>
+                <input type="email" id="email" name='Email' placeholder="enter email" class="form-control" aria-required="true" data-ok="false">
+                <span class="error-msg" id="emailErr"></span>
+              </div>
+                         
+              <div class="col-md-2">
+                <button type="submit" id="formsubmit" class="btn btn-primary rounded-pill" disabled="disabled">register</button>
+              </div>
+            
+              <div class="col-md-12 text-center">
+                <div id="response" class="d-block py-3 mt-2 text-success h5"></div>
+              </div>
+
+            </div>
 
               <script>
               $("#free-trial").submit(function(event){

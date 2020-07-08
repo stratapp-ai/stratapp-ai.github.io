@@ -196,3 +196,16 @@ h1 {
 		}
 	}	
 }
+
+// Free Trial
+
+#free-trial {
+	#formsubmit {
+		width: 100%;
+		box-shadow: none;
+		&:disabled {
+			color: $dark;
+			background-color: $light;
+		}
+	}
+}
