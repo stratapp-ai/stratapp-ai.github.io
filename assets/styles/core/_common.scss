@@ -204,6 +204,7 @@ h1 {
 		width: 100%;
 		box-shadow: none;
 		&:disabled {
+			cursor: not-allowed;
 			color: $dark;
 			background-color: $light;
 		}
