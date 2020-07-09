@@ -7,7 +7,7 @@ layout: default
     
     </div>
 
- 		   <section class="l-section pt-5 pb-4 bg-primary">
+ 		   <section class="l-section pt-5 pb-4 bg-primary sections">
           <div class="container container--small text-center text-white">
 
            {{ content }}
@@ -23,10 +23,6 @@ layout: default
                          
             <div class="row mb-2 justify-content-center">
 
-              <div class="col-md-12"> 
-                 <h3 class="h3 font-weight-bold text-center">Register</h3>
-              </div>
-
               <div class="col-md-6 mb-2 mb-md-0">
                 <label for="Email" class="sr-only">email</label>
                 <input type="email" id="email" name='Email' placeholder="enter email" class="form-control" aria-required="true" data-ok="false">
@@ -34,7 +30,7 @@ layout: default
               </div>
                          
               <div class="col-md-2">
-                <button type="submit" id="formsubmit" class="btn btn-primary rounded-pill" disabled="disabled">register</button>
+                <button type="submit" id="formsubmit" class="btn btn-primary rounded-pill" disabled="disabled">send</button>
               </div>
             
               <div class="col-md-12 text-center">
@@ -62,7 +58,8 @@ layout: default
                   }
                 }).done(function(response){ //
                   console.log("response",response);
-                  $("#response").text("thank you, please check your email - if you don’t receive it, please check your spam folder");
+                  window.location.href = "/free-trial/thank-you";
+                //  $("#response").text("thank you, please check your email - if you don’t receive it, please check your spam folder");
                 });
               });
 
