@@ -16,7 +16,7 @@ page_sections:
 
     ##### strategy execution has been top down and broken for years, it is time we fixed this
 
-    [Book a Demo](#){: .bookademo-btn}
+    [start free trial](/free-trial){: .btn .btn-primary}
   media:
     image: "/uploads/hero_graphic_strategy_execution.png"
     alt_text: strategy execution is changing for the better
