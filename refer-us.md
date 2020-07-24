@@ -13,8 +13,8 @@ sections:
   content: you will be helping employees, team leaders, managers, CEOs and owners
     to achieve genuine engagement, alignment and success on execution
 - label: make money
-  content: we pay 10% of our SaaS fees to referrers, so for every 1,000 paid users
-    you receive \~**US$7,080/year**, adding up fast across several clients
+  content: "**we pay 10% of our SaaS fees to referrers**, so for every 1,000 paid
+    users you receive \\~US$7,080/year, adding up fast across several clients"
 - label: gain an edge
   content: "\\#stratapp is a big play, it is the next big thing in B2B SaaS, which
     can give you an edge as an employee, team leader, executive or advisor"
