@@ -77,8 +77,10 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 Clarity and engagement is elevated at all levels and in both directions - up and down.  
 
-You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally.
+You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally - in 1 simple app.
 
-To learn more, visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
+1 simple app to run the company.
+
+To learn more visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
 
  
