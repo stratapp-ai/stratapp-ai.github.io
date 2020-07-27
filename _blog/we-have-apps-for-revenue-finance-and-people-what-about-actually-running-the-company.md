@@ -61,7 +61,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees completely aligned on th
 
 ![](/uploads/connect.JPG)
 
-Clarity, transparency and engagement is elevated at all levels and in both directions - up and down.
+Clarity, transparency and engagement is elevated at all levels of the organization and in both directions - up and down.
 
 To learn more, visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
 
