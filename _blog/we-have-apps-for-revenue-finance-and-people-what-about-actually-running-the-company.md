@@ -49,7 +49,7 @@ Now you remember the context of the _task_.  It's making sense.  But then you th
 
 You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs_**".  It's making more sense now!  In one click, you can see all of the collaboration taking place on that _strategic action_.
 
-Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective_ above that _strategic action_ to "**_improve gross profit through product and supply chain innovation_**".
+Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective,_ above that _strategic action,_ to "**_improve gross profit through product and supply chain innovation_**".
 
 ### a consistent user experience
 
@@ -71,7 +71,7 @@ Not only that, you can roll out the app in phases.  Yes, that's right, you can t
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and plans, able to see in real time exactly where their day to day work fits in and the impact.
 
-\#stratapp allows you and everyone around you to focus on what really matters:
+\#stratapp allows you, and everyone around you, to focus on what really matters:
 
 ![](/uploads/connect.JPG)
 
