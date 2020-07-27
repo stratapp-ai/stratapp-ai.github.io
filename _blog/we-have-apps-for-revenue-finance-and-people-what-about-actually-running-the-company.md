@@ -13,8 +13,8 @@ alt_text: strategy execution - running a company
 slug: running a company
 seo_title: We have apps for revenue, finance and people - what about running the company?
 seo_description: Running a company as a business owner or CEO is tough going, it's
-  not for the fainthearted. The challenge always seems to come down to people - keeping
-  everyone aligned, engaged and motivated in the same direction and end game.
+  not for the fainthearted. The challenge comes down to people - keeping everyone
+  aligned, engaged and motivated in the same direction and end game.
 feature_image: "/uploads/strategy_execution.png"
 
 ---
