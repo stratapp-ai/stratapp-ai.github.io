@@ -59,7 +59,7 @@ A beautiful thing about #stratapp is that the user experience is consistent as y
 
 The same consistency applies to the other features inside #stratapp: 
 
-          KPIs/OKRs / ideas / challenges / risks / project workboards
+          KPIs/OKRs | ideas | challenges | risks | project workboards
 
 ### easy to implement
 
