@@ -24,7 +24,7 @@ If you think about it, there are apps for everything else (revenue, finance, peo
 
 \#stratapp solves this, making life easier for business owners, CEOs, executives, team leaders and teams.
 
-## it is as easy as this
+## it's as easy as this
 
 You (as a business owner, CEO, exec team leader or team member) open your _workspace_.
 
