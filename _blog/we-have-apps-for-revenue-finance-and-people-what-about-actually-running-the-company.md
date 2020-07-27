@@ -34,12 +34,12 @@ You're busy and you can't remember where that _task_ came from, so you click and
 
 You see the source of the _task_ is a _meeting_.
 
-You click and see the _meeting_:
+You click and see the _meeting's_:
 
 * purpose ("**_agree next steps for the supply chain review_**")
 * agenda
-* live meeting notes
-* meeting actions
+* live notes
+* actions
 * social conversations
 * files and links
 
