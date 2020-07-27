@@ -20,7 +20,7 @@ feature_image: "/uploads/strategy_execution.png"
 ---
 The challenge always seems to come down to people - keeping everyone aligned, engaged and motivated in the same direction and on the same end game.
 
-If you think about it, there are apps for everything else (revenue, finance, people), but there has never been a simple app for actually running the company - providing clarity and context for everyone.
+If you think about it, there are apps for everything else (revenue, finance, people), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
 \#stratapp solves this, making life easier for business owners, CEOs, executives, team leaders and teams.
 
