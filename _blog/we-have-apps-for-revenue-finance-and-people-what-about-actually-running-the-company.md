@@ -83,6 +83,6 @@ You don't need to micro-manage, rely on retrospective reporting or integrate 10 
 
 1 simple app to run the company.
 
-To learn more visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
+To learn more visit [making strategy execution successful](https://stratappsaas.com/strategy-execution/ "strategy execution").
 
  
