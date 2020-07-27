@@ -20,9 +20,9 @@ feature_image: "/uploads/strategy_execution.png"
 ---
 The challenge comes down to people - having everyone aligned, engaged and motivated in the same direction and on the same end game.
 
-If you think about it, there are apps for everything else (CRM, finance, HR, supply chain, service, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
+If you think about it, there are apps for everything else (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
-\#stratapp is this, making life way easier for business owners/CEOs and everyone else.
+\#stratapp solves this, making life way easier for business owners/CEOs and everyone else.
 
 ## it's as easy as this
 
