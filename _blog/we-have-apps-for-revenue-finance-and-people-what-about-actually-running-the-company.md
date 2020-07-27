@@ -67,7 +67,7 @@ A consistent user experience means minimal or no end user training.
 
 Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
-## a truly connected workspace
+## a connected workspace
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and plans, able to see in real time exactly where their day to day work fits in and the impact.
 
