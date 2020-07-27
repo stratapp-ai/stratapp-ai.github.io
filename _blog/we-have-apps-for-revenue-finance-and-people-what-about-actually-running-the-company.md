@@ -20,7 +20,7 @@ feature_image: "/uploads/strategy_execution.png"
 ---
 The challenge comes down to people - having everyone aligned, engaged and motivated in the same direction and on the same end game.
 
-If you think about it, there are apps for each thing (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
+If you think about it, there are apps for almost everything (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
 \#stratapp is that app, making life way easier for business owners/CEOs and everyone else.
 
@@ -53,17 +53,17 @@ Now you're curious!  What's behind the _strategic action?_  One click and your a
 
 ### a consistent user experience
 
-A beautiful thing about #stratapp is that the user experience is consistent as you move across the four aspects mentioned above: 
+A beautiful thing about #stratapp is that the user experience is consistent as you move across the four aspects mentioned above:
 
           task > meeting > strategic action > strategic objective  
 
-The same consistency applies to the other features inside #stratapp: 
+The same consistency applies to the other features inside #stratapp:
 
           KPIs/OKRs | ideas | challenges | risks | project workboards
 
 ### easy to implement
 
-A consistent user experience means minimal or no end user training.  
+A consistent user experience means minimal or no end user training.
 
 Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
@@ -73,7 +73,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 \#stratapp allows you, and everyone around you, to focus on what really matters:
 
-![](/uploads/connect.JPG)  
+![](/uploads/connect.JPG)
 
 ### the result
 
@@ -82,5 +82,3 @@ You don't need to micro-manage, rely on retrospective reporting or integrate 10 
 1 simple app to run the company.
 
 To learn more visit [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
-
- 
