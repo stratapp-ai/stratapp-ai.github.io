@@ -34,7 +34,7 @@ You're busy and you can't remember where that _task_ came from, so you click on 
 
 You see the source of the _task_, is a _meeting_.
 
-You click on the link and instantly you can see the _meeting_:
+You click that to see the _meeting_:
 
 * purpose ("**_agree next steps for the supply chain review_**")
 * agenda
@@ -47,9 +47,15 @@ You click on the link and instantly you can see the _meeting_:
 
 Now you remember the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
 
-You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's making even more sense now!  When you click on that you see all of the collaboration taking place on that _strategic action_.
+You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  It's making more sense now!  You can see all of the collaboration taking place on that _strategic action_.
 
-Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
+Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective_ above that _strategic action_ to "**_improve gross profit through product and supply chain innovation_**".
+
+### a consistent user experience
+
+The beautiful thing about #stratapp, is that the user experience is consistent as you move across those four objects mentioned above: task -> meeting -> strategic action -> strategic  objective.  The same applies to the other rich functionality inside #stratapp: KPIs/ORKs; ideas; challenges; risks and project workboards.
+
+A consistent user experience means minimal to no end user training.  Learn as you go and rollout the app in phases.  Yes, that's right, you can turn the app on/off for different users and teams based on the org design.
 
 ## a truly connected workspace
 
