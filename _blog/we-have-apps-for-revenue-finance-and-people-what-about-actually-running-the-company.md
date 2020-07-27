@@ -71,13 +71,13 @@ Not only that, you can roll out the app in phases.  Yes, that's right, you can t
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and plans, able to see in real time exactly where their day to day work fits in and the impact.
 
-\#stratapp allows everyone to focus on what really matters:
+\#stratapp allows you and everyone around you to focus on what really matters:
 
 ![](/uploads/connect.JPG)
 
-Clarity and engagement is elevated at all levels of the organization and in both directions - up and down.  
+Clarity and engagement is elevated at all levels and in both directions - up and down.  
 
-You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work and alignment flows naturally, with everyone able to learn and contribute in real time.
+You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally.
 
 To learn more, visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
 
