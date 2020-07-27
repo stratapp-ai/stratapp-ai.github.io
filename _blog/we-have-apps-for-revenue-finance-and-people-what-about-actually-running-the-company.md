@@ -28,7 +28,7 @@ If you think about it, there are apps for everything else (CRM, finance, people,
 
 You, at any level in your organization, open your _workspace_ inside #stratapp.
 
-Let's say you see a _task_ due Thursday that says "**_select workshop venue_**".
+You see a _task_ due Thursday that says "**_select workshop venue_**".
 
 To be honest, you can't really remember where the _task_ came from, so you click on the _task_, and you instantly see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
 
