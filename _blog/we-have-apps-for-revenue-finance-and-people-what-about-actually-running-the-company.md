@@ -53,7 +53,7 @@ Now you're curious!  What's behind the _strategic action?_  One click and your a
 
 ## a truly connected workspace
 
-Imagine the power of 5, 10, 50, 500 or 50,000 employees completely aligned on the same priorities and able to see in real time exactly where their work fits into the overall plans.
+Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and able to see in real time exactly where their day to day work fits into the overall plans.
 
 \#stratapp allows everyone to focus on what really matters:
 
