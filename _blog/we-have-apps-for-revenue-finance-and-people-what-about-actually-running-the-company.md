@@ -32,7 +32,7 @@ You see a _task_ due Thursday that, for example, says "**_select workshop venue_
 
 You're busy and you can't remember where that _task_ came from, so you click on the _task_, and you instantly see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
 
-You see the source of the _task_, is a _meeting_.
+You see the source of the _task_ is a _meeting_.
 
 You click and see the _meeting_:
 
@@ -53,17 +53,17 @@ Now you're curious!  What's behind the _strategic action?_  One click and your a
 
 ### a consistent user experience
 
-The beautiful thing about #stratapp, is that the user experience is consistent as you move across those four objects mentioned above: 
+One beautiful thing about #stratapp is that the user experience was consistent as you moved across the four aspects mentioned above: 
 
-task -> meeting -> strategic action -> strategic  objective  
+          task -> meeting -> strategic action -> strategic objective  
 
-The same applies to the other key features inside #stratapp: 
+The same user experience consistency applies to the other features inside #stratapp: 
 
-KPIs/OKRs | ideas | challenges | risks | project workboards
+          KPIs/OKRs | ideas | challenges | risks | project workboards
 
 ### easy to implement
 
-A consistent user experience across #stratapp means minimal to no end user training.  
+A consistent user experience means minimal or no end user training.  
 
 Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
