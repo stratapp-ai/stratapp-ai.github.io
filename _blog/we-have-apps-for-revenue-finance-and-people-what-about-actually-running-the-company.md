@@ -55,7 +55,11 @@ Now you're curious!  What's behind the _strategic action?_  One click and your a
 
 The beautiful thing about #stratapp, is that the user experience is consistent as you move across those four objects mentioned above: task -> meeting -> strategic action -> strategic  objective.  The same applies to the other rich functionality inside #stratapp: KPIs/ORKs; ideas; challenges; risks and project workboards.
 
-A consistent user experience means minimal to no end user training.  Learn as you go and rollout the app in phases.  Yes, that's right, you can turn the app on/off for different users and teams based on the org design.
+### easy to implement
+
+A consistent user experience across the whole app means minimal to no end user training.  
+
+Not only that, you can rollout the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
 ## a truly connected workspace
 
