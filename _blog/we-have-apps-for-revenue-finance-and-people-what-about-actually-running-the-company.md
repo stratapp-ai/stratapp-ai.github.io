@@ -38,7 +38,7 @@ You click and see the _meeting_:
 
 * purpose ("**_agree next steps for the supply chain review_**")
 * agenda
-* meeting notes
+* live meeting notes
 * meeting actions
 * social conversations
 * files and links
