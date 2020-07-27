@@ -73,9 +73,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 \#stratapp allows you, and everyone around you, to focus on what really matters:
 
-![](/uploads/connect.JPG)
-
-Clarity and engagement is elevated at all levels and in both directions - up and down.  
+![](/uploads/connect.JPG)  
 
 ### the result
 
