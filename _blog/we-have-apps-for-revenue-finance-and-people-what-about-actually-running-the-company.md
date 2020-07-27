@@ -4,16 +4,14 @@ category:
 - "#articles"
 date: 2020-07-27 01:56:58 +0000
 layout: blog
-title: we have apps for revenue, finance and people - what about actually running
-  the company?
+title: we have apps for revenue, finance and people - what about running the company?
 sub_heading: Running a company as a business owner or CEO is tough going, it's not
   for the fainthearted.
 video_id: ''
 banner_image: "/uploads/strategy-execution.PNG"
 alt_text: strategy execution - running a company
 slug: running a company
-seo_title: We have apps for revenue, finance and people - what about actually running
-  the company?
+seo_title: We have apps for revenue, finance and people - what about running the company?
 seo_description: Running a company as a business owner or CEO is tough going, it's
   not for the fainthearted. The challenge always seems to come down to people - keeping
   everyone aligned, engaged and motivated in the same direction and end game.
