@@ -30,7 +30,7 @@ You open your _workspace_ inside #stratapp.
 
 You see a _task_ due Thursday that says "**_select workshop venue_**".
 
-To be honest, you can't really remember where the _task_ came from, so you click on the _task_, and you instantly see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
+You're busy and you can't remember where that _task_ came from, so you click on the _task_, and you instantly see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
 
 You see the source of the _task_, is a _meeting_.
 
