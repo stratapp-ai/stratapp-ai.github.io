@@ -20,15 +20,15 @@ feature_image: "/uploads/strategy_execution.png"
 ---
 The challenge comes down to people - having everyone aligned, engaged and motivated in the same direction and on the same end game.
 
-If you think about it, there are apps for everything else (CRM, finance, people, supply chain, service), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
+If you think about it, there are apps for everything else (CRM, finance, HR, supply chain, service, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
-\#stratapp solves this, making life way easier for business owners/CEOs and everyone else.
+\#stratapp is this, making life way easier for business owners/CEOs and everyone else.
 
 ## it's as easy as this
 
 You open your _workspace_ inside #stratapp.
 
-You see a _task_ due Thursday that says "**_select workshop venue_**".
+You see a _task_ due Thursday that, for example, says "**_select workshop venue_**".
 
 You're busy and you can't remember where that _task_ came from, so you click on the _task_, and you instantly see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
 
@@ -57,7 +57,7 @@ The beautiful thing about #stratapp, is that the user experience is consistent a
 
 ### easy to implement
 
-A consistent user experience across the whole app means minimal to no end user training.  
+A consistent user experience across #stratapp means minimal to no end user training.  
 
 Not only that, you can rollout the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
