@@ -34,7 +34,7 @@ You're busy and you can't remember where that _task_ came from, so you click on 
 
 You see the source of the _task_, is a _meeting_.
 
-You click that to see the _meeting_:
+You click and see the _meeting_:
 
 * purpose ("**_agree next steps for the supply chain review_**")
 * agenda
@@ -43,33 +43,41 @@ You click that to see the _meeting_:
 * social conversations
 * files and links
 
-... everything at your fingertips, in one place.
+... everything at your fingertips.
 
 Now you remember the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
 
-You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  It's making more sense now!  You can see all of the collaboration taking place on that _strategic action_.
+You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs_**".  It's making more sense now!  In one click, you can see all of the collaboration taking place on that _strategic action_.
 
 Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective_ above that _strategic action_ to "**_improve gross profit through product and supply chain innovation_**".
 
 ### a consistent user experience
 
-The beautiful thing about #stratapp, is that the user experience is consistent as you move across those four objects mentioned above: task -> meeting -> strategic action -> strategic  objective.  The same applies to the other rich functionality inside #stratapp: KPIs/ORKs; ideas; challenges; risks and project workboards.
+The beautiful thing about #stratapp, is that the user experience is consistent as you move across those four objects mentioned above: 
+
+task -> meeting -> strategic action -> strategic  objective  
+
+The same applies to the other key features inside #stratapp: 
+
+KPIs/OKRs | ideas | challenges | risks | project workboards
 
 ### easy to implement
 
 A consistent user experience across #stratapp means minimal to no end user training.  
 
-Not only that, you can rollout the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
+Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
 
 ## a truly connected workspace
 
-Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and able to see in real time exactly where their day to day work fits into the overall plans.
+Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and plans, able to see in real time exactly where their day to day work fits in and the impact.
 
 \#stratapp allows everyone to focus on what really matters:
 
 ![](/uploads/connect.JPG)
 
-Clarity and engagement is elevated at all levels of the organization and in both directions - up and down.
+Clarity and engagement is elevated at all levels of the organization and in both directions - up and down.  
+
+You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work and alignment flows naturally, with everyone able to learn and contribute in real time.
 
 To learn more, visit: [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
 
