@@ -55,11 +55,11 @@ Now you're curious!  What's behind the _strategic action?_  One click and your a
 
 One beautiful thing about #stratapp is that the user experience was consistent as you moved across the four aspects mentioned above: 
 
-          task -> meeting -> strategic action -> strategic objective  
+          task > meeting > strategic action > strategic objective  
 
 The same user experience consistency applies to the other features inside #stratapp: 
 
-          KPIs/OKRs | ideas | challenges | risks | project workboards
+          KPIs/OKRs / ideas / challenges / risks / project workboards
 
 ### easy to implement
 
