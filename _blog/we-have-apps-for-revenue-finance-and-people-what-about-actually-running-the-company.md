@@ -24,13 +24,13 @@ If you think about it, there are apps for almost everything (CRM, service/suppor
 
 \#stratapp is that app, making life way easier for business owners/CEOs and everyone else.
 
-## it's as easy as this
+## a natural flow, as easy as this
 
 You open your _workspace_ inside #stratapp.
 
 You see a _task_ due Thursday that says "**_select workshop venue_**".
 
-You're busy and you can't remember where that _task_ came from, so you click and see all of the collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
+You're busy and you can't remember where that _task_ came from, so you click and see all collaboration taking place on that _task_.  Nothing fancy right?  Sounds like a task app.  Nope, read on.
 
 You see the source of the _task_ is a _meeting_.
 
@@ -45,29 +45,38 @@ You click and see the _meeting_:
 
 ... everything at your fingertips.
 
-Now you remember the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
+Now you understand the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
 
-You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs_**".  It's making more sense now!  In one click, you can see all of the collaboration taking place on that _strategic action_.
+You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs_**".  It's making more sense now!  In one click, you see all collaboration taking place on that _strategic action_.
 
-Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective,_ above that _strategic action,_ to "**_improve gross profit through product and supply chain innovation_**".
+Now you're curious!  What's behind the _strategic action?_  
 
-### a consistent user experience
+One click and you're at the _strategic objective_ above it to "**_improve gross profit through product and supply chain innovation_**".
 
-A beautiful thing about #stratapp is that the user experience is consistent as you move across the four aspects mentioned above:
+### consistent user experience
 
-          task > meeting > strategic action > strategic objective  
+A beautiful thing about #stratapp is that the user experience is easy and consistent as you move across those four:
 
-The same consistency applies to the other features inside #stratapp:
+* tasks
+* meetings
+* strategic actions
+* strategic objectives
 
-          KPIs/OKRs | ideas | challenges | risks | project workboards
+The same consistency applies to all features inside #stratapp:
+
+* KPIs/OKRs
+* ideas
+* challenges
+* risks
+* project workboards
 
 ### easy to implement
 
-A consistent user experience means minimal or no end user training.
+A consistent user experience means minimal or no end user training - happier employees.
 
-Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on/off for individual users and/or teams based on your org design.
+Not only that, you can roll out the app in phases.  Yes, you can turn different parts of the app on/off for individual users and/or teams based on your unique org design.
 
-## a connected workspace
+## connected workspace
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same priorities and plans, able to see in real time exactly where their day to day work fits in and the impact.
 
@@ -75,7 +84,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 ![](/uploads/connect.JPG)
 
-### the result
+### end result
 
 You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally - in 1 simple app.
 
