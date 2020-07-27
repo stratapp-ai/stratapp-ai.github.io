@@ -34,7 +34,7 @@ To be honest, you can't really remember where the _task_ came from, so you click
 
 You see the source of the _task_, is a _meeting_.
 
-You click on the _meeting_ link and instantly you can see the:
+You click on the link and instantly you can see the _meeting_:
 
 * purpose ("**_agree next steps for the supply chain review_**")
 * agenda
@@ -43,19 +43,19 @@ You click on the _meeting_ link and instantly you can see the:
 * social conversations
 * files and links
 
-... everything neatly organized in one place.
+... everything at your fingertips, in one place.
 
 Now you remember the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
 
-You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's making even more sense now!  When you click on that source, you can see all of the collaboration taking place on that _strategic action_.
+You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's making even more sense now!  When you click on that you see all of the collaboration taking place on that _strategic action_.
 
-Now you're curious!  What's behind the _strategic action._  One click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
+Now you're curious!  What's behind the _strategic action?_  One click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
 
-## you create a truly connected workspace
+## a truly connected workspace
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees completely aligned on the same priorities and able to see in real time exactly where their work fits into the overall plans.
 
-\#stratapp helps you bring together what really matters into a truly connected workspace:
+\#stratapp allows everyone to focus on what really matters:
 
 ![](/uploads/connect.JPG)
 
