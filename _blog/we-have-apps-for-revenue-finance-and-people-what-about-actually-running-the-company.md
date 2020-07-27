@@ -49,7 +49,7 @@ You click on the _meeting_ link and instantly you can see the:
 
 Now you remember the context of the _task_.  It's making sense.  But then you think, why were we having this _meeting_ in the first place?
 
-You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's cool!  When you click on that, you can see all of the collaboration taking place on that _strategic action_.
+You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's cool!  When you click on that source, you can see all of the collaboration taking place on that _strategic action_.
 
 Now you're curious, as to what's behind the _strategic action.  One_ click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
 
