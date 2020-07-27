@@ -24,7 +24,7 @@ If you think about it, there are apps for almost everything (CRM, service/suppor
 
 \#stratapp is that app, making life way easier for business owners/CEOs and everyone else.
 
-## it's as easy as this
+## as easy as this
 
 You open your _workspace_ inside #stratapp.
 
