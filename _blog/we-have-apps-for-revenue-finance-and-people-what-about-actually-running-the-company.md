@@ -79,7 +79,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally - in 1 simple app.
 
-1 simple app to run the company.
+1 simple affordable app to run the company.
 
 To learn more visit [making strategy execution successful](https://stratappsaas.com/strategy-execution/ "strategy execution").
 
