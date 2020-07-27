@@ -51,15 +51,13 @@ Now you remember the context of the _task_.  It's making sense.  But then you th
 
 You see the source of the _meeting_, is a _strategic action_ to "**_reduce supply chain costs by 25% by Dec 2021_**".  That's cool!  When you click on that source, you can see all of the collaboration taking place on that _strategic action_.
 
-Now you're curious, as to what's behind the _strategic action.  One_ click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
-
-No tech before #stratapp has achieved that simplicity.
+Now you're curious!  What's behind the _strategic action._  One click and your at the _strategic objective_ to "**_improve gross profit through product and supply chain innovation_**".
 
 ## truly connected workspace
 
 Imagine the power of 5, 10, 50, 500 or 50,000 employees completely aligned on the same priorities and able to see in real time exactly where their work fits into the overall plans.
 
-\#stratapp brings together what really matters into a truly connected workspace:
+\#stratapp lets you bring together what really matters into a truly connected workspace:
 
 ![](/uploads/connect.JPG)
 
