@@ -18,7 +18,7 @@ seo_description: Running a company as a business owner or CEO is tough going, it
 feature_image: "/uploads/strategy_execution.png"
 
 ---
-The challenge comes down to people - having everyone aligned, engaged and motivated in the same direction and on the same end game.
+The challenge comes down to people - having everyone aligned, engaged and motivated on the same end game.
 
 If you think about it, there are apps for almost everything (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
