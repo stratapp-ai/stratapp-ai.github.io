@@ -55,7 +55,7 @@ One click and you're at the _strategic objective_ above it to "**_improve gross 
 
 ### consistent user experience
 
-A beautiful thing about #stratapp is that the user experience is easy and consistent as you move across those four:
+A beautiful thing about #stratapp is how the user experience is consistent as you move across those:
 
 * tasks
 * meetings
@@ -72,9 +72,9 @@ The same consistency applies to all features inside #stratapp:
 
 ### easy to implement
 
-A consistent user experience means minimal or no end user training - happier employees.
+A consistent user experience means minimal or no end user training - and happy employees.
 
-Not only that, you can roll out the app in phases.  Yes, you can turn different parts of the app on/off for individual users and/or teams based on your unique org design.
+Not only that, you can roll out the app in phases.  Yes, that's right, you can turn different parts of the app on for individual users and/or select teams based on your unique org design.
 
 ## connected workspace
 
@@ -86,8 +86,8 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 ### end result
 
-You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally - in 1 simple app.
+You don't need to micro-manage, rely on retrospective reporting or integrate 10 different systems - the work, alignment and productivity flows naturally - in one simple app.
 
-1 simple app to run the company.
+One simple app to run the company.
 
 To learn more visit [https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/ "https://stratappsaas.com/strategy-execution/").
