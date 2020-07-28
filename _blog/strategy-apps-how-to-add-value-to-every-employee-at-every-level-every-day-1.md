@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-12-01 12:46:28 +1000
+date: 2019-12-01T12:46:28.000+10:00
 layout: blog
 title: strategy apps - how to add value to every employee, at every level, every day
 sub_heading: We're not the first to conclude that static documents kill strategy execution.  However,
@@ -15,6 +15,7 @@ seo_description: We're not the first to conclude that static documents kill stra
   execution.  However, we are the world's first app to bring strategy execution alive
   for every employee.
 feature_image: ''
+alt_text: strategy execution and adding value to every employee
 
 ---
 We're not the first to conclude that static documents kill strategy execution.  However, we are the world's first app to bring strategy execution alive for every employee.
