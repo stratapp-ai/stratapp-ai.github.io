@@ -9,7 +9,7 @@ sub_heading: Running a company as a business owner or CEO is tough going, it's n
   for the fainthearted.
 video_id: ''
 banner_image: "/uploads/strategy-execution.PNG"
-alt_text: strategy execution - running a company
+alt_text: strategy execution and running a company
 slug: running a company
 seo_title: We have apps for revenue, finance and people - what about running the company?
 seo_description: Running a company as a business owner or CEO is tough going, it's
