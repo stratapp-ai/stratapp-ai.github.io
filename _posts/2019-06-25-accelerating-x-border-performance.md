@@ -8,6 +8,7 @@ seo_description: 'Seamlessly align your onshore and offshore teams. #stratapp po
 author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 slug: seamlessly align your onshore and offshore teams
+alt_text: The Third Wave by Scott Linden Jones
 
 ---
 ## How to seamlessly align your onshore and offshore teams.
