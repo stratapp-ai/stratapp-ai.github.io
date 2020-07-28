@@ -2,7 +2,7 @@
 author: _people/marten-jagers.md
 category:
 - "#reflections"
-date: 2020-03-08 14:00:00 +0000
+date: 2020-03-08T14:00:00.000+00:00
 layout: blog
 title: creating a connected workspace
 sub_heading: 'The burning question hammering away became: how do I enable my teams
@@ -14,6 +14,7 @@ seo_title: creating a connected workspace
 seo_description: 'The burning question hammering away became: how do I enable my teams
   for success? For me, the answer was clear – create a simple and connected workspace. '
 feature_image: "/uploads/connected workspace - cropped.jpeg"
+alt_text: strategy execution in a connected workspace
 
 ---
 **_“_**_Marten, we currently use Jira, Confluence, Xero, Salesforce, Harvest, Google Docs and Slack, and I still have no idea what’s happening in my business.”_
