@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-10-23 12:19:16 +1000
+date: 2019-10-23T12:19:16.000+10:00
 layout: blog
 title: risk management - how to make it org-wide and easy (short version)
 sub_heading: If it was easy to do, we would all embrace risk management - the problem
@@ -16,5 +16,6 @@ seo_description: Easy risk management software for every employee. Track and man
   risks at all levels - for the whole organization, as well as each initiative, project
   and function.
 feature_image: ''
+alt_text: strategy execution with risk management
 
 ---
