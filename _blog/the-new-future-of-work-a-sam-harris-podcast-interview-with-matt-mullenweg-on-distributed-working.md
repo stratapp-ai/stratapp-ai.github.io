@@ -19,7 +19,7 @@ seo_description: Matt is the founder of Automattic, the company behind Wordpress
   they want to.  Automattic does not have offices.  Automattic has ~1,200 employees
   working from 75 countries, and speaking over 90 languages.
 feature_image: "/uploads/distributed working levels -matt mullenweg.jpg"
-alt_text: ''
+alt_text: strategy execution and the new future of work by Sam Harris
 
 ---
 [Sam Harris’ podcast conversation, The New Future of Work, with Matt Mullenweg](https://samharris.org/podcasts/194-new-future-work/ "The New Future of Work") is truly inspiring.
