@@ -9,6 +9,7 @@ hero_image: ''
 date: 
 feature_image: "/uploads/feature image - features page-1.JPG"
 slug: ''
+alt_text: strategy execution features for time to value in days
 menu:
   navigation:
     identifier: _features
