@@ -14,6 +14,7 @@ seo_description: World first strategy and bui software for executing both strate
   every employee.
 feature_image: ''
 slug: stratapp explainer video
+alt_text: strategy execution explainer video
 
 ---
 The world’s first org-wide strategy execution SaaS app.
