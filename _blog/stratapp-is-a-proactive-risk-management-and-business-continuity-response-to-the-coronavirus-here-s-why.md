@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#reflections"
-date: 2019-09-16 08:00:00 +0000
+date: 2019-09-16T08:00:00.000+00:00
 layout: blog
 title: 'Coronavirus: working remotely as a proactive crisis management and business
   continuity response'
@@ -18,6 +18,7 @@ seo_description: 'Due to the coronavirus, several countries, including the USA, 
   Italy and South Korea, have recently found themselves working from home. #stratapp
   helps make this a positive disruption.'
 feature_image: "/uploads/coronavirus.jpg"
+alt_text: strategy execution and corona virus
 
 ---
 ## working remotely: the basics
