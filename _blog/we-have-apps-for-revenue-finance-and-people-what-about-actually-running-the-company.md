@@ -26,7 +26,9 @@ If you think about it, there are apps for almost everything (CRM, service/suppor
 
 ## a natural flow, as easy as this
 
-You open your _workspace_ inside #stratapp.
+Strategy execution wins with bottom up engagement and real-time alignment, in way that flows naturally as employees collaborate on day to day work.
+
+Let's imagine you're a team leader or mid-level manager.  You open your _workspace_ inside #stratapp.
 
 You see a _task_ due Thursday that says "**_select workshop venue_**".
 
