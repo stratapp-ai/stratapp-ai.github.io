@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-15 00:00:00 +1000
+date: 2019-09-15T00:00:00.000+10:00
 layout: blog
 title: radical transparency suits all generations, not only millennials
 sub_heading: Radical transparency was made famous by Ray Dalio's book Principles.
@@ -14,6 +14,7 @@ seo_description: 'Radical transparency has been made famous by Ray Dalio''s book
   With #stratapp, you can easily achieve genuine org-wide engagement and radical transparency.
   Across both strategic and day to day work.'
 feature_image: ''
+alt_text: strategy execution with radical transparency
 
 ---
 Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
