@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-23 13:12:11 +1000
+date: 2019-11-23T13:12:11.000+10:00
 layout: blog
 title: work collaboration - still a blindspot for senior execs
 sub_heading: 'Learn where work collaboration tech started and why it has remained
@@ -15,5 +15,6 @@ seo_description: 'Learn where work collaboration tech started and why it has rem
   a blindspot for senior execs and company directors. See how #stratapp is making
   this brilliant IP available to all roles, levels and generations.'
 feature_image: ''
+alt_text: strategy execution and work collaboration
 
 ---
