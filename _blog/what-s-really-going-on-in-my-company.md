@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-16 10:26:00 +0000
+date: 2019-09-16T10:26:00.000+00:00
 layout: blog
 title: what’s really going on in my company?
 sub_heading: 'We have 22 software applications. We average 200 emails and 5 hours
@@ -16,6 +16,7 @@ seo_description: 'We have 22 software applications. We average 200 emails and 5 
   of meetings or calls per person per day, alongside 20 instant messages per hour.  Everyone
   seems a bit stressed and I keep hearing how busy and time poor we all are. '
 feature_image: "/uploads/what is going on.jpg"
+alt_text: strategy execution and what's really going on
 
 ---
 Year on year I see daily priorities pulling our time and focus away from achieving our strategic goals.
