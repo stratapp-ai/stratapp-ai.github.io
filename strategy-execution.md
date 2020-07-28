@@ -19,7 +19,7 @@ page_sections:
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
     image: "/uploads/hero_graphic_strategy_execution.png"
-    alt_text: strategy execution is changing for the better
+    alt_text: strategy execution software app
 - template: content-feature
   block: feature-1
   media_alignment: Right
