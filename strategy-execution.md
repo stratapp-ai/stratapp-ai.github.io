@@ -46,7 +46,7 @@ page_sections:
   headline: "<strong>strategy execution gets lost in noise &amp; being busy</strong>"
   media:
     image: "/uploads/time-on-email-without-heading.png"
-    alt_text: ''
+    alt_text: strategy execution gets lost in noise
 - template: video-element
   block: video-element
   youtube_id: DlQAX7U0MHs
