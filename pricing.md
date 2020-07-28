@@ -62,8 +62,6 @@ faqs:
 
     \#stratapp is the world's first SaaS app to achieve genuine alignment and engagement, within a strategic context.
 
-    \#stratapp is currently 10-apps-in-1, at a compelling price point.
-
     We have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.
 
     Although we cannot share details publicly, you have probably already concluded our roadmap comprises:
