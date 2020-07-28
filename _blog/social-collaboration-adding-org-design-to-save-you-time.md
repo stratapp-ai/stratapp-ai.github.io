@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-25 15:59:36 +1000
+date: 2019-11-25T15:59:36.000+10:00
 layout: blog
 title: social collaboration - adding org design, to save you time (full version)
 sub_heading: Business social apps have pretty much copied facebook - you need to know
@@ -15,5 +15,6 @@ seo_description: "#stratapp is the world's first to apply org design and structu
   to social collaboration - this will save you many hours every month."
 feature_image: ''
 slug: social collaboration apps with org design and structure
+alt_text: strategy execution and org design
 
 ---
