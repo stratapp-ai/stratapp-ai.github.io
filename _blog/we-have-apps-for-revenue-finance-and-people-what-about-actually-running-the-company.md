@@ -22,7 +22,7 @@ The challenge comes down to people - having everyone aligned, engaged and motiva
 
 If you think about it, there are apps for almost everything (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
-\#stratapp is that app, making life way easier for business owners/CEOs and everyone else.
+\#stratapp is that app. #stratapp makes life way easier for business owners/CEOs and everyone else.
 
 ## a natural flow, as easy as this
 
@@ -49,7 +49,7 @@ Now you understand the context of the _task_.  It's making sense.  But then you 
 
 You see the source of the _meeting_ is a _strategic action_ to "**_reduce supply chain costs_**".  It's making more sense now!  In one click, you see all collaboration taking place on that _strategic action_.
 
-Now you're curious!  What's behind the _strategic action?_  
+Now you're curious!  What's behind the _strategic action?_
 
 One click and you're at the _strategic objective_ above it to "**_improve gross profit through product and supply chain innovation_**".
 
