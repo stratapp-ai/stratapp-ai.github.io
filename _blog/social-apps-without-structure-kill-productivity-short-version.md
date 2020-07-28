@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-30 17:07:00 +1000
+date: 2019-11-30T17:07:00.000+10:00
 layout: blog
 title: social apps without structure kill productivity (short version)
 sub_heading: 'We all love social collaboration, but current social apps are a firehose
@@ -15,5 +15,6 @@ seo_description: 'Social apps with structure reduce noise.  Social apps without 
   kill productivity. Breakfee with #stratapp''s 10 apps in 1, underpinned by unique
   social with structure and org design.'
 feature_image: ''
+alt_text: strategy execution with structure
 
 ---
