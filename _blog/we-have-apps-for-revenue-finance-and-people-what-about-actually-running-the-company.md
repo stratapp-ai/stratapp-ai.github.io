@@ -22,7 +22,7 @@ The challenge comes down to people - having everyone aligned, engaged and motiva
 
 If you think about it, there are apps for almost everything (CRM, service/support, finance, HR, supply chain, projects and social), but there has never been a simple app for actually running the company - providing real time clarity and context for everyone.
 
-\#stratapp is that app. #stratapp makes life way easier for business owners/CEOs and everyone else.
+\#stratapp is that app. #stratapp makes life way easier for owners/CEOs and their employees.
 
 ## a natural flow, as easy as this
 
