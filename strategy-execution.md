@@ -1,7 +1,7 @@
 ---
 title: strategy execution
 slug: strategy-execution
-seo_title: strategy execution wins as bottom up engagement
+seo_title: strategy execution wins on employee engagement
 seo_description: Strategy execution has been top down and broken for years, it is
   time we fixed this. Strategy execution is easier to achieve as an interactive strategy
   tree hierarchy.
