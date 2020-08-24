@@ -5,9 +5,10 @@ seo_description: 'These Terms apply to all visitors, users and others who access
   use the Service. '
 feature_image: ''
 slug: ''
+page_sections: []
 
 ---
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://stratapp.ai](https://stratapp.ai) website and the #stratapp applications (the "Service") operated by #stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://stratappsaas.com](https://stratappsaas.com "https://stratappsaas.com") website and the #stratapp applications (the "Service") operated by #stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms.
 
