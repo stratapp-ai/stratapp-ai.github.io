@@ -5,9 +5,11 @@ seo_description: This page informs you of our policies regarding the collection,
   associated with that data.
 title: privacy
 feature_image: ''
+slug: ''
+page_sections: []
 
 ---
-#stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the https://stratapp.ai website and the #stratapp applications (hereinafter referred to as the &quot;Service&quot;).
+\#stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our") operates the [https://stratappsaas.com](https://stratappsaas.com "https://stratappsaas.com") website and the #stratapp applications (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -17,7 +19,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 **Service**
 
-Service means the https://stratapp.ai website and the #stratapp applications operated by #stratapp.
+Service means the [https://stratappsaas.com](https://stratappsaas.com "https://stratappsaas.com") website and the #stratapp applications operated by #stratapp.
 
 **Personal Data**
 
@@ -55,27 +57,27 @@ We collect several different types of information for various purposes to provid
 
 **Personal Data**
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&quot;Personal Data&quot;). Personally identifiable information may include, but is not limited to:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-- Email address
-- First name and last name
-- Phone number
-- Address, State, Province, ZIP/Postal code, City
-- Cookies and Usage Data
+* Email address
+* First name and last name
+* Phone number
+* Address, State, Province, ZIP/Postal code, City
+* Cookies and Usage Data
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send.
 
 **Usage Data**
 
-We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (&quot;Usage Data&quot;).
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
 
-This Usage Data may include information such as your computer&#39;s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 When you access the Service with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
 **Location Data**
 
-We may use and store information about your location if you give us permission to do so (&quot;Location Data&quot;). We use this data to provide features of our Service, to improve and customise our Service.
+We may use and store information about your location if you give us permission to do so ("Location Data"). We use this data to provide features of our Service, to improve and customise our Service.
 
 You can enable or disable location services when you use our Service at any time by way of your device settings.
 
@@ -89,40 +91,40 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
+* Session Cookies. We use Session Cookies to operate our Service.
+* Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+* Security Cookies. We use Security Cookies for security purposes.
 
 **Use of Data**
 
-#stratapp uses the collected data for various purposes:
+\#stratapp uses the collected data for various purposes:
 
-- To provide and maintain our Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer support
-- To gather analysis or valuable information so that we can improve our Service
-- To monitor the usage of our Service
-- To detect, prevent and address technical issues
-- To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+* To provide and maintain our Service
+* To notify you about changes to our Service
+* To allow you to participate in interactive features of our Service when you choose to do so
+* To provide customer support
+* To gather analysis or valuable information so that we can improve our Service
+* To monitor the usage of our Service
+* To detect, prevent and address technical issues
+* To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
 **Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)**
 
 If you are from the European Economic Area (EEA), #stratapp legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-#stratapp may process your Personal Data because:
+\#stratapp may process your Personal Data because:
 
-- We need to perform a contract with you
-- You have given us permission to do so
-- The processing is in our legitimate interests and it is not overridden by your rights
-- For payment processing purposes
-- To comply with the law
+* We need to perform a contract with you
+* You have given us permission to do so
+* The processing is in our legitimate interests and it is not overridden by your rights
+* For payment processing purposes
+* To comply with the law
 
 **Retention of Data**
 
-#stratapp will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+\#stratapp will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
 
-#stratapp will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
+\#stratapp will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
 
 **Transfer of Data**
 
@@ -130,7 +132,7 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-#stratapp will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+\#stratapp will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 **Disclosure of Data**
 
@@ -144,21 +146,21 @@ Under certain circumstances, #stratapp may be required to disclose your Personal
 
 **Legal Requirements**
 
-#stratapp may disclose your Personal Data in the good faith belief that such action is necessary to:
+\#stratapp may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-- To comply with a legal obligation
-- To protect and defend the rights or property of #stratapp
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+* To comply with a legal obligation
+* To protect and defend the rights or property of #stratapp
+* To prevent or investigate possible wrongdoing in connection with the Service
+* To protect the personal safety of users of the Service or the public
+* To protect against legal liability
 
 **Security of Data**
 
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-**Our Policy on &quot;Do Not Track&quot; Signals under the California Online Protection Act (CalOPPA)**
+**Our Policy on "Do Not Track" Signals under the California Online Protection Act (CalOPPA)**
 
-We do not support Do Not Track (&quot;DNT&quot;). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
 You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
@@ -188,7 +190,7 @@ You have the right to complain to a Data Protection Authority about our collecti
 
 **Service Providers**
 
-We may employ third party companies and individuals to facilitate our Service (&quot;Service Providers&quot;), provide the Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide the Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -200,33 +202,33 @@ We may use third-party Service Providers to monitor and analyse the use of our S
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page:[https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 **Behavioral Remarketing**
 
-#stratapp uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
+\#stratapp uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
 **Google Ads (AdWords)**
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page:[http://www.google.com/settings/ads](http://www.google.com/settings/ads)
+You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](http://www.google.com/settings/ads)
 
 Google also recommends installing the Google Analytics Opt-out Browser Add-on -[https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page:[https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 **Facebook**
 
 Facebook remarketing service is provided by Facebook Inc.
 
-You can learn more about interest-based advertising from Facebook by visiting this page:[https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)
+You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)
 
-To opt-out from Facebook&#39;s interest-based ads, follow these instructions from Facebook:[https://www.facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217)
+To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217)
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA[http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada[http://youradchoices.ca/](http://youradchoices.ca/)or the European Interactive Digital Advertising Alliance in Europe[http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/)or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.
 
-For more information on the privacy practices of Facebook, please visit Facebook&#39;s Data Policy:[https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
 
 **Payments**
 
@@ -234,17 +236,17 @@ We may provide paid products and/or services within the Service. In that case, w
 
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 
-The payment processors we work with are:  Stripe.  Their Privacy Policy can be viewed at[https://stripe.com/us/privacy](https://stripe.com/us/privacy)
+The payment processors we work with are:  Stripe.  Their Privacy Policy can be viewed at [https://stripe.com/us/privacy](https://stripe.com/us/privacy)
 
 **Links to Other Sites**
 
-Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party&#39;s site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-**Children&#39;s Privacy**
+**Children's Privacy**
 
-Our Service does not address anyone under the age of 18 (&quot;Children&quot;).
+Our Service does not address anyone under the age of 18 ("Children").
 
 We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
@@ -252,7 +254,7 @@ We do not knowingly collect personally identifiable information from anyone unde
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the &quot;effective date&quot; at the top of this Privacy Policy.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -262,7 +264,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **What are cookies**
 
-​Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.Cookies can be &quot;persistent&quot; or &quot;session&quot; cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
+​Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
 
 **How #stratapp uses cookies**
 
@@ -274,7 +276,7 @@ To enable certain functions of the Service to provide analytics to store your pr
 
 **We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:**
 
-Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user&#39;s language preference on the Service.Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the &quot;remember me&quot; functionality.
+Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service.Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality.
 
 Analytics cookies. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
 
@@ -284,20 +286,22 @@ Analytics cookies. We may use analytics cookies to track information how the Ser
 
 **What are your choices regarding cookies**
 
-​If you&#39;d like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+​If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
 
-For the Chrome web browser, please visit this page from Google: https://support.google.com/accounts/answer/32050For the Internet Explorer web browser, please visit this page from Microsoft: [http://support.microsoft.com/kb/278835](http://support.microsoft.com/kb/278835)
+For the Chrome web browser, please visit this page from Google: https://support.google.com/accounts/answer/32050   
+  
+For the Internet Explorer web browser, please visit this page from Microsoft: [http://support.microsoft.com/kb/278835](http://support.microsoft.com/kb/278835)
 
 For the Firefox web browser, please visit this page from Mozilla: [https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
 
 For the Safari web browser, please visit this page from Apple: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
-For any other web browser, please visit your web browser&#39;s official web pages.
+For any other web browser, please visit your web browser's official web pages.
 
 You can learn more about cookies and the following third-party websites:
 
-- AllAboutCookies: [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
-- Network Advertising Initiative: [http://www.networkadvertising.org/](http://www.networkadvertising.org/)
+* AllAboutCookies: [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
+* Network Advertising Initiative: [http://www.networkadvertising.org/](http://www.networkadvertising.org/)
 
 **Contact Us**
 
