@@ -4,11 +4,13 @@ seo_title: "#stratapp fair usage policy "
 seo_description: 'To ensure the continued availability of our services, we have a
   ''Fair Use Policy'' to make sure our services are not subject to misuse. '
 feature_image: ''
+slug: ''
+page_sections: []
 
 ---
 **Fair Use Policy**
 
-The Service, as defined under the Terms page on [https://stratapp.ai](https://stratapp.ai), is operated by #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) on behalf of its clients and partners. To ensure the continued availability of our services, we have a &#39;Fair Use Policy&#39; to make sure our services are not subject to misuse.
+The Service, as defined under the Terms page on [https://stratappsaas.com](https://stratappsaas.com "https://stratappsaas.com") is operated by #stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our") on behalf of its clients and partners. To ensure the continued availability of our services, we have a 'Fair Use Policy' to make sure our services are not subject to misuse.
 
 **Use impairing our services**
 
@@ -26,4 +28,4 @@ Should the Service be used for any illegal purpose as defined by common law or i
 
 **Changes**
 
-#stratapp may update this Fair Use Policy from time to time to reflect company and customer feedback or improve the services provided.
+\#stratapp may update this Fair Use Policy from time to time to reflect company and customer feedback or improve the services provided.

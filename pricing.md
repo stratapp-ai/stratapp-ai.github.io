@@ -6,7 +6,7 @@ faqs:
   answer: |-
     We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
-    Most clients rollout within 2-3 days, by starting out light with the "productivity & culture" features; see [https://bit.ly/stratapp-implementation](https://bit.ly/stratapp-implementation "https://bit.ly/stratapp-implementation").
+    Most clients rollout within 2-3 days, by starting out light with the "productivity & culture" features; see [https://bit.ly/stratapp-explore-trial-implement](https://bit.ly/stratapp-explore-trial-implement "https://bit.ly/stratapp-explore-trial-implement").
 
     There are no set-up fees or hardware costs, and you don't need any technical skills to configure and deploy #stratapp.
 
@@ -61,8 +61,6 @@ faqs:
     We are experienced SaaS founders, backed by investors who are market leaders.
 
     \#stratapp is the world's first SaaS app to achieve genuine alignment and engagement, within a strategic context.
-
-    \#stratapp is currently 10-apps-in-1, at a compelling price point.
 
     We have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.
 

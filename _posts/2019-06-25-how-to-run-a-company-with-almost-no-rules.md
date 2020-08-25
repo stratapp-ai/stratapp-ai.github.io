@@ -9,6 +9,7 @@ seo_description: 'How to run a company with (almost) no rules by Ricardo Semler.
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 slug: how to run a company with no rules by ricardo semler
+alt_text: how to run a company with (almost) no rules by Ricardo Semler
 
 ---
 ## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design and engagement.

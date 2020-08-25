@@ -1,7 +1,7 @@
 ---
 title: strategy execution
 slug: strategy-execution
-seo_title: strategy execution wins as bottom up engagement
+seo_title: strategy execution wins on employee engagement
 seo_description: Strategy execution has been top down and broken for years, it is
   time we fixed this. Strategy execution is easier to achieve as an interactive strategy
   tree hierarchy.
@@ -12,14 +12,14 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # strategy execution wins with bottom up engagement
+    # strategy execution wins on employee engagement
 
     ##### strategy execution has been top down and broken for years, it is time we fixed this
 
-    [Book a Demo](#){: .bookademo-btn}
+    [start free trial](/free-trial){: .btn .btn-primary}
   media:
     image: "/uploads/hero_graphic_strategy_execution.png"
-    alt_text: strategy execution is changing for the better
+    alt_text: strategy execution software app
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -46,7 +46,7 @@ page_sections:
   headline: "<strong>strategy execution gets lost in noise &amp; being busy</strong>"
   media:
     image: "/uploads/time-on-email-without-heading.png"
-    alt_text: ''
+    alt_text: strategy execution gets lost in noise
 - template: video-element
   block: video-element
   youtube_id: DlQAX7U0MHs

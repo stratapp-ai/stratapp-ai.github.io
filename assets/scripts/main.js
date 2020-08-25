@@ -118,6 +118,10 @@ jQuery('a.introVid-fixed').click(function(){
 });
 
 
+function validateEmail(email) {
+    const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
+}
 
 $(document).ready(function() {
   $("img[data-vimeo-id]").each(function(index) {
@@ -131,4 +135,38 @@ $(document).ready(function() {
         $("img[data-vimeo-id=" + vimeoId + "]").attr('src', data.thumbnail_url);
       });
   }); 
+
+  $('#email').keyup(function() {
+  
+        //alert('test');
+        var empty = true;
+
+        if (validateEmail($(this).val())) {
+            empty = false;
+        }
+        if (empty) {
+            $('#formsubmit').attr('disabled', 'disabled'); // updated according to http://stackoverflow.com/questions/7637790/how-to-remove-disabled-attribute-with-jquery-ie
+        } else {
+            $('#formsubmit').removeAttr('disabled'); // updated according to http://stackoverflow.com/questions/7637790/how-to-remove-disabled-attribute-with-jquery-ie
+        }
 });
+
+});
+
+
+// $('#free-trial > input').keyup(function() {
+
+//         alert('test');
+//         var empty = false;
+//         $('#free-trial > input').each(function() {
+//             if ($(this).val() == '') {
+//                 empty = true;
+//             }
+//         });
+
+//         if (empty) {
+//             $('#formsubmit').attr('disabled', 'disabled'); // updated according to http://stackoverflow.com/questions/7637790/how-to-remove-disabled-attribute-with-jquery-ie
+//         } else {
+//             $('#formsubmit').removeAttr('disabled'); // updated according to http://stackoverflow.com/questions/7637790/how-to-remove-disabled-attribute-with-jquery-ie
+//         }
+// });

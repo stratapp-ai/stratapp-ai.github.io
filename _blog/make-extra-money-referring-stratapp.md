@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-08-29 14:00:00 +0000
+date: 2019-08-29T14:00:00.000+00:00
 layout: blog
 title: make money referring
 sub_heading: we have a generous referral model and a plan to rewrite the SaaS playbook
@@ -15,7 +15,7 @@ seo_description: 'We have a generous referral model, making it relatively easy t
   achieve US$40,000 per year from referring #stratapp to your friends and colleagues
   who are team leaders, managers, executives and business owners.'
 feature_image: "/uploads/referring-2.jpg"
-alt_text: ''
+alt_text: 'strategy execution and referring #stratapp'
 
 ---
 ## why should I refer #stratapp?

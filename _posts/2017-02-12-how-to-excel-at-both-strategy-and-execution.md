@@ -8,6 +8,7 @@ seo_title: How to Excel at Both Strategy and Execution by HBR.org
 seo_description: How to Excel at Both Strategy and Execution by HBR.org. According
   to PwC, only 8% of company leaders were said to excel at both strategy and execution.
 slug: how to excel at both strategy and execution by hbr org
+alt_text: how to excel at both strategy and execution by HBR.org
 
 ---
 ## Company leaders rarely excel at both strategy and execution.

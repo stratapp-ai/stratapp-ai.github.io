@@ -8,6 +8,7 @@ seo_description: 'Y-gen millennials embrace Simon Sinek''s TED talk on start wit
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 slug: how great leaders inspire action by simon sinek
+alt_text: How Great Leaders Inspire Action by Simon Sinek
 
 ---
 ## Y-gen / millennials globally embrace Simon Sinek's TED talk on 'start with why'.

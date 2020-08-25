@@ -10,6 +10,7 @@ seo_description: 'Radical transparency has been made famous by Ray Dalio''s book
 feature_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
 author: Ash Richardson
 banner_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
+alt_text: Principles by Ray Dalio
 
 ---
 ## radical transparency was made famous by Ray Dalio's book Principles.

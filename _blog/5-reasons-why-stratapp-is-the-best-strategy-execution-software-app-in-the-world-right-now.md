@@ -18,6 +18,7 @@ seo_description: 'Best strategy execution software app in the world right now is
   of employees, not only the people lucky enough to be inside the strategy development
   circle.'
 feature_image: ''
+alt_text: best strategy execution software app
 
 ---
 At #stratapp, we started to think about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be inside the strat-dev circle.

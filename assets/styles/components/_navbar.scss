@@ -26,12 +26,19 @@
 #navbarHeaderCollapse {
 	position: relative;
 	
+
+
 	@include media-breakpoint-down(lg) {
 		.rounded-pill {
 			margin-left: 1rem;
 		}
 		.link-app {
 	    	padding-left: 3em;
+		}
+	}
+	@include media-breakpoint-down(md) {
+		.link-app {
+	    	padding-left: 1.5em;
 		}
 	}
 

@@ -9,6 +9,7 @@ seo_description: Y-gen millennials are just magic, a breath of fresh air. They h
 author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 slug: millennials in the workplace by simon sinek
+alt_text: Millennials in the Workplace by Simon Sinek
 
 ---
 ## y-gen / millennials are just magic, a breath of fresh air we can all learn from

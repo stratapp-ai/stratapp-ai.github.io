@@ -14,6 +14,7 @@ seo_title: we 45–55yr olds are the problem, not millennials
 seo_description: We 45–55yr olds are the problem, not millennials. See how our millennials
   do social and work collaboration, compared to x-gen and baby boomers.
 feature_image: ''
+alt_text: strategy execution and millennials
 
 ---
 #### **Meet Patrick**

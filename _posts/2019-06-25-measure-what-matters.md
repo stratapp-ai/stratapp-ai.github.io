@@ -9,6 +9,7 @@ seo_description: 'Measure What Matters by John Doerr. Google has applied Andy Gr
 author: Ash Richardson
 banner_image: "/uploads/measurewhatmatters-book.jpg"
 slug: measure what matters by john doerr
+alt_text: Measure What Matters by John Doerr
 
 ---
 ## Google has applied Andy Grove's OKR methodology every quarter since 1999.

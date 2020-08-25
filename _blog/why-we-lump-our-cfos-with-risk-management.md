@@ -16,6 +16,7 @@ seo_description: 'Risk management software for CFOs is no good as a single use a
   #stratapp makes risk management a natural part of both strategic and day to day
   work, org-wide for every employee.'
 feature_image: "/uploads/CFO lumped.jpg"
+alt_text: strategy execution risk management
 
 ---
 The board of directors are responsible for governance, including risk management.

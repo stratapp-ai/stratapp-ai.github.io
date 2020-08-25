@@ -16,6 +16,7 @@ seo_description: 'Those of you into B2B SaaS will remember Stride, a clever inno
   #stratapp has taken the idea a step further, adding more tags and a strategic context
   to social.'
 feature_image: ''
+alt_text: strategy execution after Atlassian's Stride
 
 ---
 Without structure, social collaboration can quickly become a fire-hose of noise and distraction.

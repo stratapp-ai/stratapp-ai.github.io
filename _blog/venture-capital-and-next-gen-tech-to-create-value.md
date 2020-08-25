@@ -16,6 +16,7 @@ seo_description: 'I was a VC. I personally loathed reviewing 250 opportunities a
   meeting 100 founders per year. But I loved the bit that came after: deal structuring,
   deal closing and working with inspiring founders.'
 feature_image: "/uploads/venture capital and stratapp.jpg"
+alt_text: strategy execution and venture capital
 
 ---
 # my VC role
