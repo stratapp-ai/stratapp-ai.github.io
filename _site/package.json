@@ -1,0 +1,50 @@
+{
+  "name": "Melon",
+  "version": "1.0.1",
+  "author": "Skye Johnson <skye@weareva.com.au>",
+  "private": true,
+  "scripts": {
+    "build": "gulp",
+    "jshint": "gulp jshint",
+    "jscs": "jscs gulpfile.js assets/scripts/*.js"
+  },
+  "engines": {
+    "node": ">= 4.5"
+  },
+  "devDependencies": {
+    "asset-builder": "^1.1.0",
+    "asset-builder-nobower": "^1.1.2",
+    "bootstrap": "^4.1.2",
+    "browser-sync": "^2.24.7",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-changed": "^1.3.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-flatten": "0.3.1",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jshint": "^2.0.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.3.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-pngcrush": "^5.0.0",
+    "jquery": "^3.3.1",
+    "jshint": "^2.9.6",
+    "jshint-stylish": "^2.0.1",
+    "lazypipe": "^1.0.1",
+    "merge-stream": "^1.0.0",
+    "minimatch": "^3.0.4",
+    "minimist": "^1.1.3",
+    "natives": "^1.1.3",
+    "photoswipe": "^4.1.2",
+    "popper.js": "^1.14.3",
+    "run-sequence": "^1.1.2",
+    "shelljs": "^0.8.3",
+    "traverse": "^0.6.6"
+  }
+}
