@@ -17,5 +17,6 @@ seo_description: Crowdsource ideas to drive ideation and innovation, embracing t
 feature_image: ''
 slug: crowdsource ideas to drive ideation and innovation
 alt_text: strategy execution and ideation
+published: false
 
 ---
