@@ -17,5 +17,6 @@ seo_description: How many meetings and calls do you do each day?  Imagine if all
 feature_image: ''
 slug: live meeting notes plus capture tasks across all of your meetings
 alt_text: strategy execution with live meeting notes
+published: false
 
 ---
