@@ -15,6 +15,7 @@ seo_description: Whilst we're not the first to think of live org chart software,
 feature_image: ''
 slug: live org chart software
 alt_text: strategy execution with a live org chart
+published: false
 
 ---
 Whilst we're not the first to think of live org charts, we are the world's first app to apply that powerful concept to social and work collaboration.
