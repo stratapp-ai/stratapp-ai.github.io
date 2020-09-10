@@ -16,6 +16,7 @@ seo_description: We're not the first to conclude that static documents kill stra
   for every employee.
 feature_image: ''
 alt_text: strategy execution and adding value to every employee
+published: false
 
 ---
 We're not the first to conclude that static documents kill strategy execution.  However, we are the world's first app to bring strategy execution alive for every employee.
