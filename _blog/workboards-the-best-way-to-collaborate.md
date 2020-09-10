@@ -16,5 +16,6 @@ seo_description: "#stratapp's workboards are designed for businesses, as well as
   as well as the project management attributes you expect to see in a business context."
 feature_image: ''
 alt_text: strategy execution workboards
+published: false
 
 ---
