@@ -15,5 +15,6 @@ seo_description: 'Why #stratapp is 10 apps in 1. With #stratapp, your strategy a
 feature_image: ''
 slug: why stratapp is 10 apps in 1
 alt_text: strategy execution for every employee
+published: false
 
 ---
