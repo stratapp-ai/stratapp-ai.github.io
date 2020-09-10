@@ -16,5 +16,6 @@ seo_description: 'Learn how to apply the magic of ''3 to 6'' and ''verb noun'' t
 feature_image: ''
 slug: strategic planning software with a strategy tree hierarchy
 alt_text: strategy execution as a strategy tree hierarchy
+published: false
 
 ---
