@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#insights"
+- "#videos"
 date: 2019-11-12T06:26:09.000+00:00
 layout: blog
 title: explainer video
