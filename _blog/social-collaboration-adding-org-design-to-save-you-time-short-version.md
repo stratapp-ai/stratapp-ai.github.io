@@ -15,5 +15,6 @@ seo_description: "#stratapp is the world's first to apply org design and structu
   to social collaboration - this will save you many hours every month."
 feature_image: ''
 alt_text: strategy execution and social collaboration
+published: false
 
 ---
