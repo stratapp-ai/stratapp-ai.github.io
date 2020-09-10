@@ -15,5 +15,6 @@ seo_description: "#stratapp is the world's first to apply org design and structu
 feature_image: ''
 slug: social collaboration apps with org design and structure
 alt_text: strategy execution and org design
+published: false
 
 ---
