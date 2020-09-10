@@ -16,5 +16,6 @@ seo_description: 'Social apps with structure reduce noise.  Social apps without 
   social with structure and org design.'
 feature_image: ''
 alt_text: strategy execution with structure
+published: false
 
 ---
