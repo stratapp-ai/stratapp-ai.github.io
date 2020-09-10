@@ -16,6 +16,7 @@ seo_description: 'Social apps with structure reduce noise.  Social apps without 
 feature_image: ''
 slug: social apps with structure reduce noise
 alt_text: strategy execution with productivity
+published: false
 
 ---
 We all love social collaboration, but current social apps are a firehose of distraction and noise.

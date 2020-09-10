@@ -17,5 +17,6 @@ seo_description: Easy risk management software for every employee. Track and man
   and function.
 feature_image: ''
 alt_text: strategy execution with risk management
+published: false
 
 ---
