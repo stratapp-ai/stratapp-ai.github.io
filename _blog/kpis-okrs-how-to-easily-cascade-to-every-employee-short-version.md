@@ -15,5 +15,6 @@ seo_description: How to easily manage OKRs and both types of KPI (strategic and 
 feature_image: ''
 slug: KPI software OKR software short version
 alt_text: strategy execution with KPIs
+published: false
 
 ---
