@@ -16,6 +16,7 @@ seo_description: How to easily manage KPIs and OKRs org-wide, at every level, wi
 feature_image: ''
 slug: KPI software OKR software
 alt_text: strategy execution with OKRs
+published: false
 
 ---
 The two types of KPIs (strategic and day-to-day) and how they can be cascaded to every employee, in a way that is easy to collaborate with others on delivering outcomes.
