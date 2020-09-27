@@ -49,7 +49,7 @@ page_sections:
     alt_text: strategy execution gets lost in noise
 - template: video-element
   block: video-element
-  youtube_id: DlQAX7U0MHs
+  youtube_id: 9gVrOhnZnpU
   caption: ''
   video: ''
   vimeo_id: ''
@@ -191,4 +191,4 @@ Be effective.  Anywhere.  Anytime.
 
 Everything you need, in your pocket.  #stratapp!
 
-<iframe width="950" height="535" src="https://www.youtube.com/embed/VovFADiDfMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="535" src="https://www.youtube.com/embed/DlQAX7U0MHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
