@@ -49,7 +49,7 @@ page_sections:
     alt_text: strategy execution gets lost in noise
 - template: video-element
   block: video-element
-  youtube_id: 9gVrOhnZnpU
+  youtube_id: DqsXkZs75Lk
   caption: ''
   video: ''
   vimeo_id: ''
