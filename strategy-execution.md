@@ -123,13 +123,7 @@ OKRs, brought to fame by John Doerr and the founders of Google, are brilliant fo
 
 In #stratapp, OKRs become a natural part of each day, because they are part of the same digital workspace. You don’t have to open another single-use-app to update them.
 
-\#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations and your objectives on cadence.
-
-In both cases you can cascade the KPI/OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  The KPI/OKR tree reflects your targets.
-
-For example, you might have a strategic goal to grow market share in Europe.  The strategy tree will show the strategy of how you plan to achieve that goal.  You might set a KPI to grow European revenue to $100m within 3 years, with the source of that KPI being the goal.  Below that KPI you are free to cascade the KPI as you see fit, independent of the strategy tree.  For example, you might cascade the KPI targets by region (Scandinavia, Benelux and Germany), then by country, then by region.
-
-Cascading the KPIs is not a strategy, they are measures of progress and outcomes.  On the strategy tree you will collaborate on how to actually achieve strategy execution - how you will win and what you will need to win.
+You can cascade the OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  OKRs drive execution.
 
 ## **employee engagement on strategy execution**
 
