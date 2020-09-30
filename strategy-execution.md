@@ -119,7 +119,7 @@ Success requires us to balance strategy execution with daily work.
 
 OKRs, brought to fame by John Doerr and the founders of Google, are brilliant for driving strategy execution.
 
-![](/uploads/measure-what-matters.png)
+![](/uploads/measure-what-matters-2.PNG)
 
 In #stratapp, OKRs become a natural part of each day, because they are part of the same digital workspace. You don’t have to open another single-use-app to update them.
 
