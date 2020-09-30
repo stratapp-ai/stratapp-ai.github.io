@@ -109,7 +109,19 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 \#stratapp allows you to achieve the benefits of agile - shaping, testing and evolving strategy execution at speed - whilst at the same time proactively managing risk at all levels of the organization.
 
-## **cascading KPIs/OKRs for strategy execution**
+## **cascading OKRs for strategy execution**
+
+\[OKRs will be part of #stratapp's November release\]
+
+Success requires us to balance strategy execution with daily work.
+
+![](/uploads/balancing-strategy-and-daily-execution.PNG)
+
+OKRs, brought to fame by John Doerr and the founders of Google, are brilliant for driving strategy execution.
+
+![](/uploads/measure-what-matters.png)
+
+In #stratapp, OKRs become a natural part of each day, because they are part of the same digital workspace. You don’t have to open another single-use-app to update them.
 
 \#stratapp caters for both types of KPIs/OKRs in an organization.  Those that relate to the strategy tree hierarchy, and those that relate to day to day operations and your objectives on cadence.
 
