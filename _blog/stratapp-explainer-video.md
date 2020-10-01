@@ -5,7 +5,7 @@ category:
 date: 2019-11-12T06:26:09.000+00:00
 layout: blog
 title: explainer video
-sub_heading: Seamlessly execute strategy and day to day work in one place.
+sub_heading: seamlessly execute strategy and day to day work in one place
 video_id: U30Yx4H3ctM
 banner_image: ''
 seo_title: "#stratapp explainer video"
