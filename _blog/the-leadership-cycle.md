@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#videos"
 date: 2020-10-01 08:06:06 +0000
 layout: blog
 title: the leadership cycle
