@@ -189,10 +189,14 @@ We believe that if you ask yourself those 3 key questions, and if you conclude t
 
 ## **our why**
 
-Love work.  Love life.
+Our why at #stratapp is for you to:
 
-Be effective.  Anywhere.  Anytime.
+love work.  love life.
 
-Everything you need, in your pocket.  #stratapp!
+be effective.  anywhere.  anytime.
+
+everything you need, in your pocket  
+
+stratappsaas.com
 
 <iframe width="950" height="535" src="https://www.youtube.com/embed/DlQAX7U0MHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
