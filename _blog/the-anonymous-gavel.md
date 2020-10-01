@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2020-09-10 07:09:01 +0000
+date: 2019-11-12 14:00:00 +0000
 layout: blog
 title: The Anonymous Gavel
 sub_heading: every meeting needs one
