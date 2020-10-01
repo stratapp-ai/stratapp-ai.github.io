@@ -85,7 +85,7 @@ Here is a short deck on how to [make money referring #stratapp](http://bit.ly/ma
 
 ## what can I share with potential clients?
 
-You may share these [useful links](https://support.stratapp.ai/portal/kb/articles/useful-links "useful links") with potential clients, especially the [quick overview](http://bit.ly/stratapp-quick-overview  "quick overview").
+You may share these [useful links](https://support.stratapp.ai/portal/kb/articles/useful-links "useful links") with potential clients.
 
 ## thank you
 
