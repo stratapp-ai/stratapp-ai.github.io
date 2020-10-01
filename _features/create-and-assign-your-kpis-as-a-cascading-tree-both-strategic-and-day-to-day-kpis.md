@@ -12,8 +12,6 @@ layout: feature
 alt_text: ''
 
 ---
-\[OKRs will be part of #stratapp's November release\]
-
 Success requires us to balance strategy execution with daily work.
 
 ![](/uploads/balancing-strategy-and-daily-execution.PNG)
