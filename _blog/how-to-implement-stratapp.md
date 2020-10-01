@@ -15,6 +15,7 @@ seo_description: Most start with productivity & culture, before advancing to ide
   strategy execution and business performance.
 feature_image: "/uploads/value vs time.jpg"
 alt_text: 'strategy execution and how to implement #stratapp'
+published: false
 
 ---
 You should be up and running on #stratapp within 2 cups of coffee, which is a far cry from the weeks or months it usually takes to deploy business software.
