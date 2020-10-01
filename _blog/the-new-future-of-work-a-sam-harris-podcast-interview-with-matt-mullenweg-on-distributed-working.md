@@ -71,7 +71,7 @@ Upon reflection, I wish I had reached out to Matt a few years ago as we were sta
 
 \#stratapp is the world's first SaaS product to bring together strategy, KPIs/OKRs, people and work into one seamless employee experience:
 
-![](/uploads/connected workspace.JPG)
+![](/uploads/alignment-jpg.jpg)
 
 ## distributed working - journey success
 
