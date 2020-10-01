@@ -60,7 +60,7 @@ Imagine if you could see, in just a few seconds, the exact status and underlying
 * team players/innovators/rising stars
 * interactive global heatmap, showing what's hot right now
 
-![](/uploads/line of sight.PNG)
+![](/uploads/alignment-jpg.jpg)
 
 #### go deeper
 
