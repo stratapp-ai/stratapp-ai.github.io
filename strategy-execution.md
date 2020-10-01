@@ -111,9 +111,9 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 ## **cascading OKRs for strategy execution**
 
-\[OKRs will be part of #stratapp's November release\]
-
 Success requires us to balance strategy execution with daily work.
+
+![](/uploads/balancing-strategy-and-daily-execution.PNG)
 
 OKRs, brought to fame by John Doerr and the founders of Google, are brilliant for driving strategy execution.
 
@@ -121,7 +121,9 @@ OKRs, brought to fame by John Doerr and the founders of Google, are brilliant fo
 
 In #stratapp, OKRs become a natural part of each day, because they are part of the same digital workspace. You don’t have to open another single-use-app to update them.
 
-You can cascade the OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  OKRs drive execution.
+You can cascade the OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  
+
+The strategy tree reflects your strategy.  OKRs drive execution.  OKRs will be part of #stratapp's November 2020 release.
 
 ## **employee engagement on strategy execution**
 
