@@ -113,8 +113,6 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 Success requires us to balance strategy execution with daily work.
 
-![](/uploads/balancing-strategy-and-daily-execution.PNG)
-
 OKRs, brought to fame by John Doerr and the founders of Google, are brilliant for driving strategy execution.
 
 ![](/uploads/measure-what-matters-2.PNG)
