@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2020-10-01 08:06:06 +0000
+date: 2019-09-11 08:15:03 +0000
 layout: blog
 title: the leadership cycle
 sub_heading: your leadership spans this cycle
