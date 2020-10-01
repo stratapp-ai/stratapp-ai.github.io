@@ -52,7 +52,7 @@ When I look back now I think:
 * team players/innovators/rising stars
 * headlines and an interactive global heatmap, showing what’s hot right now
 
-![](/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png)
+![](/uploads/alignment-jpg.jpg)
 
 **Secondly**, being able to freely engage in the debates, discussions and ideas taking place at all different levels inside the investee company. Breaking free of the traditional constraints of functional silos, management hierarchy and meeting cycles. Here is one of many on [Elon Mask tackling the problem of silos and hierarchy](https://www.google.com/url?q=https://www.cnbc.com/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html&sa=D&ust=1582348134617000&usg=AFQjCNHwrSCHL54e38f2AgYLbAW5cfzL5A "Elon Mask").
 
