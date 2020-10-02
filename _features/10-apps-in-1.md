@@ -1,13 +1,14 @@
 ---
-title: strategy execution via 10 apps in 1 seamless user experience
+title: strategy execution in one seamless digital workspace
 hero_image: "/uploads/02-1.png"
-seo_title: strategy execution via 10 apps in 1 seamless user experience
-seo_description: Strategy execution via 10 apps in 1 seamless user experience. Companies
-  don't want to send employees to 10+ different apps in order to do do their jobs.
+seo_title: strategy execution in one seamless digital workspace
+seo_description: Strategy execution in one seamless digital workspace. Companies don't
+  want to send employees to 10+ different apps in order to do do their jobs.
 date: 2019-06-26T08:00:00.000+00:00
 feature_image: ''
-slug: strategy execution via 10 apps in 1 seamless user experience
+slug: strategy execution in one seamless digital workspace
 layout: feature
+alt_text: ''
 
 ---
 Up until about 2010, there was an enthusiastic rush to add as many consumer apps to your smartphone as possible. At almost every pub or restaurant gathering you’d hear someone say: “_So, what cool new apps have you discovered this week?_”
