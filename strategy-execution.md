@@ -63,16 +63,18 @@ menu:
 
 For everyone to understand and collaborate on strategy execution, best practice is to articulate your strategy as a cascading tree.
 
-You can do this easily on the "our plan" page in #stratapp as: goals > objectives > actions > projects.
+You can do this easily on the "our plan" page in #stratapp.
 
 This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "tips for strategy execution comms"){:target="_blank"} explains two tips for communicating strategy:
 
 * 3 to 6 rule - for each level in the strategy tree hierarchy
 * verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
 
-\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals). That is, #stratapp adapts to your unique org design and preferred ways of working.  You don't have to adjust your business to suit the software.
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals). That is, #stratapp adapts to your unique org design and preferred ways of working.  
 
-\#stratapp is has been designed from the outset as a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on KPIs, workboards, risks, meetings, tasks, files and links.  The user experience is easy and context relevant.
+You don't have to adjust your business to suit the software.
+
+\#stratapp is has been designed from the outset as a genuine strategy execution app.  At any level in the strategy tree hierarchy you can invite people to collaborate on OKRs, workboards, risks, meetings, tasks, files and links.  The user experience is easy and context relevant.
 
 Most importantly, your social collaboration on strategy execution has both [structure and context.](https://stratappsaas.com/blog/atlassian-stride-social-with-structure/ "Atlassian thought of it, stratapp did it"){:target="_blank"}  For example, in seconds you can jump to "_any questions or decisions made on strategic goals in the last 72 hours_" or refine that further to those that "_mention me_".
 
@@ -111,7 +113,7 @@ Hardly a week goes by without a management article or high profile blog post tal
 
 ## **cascading OKRs for strategy execution**
 
-Success requires us to balance strategy execution with daily work.
+Success on strategy executions requires us to balance strategy execution with daily work. #stratapp solves this balance in one seamless digital workspace.
 
 OKRs, brought to fame by John Doerr and the founders of Google, are brilliant for driving strategy execution.
 
@@ -119,7 +121,7 @@ OKRs, brought to fame by John Doerr and the founders of Google, are brilliant fo
 
 In #stratapp, OKRs become a natural part of each day, because they are part of the same digital workspace. You don’t have to open another single-use-app to update them.
 
-You can cascade the OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  OKRs drive execution.  
+You can cascade the OKR hierarchy, separate to the strategy tree hierarchy.  As beautifully articulated by [Richard Rumelt in Good Strategy Bad Strategy](https://stratappsaas.com/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy"){:target="_blank"}, setting targets is not a strategy.  The strategy tree reflects your strategy.  OKRs drive execution.
 
 OKRs will be part of #stratapp's November 2020 release.
 
@@ -195,7 +197,7 @@ love work.  love life.
 
 be effective.  anywhere.  anytime.
 
-everything you need, in your pocket  
+everything you need, in your pocket
 
 stratappsaas.com
 
