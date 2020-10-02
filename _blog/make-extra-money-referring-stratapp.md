@@ -32,26 +32,6 @@ That's not many, when you think about how many people you know.
 
 We have one referrer in Virginia USA who, in the last month, has introduced 14x potential clients ranging from 20 to 60,000 employees, and totalling over 500,000 employees.
 
-## how can I refer #stratapp?
-
-By reaching out to your network.  For example, with a note like this:
-
-***
-
-_Hi {name} - have you come across_ [_stratapp_](https://stratapp.ai "stratapp")_, thought I’d share it with you?_
-
-_#stratapp is the world’s first strategy execution SaaS app to create a **connected workspace**, so organizations can achieve genuine engagement, alignment,_ [_remote working_](https://stratapp.ai/blog/working-remotely/ "remote working") _and fast scaling within days._
-
-_With #stratapp, teams can **seamlessly execute both strategic and day to day work in one place**._
-
-_Imagine_ _strategy, heatmap,_ _KPIs/OKRs, planning, initiatives,_ _projects, tasks,_ _risks,_ _ideation,_ _live org chart,_ _live meetings notes_ _and_ [_next-gen_](https://stratapp.ai/blog/radical-transparency/ "next gen and radical transparency") _social collaboration (with context,_ _structure,_ _org-design_ _and powerful filtering by role, time, context and post type) in one seamless experience._ _10 apps in 1, for about half the price of 1._
-
-_#stratapp is built on the secure and scalable Microsoft Service Fabric platform, hosted on Microsoft Azure and connects to #slack and Microsoft Teams._
-
-_I know the team behind it, so if you’d like a personal intro, hit me up and I’ll introduce you._
-
-***
-
 ## who are the ideal clients?
 
 \#stratapp is sector, geography, culture and size agnostic.
