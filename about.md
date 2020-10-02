@@ -15,7 +15,7 @@ intro_text: |-
 
   Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage one of our coaching partners.
 
-  Roll out in 4 easy phases, explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
+  Roll out in 4 easy phases, explained [here](https://bit.ly/stratapp-explore-trial-rollout-evolve "how to implement").
 
   Your time-to-value on #stratapp is days - not weeks or months.
 intro_image: "/uploads/collaboration.jpg"
