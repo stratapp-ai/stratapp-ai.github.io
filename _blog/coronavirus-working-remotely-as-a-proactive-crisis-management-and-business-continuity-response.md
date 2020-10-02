@@ -47,8 +47,8 @@ Context is the key to making remote working effective and sustainable.
   * How to win?
   * What capabilities do we need?
   * What management systems do we need?
-* What is our plan to get there? \[[cascading our strategy as a logical hierarchy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "strategy tree - 2 tips")\]
-  * Goals -> Objectives -> Actions -> Projects
+* What is our plan to get there?
+  * Goals -> Sub-Goals -> Actions -> Sub-Actions
 
 **note:** each of these _strategic contexts_ are easy features inside #stratapp
 
@@ -73,7 +73,7 @@ How many meetings and calls do you do each day?  Multiply that across one month.
 
 Imagine if all participants were on the same (digital) page - live editing together, sharing ideas within structured social, adding files and links, and capturing actions.  Then in one click seeing all actions, from all meetings and calls, neatly displayed on your workspace, in a way you can easily trace back to their individual sources and context.
 
-See video: [https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/](https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/ "https://stratapp.ai/blog/live-meeting-notes-plus-capture-tasks-across-all-of-your-meetings/")
+[https://stratappsaas.com/blog/the-anonymous-gavel/](https://stratappsaas.com/blog/the-anonymous-gavel/ "https://stratappsaas.com/blog/the-anonymous-gavel/")
 
 ## working remotely: social with structure
 
