@@ -107,7 +107,3 @@ Quick reads:
 [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency")
 
 [Atlassian adding structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure")
-
-[why work collaboration is a blindspot for senior execs](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "senior execs blindspot")
-
-[why #stratapp is 10-apps-in-1](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "10-apps-in-1")
