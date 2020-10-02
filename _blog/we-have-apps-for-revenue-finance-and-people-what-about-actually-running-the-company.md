@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2020-07-27 01:56:58 +0000
+date: 2020-07-27T01:56:58.000+00:00
 layout: blog
 title: we have apps for revenue, finance and people - what about running the company?
 sub_heading: Running a company as a business owner or CEO is tough going, it's not
@@ -66,7 +66,7 @@ A beautiful thing about #stratapp is how the user experience is consistent as yo
 
 The same consistency applies to all features inside #stratapp:
 
-* KPIs/OKRs
+* OKRs
 * ideas
 * challenges
 * risks
@@ -84,7 +84,7 @@ Imagine the power of 5, 10, 50, 500 or 50,000 employees aligned on the same prio
 
 \#stratapp allows you, and everyone around you, to focus on what really matters:
 
-![](/uploads/connect.JPG)
+![](/uploads/alignment-jpg.jpg)
 
 ### end result
 
