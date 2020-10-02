@@ -80,8 +80,6 @@ For the risks, ideas and challenges I currently own, what is the status of tasks
 _Example #3  
 Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
-![](/uploads/filters.PNG)
-
 ### Zone Time
 
 Let’s not forget that other Atlassian innovation in Stride regards the user’s profile status (described as “zone time” in the opening paragraphs above).
@@ -92,7 +90,7 @@ Let’s not forget that other Atlassian innovation in Stride regards the user’
 
 ## Whiteboard Video
 
-Here’s me on a whiteboard explaining [how and why we applied structure to social](https://stratapp.ai/blog/social-apps-with-structure-reduce-noise/ "social with structure").
+Here’s me on a whiteboard explaining [how and why we applied structure to social](https://youtu.be/zcbhwHhtbMw "social with structure").
 
 Startup tech founders don’t tend to do this, but you’ll see in that video, just like in this article, I give full credit to the original thinking and innovation from the talented folks at Atlassian.
 
