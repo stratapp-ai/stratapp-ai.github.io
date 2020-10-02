@@ -51,8 +51,8 @@ Context is the key to making remote working effective and sustainable.
   * How to win?
   * What capabilities do we need?
   * What management systems do we need?
-* What is our plan to get there? \[[cascading our strategy as a logical hierarchy](https://stratapp.ai/blog/strategic-planning-software-with-a-strategy-tree-hierarchy/ "strategy tree - 2 tips")\]
-  * Goals -> Objectives -> Actions -> Projects
+* What is our plan to get there?
+  * Goals -> Sub-Goals-> Actions -> Sub-Actions
 
 **note:** each of these _strategic contexts_ are easy features inside #stratapp
 
