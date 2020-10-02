@@ -41,7 +41,7 @@ seo_description: 'Strategy execution rarely meets expectations, often due to a s
   disconnect between leaders and teams. #stratapp helps make strategy execution successful,
   within days.'
 footer_cta: |-
-  ### we'd love to show you #stratapp
+  ### we'd love to show you
 
   <a class="bookademo-btn btn btn-danger text-white rounded-pill">book a demo</a>
 footer_image_background: "/uploads/bottom-banner-bg.png"
