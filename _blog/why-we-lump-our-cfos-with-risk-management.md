@@ -62,9 +62,7 @@ Most of us can quickly rattle off the 10 common components of risk management:
 
 These are the exact same 10 components that make up the risk cards that sit inside #stratapp. And all the other things you need in relation to each risk (meeting notes, tasks, workboards, social collaboration, related items, files and links) are easily accessible in one place, right there on each risk card.
 
-To learn more about the risk management piece, watch: [https://stratapp.ai/blog/risk-management/](https://stratapp.ai/blog/risk-management/ "https://stratapp.ai/blog/risk-management/")
-
-![](/uploads/risk matrix.png) 
+![](/uploads/risk matrix.png)
 ... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.
 
 Imagine filtering and tracking risks globally or locally by unlimited combinations of geography, levels, functions, verticals and horizontals.
@@ -78,8 +76,6 @@ CEOs and business owners don’t want to send employees to 10+ different apps to
 \#stratapp is 10-apps-in-1, and this includes risk management:
 
 ![](/uploads/10 apps in 1 - with title.png)
-
-To learn more watch: [https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/")
 
 ### **The Monkey**
 
