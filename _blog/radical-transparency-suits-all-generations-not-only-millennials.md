@@ -102,8 +102,10 @@ A seamless org-wide experience also means:
 
 #### #stratapp
 
-This future state tech has arrived. It’s called [#stratapp](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "10 apps in 1").
+This future state tech has arrived. It’s called #stratapp.
 
 \#stratapp frees you to deliver on everything described above.
 
 With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant strategic context of why the organization exists and what it is trying to achieve.
+
+[https://stratappsaas.com/strategy-execution/](https://stratappsaas.com/strategy-execution/  "https://stratappsaas.com/strategy-execution/")
