@@ -41,9 +41,9 @@ When I look back now I think:
 
 **Firstly**, being able to see, in real time, the exact status and underlying cadence on:
 
-* strategy execution across goals->objectives->actions->projects
+* strategy tree, providing clarity for everyone
 * decisions/approvals
-* KPIs/OKRs
+* OKRs, balancing strategy and daily execution
 * risks/mitigations/assumptions
 * projects/tasks
 * challenges/ideas
@@ -95,7 +95,7 @@ Use #stratapp inside each investee company to:
 
 The author, Ash Richardson, is ex-Accenture and went onto become managing partner of Europe’s leading digital media firm, Oyster Partners (now [https://www.digitas.com](https://www.digitas.com "https://www.digitas.com")), before lead roles in corporate finance and early-stage tech VC, coached by two of the best, Bruce Scott and Bob Christiansen.
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program and will be inviting Microsoft to invest on their Series A round in 2020.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. 
 
 \#stratapp has experienced co-founders, with a 10 year vision backed by investors who are market leaders.
 
@@ -108,7 +108,3 @@ Quick reads:
 [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency")
 
 [Atlassian adding structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "Atlassian adding structure to social")
-
-[why work collaboration is a blindspot for senior execs](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "work collaboration blindspot")
-
-[why #stratapp is 10-apps-in-1](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "why #stratapp is 10 apps in 1")
