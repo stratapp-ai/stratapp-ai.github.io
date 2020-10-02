@@ -70,7 +70,7 @@ This [video](https://stratappsaas.com/blog/strategic-planning-software-with-a-st
 * 3 to 6 rule - for each level in the strategy tree hierarchy
 * verb noun rule - for example "develop our ...", "improve our ...", "solve how to ..."
 
-\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals). That is, #stratapp adapts to your unique org design and preferred ways of working.  
+\#stratapp offers unparalleled flexibility. You can create strategy trees for unlimited combinations of org design (geography, functions, verticals and horizontals). That is, #stratapp adapts to your unique org design and preferred ways of working.
 
 You don't have to adjust your business to suit the software.
 
