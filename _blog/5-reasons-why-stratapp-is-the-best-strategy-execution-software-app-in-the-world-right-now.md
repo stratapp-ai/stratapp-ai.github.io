@@ -25,7 +25,9 @@ At #stratapp, we started to think about **how to engage 100% of employees**, rat
 
 Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development.
 
-The challenge is strategy execution. To put it bluntly, strategy execution rarely meets expectations, as brilliantly articulated by Richard Rumelt in [Good Strategy Bad Strategy](https://stratapp.ai/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy").
+The challenge is strategy execution. 
+
+To put it bluntly, strategy execution rarely meets expectations, as brilliantly articulated by Richard Rumelt in [Good Strategy Bad Strategy](https://stratapp.ai/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy").
 
 Here’s how #stratapp helps make strategy execution consistently exceed expectations:
 
@@ -35,12 +37,14 @@ Here’s how #stratapp helps make strategy execution consistently exceed expecta
 4. **Daily** - adding value to every employee daily, supporting them on both daily and strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
 5. **Radical** - helping business owners and CEOs actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
 
-To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
+Strategy execution starts with leadership.  Here is a quick video on #stratapp and [The Leadership Cycle](https://www.youtube.com/watch?v=DqsXkZs75Lk "The Leadership Cycle").
 
 We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.
 
 You might also like to read [why we've added structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure").
 
 If you are a CEO, business owner or CxO, you will probably enjoy "[what's really going on in my company?](https://stratapp.ai/blog/what-is-really-going-on-in-my-company/ "what's really going on in my company?")"
+
+If you are a CFO, then check out [why we lump our CFOs with risk management](https://stratappsaas.com/blog/why-we-lump-our-cfos-with-risk-management/ "why we lump our CFOs with risk management").
 
 Thank you for reading (and hopefully sharing).
