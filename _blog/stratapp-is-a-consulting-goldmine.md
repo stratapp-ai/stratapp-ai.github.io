@@ -5,8 +5,7 @@ category:
 date: 2019-09-11T05:20:58.000+00:00
 layout: blog
 title: "#stratapp is a consulting goldmine"
-sub_heading: 'The big opportunity is onselling, as #stratapp provides more insights
-  than any other tech. Clients remain in full control, ensuring a win:win!'
+sub_heading: "#stratapp creates a win:win:win for clients, consultants and #stratapp"
 video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
 slug: consulting gold mine
@@ -18,8 +17,6 @@ feature_image: "/uploads/consulting goldmine.jpg"
 alt_text: strategy execution consulting
 
 ---
-**#stratapp is a consulting goldmine!**
-
 # why?
 
 If you know what's going on, at all levels in the client's organization, you can add more value.  Not only that, the client's CEO and leadership team have a tangible context for considering your ideas and proposals.
@@ -33,7 +30,7 @@ Consulting sales today are highly dependent on a few key relationships.  By inve
 * Consultants get (partly) blamed for subsequent poor execution
 * Onselling additional work takes a lot of time and effort, and some luck
 
-## consulting sales future
+## consulting sales in future
 
 \#stratapp changes the game on how consulting work gets identified, scoped, sold and delivered.
 
@@ -50,8 +47,8 @@ Of course, what the consultant can see and edit inside #stratapp is controlled b
 
 Imagine if you could see, in just a few seconds, the exact status and underlying cadence of the client's:
 
-* strategy execution across goals->objectives->actions->projects
-* KPIs/OKRs - including the performance as these are cascaded
+* strategy execution across goals -> sub-goals ->actions -> projects
+* OKRs - balancing strategy execution with daily work | live dashboards
 * risks/mitigations/assumptions
 * projects/tasks
 * challenges/ideas
@@ -96,7 +93,7 @@ Ash has a deep understanding of the consulting life cycle, and the value of onse
 
 ![](/uploads/consulting landscape.jpg)
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup and cosell programs.
 
 \#stratapp has experienced co-founders, with a 10 year vision backed by investors who are market leaders.
 
