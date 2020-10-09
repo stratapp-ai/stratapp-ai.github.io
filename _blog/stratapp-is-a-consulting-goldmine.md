@@ -10,9 +10,9 @@ video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
 slug: consulting gold mine
 seo_title: "#stratapp is a consulting goldmine"
-seo_description: "#stratapp is a consulting goldmine. Consultants open up a whole
-  new world. The big opportunity is onselling, as #stratapp provides more insights
-  than any other tech. Clients remain in full control, ensuring a win:win!"
+seo_description: "#stratapp creates a win:win:win for clients, consultants and #stratapp.
+  #stratapp is a consulting goldmine. The big opportunity is onselling, as #stratapp
+  provides more client insights than any other tech."
 feature_image: "/uploads/consulting goldmine.jpg"
 alt_text: strategy execution consulting
 
