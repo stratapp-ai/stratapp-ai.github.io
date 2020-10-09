@@ -47,7 +47,7 @@ Of course, what the consultant can see and edit inside #stratapp is controlled b
 
 Imagine if you could see, in just a few seconds, the exact status and underlying cadence of the client's:
 
-* strategy execution across goals -> sub-goals ->actions -> projects
+* strategy execution across: goals -> sub-goals -> actions -> projects
 * OKRs - balancing strategy execution with daily work | live dashboards
 * risks/mitigations/assumptions
 * projects/tasks
