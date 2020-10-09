@@ -77,5 +77,6 @@ stratapp_features:
     * execute strategy and daily work above expectations
   icon: "/uploads/icon-cog-belt.svg"
 slug: ''
+youtube_id: DqsXkZs75Lk
 
 ---
