@@ -4,7 +4,7 @@ category:
 - "#articles"
 date: 2019-09-11T05:20:58.000+00:00
 layout: blog
-title: "#stratapp is a consulting goldmine"
+title: a consulting goldmine
 sub_heading: "#stratapp creates a win:win:win for clients, consultants and #stratapp"
 video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
