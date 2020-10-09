@@ -34,14 +34,14 @@ Consulting sales today are highly dependent on a few key relationships.  By inve
 
 \#stratapp changes the game on how consulting work gets identified, scoped, sold and delivered.
 
-How?  #stratapp provides more data and insights than any other tech.
+How?  #stratapp provides more client insights than any other tech.
 
 * See everything objectively, at all levels in real time
 * Deliver work in a way that is alive and interactive
 * Derisk your work, by proactively assisting on blockers
 * Onsell with real data, genuine insights and aligned interests
 
-Of course, what the consultant can see and edit inside #stratapp is controlled by the client.
+Of course, what the consultant can see and edit inside #stratapp is controlled by the client, ensuring a win:win:win relationship.
 
 ### more insights than any other tech
 
