@@ -73,7 +73,7 @@ One-off project management software doesn't help either.  It is expensive, compl
 
 Sustaining strategy execution, business transformation and culture elevation requires a fresh new approach and genuine org-wide engagement.
 
-Consultants and clients need collaboration tech that is:
+With #stratapp, consultants instantly create a digital workspace to collaborate and execute live, together with their clients.  A digital workspace that is:
 
 * **agile** - alive and interactive, evolving as the execution provides more insights
 * **inclusive** - a user experience and price price that achieves org-wide engagement
