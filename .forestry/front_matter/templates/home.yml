@@ -25,7 +25,7 @@ fields:
 - name: hero_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Hero Image
 - name: intro_text
   type: textarea
@@ -60,7 +60,7 @@ fields:
   - name: icon
     type: file
     config:
-      maxSize: 250
+      maxSize: 64
     label: Icon
   - name: title
     type: text
@@ -108,5 +108,10 @@ fields:
     max: 
     labelField: 
   label: Stratapp Features
+- name: youtube_id
+  type: text
+  config:
+    required: false
+  label: Youtube ID
 pages:
 - index.md
