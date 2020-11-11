@@ -4,7 +4,7 @@ seo_title: "#stratapp referrers & partners"
 seo_description: we have a generous referral model for end users, clients, referral
   partners and consulting partners
 feature_image: ''
-slug: referrers-partners
+slug: ''
 page_sections: []
 
 ---
