@@ -12,7 +12,7 @@ page_sections: []
 
 Last Updated: November 12, 2020
 
-This Agreement applies to any individual or entity who collaborates with us as a referrer or business partner - including end users of #stratapp who refer clients to us.
+This Agreement applies to any individual or entity who collaborates with us as a referrer or business partner, including end users of #stratapp who refer clients to us.
 
 ## Interpretation and Definitions
 
