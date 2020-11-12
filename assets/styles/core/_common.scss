@@ -189,7 +189,21 @@ h1 {
 
 
 .connects-section-front {
+	.logo {
+		max-height: 65px;
+		width: auto !important;
+
+		&.logo-slack {
+			height: 48px;
+		}
+		&.logo-onedrive {
+			height:  45px;
+		}
+	}
 	@include media-breakpoint-down(md) {
+		.d-flex {
+			flex-wrap: wrap !important;
+		}
 		img {
 			max-height: 65px;
 			width: auto !important;
