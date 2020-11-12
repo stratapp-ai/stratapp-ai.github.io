@@ -151,7 +151,7 @@ Separate to the org structure and hierarchy, communication should be free flowin
 
 Hopefully your organization will take this step change opportunity to eliminate 95% of internal email.
 
-But **_social with structure_** is only half the story.  We also have **_social with context_**, and that context can either be the strategy tree hierarchy, or the KPIs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be all of those applied to day to day work.
+But **_social with structure_** is only half the story.  We also have **_social with context_**, and that context can either be the strategy tree hierarchy, or the OKRs, workboards, tasks, risks, ideas or challenges hanging off it, or it could be all of those applied to day to day work.
 
 By design, #stratapp has solved 3 things at once:
 
