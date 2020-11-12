@@ -28,7 +28,7 @@ For the purposes of this Agreement:
 
 **Business Partner** is a person or entity confirmed in writing by us that we recognize them as a Business Partner of the Company. The status of Business Partner is subject to the terms of this Agreement, most notably the requirement to maintain an “Active” status.
 
-**Client** means a person or entity using the #stratapp SaaS application offered by us.
+**Client** means a person or entity using the #stratapp SaaS application offered by the Company.
 
 **Client Revenue** means the SaaS fees paid to us by a Client, less local taxes and any third party fees associated with subscription billing and payment gateways.
 
@@ -58,7 +58,7 @@ For the purposes of this Agreement:
 
 **Registered Prospect** means a potential Client that has been registered with us by a Referrer, in accordance with our Registration Process.
 
-**#stratapp** means either the Company or the SaaS application offered by the Company.
+**#stratapp** means, depending on the context, either the Company or the SaaS application offered by the Company.
 
 **Threshold** is defined in this Agreement.
 
