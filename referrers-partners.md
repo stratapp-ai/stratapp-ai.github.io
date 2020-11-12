@@ -70,7 +70,7 @@ To register a potential Client, the Referrer must email the following details to
 
 * Client’s company name*
 * Client’s website URL*
-* Client contact’s firstname and lastname*
+* Client contact’s first name and last name*
 * Client contact’s email
 * Date the Client has expressed an interest to learn more about or to use #stratapp*
 * Client contact’s LinkedIn profile URL (if known)
@@ -108,7 +108,7 @@ Payment of Referral Fees will be made quarterly by the Company to the Referrer, 
 
 Payments will be made to the Referrer’s nominated entity using the Payment Method.
 
-Payment is subject to the Company having sufficient free cashflow (excluding capital reserves and capital raising), as determined by the directors of the Company each quarter.
+Payment is subject to the Company having sufficient free cashflow (with the calculation excluding capital reserves and capital raising), as determined by the directors of the Company each quarter.
 
 Unpaid Referral Fees will accrue at 10% per annum interest in favour of the Referrer, compounding annually, as an unsecured liability until paid by the Company.
 
