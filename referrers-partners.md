@@ -10,7 +10,7 @@ page_sections: []
 ---
 **Agreement for Referrers & Partners**
 
-Last Updated: November 11, 2020
+Last Updated: November 12, 2020
 
 This Agreement applies to any individual or entity who collaborates with us as a referrer or business partner - including end users of #stratapp who refer clients to us.
 
@@ -18,7 +18,7 @@ This Agreement applies to any individual or entity who collaborates with us as a
 
 ### **Interpretation**
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+The words of which the initial letter is capitalized have a defined meaning. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
 ### **Definitions**
 
@@ -190,7 +190,7 @@ Termination by the Company does not remove the obligation on the Company to pay 
 
 ### **Relationship**
 
-If you are a Referrer or Business Partner under this Agreement you agree you are not:
+If you are a Referrer or Business Partner under this Agreement you agree you are not, and will not represent yourself to others as:
 
 * an agent, authorized representative, distributor, contractor or employee of the Company; or
 * in a joint venture or partnership structure with the Company
@@ -203,7 +203,7 @@ You will indemnify and hold us harmless, at your expense, against any third part
 
 ### **Disclaimers & Limitations of Liability**
 
-Use of the #stratapp product by you, or any Referrer or Client referred to us by you, is subject to the Terms displayed on the Company’s website.
+Use of the #stratapp product by you, or any Referrer or Client referred to us by you, is subject to the [terms](https://stratappsaas.com/terms/ "#stratapp terms of use") displayed on the Company’s website.
 
 ### **Confidential Information**
 
