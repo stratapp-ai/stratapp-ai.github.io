@@ -6,19 +6,17 @@ title: employee engagement without business performance is a fail; business perf
 seo_title: Gallup's Q12 Index on measuring employee engagement
 seo_description: 'Gallup''s Q12 Index on measuring employee engagement is useful for
   evaluating the success of your #stratapp rollout.'
-author: Anthony Moorhouse
+author: Ash Richardson
 banner_image: "/uploads/Catalan human tower.jpg"
 slug: gallup q12 index on measuring employee engagement
 alt_text: Gallup Q12 Index on measuring employee engagement
 
 ---
-## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
+## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp
 
-Ant Moorhouse is the founder of Coherent, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
+The Gallup Q12 Index is derived from 30 years of in-depth behavioural and economic research involving 17 million employees. 
 
-Coherent Strategy apply the Gallup Q12 Index to measure employee engagement over time.
-
-The Gallup Q12 Index is derived from 30 years of in-depth behavioural and economic research involving 17 million employees. Gallup has identified 12 core questions - the Q12 - that have emerged to best predict employee and business performance:
+Gallup has identified 12 core questions - the Q12 - that have emerged to best predict employee and business performance:
 
 Do you know what is expected of you at work?
 
