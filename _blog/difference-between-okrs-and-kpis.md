@@ -41,4 +41,4 @@ OKR stands for objectives and key results.
 
 The OKR methodology was created Intel's founder, Andy Grove, and since brought to fame by [John Doer](https://stratappsaas.com/measure-what-matters-by-john-doerr/ "John Doer") and the founders of Google.
 
- are brilliant for driving strategy execution each week, month and quarter.
+OKRs are brilliant for driving strategy execution each week, month and quarter.
