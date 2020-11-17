@@ -20,6 +20,8 @@ published: false
 
 KPI stands for Key Performance Indicator.
 
+The term KPI was xxxxx.
+
 Common examples of KPIs are:
 
 * Revenue
@@ -31,10 +33,12 @@ Common examples of KPIs are:
 * Current asset ratio
 * Debt to equity ratio
 
-KPIs are often applied reported on a balanced scorecard.
+KPIs are often reported on a [balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard "Balanced Scorecard").
 
 ## What is an OKR?
 
 OKR stands for objectives and key results.
 
-OKRs are brilliant for driving strategy execution each week, month and quarter.
+The OKR methodology was created Intel's founder, Andy Grove, and since brought to fame by [John Doer](https://stratappsaas.com/measure-what-matters-by-john-doerr/ "John Doer") and the founders of Google.
+
+ are brilliant for driving strategy execution each week, month and quarter.
