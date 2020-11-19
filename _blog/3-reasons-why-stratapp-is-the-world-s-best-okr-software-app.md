@@ -25,7 +25,7 @@ There are 3 reasons why #stratapp is the world's best OKR software application:
 
 1. OKRs are driven off the interactive strategy tree
 2. OKR execution takes place in the same digital workspace
-3. Your teams can balance their time between strategy execution and daily work, in that same digital workspace
+3. Your teams can balance their time between strategy execution and daily work - this is the secret to succeeding or failing on OKRs
 
 ## interactive strategy tree for OKRs
 
