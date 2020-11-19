@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-19 06:08:00 +0000
+date: 2020-11-19 14:00:00 +0000
 layout: blog
 title: '3 reasons #stratapp is the world''s best OKR software app right now'
 sub_heading: why do OKR implementations fail and which is the best OKR software app?
@@ -64,7 +64,8 @@ Having everything you need to execute OKRs in one digital workspace provides two
 
 ![](/uploads/balancing-strategy-and-daily-execution.PNG)
 
-Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said: “Ideas are cheap, execution is everything!”.
+Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said:  
+     “_Ideas are cheap, execution is everything!_”.
 
 ### OKR design thesis for #stratapp
 
@@ -76,9 +77,9 @@ Along the way we happen to save you 17 to 35 times on per user SaaS fees, and th
 
 Our thesis is simple: _strategy execution wins on employee engagement._
 
-_#stratapp makes it easy for you to align everyone in a way they feel empowered and part of the journey._
+\#stratapp makes it easy for you to align everyone in a way they feel empowered and part of the journey.
 
-_Everyone can see how what they are working on contributes to the overall goal._
+Everyone can see how what they are working on contributes to the overall goals.
 
 _No chaos. No confusion. No excuses._
 
