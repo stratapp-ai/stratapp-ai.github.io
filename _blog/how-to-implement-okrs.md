@@ -5,7 +5,7 @@ category:
 date: 2020-11-16 22:02:00 +0000
 layout: blog
 title: how to implement OKRs
-sub_heading: pause to think, before rushing to rollout OKRs
+sub_heading: pause to think, before racing to rollout OKRs
 video_id: ''
 banner_image: ''
 alt_text: ''
