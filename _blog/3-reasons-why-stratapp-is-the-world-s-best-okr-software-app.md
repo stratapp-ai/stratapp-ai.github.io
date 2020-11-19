@@ -37,10 +37,10 @@ There are 3 reasons why #stratapp is the world's best OKR software application:
 
 Creating a strategy tree is the easiest way to engage employees on going from vision and direction, to strategy execution. Best practice is to take a 1 to 3 year time horizon for the strategy tree, to write them in a “verb noun” format and to strive for 3 to 6 branches at each level of the tree.
 
-There is simplicity and structure but no fixed rules in #stratapp, so you can run #stratapp in a way that suits your business, making your time-to-value days rather than months or quarters. Once you create your strategy tree, you can:
+There is simplicity and structure but no fixed rules in #stratapp, so you can run #stratapp in a way that suits your business.  This makes your time-to-value days, rather than months or quarters. Once you create your strategy tree, you can:
 
 * Start executing at any point in the tree; or
-* Hang OKRs off any point in the tree; or
+* Hang OKRs at any point in the tree; or
 * Do a mix of both
 
 The beauty of hanging OKRs off your strategy tree, is that your teams then have an overall context for the OKR. Everyone can see the answer to the one burning question that arises during those tough moments on strategy execution: “Remind me again, why are we doing this?”
