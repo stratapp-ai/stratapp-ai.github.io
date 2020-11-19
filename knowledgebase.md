@@ -1,5 +1,0 @@
----
-title: knowledgebase
-layout: kb
-
----
