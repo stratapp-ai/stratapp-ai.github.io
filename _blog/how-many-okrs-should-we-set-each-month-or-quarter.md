@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-19 10:44:00 +0000
+date: 2020-11-18 10:44:00 +0000
 layout: blog
 title: how many OKRs should we set each month or quarter?
 sub_heading: OKRs are about focus and execution - less is more
@@ -31,7 +31,7 @@ OKRs are about focusing your resources on objectives that are ambitious and insp
 
 Rather than running 10 or 20 projects concurrently, the OKR philosophy is to channel your valuable time, energy, creativity, intellect and hard work into just 1 or 2 things that really matter. Doing this aligns everybody and it should create a massive positive impact.
 
-To fuel a thriving culture of creativity, risk taking and open collaboration, best practice is to completely decouple OKRs from employee remuneration (which we talk about [here](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs | decoupling remuneration")).
+To fuel a thriving culture of creativity, risk taking and open collaboration, best practice is to completely decouple OKRs from employee remuneration (which we talk about [here](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "decoupling OKRs from remuneration")).
 
 ## how many key results per OKR?
 
