@@ -19,7 +19,7 @@ feature_image: "/uploads/strategy-okrs-execution.jpg"
 ---
 ## how many OKR objectives?
 
-On this topic we like the real world explanation [in this video](https://youtu.be/xaH2tMQzyjA "Vivino's founder on OKRs") by Vivino’s founder, Heini Zachariassen.
+We admire the real world explanation [in this video](https://youtu.be/xaH2tMQzyjA "Vivino's founder on OKRs") by Vivino’s founder, Heini Zachariassen.
 
 For less than 100 employees, we recommend no more than 1 or 2 OKR objectives per quarter.
 
