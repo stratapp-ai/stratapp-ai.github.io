@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-17 08:25:25 +0000
+date: 2020-11-17 10:25:00 +0000
 layout: blog
 title: difference between OKRs and KPIs
 sub_heading: OKRs vs KPIs - the difference and why it matters
