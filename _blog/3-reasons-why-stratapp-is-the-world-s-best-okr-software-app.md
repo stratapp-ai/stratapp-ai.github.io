@@ -60,7 +60,7 @@ Having everything you need to execute OKRs in one digital workspace provides two
 
 ## balancing time between strategy execution and daily work with OKRs
 
-\#stratapp helps solve this age old problem, which has existed for hundreds of years, well before the concept of OKRs.
+\#stratapp helps solve this age old problem, which existed well before the concept of OKRs.
 
 ![](/uploads/balancing-strategy-and-daily-execution.PNG)
 
@@ -76,7 +76,7 @@ Along the way we happen to save you 17 to 35 times on per user SaaS fees, and th
 
 Our thesis is simple: _strategy execution wins on employee engagement._
 
-_So, #stratapp makes it easy for you to align everyone in a way they feel empowered and part of the journey._
+_#stratapp makes it easy for you to align everyone in a way they feel empowered and part of the journey._
 
 _Everyone can see how what they are working on contributes to the overall goal._
 
