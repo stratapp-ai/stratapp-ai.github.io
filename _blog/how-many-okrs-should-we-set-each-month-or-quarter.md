@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-19 11:00:00 +0000
+date: 2020-11-19 10:44:00 +0000
 layout: blog
 title: how many OKRs should we set each month or quarter?
 sub_heading: OKRs are about focus and execution - less is more
