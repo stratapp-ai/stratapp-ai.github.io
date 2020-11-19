@@ -55,6 +55,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/3-reasons-why-stratapp-is-the-world-s-best-okr-software-app.md
 - _blog/4-views-of-strategy.md
 - _blog/5-reasons-why-stratapp-is-the-best-strategy-execution-software-app-in-the-world-right-now.md
 - _blog/atlassian-thought-of-it-stratapp-s-done-it-social-with-structure.md
