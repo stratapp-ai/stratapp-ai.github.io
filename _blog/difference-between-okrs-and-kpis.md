@@ -17,7 +17,7 @@ seo_description: OKRs vs KPIs, the difference and why it matters is explained in
 feature_image: "/uploads/okrs-vs-kpis.jpg"
 
 ---
-## **What is a KPI?**
+## **what is a KPI?**
 
 KPI is an abbreviation for Key Performance Indicator.
 
@@ -40,7 +40,7 @@ KPIs are often reported on a [balanced scorecard](https://en.wikipedia.org/wiki/
 
 ![](/uploads/balanced-scorecard.jpg)
 
-## **What is an OKR?**
+## **what is an OKR?**
 
 OKR is an abbreviation for objectives and key results.
 
@@ -79,7 +79,7 @@ In this example, let’s say you set the following _key results_ for the _object
 
 Now your team will have a clear focus and common understanding of expectations for the next quarter.
 
-### Lifespan of OKRs vs KPIs
+### lifespan of OKRs vs KPIs
 
 Whilst your KPIs may run for several months or years, OKRs drive strategy execution for the current quarter - aligning the energy, creativity, intellect and hard work of everyone in your organization.
 
