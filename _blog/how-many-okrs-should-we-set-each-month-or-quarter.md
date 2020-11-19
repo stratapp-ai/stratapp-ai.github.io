@@ -25,7 +25,7 @@ For less than 100 employees, we recommend no more than 1 or 2 OKR objectives per
 
 For each grouping of 500 employees above that, we recommend 2 to 4 OKR objectives per quarter.
 
-## why so few?
+## why so few OKRs?
 
 OKRs are about focusing your resources on objectives that are ambitious and inspiring. Objectives that your people and teams can rally behind, in a way that captures their imagination on what might be possible.
 
@@ -33,13 +33,13 @@ Rather than running 10 or 20 projects concurrently, the OKR philosophy is to cha
 
 To fuel a thriving culture of creativity, risk taking and open collaboration, best practice is to completely decouple OKRs from employee remuneration (which we talk about [here](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs | decoupling remuneration")).
 
-## how many key results per objective?
+## how many key results per OKR?
 
 Most OKR objectives can be measured with 2 to 3 key results.
 
 In #stratapp, you can cascade key results below each other. That said, we recommend stopping at two levels of key results below each objective. In most cases, one level will suffice.
 
-## ownership
+## ownership of OKRs
 
 You can assign different owners to objectives and their cascading key results.
 
@@ -49,7 +49,7 @@ In #stratapp, you can add members and guest users to each objective and key resu
 
 \#stratapp powered by org design also means the app can seamlessly scale with clients from 5 to 500,000 employees.
 
-## confidentiality
+## confidentiality on OKRs
 
 Best practice is to run your OKR program transparently, company-wide.
 
@@ -62,7 +62,7 @@ That is, the 4-levels of security inside #stratapp, also apply to OKRs. So the c
 * secret - visible to members only, only the owner can invite members
 * top secret - same as secret, guest users cannot be invited
 
-## progressive rollouts
+## progressive rollouts of OKRs
 
 \#stratapp also allows you to rollout your OKR implementation progressively. For example, you might want to share all or part of the strategy tree, but for the first two quarters keep the OKR rollout limited to the top 3 levels of management - until you get a better feel for the methodology and how best to apply it.
 
