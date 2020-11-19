@@ -19,13 +19,13 @@ feature_image: "/uploads/balancing-strategy-and-daily-execution.PNG"
 ---
 Since 2018 there has been a plethora of single-use-apps for OKRs. The good ones have pretty much the same approach and functionality.
 
-\#stratapp is taking OKRs to a whole new level, because #stratapp _is not_ a single-use-app.
+\#stratapp takes OKRs to a whole new level, because #stratapp _is not_ a single-use-app.
 
-There are 3 reasons why #stratapp is the world's best OKR software application:
+There are 3 reasons why #stratapp is the world's best OKR software application right now:
 
 1. OKRs are driven off the interactive strategy tree
 2. OKR execution takes place in the same digital workspace
-3. Your teams can balance their time between strategy execution and daily work - this is the secret to succeeding or failing on OKRs
+3. Your teams can balance their time between strategy execution and daily work - this is the secret to succeeding (or failing) on OKRs
 
 ## interactive strategy tree for OKRs
 
@@ -47,7 +47,7 @@ The beauty of hanging OKRs off your strategy tree, is that your teams then have 
 
 ## OKRs in one digital workspace
 
-Some single-use-apps for OKR claim to enable OKR execution, but that’s either a myth or an exaggeration. 
+Some single-use-apps for OKR claim to enable OKR execution, but that’s either a myth or an exaggeration.
 
 Everything you ended to drive OKR execution sits inside #stratapp, in one seamless digital workspace, powered by 6 elements of collaboration:
 
@@ -66,7 +66,7 @@ Having everything you need to execute OKRs in one digital workspace provides two
 
 ![](/uploads/balancing-strategy-and-daily-execution.PNG)
 
-Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. 
+Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things.
 
 The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said:  
 “_Ideas are cheap, execution is everything!_”.
