@@ -25,11 +25,27 @@ But first, your leaders need to be aligned on the strategy tree.
 
 ## implementing OKRs - start with the strategy tree
 
+= choosing the world's best software app for OKRs ... has strategy and execution, rather than just solving the OKR piece
+
+![](/uploads/strategy-okrs-execution.jpg)
+
 ## implementing OKRs - go back a step if you need to
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
 ## implementing OKRs - progressive rollouts
+
+10
+
+25
+
+50
+
+100
+
+org-wide
+
+3 weeks in between each
 
 ## implementing OKRs - decouple remuneration from OKRs
 
