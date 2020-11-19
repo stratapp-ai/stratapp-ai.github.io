@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#OKRs"
+- "#okr"
 date: 2020-11-19 08:00:00 +0000
 layout: blog
 title: how many OKRs should we set each month or quarter?
