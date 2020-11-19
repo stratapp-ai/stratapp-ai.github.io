@@ -37,7 +37,7 @@ Here are some common examples of KPIs:
 
 KPIs are often reported on a [balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard "Balanced Scorecard"), to ensure the organization is taking a balanced approach to measuring performance:
 
-![](/uploads/balanced-scorecard.jpg)
+![balanced scorecard 9 quadrants](/uploads/balanced-scorecard.jpg "balanced scorecard")
 
 ## **what is an OKR?**
 
@@ -116,7 +116,7 @@ You want people to dream, be creative and really strive to take the organization
 
 Even if you don’t hit every key result, the collective impact of rallying everyone behind quarterly OKRs will move the organization forward on strategy execution like never before.
 
-### learning from Vivino
+### learning from Vivino on reviewing OKRs
 
 For this reason, in designing the OKR module for #stratapp, we have applied a learning from the founder of Vivino (short video [here](https://youtu.be/xaH2tMQzyjA "Vivino's founder on OKRs")). That is, in #stratapp, when you review your OKRs during and at the end of the OKR period, you can assign a simple ‘smiley face’ outcome for the review:
 
