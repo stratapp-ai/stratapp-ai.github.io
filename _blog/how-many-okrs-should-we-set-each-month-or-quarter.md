@@ -25,7 +25,7 @@ For less than 100 employees, we recommend no more than 1 or 2 OKR objectives per
 
 For each grouping of 500 employees above that, we recommend 2 to 4 OKR objectives per quarter.
 
-## why so few OKRs?
+## why so few OKR objectives?
 
 OKRs are about focusing your resources on objectives that are ambitious and inspiring. Objectives that your people and teams can rally behind, in a way that captures their imagination on what might be possible.
 
