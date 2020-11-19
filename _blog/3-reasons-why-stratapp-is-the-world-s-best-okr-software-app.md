@@ -17,7 +17,9 @@ seo_description: 'Why do OKR implementations fail and which is the best OKR soft
 feature_image: "/uploads/balancing-strategy-and-daily-execution.PNG"
 
 ---
-Since 2018 there has been a plethora of single-use-apps for OKRs. The good ones have pretty much the same functionality, which we've innovated further in #stratapp.
+Since 2018 there has been a plethora of single-use-apps for OKRs. The good ones have pretty much the same approach and functionality.
+
+\#stratapp is taking OKRs to a whole new level, because #stratapp _is not_ a single-use-app.
 
 There are 3 reasons why #stratapp is the world's best OKR software application:
 
@@ -60,8 +62,8 @@ Having everything you need to execute OKRs in one digital workspace provides two
 
 \#stratapp helps solve this age old problem, which has existed for hundreds of years, well before the concept of OKRs.
 
-![](/uploads/balancing-strategy-and-daily-execution.PNG)  
-  
+![](/uploads/balancing-strategy-and-daily-execution.PNG)
+
 Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said: “Ideas are cheap, execution is everything!”.
 
 ### OKR design thesis for #stratapp
