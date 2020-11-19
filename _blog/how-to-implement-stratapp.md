@@ -4,7 +4,7 @@ category:
 - "#articles"
 date: 2019-09-10T13:01:48.000+00:00
 layout: blog
-title: 'how to implement #stratapp'
+title: 'how to implement #stratapp - OLD VERSION OUT OF DATE'
 sub_heading: Most start with productivity & culture, before advancing to ideation,
   strategy execution and business performance.
 video_id: ''
