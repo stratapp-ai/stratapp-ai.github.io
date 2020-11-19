@@ -4,16 +4,15 @@ category:
 - "#okr"
 date: 2020-11-17 10:25:00 +0000
 layout: blog
-title: difference between OKRs and KPIs
-sub_heading: OKRs vs KPIs - the difference and why it matters
+title: the difference between OKRs vs KPIs + decoupling remuneration
+sub_heading: OKRs vs KPIs, the difference and why it matters for strategy and HR
 video_id: ''
 banner_image: "/uploads/okrs-vs-kpis.jpg"
 alt_text: OKRs vs KPIs the difference
 slug: OKRs vs KPIs
-seo_title: difference between OKRs and KPIs
-seo_description: OKRs vs KPIs, the difference and why it matters is explained in this
-  article. What is an OKR? What is a KPI? Learning about OKRs from the founder of
-  Vivino.
+seo_title: the difference between OKRs vs KPIs + decoupling remuneration
+seo_description: OKRs vs KPIs, the difference and why it matters for strategy and
+  HR. What is an OKR? What is a KPI? Learning about OKRs from the founder of Vivino.
 feature_image: "/uploads/okrs-vs-kpis.jpg"
 
 ---
