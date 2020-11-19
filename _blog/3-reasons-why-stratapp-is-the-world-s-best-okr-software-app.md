@@ -29,7 +29,7 @@ There are 3 reasons why #stratapp is the world's best OKR software application:
 
 ## interactive strategy tree for OKRs
 
-\#stratapp is the world’s first app to bring all five stages of [The Leadership Cycle ](http://bit.ly/stratapp-the-leadership-cycle "The Leadership Cycle")into one digital workspace:
+\#stratapp is the world’s first app to bring all five stages of [The Leadership Cycle](https://bit.ly/stratapp-the-leadership-cycle "The Leadership Cycle") into one digital workspace:
 
 ![](/uploads/the-leadership-cycle.jpg)
 
@@ -47,7 +47,9 @@ The beauty of hanging OKRs off your strategy tree, is that your teams then have 
 
 ## OKRs in one digital workspace
 
-The single-use-apps for OKR claim to support OKR execution, but that’s either a myth or exaggeration. Everything you ended to drive OKR execution sits inside #stratapp, in one seamless digital workspace, including 6 elements of collaboration:
+Some single-use-apps for OKR claim to enable OKR execution, but that’s either a myth or an exaggeration. 
+
+Everything you ended to drive OKR execution sits inside #stratapp, in one seamless digital workspace, powered by 6 elements of collaboration:
 
 ![](/uploads/6-elements-of-collaboration.jpg)
 
@@ -64,12 +66,16 @@ Having everything you need to execute OKRs in one digital workspace provides two
 
 ![](/uploads/balancing-strategy-and-daily-execution.PNG)
 
-Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said:  
-     “_Ideas are cheap, execution is everything!_”.
+Most leaders and motivated employees are great at ideation, planning and coming up with a 1 to 3 year strategy tree. In fact, many studies have shown how leaders of all demographics rate themselves highly on their ability to do those things. 
 
-### OKR design thesis for #stratapp
+The challenge is execution. As Chris Sacca, an investor in Twitter and Uber, famously said:  
+“_Ideas are cheap, execution is everything!_”.
 
-Solving this challenge goes to the heart of the #stratapp thesis. If we can bring everything you need to do on strategy formulation, strategy execution, learning, time management and daily work, into one digital workspace - that has consistent user experience across each of those features - then we will empower each employee to optimize their own balance between working on strategy and getting their day to day work done.
+### solving the challenge of OKR execution
+
+Solving this challenge goes to the heart of the #stratapp thesis.
+
+If we can bring everything you need to do on strategy formulation, strategy execution, learning, time management and daily work, into one digital workspace - that has consistent user experience across each of those features - then we will empower each employee to optimize their own balance between working on strategy and getting their day to day work done.
 
 We achieve this by reducing (or eliminating) integrations, app switching, data silos and misalignment.
 
