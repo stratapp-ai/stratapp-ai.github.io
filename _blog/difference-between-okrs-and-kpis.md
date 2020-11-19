@@ -8,13 +8,13 @@ title: difference between OKRs and KPIs
 sub_heading: OKRs vs KPIs - the difference and why it matters
 video_id: ''
 banner_image: "/uploads/okrs-vs-kpis.jpg"
-alt_text: ''
+alt_text: OKRs vs KPIs the difference
 slug: OKRs vs KPIs
 seo_title: difference between OKRs and KPIs
 seo_description: OKRs vs KPIs, the difference and why it matters is explained in this
   article. What is an OKR? What is a KPI? Learning about OKRs from the founder of
   Vivino.
-feature_image: ''
+feature_image: "/uploads/okrs-vs-kpis.jpg"
 
 ---
 ## **What is a KPI?**
@@ -92,7 +92,7 @@ Strategy execution through OKRs may impact several KPIs of the organization, for
 
 This is why it is acceptable to have manual updating of actuals for OKRs. OKRs usually have a lifetime of one quarter, so automation is less important. In fact, many OKR thought leaders and consultants say that having OKR owners update the progress and actuals on their OKRs each week, is a discipline that positively impacts performance.
 
-Whilst most organizations will only set 1 to 5 OKRs for a quarter (which you can read about here), there are likely to be a hundred or more KPIs that get tracked for several months or years. For this reason we are now seeing some brilliant innovations in BI tools that can pull live KPI data from several different systems, into custom reports with configurable alerts.
+Whilst most organizations will only set 1 to 5 OKRs for a quarter (which you can [read about here](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs")), there are likely to be a hundred or more KPIs that get tracked for several months or years. For this reason we are now seeing some brilliant innovations in BI tools that can pull live KPI data from several different systems, into custom reports with configurable alerts.
 
 ## **OKRs vs KPIs - why does it matter?**
 
