@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-17 10:25:00 +0000
+date: 2020-11-19 10:25:00 +0000
 layout: blog
 title: the difference between OKRs vs KPIs vs remuneration
 sub_heading: OKRs vs KPIs, the difference and why it matters for strategy execution
@@ -45,7 +45,7 @@ KPIs are often reported on a [balanced scorecard](https://en.wikipedia.org/wiki/
 
 OKR is an abbreviation for objectives and key results.
 
-The OKR methodology was created by Intel's founder, Andy Grove, and since brought to fame by [John Doer](https://stratappsaas.com/measure-what-matters-by-john-doerr/ "John Doer | Measure What Matters") and the founders of Google.
+The OKR methodology was created by Intel's founder, Andy Grove, and since brought to fame by [John Doerr]() and the founders of Google.
 
 OKRs are brilliant for strategy execution.
 
@@ -67,11 +67,12 @@ Goal setting is easy. Execution is where the going gets tough and value is creat
 
 With your $20m/month strategic goal in mind, you can now set your objectives for the next quarter. This may take some research, brainstorming and workshops. Let’s say at the conclusion of these planning activities, you agree on one objective to rally behind for the next quarter, to:
 
-_solve how to make our baby pram products “smart-prams” that Australian parents will love_
+     _solve how to make our baby pram products “smart-prams” that Australian parents will love_
 
 Key results measure the outcome of your objective.
 
-Key results provide clarity on how you will evaluate whether or not the _objective_ has been achieved. Google is famous for making their post-quarter reviews of OKRs binary, asking themselves: “_Did we achieve the objective, yes or no?_”
+Key results provide clarity on how you will evaluate whether or not the _objective_ has been achieved. Google is famous for making their post-quarter reviews of OKRs binary, asking themselves:  
+     “_Did we achieve the objective, yes or no?_”
 
 In this example, let’s say you set the following _key results_ for the _objective_:
 
@@ -80,7 +81,7 @@ In this example, let’s say you set the following _key results_ for the _object
 
 Now your team will have a clear focus and common understanding of expectations for the next quarter.
 
-### lifespan of OKRs vs KPIs
+### lifespan and impact of OKRs vs KPIs
 
 Whilst your KPIs may run for several months or years, OKRs drive strategy execution for the current quarter - aligning the energy, creativity, intellect and hard work of everyone in your organization.
 
