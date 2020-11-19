@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#OKRs"
+- "#okr"
 date: 2020-11-19 06:08:00 +0000
 layout: blog
 title: '3 reasons why #stratapp is the world''s best OKR software app'
