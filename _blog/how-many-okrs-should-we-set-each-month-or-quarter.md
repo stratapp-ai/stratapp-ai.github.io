@@ -33,13 +33,15 @@ Rather than running 10 or 20 projects concurrently, the OKR philosophy is to cha
 
 To fuel a thriving culture of creativity, risk taking and open collaboration, best practice is to completely decouple OKRs from employee remuneration (which we talk about [here](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "decoupling OKRs from remuneration")).
 
+Whilst you may have many KPIs, less is more when it comes to OKRs (see also [OKRs vs KPIs](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs")).
+
 ## how many key results per OKR?
 
 Most OKR objectives can be measured with 2 to 3 key results per objective.
 
 In #stratapp, you can cascade key results below each other. 
 
-That said, we recommend stopping at two levels of key results below each objective. In most cases, one level will suffice.
+That said, we recommend stopping at two levels of key results below each objective. In most cases, one level of key results will suffice.
 
 ## ownership of OKRs
 
