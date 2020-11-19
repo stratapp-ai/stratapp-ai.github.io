@@ -12,14 +12,15 @@ banner_image: "/uploads/balancing-strategy-and-daily-execution.PNG"
 alt_text: best OKR software app
 slug: best OKR software app
 seo_title: '3 reasons why #stratapp is the world''s best OKR software app'
-seo_description: why do OKR implementations fail and which is the best OKR software
-  app in the world right now?
+seo_description: 'Why do OKR implementations fail and which is the best OKR software
+  app in the world right now? There are 3 reasons why #stratapp is the world''s best
+  OKR software application.'
 feature_image: "/uploads/balancing-strategy-and-daily-execution.PNG"
 
 ---
 Since 2018 there has been a plethora of single-use-apps for OKRs. The good ones have pretty much the same functionality, which we've innovated further in #stratapp.
 
-There are three reasons why #stratapp is the world's best OKR software application:
+There are 3 reasons why #stratapp is the world's best OKR software application:
 
 1. OKRs are driven off the interactive strategy tree
 2. OKR execution takes place in the same digital workspace
