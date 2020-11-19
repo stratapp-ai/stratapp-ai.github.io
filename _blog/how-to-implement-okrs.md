@@ -10,8 +10,9 @@ video_id: ''
 banner_image: ''
 alt_text: ''
 slug: how to implement OKRs
-seo_title: ''
-seo_description: ''
+seo_title: how to implement OKRs
+seo_description: OKRs have to start with holding the CEO and leadership team accountable.
+  But first, your leaders need to be aligned on the strategy tree.
 feature_image: ''
 published: false
 
@@ -20,7 +21,7 @@ If you hear this from a CEO or CxO role, "Yes, our people are doing OKRs", you m
 
 OKRs have to start with holding the CEO and leadership team accountable.
 
-But first, the leaders need to be aligned on the strategy tree.
+But first, your leaders need to be aligned on the strategy tree.
 
 ## implementing OKRs - start with the strategy tree
 
