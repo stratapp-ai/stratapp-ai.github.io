@@ -17,11 +17,11 @@ feature_image: ''
 published: false
 
 ---
-If you hear this from a CEO or CxO role, "Yes, our people are doing OKRs", you might want to short their stock and bet their OKRs will fail.
+If you hear this from a CEO or CxO role, "Yes, our people are doing OKRs", you might want to short the stock and bet their OKR implementation will fail.
 
-OKRs have to start with holding the CEO and leadership team accountable.
+To be successful, OKRs start with the CEO and leadership team accountable.
 
-But first, your leaders need to be aligned on the strategy tree.
+But first, the leadership team need to be aligned on the strategy tree.
 
 ## implementing OKRs - start with the strategy tree
 
