@@ -14,7 +14,7 @@ seo_title: how many OKRs should we set each month or quarter?
 seo_description: OKRs are about focus and execution, less is more. For less than 100
   employees, we recommend no more than 1 or 2 OKR objectives per quarter. Most OKR
   objectives can be measured with 2 to 3 key results.
-feature_image: ''
+feature_image: "/uploads/strategy-okrs-execution.jpg"
 
 ---
 ## how many OKR objectives?
