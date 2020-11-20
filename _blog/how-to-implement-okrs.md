@@ -96,34 +96,34 @@ In #stratapp, you can turn pages on/off by team or individual - you don't have t
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
-Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top - so that's the focus of steps 1 to 5.
+Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top.  That's the focus of steps 1 to 5.
 
 ### step #5 - starting with the leadership team
 
-With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first OKR period.  Most organizations opt for a quarterly cycle, however early-stage companies may prefer to set their OKRs monthly.
+With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first period.  Most organizations opt for a quarterly OKR cycle, however early-stage companies may prefer to set OKRs monthly.
 
 For your first OKR period, we recommend:
 
-* Starting with no more than 2x OKRs and 2-4 key results per OKR
+* Starting with no more than 2x OKRs and 2-4x key results per OKR
 * Allocating ownership of each objective and key result to different members of the leadership team
-* Adding all of the leadership team as members on each objective and key result card - you won't do this later, but for the first OKR period this is important
+* Adding all of the leadership team as members on each objective and key result card - you won't need to do this later, but for this first OKR period it is important
 * Keeping the security level on each to the lowest level, where you're able to do so
 
-Each objective and key result card will then be powered by the 6 elements of collaboration.  This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
+Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.  This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
 ## implementing OKRs - progressive rollouts
 
-The trick here is not to announce you are "_rolling out OKRs_", as that tends to create a mixed reaction from employees.  Most people new to OKRs misunderstand the OKR methodology and why it is so brilliant - for the organization and for them.
+The trick here is _not_ to announce you are "_rolling out OKRs_", as that tends to create a mixed reaction from employees.  Most people who are new to OKRs misunderstand the OKR methodology and why it is so brilliant - for the organization and for them.
 
-Instead, we recommend you go for an angle that is less threatening and more aspirational, something like this:
+Instead, we recommend you go for an approach that is less threatening and more aspirational, something like this:
 
 _the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy and execution together_
 
-As you're adding each group of employees, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
+As you're adding employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
-### step #6 - cascading 'one digital workspace'
+### step #6 - cascading _one digital workspace_
 
-We recommend cascading your rollout in 5 stages:
+We recommend cascading your rollout of this _one digital workspace_ in 5 stages:
 
 * rollout stage 1 - leadership team - top 10 to 15 (fewer for small companies)
 * rollout stage 2 - expand to 25 (including the leadership team)
@@ -131,7 +131,7 @@ We recommend cascading your rollout in 5 stages:
 * rollout stage 4 - expand to 100
 * rollout stage 5 - org-wide
 
-We recommend you allow 2 to 3 weeks in-between each rollout stage.
+We recommend you allow 2 to 3 weeks in between each rollout stage.
 
 This approach solves three aspects:
 
@@ -139,19 +139,21 @@ This approach solves three aspects:
 2. Context, collaboration and cadence improves progressively - learn as you go
 3. When employees are added, there is "_movement at the station_" - to use an old saying from Australian sheep and cattle farmers - that is, a reason to be there and engage
 
-### step #7 - an OKR consultant, skilled in change
+### step #7 - OKR consultants, skilled in change
 
 When it comes to cascading OKRs, most larger companies will hire an OKR coach who has a background in change management consulting.
 
-If you feel that's the right choice for your organization, we recommend doing that just before rollout stage 3 - expanding to 50.
+If you feel that's the right choice for your organization, we recommend doing that just before rollout stage 3 above.
 
-Stages 1 and 2 beforehand will give you great insight to the challenges you may or may not be facing, and the ideal profile of consultant you need to hire.
+Stages 1 and 2 beforehand will give you great insight to the challenges you may or may not be facing, and the profile of consultant you need to hire.
 
 ## implementing OKRs - decouple remuneration from OKRs
 
 Most practitioners, including the father of OKRs, Intel’s Andy Grove, and the pioneers since, firmly believe that remuneration should be decoupled from OKRs.
 
 At #stratapp, we share the same view.  You want people to take risks and to strive for objectives that are ambitious and motivating. That’s how you transform organizations, create new markets and innovate beyond what competitors believe is possible.
+
+We discuss this further in [the difference between OKRs vs KPIs vs remuneration](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs").
 
 ## implementing OKRs - useful links
 
