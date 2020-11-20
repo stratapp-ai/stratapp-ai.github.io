@@ -49,7 +49,7 @@ Therefore, you can execute strategy in a way that best suits your business and e
 
 Step #1 is to start with the strategy tree and the _leadership team_.
 
-We define the leadership team as the top 10 to 15 in the organization - fewer for smaller companies.
+We define the leadership team as the top 10 to 15 in the organization - of course, it's fewer for smaller companies.
 
 We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), and it is strategy execution that rarely meets expectations.
 
