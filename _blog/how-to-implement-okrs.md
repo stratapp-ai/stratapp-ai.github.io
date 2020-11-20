@@ -51,13 +51,13 @@ Step #1 is to start with the strategy tree and the _leadership team_.
 
 We define the leadership team as the top 10 to 15 in the organization - of course, it is fewer for smaller companies.
 
-We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), and it is strategy execution that rarely meets expectations.
+We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), and it is _strategy execution rarely meets expectations_.
 
 ### step #2 - evolve the strategy tree, be agile
 
 You don't need the strategy tree to be perfect.  You just need to start.
 
-Step #2 is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real-time off the strategy tree.  Collaboration with context and structure.
+Step #2 is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real-time off the strategy tree.  Collaboration without chaos.  Collaboration with context and structure.
 
 Once the leadership team master this, you are then ready to move onto OKRs.
 
