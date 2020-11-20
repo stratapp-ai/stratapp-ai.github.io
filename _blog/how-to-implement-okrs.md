@@ -122,19 +122,25 @@ As you're adding each group of employees, you may decide to share these two pres
 
 We recommend cascading the rollout in 5 stages:
 
-* leadership team - top 10 to 15
+* rollout stage 1 - leadership team - top 10 to 15
+* rollout stage 2 - expand to 25 (including the leadership team count above)
+* rollout stage 3 - expand to 50
+* rollout stage 4 - expand to 100
+* rollout stage 5 - org-wide
 
-25
+... allowing 2 to 3 weeks in-between each.
 
-50
+This approach solves three aspects in one:
 
-100
-
-org-wide
-
-3 weeks in between each
+* Leaders get to lead by example
+* Context, collaboration and cadence improves progressively
+* When employees are added, there is "_movement at the station_" - to use an old saying from Australian sheep and cattle farmers - a reason to be there and engage
 
 ### step #7 - an OKR coach, skilled in change management consulting
+
+When it comes to cascading OKRs, most larger companies will hire an OKR coach who has a background in change management consulting.
+
+If you feel that's the right choice for your organization, we recommend doing that just before expanding to 50.  That is, as you prepare for rollout stage 3 above.
 
 ## implementing OKRs - decouple remuneration from OKRs
 
