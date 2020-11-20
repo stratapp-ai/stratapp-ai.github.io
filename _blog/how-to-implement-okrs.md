@@ -76,9 +76,9 @@ If that's not the case, then you may need to go back a step to apply one or both
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
-Xxxxx
+Although #stratapp and OKRs are both all about engaging everyone, success starts at the top, hence the focus of steps 1 to 5.
 
-step #5 - starting with the leadership team 
+### step #5 - starting with the leadership team 
 
 ## implementing OKRs - progressive rollouts
 
