@@ -27,13 +27,13 @@ Before adopting OKRs, you first need to make sure your leadership team is aligne
 
 ## implement OKRs - the strategy tree
 
-Best practice is to align your OKRs to the strategy tree, after the ideation and planning phases of [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle"):
+Best practice is to align your OKRs to the strategy tree, per this extract from [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle"):
 
 ![](/uploads/strategy-tree-3.jpg)
 
 \#stratapp allows the flexibility to hang OKRs off any level in the strategy tree.
 
-\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), bringing _strategy + OKRs + execution_ into one digital workspace:
+\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), bringing _strategy + OKRs + execution_ into one seamless digital workspace:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
@@ -83,7 +83,7 @@ Step #4 is to embrace these insights by running an expansive Workshop B to:
 * Shape those ideas and opportunities
 * Share global best practices (we, or our partners, aim to add value here without compromising the confidentiality or IP of other clients)
 
-This Workshop B aligns the leadership team on how to evolve their _one digital workspace_, providing clarity and consensus, before moving onto the next phase of adding the OKR methodology and cascading your OKRs org-wide.
+Workshop B aligns the leadership team on evolving their _one digital workspace_, providing clarity and consensus, before moving onto the next phase of adding the OKR methodology and cascading OKRs org-wide.
 
 ## implement OKRs - regrouping
 
@@ -96,7 +96,7 @@ If you conclude that alignment and real-time collaboration has not yet been achi
 
 In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping. 
 
-The decision and approach to achieving initial alignment is up to you, as you know what will work best for your leadership team.
+The approach to achieving alignment is up to you, as you know what will work best for your leadership team.
 
 ## implement OKRs - run the first period with the leadership team only
 
@@ -125,11 +125,11 @@ This may involve adding employees who are outside of the leadership team, but as
 
 The trick here is _not_ to announce you are "_rolling out OKRs_", as that tends to create a mixed reaction from employees.  Most people who are new to OKRs misunderstand the methodology and why it is so brilliant - for the organization and for them.
 
-Instead, we recommend you go for an approach that is less threatening and more aspirational, something like this:
+We recommend you go for an approach that is less threatening and more aspirational:
 
 _the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
 
-As you're adding employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
+As you add employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
 ### step #6 - cascading one digital workspace
 
@@ -141,11 +141,11 @@ We recommend cascading your rollout of the _one digital workspace_ in 5 stages:
 * rollout stage 4 - expand to 250
 * rollout stage 5 - org-wide
 
-We recommend you allow 2 to 3 weeks in between each rollout stage.
+We recommend allowing 2 to 3 weeks in between each rollout stage.
 
-This approach solves three aspects:
+This progressive rollout approach solves three aspects:
 
-1. Leaders at each level in the organization get the opportunity to lead by example - not just at the easy beginning, but all of the way through to successful adoption and having a positive impact on strategy execution
+1. Leaders at each level in the organization get to lead by example - not just at the easy beginning, but all of the way through to successful adoption and having a positive impact on strategy execution
 2. Context, collaboration and cadence improves progressively - learning as you go
 3. When employees are added, there is "_movement at the station_" - an old saying from Australian sheep and cattle farmers - that is, a reason to be there and engage
 
