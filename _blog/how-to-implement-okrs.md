@@ -42,7 +42,11 @@ We define the "leadership team" as the owner/CxOs or top 10 in the organization 
 
 ### step #2 - evolve the strategy tree, be agile
 
-We don't need the strategy tree to be perfect.  Our first step is to switch from static strategy documents, spreadsheets and email, to collaborating in real time off the strategy tree.  Once we master this, we then move onto OKRs.
+We don't need the strategy tree to be perfect.  
+
+Our first step is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real time off the strategy tree.  
+
+Once we master this, we can then move onto OKRs.
 
 ### step #3 - Workshop A - one digital workspace
 
@@ -51,11 +55,11 @@ In this 60min hands-on Workshop A, we aim to have the leadership team comfortabl
 * creating and evolving the strategy tree (remembering step #2)
 * powering the strategy tree with 6 elements of collaboration - switching from multiple apps and communication mediums, to one digital workspace (initially for the purpose of aligning to and evolving the strategy tree)
 * understanding security/confidentiality and how to leverage @org-design
-* running your meetings and meeting actions in the app
+* running meetings and meeting actions in the app
 
 Just like learning a new language or preparing for a big sporting event, you now jump in and commit daily for the next 7-21 days.
 
-At this point we have the OKRs page in #stratapp turned off, so there is no problem adding other users below the leadership team, to collaborate on aspects that hang off daily meetings or the strategy tree.
+At this point we have the OKRs page in #stratapp turned off, so there is no problem adding other people below the leadership team, to collaborate on aspects that hang off daily meetings or the strategy tree.
 
 ### step #4 - Workshop B - big bang value
 
@@ -68,18 +72,22 @@ We then run an interactive Workshop B, which is a mix of:
 
 ## implementing OKRs - go back a step if you need to
 
-With solid alignment of the leadership team and real-time collaboration in one digital workspace - evolving the strategy tree - your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
+With solid alignment of the leadership team and real-time collaboration in one digital workspace, evolving the strategy tree, your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
 
 If that's not the case, then you may need to go back a step to apply one or both of these strategy pages inside #stratapp:
 
 * our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation, that engages customers and employees
 * direction - [Professor Roger Martin's](https://stratappsaas.com/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin") framework for setting a direction, so that the leadership team and management can shape strategy execution
 
+Like most of the pages in #stratapp, you can turn them on/off by team or individual - you don't have to change your business to suit the software.
+
 ## implementing OKRs - run the first quarter with CxO roles only
 
-Although #stratapp and OKRs are both all about engaging everyone, success starts at the top, hence the focus of steps 1 to 5.
+Although #stratapp and OKRs are both all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top - hence that's the focus of steps 1 to 5.
 
 ### step #5 - starting with the leadership team 
+
+xzxxxx
 
 ## implementing OKRs - progressive rollouts
 
