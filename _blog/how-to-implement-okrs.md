@@ -47,7 +47,7 @@ That is, the 6 elements of collaboration power both the strategy tree and OKRs. 
 
 Step #1 is to start with the strategy tree and the _leadership team_.
 
-We define the leadership team as the top 10 to 15 in the organization - this will be less for smaller companies.
+We define the leadership team as the top 10 to 15 in the organization - fewer for smaller companies.
 
 We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), and it is strategy execution that rarely meets expectations.
 
@@ -109,7 +109,7 @@ For your first OKR period, we recommend:
 * Adding all of the leadership team as members on each objective and key result card - you won't do this later, but for the first OKR period this is important
 * Keeping the security level on each to the lowest level, where you're able to do so
 
-Each objective and key result card will then be powered by the 6 elements of collaboration.  This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp. 
+Each objective and key result card will then be powered by the 6 elements of collaboration.  This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
 ## implementing OKRs - progressive rollouts
 
@@ -125,7 +125,7 @@ As you're adding each group of employees, you may decide to share these two pres
 
 We recommend cascading your rollout in 5 stages:
 
-* rollout stage 1 - leadership team - top 10 to 15 (less for small companies)
+* rollout stage 1 - leadership team - top 10 to 15 (fewer for small companies)
 * rollout stage 2 - expand to 25 (including the leadership team)
 * rollout stage 3 - expand to 50
 * rollout stage 4 - expand to 100
