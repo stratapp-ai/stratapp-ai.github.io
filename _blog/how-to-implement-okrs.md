@@ -67,13 +67,12 @@ We then run an interactive Workshop B, which is a mix of:
 
 ## implementing OKRs - go back a step if you need to
 
-With solid alignment of the leadership team and real-time collaboration in one digital workspace - evolving the strategy tree and planning execution - you are now ready to add the power of OKRs.
+With solid alignment of the leadership team and real-time collaboration in one digital workspace - evolving the strategy tree - your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
 
-If that's not the case, then you may need to go back a step to apply one or both of these pages inside #stratapp under the strategy tab:
+If that's not the case, then you may need to go back a step to apply one or both of these strategy pages inside #stratapp:
 
-our why - Simon Sinek's framework for engagement of customers and employees
-
-direction - Professor Roger Martin's framework
+* our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation, that engages customers and employees
+* direction - [Professor Roger Martin's](https://stratappsaas.com/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin") framework for setting a direction, so that the leadership team and management can shape strategy execution
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
