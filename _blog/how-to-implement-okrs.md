@@ -17,17 +17,17 @@ seo_description: OKRs are brilliant - but ironically, the key to success is to n
 feature_image: "/uploads/leader.jpg"
 
 ---
-If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock as, their OKR implementation will most likely fail.
+If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock as their OKR implementation will most likely fail.
 
-OKRs are brilliant for strategy execution.  However, to be successful you need to start with the CEO and leadership team.
+OKRs are brilliant for strategy execution.  However, to be successful you need to start your OKR implementation with the CEO and leadership team.
 
 Ironically, OKRs are not actually the best starting point for success.
 
-Before adopting OKRs, the leadership team first need to be aligned on the _strategy tree_.
+Before adopting OKRs, you first need to make sure your leadership team is aligned on the _strategy tree_.
 
-## implementing OKRs - the strategy tree
+## implement OKRs - the strategy tree
 
-Best practice is to align your OKRs to the strategy tree:
+Best practice is to align your OKRs to the strategy tree, after the ideation and planning phases of [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle"):
 
 ![](/uploads/strategy-tree-3.jpg)
 
@@ -37,11 +37,11 @@ Best practice is to align your OKRs to the strategy tree:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
-As you know, not all strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
+Of course, as good as they are, not all of your strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
 
 That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  
 
-Therefore, you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app.  This makes your time-to-value on #stratapp just days, rather than months or quarters.
+Therefore, you can execute strategy in a way that best suits your business.  You don't have to change your business to suit the app.  This makes your time-to-value on #stratapp just days, rather than months or quarters.
 
 \#stratapp is powered by @org-design, so it works seamlessly for 5 to 500,000 employees.
 
@@ -49,9 +49,9 @@ Therefore, you can execute strategy in a way that best suits your business and e
 
 Step #1 is to start with the strategy tree and the leadership team.
 
-We define _the leadership team_ as the top 10 to 15 in the organization - of course, this is fewer for smaller companies.
+We define _the leadership team_ as the top 10 to 15 in the organization - fewer for smaller companies.
 
-We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), and _strategy execution rarely meets expectations_.
+We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people") and _strategy execution rarely meets expectations_.
 
 ### step #2 - evolve the strategy tree, be agile
 
@@ -59,7 +59,7 @@ You don't need the strategy tree to be perfect.  You just need to start.
 
 Step #2 is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real-time off the strategy tree.  Collaboration without chaos.  Collaboration with context and structure.
 
-Once the leadership team master this, you are then ready to move onto OKRs.
+Once the leadership team master this, you are then ready to move onto OKRs.  To help them master _one digital workspace_ you have step #3.
 
 ### step #3 - Workshop A - one digital workspace
 
@@ -76,31 +76,33 @@ Note, at this step #3 we still have the OKRs module in #stratapp turned off, so 
 
 ### step #4 - Workshop B - big bang value
 
-After the 7-21 days mastering _one digital workspace_, your leadership team will start to see several opportunities for big bang value.
+After the 7-21 days mastering _one digital workspace_, your leadership team will start to see several new opportunities for big bang value.
 
-So step #4 is to embrace these insights by running an expansive Workshop B to:
+Step #4 is to embrace these insights by running an expansive Workshop B to:
 
 * Shape those ideas and opportunities
-* Share global best practices (we or our partners aim to add value here, without compromising the confidentiality or IP of other clients)
+* Share global best practices (we, or our partners, aim to add value here without compromising the confidentiality or IP of other clients)
 
-This aligns the leadership team on how to evolve the _one digital workspace_, providing clarity and consensus, before adding OKRs and cascading them org-wide.
+This Workshop B aligns the leadership team on how to evolve their _one digital workspace_, providing clarity and consensus, before moving onto the next phase of adding the OKR methodology and cascading your OKRs org-wide.
 
-## implementing OKRs - regroup if needed
+## implement OKRs - regrouping
 
 With solid alignment of the leadership team and real-time collaboration in _one digital workspace_, your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
 
-If that alignment and real-time collaboration has not been achieved, you will want to repeat the above steps, and you may need to regroup and apply one or both of these strategy pages inside #stratapp:
+If you conclude that alignment and real-time collaboration has not yet been achieved, you will want to repeat the above steps, or you may decide to regroup and apply one or both of these strategy pages inside #stratapp:
 
 * our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation, that engages customers and employees
 * direction - [Professor Roger Martin's](https://stratappsaas.com/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin") framework for setting a direction, so that the leadership team and management can shape the strategy tree and strategy execution
 
-In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping.  That decision and the preferred approach to achieving initial alignment is up to you, as you know what will work best for your leadership team.
+In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping. 
 
-## implementing OKRs - run the first period with the leadership team only
+The decision and approach to achieving initial alignment is up to you, as you know what will work best for your leadership team.
+
+## implement OKRs - run the first period with the leadership team only
 
 Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top.  
 
-Therefore, starting with the leadership team is the focus of steps 1 to 5.
+Therefore, starting with the leadership team is the primary focus of steps 1 to 5.
 
 ### step #5 - start with the leadership team
 
@@ -119,7 +121,7 @@ Each objective and key result card will then be powered by the 6 elements of col
 
 This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
-## implementing OKRs - progressive rollouts
+## implement OKRs - progressively
 
 The trick here is _not_ to announce you are "_rolling out OKRs_", as that tends to create a mixed reaction from employees.  Most people who are new to OKRs misunderstand the methodology and why it is so brilliant - for the organization and for them.
 
@@ -155,7 +157,7 @@ If you feel that's the right choice for your organization, we recommend engaging
 
 Stages 1 and 2 beforehand will give you great insight to the challenges you may or may not be facing, and the profile of consultant you need to hire.
 
-## implementing OKRs - decouple remuneration from OKRs
+## implement OKRs - decouple remuneration 
 
 Most practitioners, including the father of OKRs, Intel’s Andy Grove, and the pioneers since, firmly believe that remuneration should be decoupled from OKRs.
 
@@ -165,7 +167,7 @@ You want people to take risks and to strive for objectives that are ambitious an
 
 We discuss this further in [the difference between OKRs vs KPIs vs remuneration](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs").
 
-## implementing OKRs - useful links
+## implement OKRs - useful links
 
 [3 reasons #stratapp is the world's best OKR software app right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app")
 
