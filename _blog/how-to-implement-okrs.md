@@ -104,7 +104,11 @@ Each objective and key result card will then be powered by the 6 elements of col
 
 ## implementing OKRs - progressive rollouts
 
-xxxxx
+The trick here is not to announce you are "rolling out OKRs", as that tends to create a mixed reaction from employees, most of whom misunderstand the OKR methodology and why it is so brilliant - for the organization and for them.
+
+Instead, you go for a safer angle that has a higher and less threatening aspiration, something like this:
+
+_the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve our ideas, planning, strategy and execution together_
 
 ### step #6 - cascading 'one digital workspace'
 
