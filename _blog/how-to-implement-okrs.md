@@ -5,7 +5,7 @@ category:
 date: 2020-11-16 22:02:00 +0000
 layout: blog
 title: 7 steps to successfully implement OKRs
-sub_heading: OKRs are brilliant - but ironically, the key to success is to not start
+sub_heading: OKRs are brilliant - but ironically, the key to success is don't start
   with OKRs
 video_id: ''
 banner_image: "/uploads/leader.jpg"
