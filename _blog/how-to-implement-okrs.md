@@ -94,11 +94,11 @@ If that alignment and real-time collaboration has not been achieved, you will wa
 
 In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping.  That decision is up to you.
 
-## implementing OKRs - run the first quarter with CxO roles only
+## implementing OKRs - run the first period with the leadership team only
 
 Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top.  That's the focus of steps 1 to 5.
 
-### step #5 - starting with the leadership team
+### step #5 - start with the leadership team
 
 With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first period.  Most organizations opt for a quarterly OKR cycle, however early-stage companies may prefer to set OKRs monthly.
 
@@ -121,7 +121,7 @@ _the leadership team have recently been collaborating in one digital workspace f
 
 As you're adding employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
-### step #6 - cascading _one digital workspace_
+### step #6 - cascade _one digital workspace_
 
 We recommend cascading your rollout of this _one digital workspace_ in 5 stages:
 
