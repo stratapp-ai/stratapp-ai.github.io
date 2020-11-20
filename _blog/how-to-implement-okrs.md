@@ -19,9 +19,9 @@ feature_image: "/uploads/leader.jpg"
 ---
 If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock as their OKR implementation will most likely fail.
 
-OKRs are brilliant for strategy execution.  However, to be successful with OKRs you need to start with your CEO and the leadership team.
+OKRs are brilliant for strategy execution.  However, to be successful on OKRs you need to start with your CEO and the leadership team.
 
-Ironically, OKRs are not actually the best starting point for a successful implementation.
+Ironically, OKRs are not actually the best starting point for success.
 
 Before adopting OKRs, the leadership team first need to be aligned on the _strategy tree_.
 
@@ -37,7 +37,7 @@ Best practice is to align your OKRs to the strategy tree:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
-As you will already know, not all strategy execution needs to be done through OKRs, so #stratapp has been designed mindful of this real-world insight.
+As you will already know, not all strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
 
 That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  Therefore, you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app, making your time-to-value on #stratapp days rather than months or quarters.
 
@@ -165,4 +165,4 @@ We discuss this further in [the difference between OKRs vs KPIs vs remuneration]
 
 \#stratapp pricing: [https://stratappsaas.com/pricing/](https://stratappsaas.com/pricing/ "https://stratappsaas.com/pricing/")
 
-[the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle") 
+[the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle")
