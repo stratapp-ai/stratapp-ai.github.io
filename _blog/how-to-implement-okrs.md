@@ -26,17 +26,17 @@ Ironically, OKRs in themselves are not the starting point for successful impleme
 
 ## implementing OKRs - starting with the strategy tree
 
-Best practice is to align your OKRs to the strategy tree:  
+Best practice is to align your OKRs to the strategy tree:
 
 ![](/uploads/strategy-tree.PNG)
 
-\#stratapp is the #stratapp is the best OKR software app in the world right now, and a key reason for that is how #stratapp brings strategy + OKRs + execution into one digital workspace:#stratapp is the best OKR software app in the world right now, and a key reason for that is how #stratapp brings strategy + OKRs + execution into one digital workspace:
+\#stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
+
+\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy + OKRs + execution_ into one digital workspace: 
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
-\#stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
-
-Not all execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.  That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.
+Important to note, not all of the strategy execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.  That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the software.
 
 \#stratapp is powered by @org-design, so it works seamlessly for 5 to 500,000 employees.
 
@@ -44,13 +44,13 @@ Not all execution needs to be done through OKRs, so #stratapp has been designed 
 
 Start with the strategy tree and the _leadership team_.
 
-We define the _leadership team_ as the top 10 to 15 in the organization - this will be less for smaller companies.  
+We define the _leadership team_ as the top 10 to 15 in the organization - this will be less for smaller companies.
 
 We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), it is strategy execution that rarely meets expectations.
 
 ### step #2 - evolve the strategy tree, be agile
 
-We don't need the strategy tree to be perfect.  
+We don't need the strategy tree to be perfect.
 
 Our first step is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real-time off the strategy tree - with context and structure.
 
@@ -95,7 +95,7 @@ Like most of the pages in #stratapp, you can turn them on/off by team or individ
 
 Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top, so that's the focus of steps 1 to 5.
 
-### step #5 - starting with the leadership team 
+### step #5 - starting with the leadership team
 
 With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first OKR period.  Most organizations opt for quarterly, however early-stage companies might prefer to set their OKRs monthly.
 
