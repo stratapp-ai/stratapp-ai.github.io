@@ -144,12 +144,18 @@ If you feel that's the right choice for your organization, we recommend doing th
 
 ## implementing OKRs - decouple remuneration from OKRs
 
-xxxx
+Most practitioners, including the father of OKRs, Intel’s Andy Grove, and the pioneers since, firmly believe that remuneration should be decoupled from OKRs. 
+
+At #stratapp, we share the same view. 
+
+You want people to take risks and to strive for objectives that are ambitious and motivating. That’s how you transform organizations, create new markets and innovate beyond what competitors believe is possible.
 
 ## implementing OKRs - useful links
 
-3 reasons #stratapp is the world's best OKR software app right now
+[3 reasons #stratapp is the world's best OKR software app right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app")
 
-the difference between OKRs vs KPIs vs remuneration
+[the difference between OKRs vs KPIs vs remuneration](https://stratappsaas.com/blog/OKRs-vs-KPIs/ "OKRs vs KPIs")
 
-how many OKRs should we set each month or quarter?
+[how many OKRs should we set each month or quarter?](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs")
+
+\#stratapp pricing: [https://stratappsaas.com/pricing/](https://stratappsaas.com/pricing/ "https://stratappsaas.com/pricing/")  
