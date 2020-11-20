@@ -164,3 +164,5 @@ We discuss this further in [the difference between OKRs vs KPIs vs remuneration]
 [how many OKRs should we set each month or quarter?](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs")
 
 \#stratapp pricing: [https://stratappsaas.com/pricing/](https://stratappsaas.com/pricing/ "https://stratappsaas.com/pricing/")
+
+[the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle") 
