@@ -131,7 +131,7 @@ _the leadership team have recently been collaborating in one digital workspace f
 
 As you're adding employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
-### step #6 - cascade _one digital workspace_
+### step #6 - cascading one digital workspace
 
 We recommend cascading your rollout of the _one digital workspace_ in 5 stages:
 
