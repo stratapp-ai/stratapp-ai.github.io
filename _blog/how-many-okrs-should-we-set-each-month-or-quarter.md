@@ -76,4 +76,4 @@ Once again the power of having org design built into #stratapp comes into play. 
 
 For example, most clients start with social and work collaboration, then add ideation, the strategy tree and OKRs, then the “our why” and “direction” pages under strategy.
 
-We recommend reading [how to successfully implement OKRs in 7 steps](https://stratappsaas.com/blog/how-to-implement-OKRs-in-7-steps/ "implement OKRs in 7 steps").
+We recommend reading [how to successfully implement OKRs in 7 steps](https://stratappsaas.com/blog/7-steps-to-successfully-implement-OKRs/ "implement OKRs in 7 steps").
