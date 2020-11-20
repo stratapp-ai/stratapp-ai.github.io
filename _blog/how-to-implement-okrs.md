@@ -36,15 +36,17 @@ Not all execution needs to be done through OKRs, so #stratapp has been designed 
 
 ### step #1
 
-Start with the strategy tree, and the leadership team.
+Start with the strategy tree and the leadership team.
 
-We define the "leadership team" as the owner/CxOs or top 10 in the organization - whichever number is smaller.  We keep in mind that [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), it is strategy execution that rarely meets expectations.
+We define the "leadership team" as the owner/CxOs or top 10 in the organization - whichever number is smaller.  
+
+Keeping in mind that [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), it is strategy execution that rarely meets expectations.
 
 ### step #2 - evolve the strategy tree, be agile
 
 We don't need the strategy tree to be perfect.  
 
-Our first step is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real time off the strategy tree.  
+Our first step is to switch from static strategy documents, spreadsheets, email and chat groups, to collaborating in real-time off the strategy tree - with context and structure.
 
 Once we master this, we can then move onto OKRs.
 
@@ -57,9 +59,9 @@ In this 60min hands-on Workshop A, we aim to have the leadership team comfortabl
 * understanding security/confidentiality and how to leverage @org-design
 * running meetings and meeting actions in the app
 
-Just like learning a new language or preparing for a big sporting event, you now jump in and commit daily for the next 7-21 days.
+Just like learning a new language or preparing for a big sporting event, the leadership team then jump in and commit daily for the next 7-21 days.
 
-At this point we have the OKRs page in #stratapp turned off, so there is no problem adding other people below the leadership team, to collaborate on aspects that hang off daily meetings or the strategy tree.
+At this step we still have the OKRs page in #stratapp turned off, so there is no problem adding other people below the leadership team to collaborate on meetings/tasks/initiatives or the strategy tree.
 
 ### step #4 - Workshop B - big bang value
 
@@ -69,6 +71,8 @@ We then run an interactive Workshop B, which is a mix of:
 
 * Shaping those ideas and opportunities
 * Sharing generic best practices (that is without compromising the confidentiality or IP of other clients)
+
+This aligns the leadership team on how they want to evolve the _one digital workspace_, providing clarity before adding and cascading OKRs org-wide.
 
 ## implementing OKRs - go back a step if you need to
 
