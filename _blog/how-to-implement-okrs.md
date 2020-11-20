@@ -110,7 +110,7 @@ Instead, you go for a safer angle that is less threatening and has a much higher
 
 _the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve our ideas, planning, strategy and execution together_
 
-As you're adding each group of employees, you might share a version of these two presentations: engaging people and the leadership cycle.
+As you're adding each group of employees, you might share a version of these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
 ### step #6 - cascading 'one digital workspace'
 
