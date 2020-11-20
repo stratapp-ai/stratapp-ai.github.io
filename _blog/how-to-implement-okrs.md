@@ -18,11 +18,11 @@ feature_image: ''
 published: false
 
 ---
-If you hear this from a CEO or CxO role, "Yes, our people are doing OKRs", you might want to short-the-stock and bet their OKR implementation will fail.
+If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock because their OKR implementation will most likely fail.
 
-To be successful, OKRs need to start with the CEO and leadership team.
+OKRs are brilliant for strategy execution.  However, to be successful, OKRs need to start with the CEO and leadership team.
 
-Ironically, OKRs are not the starting point.  Before adopting OKRs, the leadership team first need to be aligned on the strategy tree.
+Ironically, OKRs in themselves are not the starting point for successful implementation.  Before adopting OKRs, the leadership team first need to be aligned on the strategy tree.
 
 ## implementing OKRs - start with the strategy tree
 
@@ -87,17 +87,26 @@ Like most of the pages in #stratapp, you can turn them on/off by team or individ
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
-Although #stratapp and OKRs are both all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top - hence that's the focus of steps 1 to 5.
+Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top, so that's the focus of steps 1 to 5.
 
 ### step #5 - starting with the leadership team 
 
-xzxxxx
+With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first OKR period.  Most organizations opt for quarterly, however early-stage companies might prefer to set their OKRs monthly.
+
+For this first OKR period, we recommend:
+
+* Starting with no more than 2x OKRs and 2-4 key results per OKR
+* Allocating ownership of each objective and key result to different members of the leadership team
+* Adding all of the leadership team as members on each objective and key result card - you won't do this later, but for the first OKR period this is important
+* Keeping the security level on each to the lowest level, where you're able to do so
+
+Each objective and key result card will then be powered by the 6 elements of collaboration, and this may involve adding employees who are outside of the leadership team.
 
 ## implementing OKRs - progressive rollouts
 
 xxxxx
 
-### step #6 - cascading the 'one digital workspace' and OKRs
+### step #6 - cascading 'one digital workspace'
 
 10
 
