@@ -39,7 +39,9 @@ Best practice is to align your OKRs to the strategy tree:
 
 As you will already know, not all strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
 
-That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  Therefore, you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app, making your time-to-value on #stratapp days rather than months or quarters.
+That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  
+
+Therefore, you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app.  This makes your time-to-value on #stratapp just days, rather than months or quarters.
 
 \#stratapp is powered by @org-design, so it works seamlessly for 5 to 500,000 employees.
 
