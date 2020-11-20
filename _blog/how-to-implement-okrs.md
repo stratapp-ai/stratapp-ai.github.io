@@ -17,13 +17,13 @@ seo_description: OKRs are brilliant - but ironically, the key to success is to n
 feature_image: "/uploads/leader.jpg"
 
 ---
-If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock because their OKR implementation will most likely fail.
+If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock as their OKR implementation will most likely fail.
 
-OKRs are brilliant for strategy execution.  However, to be successful, OKRs need to start with the CEO and leadership team.
+OKRs are brilliant for strategy execution.  However, to be successful with OKRs you need to start with your CEO and the leadership team.
 
-Ironically, OKRs in themselves are not the starting point for successful implementation.
+Ironically, OKRs are not actually the best starting point for a successful implementation.
 
-Before adopting OKRs, the leadership team first need to be aligned on the strategy tree.
+Before adopting OKRs, the leadership team first need to be aligned on the _strategy tree_.
 
 ## implementing OKRs - the strategy tree
 
@@ -33,13 +33,13 @@ Best practice is to align your OKRs to the strategy tree:
 
 \#stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
 
-\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy + OKRs + execution_ into one digital workspace:
+\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), bringing _strategy + OKRs + execution_ into one digital workspace:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
-Important to note, not all of your strategy execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.
+As you will already know, not all strategy execution needs to be done through OKRs, so #stratapp has been designed mindful of this real-world insight.
 
-That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app.
+That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  Therefore, you can execute strategy in a way that best suits your business and each scenario.  You don't have to change your business to suit the app, making your time-to-value on #stratapp days rather than months or quarters.
 
 \#stratapp is powered by @org-design, so it works seamlessly for 5 to 500,000 employees.
 
