@@ -90,3 +90,11 @@ Everyone can see how what they are working on contributes to the overall goals.
 _No chaos. No confusion. No excuses._
 
 _Everyone aligned. Everyone motivated._
+
+### useful links
+
+[7 steps to successfully implement OKRs](https://stratappsaas.com/blog/7-steps-to-successfully-implement-OKRs/ "7 steps to implement OKRs")
+
+[the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle")
+
+[engaging people](https://bit.ly/stratapp-engaging-people "engaging people")
