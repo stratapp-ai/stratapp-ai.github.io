@@ -39,7 +39,7 @@ Whilst you may have many KPIs, less is more when it comes to OKRs (see also [OKR
 
 Most OKR objectives can be measured with 2 to 3 key results per objective.
 
-In #stratapp, you can cascade key results below each other. 
+In #stratapp, you can cascade key results below each other.
 
 That said, we recommend stopping at two levels of key results below each objective. In most cases, one level of key results will suffice.
 
@@ -72,4 +72,8 @@ That is, the 4 levels of security inside #stratapp, also apply to our OKR module
 
 For example, you might want to share all or part of the strategy tree, but for the first two quarters keep the OKR rollout limited to the top 3 levels of management - until you get a better feel for the methodology and how best to apply it.
 
-Once again the power of having org design built into #stratapp comes into play, so you can easily turn on/off several different modules and pages of #stratapp, selecting who can see what based on the org design. For example, most clients start with social and work collaboration, then add ideation, the strategy tree and OKRs, then the “our why” and “direction” pages under strategy.
+Once again the power of having org design built into #stratapp comes into play.  You can easily turn on/off the different modules of #stratapp, selecting who can see what based on your org design. 
+
+For example, most clients start with social and work collaboration, then add ideation, the strategy tree and OKRs, then the “our why” and “direction” pages under strategy.
+
+We recommend reading [how to successfully implement OKRs in 7 steps](https://stratappsaas.com/blog/how-to-implement-OKRs-in-7-steps/ "implement OKRs in 7 steps").
