@@ -8,14 +8,13 @@ title: 7 steps to implement OKRs
 sub_heading: OKRs are brilliant - but ironically, the key to success is to not start
   with OKRs
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/leader.jpg"
 alt_text: how to implement OKRs in 7 steps
 slug: how to implement OKRs in 7 steps
 seo_title: how to implement OKRs in 7 steps
 seo_description: OKRs are brilliant - but ironically, the key to success is to not
   start with OKRs. How to implement OKRs in 7 steps is explained here.
-feature_image: ''
-published: false
+feature_image: "/uploads/leader.jpg"
 
 ---
 If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", you might want to short-the-stock because their OKR implementation will most likely fail.
