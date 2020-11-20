@@ -67,12 +67,12 @@ Goal setting is easy. Execution is where the going gets tough and value is creat
 
 With your $20m/month strategic goal in mind, you can now set your objectives for the next quarter. This may take some research, brainstorming and workshops. Let’s say at the conclusion of these planning activities, you agree on one objective to rally behind for the next quarter, to:
 
-     _solve how to make our baby pram products “smart-prams” that Australian parents will love_
+_solve how to make our baby pram products smart-prams that Australian parents will love_
 
 Key results measure the outcome of your objective.
 
 Key results provide clarity on how you will evaluate whether or not the _objective_ has been achieved. Google is famous for making their post-quarter reviews of OKRs binary, asking themselves:  
-     “_Did we achieve the objective, yes or no?_”
+“_Did we achieve the objective, yes or no?_”
 
 In this example, let’s say you set the following _key results_ for the _objective_:
 
