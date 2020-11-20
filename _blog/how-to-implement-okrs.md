@@ -5,14 +5,14 @@ category:
 date: 2020-11-16 22:02:00 +0000
 layout: blog
 title: how to implement OKRs
-sub_heading: pause to think, before racing to rollout OKRs
+sub_heading: OKRs are brilliant - but the key to success is not to start with OKRs
 video_id: ''
 banner_image: ''
 alt_text: ''
 slug: how to implement OKRs
 seo_title: how to implement OKRs
-seo_description: OKRs have to start with holding the CEO and leadership team accountable.
-  But first, your leaders need to be aligned on the strategy tree.
+seo_description: OKRs are brilliant - but the key to success is not to start with
+  OKRs.
 feature_image: ''
 published: false
 
@@ -82,6 +82,10 @@ Although #stratapp and OKRs are both all about engaging everyone, success starts
 
 ## implementing OKRs - progressive rollouts
 
+xxxxx
+
+### step #6 - cascading the 'one digital workspace' and OKRs
+
 10
 
 25
@@ -94,7 +98,11 @@ org-wide
 
 3 weeks in between each
 
+### step #7 - an OKR coach, skilled in change management consulting
+
 ## implementing OKRs - decouple remuneration from OKRs
+
+xxxx
 
 ## implementing OKRs - useful links
 
