@@ -34,7 +34,7 @@ Best practice is to align your OKRs to the strategy tree.  #stratapp allows you 
 
 Not all execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.  That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.
 
-### step #1
+### step #1 - start with the strategy tree
 
 Start with the strategy tree and the leadership team.
 
