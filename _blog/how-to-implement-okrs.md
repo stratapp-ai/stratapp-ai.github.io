@@ -4,14 +4,14 @@ category:
 - "#okr"
 date: 2020-11-16 22:02:00 +0000
 layout: blog
-title: how to successfully implement OKRs in 7 steps
+title: 7 steps to successfully implement OKRs
 sub_heading: OKRs are brilliant - but ironically, the key to success is to not start
   with OKRs
 video_id: ''
 banner_image: "/uploads/leader.jpg"
-alt_text: how to implement OKRs in 7 steps
-slug: how to implement OKRs in 7 steps
-seo_title: how to successfully implement OKRs in 7 steps
+alt_text: 7 steps to successfully implement OKRs
+slug: 7 steps to successfully implement OKRs
+seo_title: 7 steps to successfully implement OKRs
 seo_description: OKRs are brilliant - but ironically, the key to success is to not
   start with OKRs. How to implement OKRs in 7 steps is explained here.
 feature_image: "/uploads/leader.jpg"
