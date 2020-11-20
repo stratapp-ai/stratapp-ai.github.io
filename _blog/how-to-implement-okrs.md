@@ -9,11 +9,11 @@ sub_heading: OKRs are brilliant - but ironically, the key to success is to not s
   with OKRs
 video_id: ''
 banner_image: ''
-alt_text: 7 steps to implement OKRs
-slug: 7 steps to implement OKRs
-seo_title: 7 steps to implement OKRs
+alt_text: how to implement OKRs in 7 steps
+slug: how to implement OKRs in 7 steps
+seo_title: how to implement OKRs in 7 steps
 seo_description: OKRs are brilliant - but ironically, the key to success is to not
-  start with OKRs. 7 steps to implement OKRs are explained here.
+  start with OKRs. How to implement OKRs in 7 steps is explained here.
 feature_image: ''
 published: false
 
