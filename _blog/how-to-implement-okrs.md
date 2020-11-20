@@ -24,13 +24,15 @@ OKRs are brilliant for strategy execution.  However, to be successful, OKRs need
 
 Ironically, OKRs in themselves are not the starting point for successful implementation.  Before adopting OKRs, the leadership team first need to be aligned on the strategy tree.
 
-## implementing OKRs - start with the strategy tree
+## implementing OKRs - starting with the strategy tree
 
-\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy_ + _OKRs_ + _execution_ into _one digital workspace_:
+Best practice is to align your OKRs to the strategy tree:  
+
+\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy_ + _OKRs_ + _execution_ into _one digital workspace:_  
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
-Best practice is to align your OKRs to the strategy tree.  #stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
+\#stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
 
 Not all execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.  That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.
 
