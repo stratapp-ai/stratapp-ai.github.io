@@ -29,7 +29,7 @@ Before adopting OKRs, the leadership team first need to be aligned on the _strat
 
 Best practice is to align your OKRs to the strategy tree:
 
-![](/uploads/strategy-tree-2.jpg)
+![](/uploads/strategy-tree-3.jpg)
 
 \#stratapp allows you the flexibility to hang OKRs off any level in the strategy tree.
 
