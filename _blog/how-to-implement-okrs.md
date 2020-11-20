@@ -28,7 +28,9 @@ Ironically, OKRs in themselves are not the starting point for successful impleme
 
 Best practice is to align your OKRs to the strategy tree:  
 
-\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy_ + _OKRs_ + _execution_ into _one digital workspace:_  
+![](/uploads/strategy-tree.PNG)
+
+\#stratapp is the #stratapp is the best OKR software app in the world right now, and a key reason for that is how #stratapp brings strategy + OKRs + execution into one digital workspace:#stratapp is the best OKR software app in the world right now, and a key reason for that is how #stratapp brings strategy + OKRs + execution into one digital workspace:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
