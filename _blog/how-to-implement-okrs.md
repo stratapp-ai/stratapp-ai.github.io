@@ -26,7 +26,7 @@ Ironically, OKRs are not the starting point.  Before adopting OKRs, the leadersh
 
 ## implementing OKRs - start with the strategy tree
 
-\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy_ + _OKRs_ + _execution_ into one digital workspace:
+\#stratapp is the [best OKR software app in the world right now](https://stratappsaas.com/blog/best-OKR-software-app/ "best OKR software app"), and a key reason for that is how #stratapp brings _strategy_ + _OKRs_ + _execution_ into _one digital workspace_:
 
 ![](/uploads/strategy-okrs-execution.jpg)
 
@@ -52,10 +52,10 @@ Once we master this, we can then move onto OKRs.
 
 ### step #3 - Workshop A - one digital workspace
 
-In this 60min hands-on Workshop A, we aim to have the leadership team comfortable with working in one digital workspace, which means:
+In this 60min hands-on Workshop A, we aim to have the leadership team comfortable with working in _one digital workspace_, which means:
 
 * creating and evolving the strategy tree (remembering step #2)
-* powering the strategy tree with 6 elements of collaboration - switching from multiple apps and communication mediums, to one digital workspace (initially for the purpose of aligning to and evolving the strategy tree)
+* powering the strategy tree with 6 elements of collaboration - switching from multiple apps and communication mediums, to _one digital workspace_ (initially for the purpose of aligning to and evolving the strategy tree)
 * understanding security/confidentiality and how to leverage @org-design
 * running meetings and meeting actions in the app
 
@@ -76,7 +76,7 @@ This aligns the leadership team on how they want to evolve the _one digital work
 
 ## implementing OKRs - go back a step if you need to
 
-With solid alignment of the leadership team and real-time collaboration in one digital workspace, evolving the strategy tree, your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
+With solid alignment of the leadership team and real-time collaboration in _one digital workspace_, evolving the strategy tree, your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
 
 If that's not the case, then you may need to go back a step to apply one or both of these strategy pages inside #stratapp:
 
