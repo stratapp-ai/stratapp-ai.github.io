@@ -47,11 +47,9 @@ We don't need the strategy tree to be perfect.  Our first step is to switch from
 
 In this 60min hands-on Workshop A, we aim to have the leadership team comfortable with working in one digital workspace, which means:
 
-creating and evolving the strategy tree (remembering step #2)
-
-powering the strategy tree with 6 elements of collaboration - switching from multiple apps and comms, to one digital workspace (initially for the purpose of aligning to and evolving the strategy tree)
-
-understanding security/confidentiality and how to leverage @org-design
+* creating and evolving the strategy tree (remembering step #2)
+* powering the strategy tree with 6 elements of collaboration - switching from multiple apps and communication mediums, to one digital workspace (initially for the purpose of aligning to and evolving the strategy tree)
+* understanding security/confidentiality and how to leverage @org-design
 
 Just like learning a new language or preparing to complete in a big sporting event, you jump in and commit daily for the next 7-21 days, before Workshop B.
 
