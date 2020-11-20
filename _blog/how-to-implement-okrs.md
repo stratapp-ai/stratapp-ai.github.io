@@ -39,7 +39,7 @@ Best practice is to align your OKRs to the strategy tree, per this extract from 
 
 Of course, as good as they are, not all of your strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
 
-That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.  
+That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.
 
 Therefore, you can execute strategy in a way that best suits your business.  You don't have to change your business to suit the app.  This makes your time-to-value on #stratapp just days, rather than months or quarters.
 
@@ -94,13 +94,13 @@ If you conclude that alignment and real-time collaboration has not yet been achi
 * our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation, that engages customers and employees
 * direction - [Professor Roger Martin's](https://stratappsaas.com/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin") framework for setting a direction, so that the leadership team and management can shape the strategy tree and strategy execution
 
-In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping. 
+In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping.
 
 The approach to achieving alignment is up to you, as you know what will work best for your leadership team.
 
 ## implement OKRs - run the first period with the leadership team only
 
-Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top.  
+Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top.
 
 Therefore, starting with the leadership team is the primary focus of steps 1 to 5.
 
@@ -117,7 +117,7 @@ For your first OKR period, we recommend:
 * Adding all of the leadership team as members on each objective and key result card - you won't need to do this later, but for this first OKR period it is important
 * Keeping the security level on each to the lowest level, where you're able to do so
 
-Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.  
+Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.
 
 This may involve adding employees who are outside of the leadership team, but as mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
@@ -157,11 +157,11 @@ If you feel that's the right choice for your organization, we recommend engaging
 
 Stages 1 and 2 beforehand will give you great insight to the challenges you may or may not be facing, and the profile of consultant you need to hire.
 
-## implement OKRs - decouple remuneration 
+## implement OKRs - remuneration
 
 Most practitioners, including the father of OKRs, Intel’s Andy Grove, and the pioneers since, firmly believe that remuneration should be decoupled from OKRs.
 
-At #stratapp, we share the same view.  
+At #stratapp, we share the same view.
 
 You want people to take risks and to strive for objectives that are ambitious and motivating. That’s how you transform organizations, create new markets and innovate beyond what competitors believe is possible.
 
