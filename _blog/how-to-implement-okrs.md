@@ -34,13 +34,15 @@ Best practice is to align your OKRs to the strategy tree.  #stratapp allows you 
 
 Not all execution needs to be done through OKRs, so #stratapp has been designed with this real-world perspective in mind.  That is, the 6 elements of collaboration power both the strategy tree and OKRs.  So you can execute strategy in a way that best suits your business and each scenario.
 
+\#stratapp is powered by @org-design, so it works seamlessly for 5 to 500,000 employees.
+
 ### step #1 - start with the strategy tree
 
-Start with the strategy tree and the leadership team.
+Start with the strategy tree and the _leadership team_.
 
-We define the "leadership team" as the owner/CxOs or top 10 in the organization - whichever number is smaller.  
+We define the _leadership team_ as the top 10 to 15 in the organization - this will be less for smaller companies.  
 
-Keeping in mind that [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), it is strategy execution that rarely meets expectations.
+We start with the strategy tree and the leadership team because [most leaders know where they are heading](https://bit.ly/stratapp-engaging-people "engaging people"), it is strategy execution that rarely meets expectations.
 
 ### step #2 - evolve the strategy tree, be agile
 
@@ -114,7 +116,9 @@ As you're adding each group of employees, you may decide to share these two pres
 
 ### step #6 - cascading 'one digital workspace'
 
-10
+We recommend cascading the rollout in 5 stages:
+
+* leadership team - top 10 to 15
 
 25
 
