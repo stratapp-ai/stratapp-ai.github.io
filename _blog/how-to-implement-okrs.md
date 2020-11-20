@@ -76,10 +76,10 @@ Note, at this step #3 we still have the OKRs module in #stratapp turned off, so 
 
 After 7-21 days mastering _one digital workspace_, your leadership team will start to see several opportunities for big bang value.
 
-You embrace these insights by running an interactive Workshop B, which is a mix of:
+So you embrace these insights by running an expansive Workshop B, which is a mix of:
 
 * Shaping those ideas and opportunities
-* Sharing best practices
+* Sharing global best practices (we or our partners contribute here, without compromising the confidentiality or IP of other clients)
 
 This aligns the leadership team on how you want to evolve the _one digital workspace_, providing clarity and consensus, before adding OKRs and cascading them org-wide.
 
@@ -96,7 +96,7 @@ In #stratapp, you can turn pages on/off by team or individual - you don't have t
 
 ## implementing OKRs - run the first quarter with CxO roles only
 
-Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top - so that remains the focus of steps 1 to 5.
+Although OKRs are all about [engaging everyone](https://bit.ly/stratapp-engaging-people "engaging people"), success starts at the top - so that's the focus of steps 1 to 5.
 
 ### step #5 - starting with the leadership team
 
