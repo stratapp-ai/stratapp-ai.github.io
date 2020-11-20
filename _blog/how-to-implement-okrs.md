@@ -9,7 +9,7 @@ sub_heading: OKRs are brilliant - but ironically, the key to success is to not s
   with OKRs
 video_id: ''
 banner_image: ''
-alt_text: ''
+alt_text: 7 steps to implement OKRs
 slug: 7 steps to implement OKRs
 seo_title: 7 steps to implement OKRs
 seo_description: OKRs are brilliant - but ironically, the key to success is to not
