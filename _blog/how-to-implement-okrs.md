@@ -135,9 +135,9 @@ We recommend you allow 2 to 3 weeks in-between each rollout stage.
 
 This approach solves three aspects:
 
-* Leaders get to lead by example - not just at the easy beginning, but all of the way through to successful adoption and having a positive impact on strategy execution
-* Context, collaboration and cadence improves progressively - learn as you go
-* When employees are added, there is "_movement at the station_" - to use an old saying from Australian sheep and cattle farmers - that is, a reason to be there and engage
+1. Leaders get to lead by example - not just at the easy beginning, but all of the way through to successful adoption and having a positive impact on strategy execution
+2. Context, collaboration and cadence improves progressively - learn as you go
+3. When employees are added, there is "_movement at the station_" - to use an old saying from Australian sheep and cattle farmers - that is, a reason to be there and engage
 
 ### step #7 - an OKR consultant, skilled in change
 
