@@ -50,14 +50,36 @@ In this 60min hands-on Workshop A, we aim to have the leadership team comfortabl
 * creating and evolving the strategy tree (remembering step #2)
 * powering the strategy tree with 6 elements of collaboration - switching from multiple apps and communication mediums, to one digital workspace (initially for the purpose of aligning to and evolving the strategy tree)
 * understanding security/confidentiality and how to leverage @org-design
+* running your meetings and meeting actions in the app
 
-Just like learning a new language or preparing to complete in a big sporting event, you jump in and commit daily for the next 7-21 days, before Workshop B.
+Just like learning a new language or preparing for a big sporting event, you now jump in and commit daily for the next 7-21 days.
+
+At this point we have the OKRs page in #stratapp turned off, so there is no problem adding other users below the leadership team, to collaborate on aspects that hang off daily meetings or the strategy tree.
 
 ### step #4 - Workshop B - big bang value
 
+After 7-21 days mastering _one digital workspace_, your leadership team will start to see several opportunities for big bang value.
+
+We then run an interactive Workshop B, which is a mix of:
+
+* Shaping those ideas and opportunities
+* Sharing generic best practices (that is without compromising the confidentiality or IP of other clients)
+
 ## implementing OKRs - go back a step if you need to
 
+With solid alignment of the leadership team and real-time collaboration in one digital workspace - evolving the strategy tree and planning execution - you are now ready to add the power of OKRs.
+
+If that's not the case, then you may need to go back a step to apply one or both of these pages inside #stratapp under the strategy tab:
+
+our why - Simon Sinek's framework for engagement of customers and employees
+
+direction - Professor Roger Martin's framework
+
 ## implementing OKRs - run the first quarter with CxO roles only
+
+Xxxxx
+
+step #5 - starting with the leadership team 
 
 ## implementing OKRs - progressive rollouts
 
