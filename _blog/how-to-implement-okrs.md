@@ -106,11 +106,11 @@ Each objective and key result card will then be powered by the 6 elements of col
 
 The trick here is not to announce you are "rolling out OKRs", as that tends to create a mixed reaction from employees, most of whom misunderstand the OKR methodology and why it is so brilliant - for the organization and for them.
 
-Instead, you go for a safer angle that is less threatening and has a much higher aspiration, something like this:
+Instead, we recommend you go for an angle that is less threatening and aspirational, something like this:
 
-_the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve our ideas, planning, strategy and execution together_
+_the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy and execution together_
 
-As you're adding each group of employees, you might share a version of these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
+As you're adding each group of employees, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
 ### step #6 - cascading 'one digital workspace'
 
