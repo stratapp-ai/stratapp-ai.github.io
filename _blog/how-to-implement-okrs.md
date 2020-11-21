@@ -176,3 +176,5 @@ We discuss this further in [the difference between OKRs vs KPIs vs remuneration]
 [#stratapp pricing](https://stratappsaas.com/pricing/ "#stratapp pricing")
 
 [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle")
+
+[engaging people](https://bit.ly/stratapp-engaging-people "engaging people")
