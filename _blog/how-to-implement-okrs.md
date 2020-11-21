@@ -151,7 +151,7 @@ This progressive rollout approach solves three aspects:
 
 When it comes to cascading OKRs, most larger companies will hire an OKR coach who has a background in change management consulting.
 
-If you feel that's the right choice for your organization, we recommend engaging the consultant just before rollout stage 3 (see the 5 rollout stages at step #6 above).
+If you feel that's the right choice for your organization, we recommend engaging the consultant just before rollout stage 3; of the 5 rollout stages listed at step #6 above.
 
 Stages 1 and 2 beforehand will give you great insight to the challenges you may or may not be facing, and the profile of consultant you need to hire.
 
