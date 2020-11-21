@@ -104,7 +104,7 @@ Therefore, starting with the leadership team is the primary focus of steps 1 to 
 
 ### step #5 - start with the leadership team
 
-With the leadership team now aligned on the strategy tree, the next step is to agree OKRs for the first period.
+With the leadership team now aligned on the strategy tree and thriving together in _one digital workspace_, the next step is to agree OKRs for the first period.
 
 Most organizations opt for a quarterly OKR cycle, however early-stage companies may prefer monthly.
 
@@ -112,12 +112,12 @@ For your first OKR period, we recommend:
 
 * Starting with no more than 2x OKRs and 2-4x key results per OKR
 * Allocating ownership of each objective and key result to different members of the leadership team
-* Adding all of the leadership team as members on each objective and key result card - you won't need to do this later, but for this first OKR period it is important
+* Adding all leadership team members on each objective and key result card - you won't do this later, but for this first OKR period it is important
 * Keeping the security level on each to the lowest level, where you're able to do so
 
 Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.
 
-This may involve adding employees who are outside of the leadership team.  As mentioned above, you can collaborate effectively without yet needing to publish the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
+This may involve adding employees who are outside of the leadership team.  As mentioned above, you can collaborate effectively without yet publishing the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
 ## implement OKRs - progressively
 
@@ -140,6 +140,8 @@ We recommend cascading your rollout of the _one digital workspace_ in 5 stages:
 * rollout stage 5 - org-wide
 
 We recommend allowing 2 to 3 weeks in between each rollout stage.
+
+At each rollout stage you turn on the ideation, OKR and strategy modules.  For people you add before their rollout stage, you would typically limit their access to social and workspace - which in themselves are a game changer for elevating culture, collaboration and performance.
 
 This progressive rollout approach solves three aspects:
 
