@@ -134,7 +134,7 @@ As you add employees at each stage of the rollout, you may decide to share these
 We recommend cascading your rollout of the _one digital workspace_ in 5 stages:
 
 * rollout stage 1 - leadership team - top 10 to 15 people (fewer for small companies)
-* rollout stage 2 - expand to 25 (including the leadership team)
+* rollout stage 2 - expand to 25 (count includes the leadership team)
 * rollout stage 3 - expand to 50
 * rollout stage 4 - expand to 250
 * rollout stage 5 - org-wide
