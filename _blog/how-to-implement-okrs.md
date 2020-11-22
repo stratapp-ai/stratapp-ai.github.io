@@ -61,7 +61,7 @@ Once the leadership team master this, you are then ready to move onto OKRs.
 
 ### step #3 - Workshop A - one digital workspace
 
-In this 60min hands-on Workshop A, you aim to have the leadership team comfortable with working in _one digital workspace_, which means:
+In this 60min hands-on Workshop A, you aim to have the leadership team comfortable with working in _one digital workspace_ with respect to strategy, which means:
 
 * creating and evolving the strategy tree (remembering step #2)
 * powering the strategy tree with 6 elements of collaboration - in _one digital workspace_
@@ -81,15 +81,15 @@ Step #4 is to embrace these insights by running an expansive Workshop B to:
 * Shape those ideas and opportunities
 * Share global best practices (we, or our partners, aim to add value here without compromising the confidentiality or IP of other clients)
 
-Workshop B aligns the leadership team on how they want to evolve their _one digital workspace_.  Thus providing clarity and consensus, before moving onto the next phase of adding the OKR methodology and cascading OKRs org-wide.
+Workshop B aligns the leadership team on evolving their _one digital workspace_.  Thus providing clarity and consensus, before moving onto the next phase of adding the OKR methodology and cascading OKRs org-wide.
 
 ## implement OKRs - regrouping
 
 With solid alignment of the leadership team and real-time collaboration in _one digital workspace_, your organization is now ready to embrace the brilliant OKR methodology for strategy execution.
 
-If you conclude that alignment and real-time collaboration has not yet been achieved, you will want to repeat the above steps, or you may decide to regroup and apply one or both of these strategy pages inside #stratapp:
+If you conclude that alignment and real-time collaboration has not yet been achieved, you may decide to regroup and apply one or both of these strategy pages inside #stratapp:
 
-* our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation, for employees and customers
+* our why - [Simon Sinek's](https://stratappsaas.com/how-great-leaders-inspire-action-by-simon-sinek/ "Simon Sinek") framework for establishing a solid belief foundation
 * direction - [Professor Roger Martin's](https://stratappsaas.com/professor-roger-martin-on-what-ceos-should-really-be-doing/ "Professor Roger Martin") framework for setting a direction, so that the leadership team and management can shape the strategy tree and strategy execution
 
 In #stratapp, you can turn pages on/off by team or individual - you don't have to change your business to suit the app - so you don't have to apply these "our why" and "direction" pages as part of regrouping.
@@ -118,6 +118,10 @@ For your first OKR period, we recommend:
 Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.
 
 This may involve adding employees who are outside of the leadership team.  As mentioned above, you can collaborate effectively without yet publishing the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
+
+#### how many OKRs?
+
+How many OKRs should we set each month or quarter?  Less is more, as explained [here](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs?").
 
 ## implement OKRs - progressively
 
