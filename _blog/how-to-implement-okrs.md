@@ -59,12 +59,30 @@ Step #2 is to switch from static strategy documents, spreadsheets, email and cha
 
 Once the leadership team master this, you are then ready to move onto OKRs.
 
+#### OKRs are brilliant - but don't stop doing strategy
+
+Makes sense right?  Whilst OKRs are driving strategy execution for the next quarter (or whatever OKR cycle you choose), you are still evolving your strategy for the next 12 to 36 months, right?  Of course you are!
+
+This real-world attribute fundamentally sets #stratapp apart from the plethora of single-use-OKR-apps:
+
+1. The strategy tree is alive and interactive, and is powered by the 6 elements of collaboration*.  You can continue to evolve the strategy without losing alignment and engagement at all levels of the organization.
+2. Execution of the OKRs takes place in the same digital workspace.  OKRs are not just a pretty dashboard of targets and roll-up calculations to track people.  OKR execution is actually taking place inside #stratapp, also powered by the 6 elements of collaboration.  This elevates performance and gives leaders the opportunity to lead at all levels, supporting their teams where it counts. 
+
+\*The 6 elements of collaboration, elegantly combined into _one digital workspace_, are:
+
+* social with structure & context
+* live meeting notes, files & links
+* ideas & challenges for crowdsourcing innovation
+* initiative/project workboards
+* sub-tasks, tasks & workspace
+* risk management
+
 ### step #3 - Workshop A - one digital workspace
 
 In this 60min hands-on Workshop A, you aim to have the leadership team comfortable with working in _one digital workspace_ with respect to strategy, which means:
 
 * creating and evolving the strategy tree (remembering step #2)
-* powering the strategy tree with 6 elements of collaboration - in _one digital workspace_
+* powering the strategy tree with 6 elements of collaboration in _one digital workspace_
 * understanding security/confidentiality and how to leverage @org-design
 * running meetings and meeting actions - with context and structure
 
