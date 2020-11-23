@@ -66,7 +66,7 @@ Makes sense right?  Whilst OKRs are driving strategy execution for the next quar
 This real-world attribute fundamentally sets #stratapp apart from the plethora of single-use-OKR-apps:
 
 1. The strategy tree is alive and interactive, and is powered by the _6 elements of collaboration*_.  You can continue to evolve the strategy without losing alignment and engagement at all levels of the organization.
-2. Execution of the OKRs takes place in the same digital workspace.  OKRs are not just a pretty dashboard of targets and roll-up calculations to track people.  OKR execution is actually taking place inside #stratapp, also powered by the _6 elements of collaboration_.  This rapidly elevates performance and culture (not to mention OKR adoption) - empowering leaders at all levels with the opportunity to proactively lead, supporting their teams where it really matters.  You also see the rising stars.
+2. Execution of the OKRs takes place in the same digital workspace.  OKRs are not just a pretty dashboard of targets and roll-up calculations to track people.  OKR execution is actually taking place inside #stratapp, also powered by the _6 elements of collaboration_.  This rapidly elevates performance and culture, not to mention sustaining OKR adoption - empowering leaders at all levels with the opportunity to proactively lead, supporting their teams where it matters most.  You also see the rising stars.
 
 \*The 6 elements of collaboration, elegantly combined into _one digital workspace_, are:
 
