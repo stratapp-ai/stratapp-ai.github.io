@@ -19,7 +19,7 @@ feature_image: "/uploads/balancing-strategy-and-daily-execution.PNG"
 ---
 Since 2018 there has been a plethora of single-use-apps for OKRs. The good ones have pretty much the same approach and functionality.
 
-\#stratapp takes OKRs to a whole new level, because #stratapp _is not_ a single-use-app.
+\#stratapp takes OKRs to a whole new level, because #stratapp _is not_ a single-use-OKR-app.
 
 There are 3 reasons why #stratapp is the world's best OKR software application right now:
 
