@@ -21,7 +21,7 @@ If you hear this from a CEO or CxO role: "_Yes, our employees are doing OKRs_", 
 
 OKRs are brilliant for strategy execution.  However, to be successful you need to start your OKR implementation with the CEO and leadership team.
 
-Ironically, OKRs are not actually the best starting point for success.  Before adopting OKRs, you first need to make sure your leadership team is aligned on the _strategy tree_.
+Ironically, OKRs are not the best starting point.  Before adopting OKRs, you first need to make sure your leadership team is aligned on and evolving the _strategy tree_.
 
 ## implement OKRs - the strategy tree
 
