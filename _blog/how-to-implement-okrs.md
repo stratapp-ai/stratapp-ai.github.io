@@ -59,7 +59,7 @@ Step #2 is to switch from static strategy documents, spreadsheets, email and cha
 
 Once the leadership team master this, you are then ready to move onto OKRs.
 
-#### OKRs are brilliant - but don't stop doing strategy
+#### OKRs are brilliant - but you don't stop doing strategy
 
 Makes sense right?  Whilst OKRs are driving strategy execution for the next quarter (or whatever OKR cycle you choose), you are still evolving your strategy for the next 12 to 36 months, right?  Of course you are!
 
