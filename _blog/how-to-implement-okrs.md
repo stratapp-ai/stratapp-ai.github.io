@@ -74,7 +74,7 @@ This real-world attribute fundamentally sets #stratapp apart from the plethora o
 * live meeting notes, files & links
 * ideas & challenges for crowdsourcing innovation
 * initiative/project workboards
-* sub-tasks, tasks & workspace
+* sub-tasks, tasks & personal workspace
 * risk management
 
 ### step #3 - Workshop A - one digital workspace
