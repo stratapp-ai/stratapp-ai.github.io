@@ -37,7 +37,7 @@ Best practice is to align your OKRs to the strategy tree, per this extract from 
 
 Of course, as good as they are, not all of your strategy execution needs to be done through OKRs.  #stratapp has been designed with this real-world insight front of mind.
 
-That is, the 6 elements of collaboration power both your _strategy tree_ and your _OKRs_.
+That is, the _6 elements of collaboration_ power both your _strategy tree_ and your _OKRs_.
 
 Therefore, you can execute strategy in a way that best suits your business.  You don't have to change your business to suit the app.  This makes your time-to-value on #stratapp just days, rather than months or quarters.
 
@@ -65,8 +65,8 @@ Makes sense right?  Whilst OKRs are driving strategy execution for the next quar
 
 This real-world attribute fundamentally sets #stratapp apart from the plethora of single-use-OKR-apps:
 
-1. The strategy tree is alive and interactive, and is powered by the 6 elements of collaboration*.  You can continue to evolve the strategy without losing alignment and engagement at all levels of the organization.
-2. Execution of the OKRs takes place in the same digital workspace.  OKRs are not just a pretty dashboard of targets and roll-up calculations to track people.  OKR execution is actually taking place inside #stratapp, also powered by the 6 elements of collaboration.  This elevates performance and gives leaders the opportunity to lead at all levels, supporting their teams where it counts. 
+1. The strategy tree is alive and interactive, and is powered by the _6 elements of collaboration*_.  You can continue to evolve the strategy without losing alignment and engagement at all levels of the organization.
+2. Execution of the OKRs takes place in the same digital workspace.  OKRs are not just a pretty dashboard of targets and roll-up calculations to track people.  OKR execution is actually taking place inside #stratapp, also powered by the _6 elements of collaboration_.  This rapidly elevates performance and culture (not to mention OKR adoption) - empowering leaders at all levels with the opportunity to proactively lead, supporting their teams where it really matters.  You also see the rising stars.
 
 \*The 6 elements of collaboration, elegantly combined into _one digital workspace_, are:
 
@@ -82,7 +82,7 @@ This real-world attribute fundamentally sets #stratapp apart from the plethora o
 In this 60min hands-on Workshop A, you aim to have the leadership team comfortable with working in _one digital workspace_ with respect to strategy, which means:
 
 * creating and evolving the strategy tree (remembering step #2)
-* powering the strategy tree with 6 elements of collaboration in _one digital workspace_
+* powering the strategy tree with _6 elements of collaboration_ in _one digital workspace_
 * understanding security/confidentiality and how to leverage @org-design
 * running meetings and meeting actions - with context and structure
 
@@ -133,7 +133,7 @@ For your first OKR period, we recommend:
 * Adding all leadership team members on each objective and key result card - you won't do this later, but for this first OKR period it is important
 * Keeping the security level on each to the lowest level, where you're able to do so
 
-Each objective and key result card will then be powered by the 6 elements of collaboration in #stratapp.
+Each objective and key result card will then be powered by the _6 elements of collaboration_ in #stratapp.
 
 This may involve adding employees who are outside of the leadership team.  As mentioned above, you can collaborate effectively without yet publishing the OKR module outside of the leadership team.  This is another real-world attribute of #stratapp.
 
