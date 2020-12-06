@@ -82,6 +82,16 @@ Within 14 days of receiving the required information above, the Company will hav
 
 We may offer to register to you a Client lead that is generated elsewhere - for example, in a scenario where we are seeking to collaborate with you on closing a lead. To accept this offer, and for that Client to become a Registered Prospect, you will need to confirm your acceptance in writing to [sales@stratapp.ai](mailto:sales@stratapp.ai) within 14 days of the offer.
 
+##### Setting Up New Clients
+
+We can set up the client for you, or you can do that yourself via these easy steps:
+
+1. create a new org (using “start free trial” on website), with yourself as the starting email and super admin
+2. after clicking the org activation link, enter your client’s org name (at landing page) and logo (under settings/account)
+3. add your client as a member (under settings/users) and make their role also a super admin
+4. email sales@stratapp.ai to register the lead to you per the Registration Process above
+5. #stratapp to change the billing email to the client’s email added at step 3, so that the client receives the email reminders to enter their payment method at the end of the free trial period
+
 ### **Multiple Referrers**
 
 We may encounter a scenario of more than one Referrer recommending #stratapp into different Client entities, divisions, business units or functions.
@@ -132,8 +142,8 @@ To retain the status and benefits of a Business Partner, the Business Partner mu
 
 The Company has a relatively low threshold for maintaining an Active status, defined as:
 
-* Adding one or more Referrers in any 12 month rolling period, who in turn refer 50 or more new paid users within that same period; or
-* Directly referring 250 or more new paid users in any 12 month rolling period
+* adding one or more Referrers in any 12 month rolling period, who in turn refer 50 or more new paid users within that same period; or
+* directly referring 250 or more new paid users in any 12 month rolling period
 
 For the avoidance of doubt, “new paid users” means a new paid user subscription added to #stratapp, for a user that was not subscribed prior to the 12 month rolling period.
 
@@ -253,6 +263,4 @@ A clause or part of a clause of this Agreement that is illegal or unenforceable 
 
 ## Contact Us
 
-If you have any questions about this Agreement, you can contact us:
-
-* By email: sales@stratapp.ai
+If you have any questions about this Agreement, you can contact us via email to sales@stratapp.ai.
