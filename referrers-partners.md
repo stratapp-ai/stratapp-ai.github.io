@@ -10,7 +10,7 @@ page_sections: []
 ---
 **Agreement for Referrers & Partners**
 
-Last Updated: December 6, 2020
+Last Updated: December 7, 2020
 
 This Agreement applies to any individual or entity who collaborates with us as a referrer or business partner, including end users of #stratapp who refer clients to us.
 
@@ -70,7 +70,6 @@ To register a potential Client, the Referrer must email the following details to
 
 * Client’s company name*
 * Client contact’s first name and last name*
-* Date the Client first expressed an interest to learn more about #stratapp*
 * Client contact’s email (if known)
 * Client’s website URL (if known)
 * Client contact’s LinkedIn profile URL (if known)
