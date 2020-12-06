@@ -94,7 +94,7 @@ We can set up the new client for you, or you can do that yourself via these easy
 
 ### **Multiple Referrers**
 
-We may encounter a scenario of more than one Referrer recommending #stratapp to people at the same Client.
+We may encounter a scenario of more than one Referrer recommending #stratapp to the same Client.
 
 In this scenario, the allocation of Referral Fees across more than one Referrer will be at the sole discretion of the Company.
 
