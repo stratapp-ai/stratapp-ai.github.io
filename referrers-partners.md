@@ -82,9 +82,9 @@ Within 14 days of receiving the required information above, the Company will hav
 
 We may offer to register to you a Client lead that is generated elsewhere - for example, in a scenario where we are seeking to collaborate with you on closing a lead. To accept this offer, and for that Client to become a Registered Prospect, you will need to confirm your acceptance in writing to [sales@stratapp.ai](mailto:sales@stratapp.ai) within 14 days of the offer.
 
-##### Setting Up New Clients
+#### Setting Up New Clients
 
-We can set up the client for you, or you can do that yourself via these easy steps:
+We can set up the new client for you, or you can do that yourself via these easy steps:
 
 1. create a new org (using “start free trial” on website), with yourself as the starting email and super admin
 2. after clicking the org activation link, enter your client’s org name (at landing page) and logo (under settings/account)
