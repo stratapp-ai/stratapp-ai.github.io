@@ -90,7 +90,7 @@ We can set up the new client for you, or you can do that yourself via these easy
 2. after clicking the org activation link, enter your client’s org name (at landing page) and logo (under settings/account)
 3. add your client as a member (under settings/users) and make their role also a super admin
 4. email sales@stratapp.ai to register the lead to you per the Registration Process above
-5. #stratapp to change the billing email to the client’s email added at step 3, so that the client receives the email reminders to enter their payment method at the end of the free trial period
+5. #stratapp to change the billing email to the client’s email added at step 3, so that the client will receive the email reminders to enter their payment method at the end of the free trial period
 
 ### **Multiple Referrers**
 
