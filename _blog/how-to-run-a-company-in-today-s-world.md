@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#videos"
 date: 2020-12-10 00:10:04 +0000
 layout: blog
 title: how to run a company in today's world
