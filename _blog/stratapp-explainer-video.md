@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2019-11-12T06:26:09.000+00:00
+date: 2020-12-07 06:26:09 +0000
 layout: blog
 title: explainer video
 sub_heading: seamlessly execute strategy and day to day work in one place
