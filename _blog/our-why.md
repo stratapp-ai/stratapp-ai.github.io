@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2020-09-10T07:14:06.000+00:00
+date: 2020-12-09 14:00:00 +0000
 layout: blog
 title: our why
 sub_heading: love work.  love life.
