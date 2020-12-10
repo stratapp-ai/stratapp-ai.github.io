@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2020-12-10 00:10:04 +0000
+date: 2020-12-08 00:10:04 +0000
 layout: blog
 title: how to run a company in today's world
 sub_heading: explained in a few minutes, in a relaxed Australian style, enjoy!
