@@ -23,11 +23,11 @@ layout: default
               <div class="video text-center mb-4">
 
                       <div id="videoContainer">
-                        <iframe id="explainer-video" class="video" width="850" height="483" src="https://www.youtube.com/embed/{{ page.video_id }}?wmode=transparent&rel=0&autoplay=1" frameborder="0" allowfullscreen wmode="Opaque"></iframe>
+                        <iframe id="explainer-video" class="video" width="850" height="483" src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen wmode="Opaque"></iframe>
                       </div>
                       
             </div>
-        
+            
           {% else %}
 
           {% if page.banner_image and page.banner_image != "" %}
