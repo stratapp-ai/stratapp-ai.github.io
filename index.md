@@ -36,8 +36,7 @@ features:
   text: achieve org-wide engagement in a genuine and meaningful way, like never before
 - icon: "/uploads/ico-see.svg"
   title: see
-  text: line-of-sight transparency in real time on strategy, KPIs/OKRs, people and
-    work
+  text: line-of-sight transparency in real time on strategy, OKRs, people and work
 - icon: "/uploads/ico-thrive.svg"
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
