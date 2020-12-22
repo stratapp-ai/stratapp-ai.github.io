@@ -27,7 +27,7 @@ features:
   text: bring everyone on the same journey, with healthy bottom up and top down inspiration
 - icon: "/uploads/ico-collaborate.svg"
   title: collaborate
-  text: collaborate in real time on strategy, KPIs/OKRs, projects and day-to-day work
+  text: collaborate in real time on strategy, OKRs, projects and day-to-day work
 - icon: "/uploads/ico-align.svg"
   title: align
   text: effortlessly align all levels, functions, verticals, horizontals and geographies
