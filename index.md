@@ -1,7 +1,7 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# the app for   leading your company\n\n#####
+hero_intro: "{:.font-weight-bold}\n\n# the app for managing your company\n\n#####
   align and motivate everyone on what matters\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
   class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
   it works</a>"
