@@ -39,7 +39,7 @@ NB - all 6 are easy modules inside #stratapp
 
 OKRs are only one piece of a bigger puzzle.
 
-Try this instead: _the leadership team have recently been working in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
+Try this instead: _the leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
 
 ## OKR don't #4
 
