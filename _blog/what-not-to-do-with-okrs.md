@@ -66,7 +66,7 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 **2 -** go for _next gen tech_ that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
 
-**3 -** if you solve 2) above, you will create unlimited opportunities for your leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on fragmented views of strategy and execution.
+**3 -** if you solve 2) you will create unlimited opportunities for leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on fragmented views of strategy and execution.
 
 NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.
 
