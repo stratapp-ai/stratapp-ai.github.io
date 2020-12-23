@@ -41,7 +41,7 @@ Strategy formation and evolution should never stop.  Your strategy tree should b
 
 OKRs are one piece of a bigger picture.
 
-OKRs are brilliant for strategy execution, however there is increasing confusion and false rumours for leaders, middle managers and frontline employees - particularly from folks who only scratch the service when trying to learn something new.
+OKRs are brilliant for strategy execution, however there is increasing confusion and misunderstandings on OKRs - especially from folks who only scratch the service when trying to learn something new.
 
 We recommend you communicate with the bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
