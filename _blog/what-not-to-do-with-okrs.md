@@ -59,7 +59,7 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 **Don't rollout _a single-use-app_ for OKRs.**
 
-3 reasons:
+3 reasons to avoid using a single-use-app for OKRs:
 
 **1** - for many employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employee adoption will fade over time.
 
