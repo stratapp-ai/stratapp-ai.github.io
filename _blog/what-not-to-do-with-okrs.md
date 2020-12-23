@@ -25,7 +25,7 @@ Start with the strategy tree and your leadership team.  No one else.
 
 ## OKR don't #2
 
-**Don't stop evolving strategy** whilst executing your monthly/quarterly OKRs.
+**Don't stop evolving strategy** whilst executing your monthly or quarterly OKRs.
 
 Strategy never stops.  Your strategy tree should be:
 
