@@ -48,20 +48,20 @@ Try this instead: _the leadership team have recently been working together in on
 
 OKRs = one-off lifetime and only 2 to 4 per month or quarter for every 500 employees in your org
 
-KPIs = ongoing lifetime and you may have 15 to 150 indicators that are worth tracking
+KPIs = ongoing lifetime and you may have 15 to 150 indicators worth tracking
 
 When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
 
 ## OKR don't #5
 
-**Don't rollout a single-use-app for OKRs.**
+**Don't rollout _yet another single-use-app_ for OKRs.**
 
 3 reasons:
 
 1 - for many (or most) employees, it will feel like just another tracking tool.  As brilliant as OKRs are, if you do that employees will hate it.
 
-2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time running monthly/quarterly OKRs; and c) ties together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just the right amount of structure and context)
+2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time running monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just the right amount of structure and context)
 
-3 - if you solve reason 2) above, you will create the opportunity for your leaders to lead.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if bouncing around 5 different apps to support teams on strategy and execution.
+3 - if you solve reason 2) above, you will create the opportunity for your leaders to lead.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if you're bouncing around 5 different apps to support your teams on strategy and execution.
 
-NB - #stratapp is the world's first and only app that achieves 2) and 3).  By the time we are copied we will be onto phase 2 of our 5 phase roadmap, so please join us on this new way of thinking on how best to use tech to lead a company.
+NB - #stratapp is the world's first (and thus far only) app that achieves 2) and 3) above.  By the time we are copied by others we will be onto phase 2 of our 5 phase strategic roadmap.  Please join us on shaping this new way of thinking on **_how best to use tech to lead a company_**.
