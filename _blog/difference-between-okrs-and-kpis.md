@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-19 10:25:00 +0000
+date: 2020-11-19T10:25:00.000+00:00
 layout: blog
 title: the difference between OKRs vs KPIs and remuneration
 sub_heading: OKRs vs KPIs, the difference and why it matters for strategy execution
@@ -132,3 +132,7 @@ This is where the team leaders and executives get to apply some judgement, along
 For example, even if we are behind on several key results sitting below an objective, we may be very happy with where we have landed overall in relation to that objective.
 
 This functionality, and how you apply it, is a key ingredient to building culture and making sure your objectives are ambitious and motivating each quarter. In #stratapp, we recommend making these ‘smiley face’ reviews part of your weekly and monthly check-ins with the OKR owners and their teams.
+
+## recommended reading
+
+If you like above we recommend you [read this](https://stratappsaas.com/blog/top-5-don'ts-on-OKRs/ "top 5 don'ts on OKRs").
