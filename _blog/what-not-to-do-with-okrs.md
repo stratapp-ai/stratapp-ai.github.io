@@ -49,7 +49,7 @@ Try this instead: _our leadership team have recently been working together in on
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs: have a _one-off lifetime_ and should be limited to only 2 to 4 per month or quarter for every 500 employees in your org
+OKRs: have a _one-off lifetime_ and should be limited to only 2 to 4 per month or quarter for every 500 employees
 
 KPIs: have an _ongoing lifetime_ and believe it or not you may have 10 to 250 indicators worth tracking
 
