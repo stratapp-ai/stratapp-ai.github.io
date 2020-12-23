@@ -66,3 +66,7 @@ When you see KPIs going off track, or when you come up with new ideas for strate
 3 - if you solve 2) above, you will create the opportunity for your leaders to lead.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on strategy and execution.
 
 NB - #stratapp is the world's first (and thus far only) app that achieves 2) and 3) above.  By the time our app is copied by others we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  Please join us on shaping this new way of thinking on **_how best to use tech to lead a company_**.
+
+recommend reading
+
+You might also enjoy [7 steps to successfully implement OKRs]().
