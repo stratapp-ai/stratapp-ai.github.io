@@ -77,6 +77,6 @@ By the time our app is inevitably copied by others, we will already be onto phas
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
-Not to mention the inspiring books and articles under [https://stratappsaas.com/resources/](https://stratappsaas.com/resources/ "https://stratappsaas.com/resources/").
+See also the inspiring books and articles [here](https://stratappsaas.com/resources/ "recommended reading"). 
 
-If you like this (admittedly somewhat blunt) blog article, please share it.
+If you like this (admittedly somewhat blunt) blog article, please share it amigos.
