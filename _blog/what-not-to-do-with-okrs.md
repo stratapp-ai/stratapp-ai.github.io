@@ -4,13 +4,13 @@ category:
 - "#okr"
 date: 2020-12-23 08:53:37 +0000
 layout: blog
-title: what not to do with OKRs
+title: top 5 don'ts on OKRs
 sub_heading: OKRs are brilliant - here are the top 5 don'ts
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: what not to do with OKRs
-slug: what not to do with OKRs
-seo_title: what not to do with OKRs
+slug: top 5 don'ts on OKRs
+seo_title: top 5 don'ts on OKRs
 seo_description: OKRs are brilliant - here are the top 5 don'ts
 feature_image: "/uploads/don-t-do-it.PNG"
 
