@@ -64,16 +64,16 @@ When you see KPIs going off track, or when you are thinking of new ideas for str
 
 1 - for many (or most) employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employees will hate it.
 
-2 - go for next gen tech that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
+2 - go for _next gen tech_ that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
 
-3 - if you solve 2) above, you will create the opportunity for your leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on strategy and execution.
+3 - if you solve 2) above, you will create unlimited opportunities for your leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on fragmented views of strategy and execution.
 
-NB - #stratapp is the world's first (and thus far only) B2B SaaS app that achieves 2) and 3) above.  By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  Please join the #stratapp tribe on evolving this new way of thinking on **_how best to use tech to lead a company_**.
+NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.  By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  Please join the #stratapp tribe on evolving this new way of thinking on **_how best to use tech to lead a company_**.
 
 ## recommended reading
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
-Not to mention the third party books and resources under [https://stratappsaas.com/resources/](https://stratappsaas.com/resources/ "https://stratappsaas.com/resources/").
+Not to mention the inspiring books and articles under [https://stratappsaas.com/resources/](https://stratappsaas.com/resources/ "https://stratappsaas.com/resources/").
 
-If you like this (somewhat blunt) blog article, please share it.
+If you like this (admittedly somewhat blunt) blog article, please share it.
