@@ -5,15 +5,14 @@ category:
 date: 2020-11-15 14:00:00 +0000
 layout: blog
 title: top 5 don'ts on OKRs
-sub_heading: OKRs are brilliant - but here are the top 5 don'ts - learnt from the
-  best
+sub_heading: OKRs are brilliant - but here are the top 5 don'ts, learnt from the best
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: top 5 don'ts on OKRs
 slug: top 5 don'ts on OKRs
 seo_title: top 5 don'ts on OKRs
-seo_description: OKRs are brilliant - but here are the top 5 don'ts - learnt from
-  the best
+seo_description: OKRs are brilliant - but here are the top 5 don'ts, learnt from the
+  best
 feature_image: "/uploads/don-t-do-it.PNG"
 
 ---
