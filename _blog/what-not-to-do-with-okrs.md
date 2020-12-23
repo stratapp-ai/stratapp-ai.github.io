@@ -67,6 +67,6 @@ When you see KPIs going off track, or when you come up with new ideas for strate
 
 NB - #stratapp is the world's first (and thus far only) app that achieves 2) and 3) above.  By the time our app is copied by others we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  Please join us on shaping this new way of thinking on **_how best to use tech to lead a company_**.
 
-recommend reading
+## recommended reading
 
-You might also enjoy [7 steps to successfully implement OKRs]().
+You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
