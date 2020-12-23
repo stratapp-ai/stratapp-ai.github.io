@@ -32,18 +32,28 @@ Strategy never stops.  Your strategy tree should be live and interactive.
 
 **Don't say you're rolling out OKRs.**
 
-That's only one piece of the puzzle.
+OKRs are only one piece of a bigger puzzle.
 
-Try this instead: 
+Try this instead: _the leadership team have recently been working in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
 
-OKR #4
+## OKR don't #4
 
-OKR #5
+**Don't confuse OKRs with KPIs.**
 
-\- 
+OKRs = one-off lifetime and only 2 to 4 per quarter for every 500 employees
 
-\- don't say you're rolling out OKRs (that's only one piece of the puzzle)
+KPIs = ongoing lifetime and you may have 15 to 150 indicators worth tracking
 
-\- don't confuse OKRs (one-off lifetime and only 2 to 4 per quarter for every 500 employees) with KPIs (ongoing lifetime and you may have 15 to 150 indicators worth tracking)
+When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
 
-\- don't rollout a single-use-app for OKRs (it will feel to employees as just another tracking tool)
+## OKR don't #5
+
+Don't rollout a single-use-app for OKRs.
+
+3 reasons:
+
+1 - for many (or most) employees, it will feel like just another tracking tool
+
+2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 18 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy, OKRs and daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, whilst maintaining just enough structure and context)
+
+3 - if you solve reason 2) above, then your leaders will have the opportunity to lead.  No matter how good a leader you are, and how good your intentions are, you cannot lead if the above 
