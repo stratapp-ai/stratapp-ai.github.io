@@ -31,15 +31,15 @@ Strategy never stops.  Your strategy tree should be:
 * cascading to execution
 * guided by your vision, why and direction
 
-NB - all 6 attributes co-exist inside #stratapp
+NB - all 6 are easy modules inside #stratapp
 
 ## OKR don't #3
 
-**Don't say you're rolling out OKRs.**
+**Don't say to employees: "We are rolling out OKRs!"**
 
 OKRs are only one piece of a bigger puzzle.
 
-Try this instead: _the leadership team have recently been working in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
+Try this instead: _the leadership team have recently been working in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
 
 ## OKR don't #4
 
@@ -49,7 +49,7 @@ OKRs = one-off lifetime and only 2 to 4 per quarter for every 500 employees
 
 KPIs = ongoing lifetime and you may have 15 to 150 indicators worth tracking
 
-When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
+When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs, to get them done!
 
 ## OKR don't #5
 
