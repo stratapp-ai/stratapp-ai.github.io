@@ -79,6 +79,6 @@ You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons w
 
 Not to mention these [inspiring books and articles](https://stratappsaas.com/resources/ "resources").
 
-If you like this (admittedly somewhat direct and minimalist) blog article, please share it amigos.
+If you like this (admittedly somewhat direct and minimalist) article, please share it amigos.
 
 Thank you!
