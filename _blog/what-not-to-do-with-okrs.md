@@ -48,12 +48,12 @@ When you see KPIs going off track, or when you come up with new ideas for strate
 
 ## OKR don't #5
 
-Don't rollout a single-use-app for OKRs.
+**Don't rollout a single-use-app for OKRs.**
 
 3 reasons:
 
-1 - for many (or most) employees, it will feel like just another tracking tool
+1 - for many (or most) employees, it will feel like just another tracking tool, as brilliant as OKRs are, employees will hate it
 
-2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 18 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy, OKRs and daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, whilst maintaining just enough structure and context)
+2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy, OKRs and daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just enough structure and context)
 
-3 - if you solve reason 2) above, then your leaders will have the opportunity to lead.  No matter how good a leader you are, and how good your intentions are, you cannot lead if the above 
+3 - if you solve reason 2) above, then your leaders will have the opportunity to lead.  No matter how good a leader you are, and how good your intentions are, your leadership is diluted if you are bouncing around 5-10 different apps on above
