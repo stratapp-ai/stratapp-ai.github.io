@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-12-23 08:53:37 +0000
+date: 2020-11-15 14:00:00 +0000
 layout: blog
 title: top 5 don'ts on OKRs
 sub_heading: OKRs are brilliant - here are the top 5 don'ts
