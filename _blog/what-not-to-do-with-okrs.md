@@ -5,7 +5,8 @@ category:
 date: 2020-11-15 14:00:00 +0000
 layout: blog
 title: top 5 don'ts on OKRs
-sub_heading: OKRs are brilliant - here are the top 5 don'ts
+sub_heading: OKRs are brilliant - here are the top 5 don'ts that we've learnt from
+  the best
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: what not to do with OKRs
@@ -19,7 +20,7 @@ feature_image: "/uploads/don-t-do-it.PNG"
 
 **Don't start with OKRs.**
 
-Start with the strategy tree and your leadership team.
+Start with the strategy tree and your leadership team.  No one else.
 
 ## OKR don't #2
 
@@ -37,7 +38,7 @@ NB - all 6 are easy modules inside #stratapp
 
 **Don't say to employees: "We are rolling out OKRs!"**
 
-OKRs are only one piece of a bigger puzzle.
+OKRs are a key piece of a bigger puzzle.
 
 Try this instead: _the leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
 
@@ -45,11 +46,11 @@ Try this instead: _the leadership team have recently been working together in on
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs = one-off lifetime and only 2 to 4 per quarter for every 500 employees
+OKRs = one-off lifetime and only 2 to 4 per month or quarter for every 500 employees in your org
 
-KPIs = ongoing lifetime and you may have 15 to 150 indicators worth tracking
+KPIs = ongoing lifetime and you may have 15 to 150 indicators that are worth tracking
 
-When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs, to get them done!
+When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
 
 ## OKR don't #5
 
