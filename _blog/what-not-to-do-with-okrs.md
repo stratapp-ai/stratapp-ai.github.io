@@ -23,7 +23,7 @@ feature_image: "/uploads/don-t-do-it.PNG"
 
 Start with the strategy tree and your leadership team.
 
-NB - after reading this blog, come back to [watch this](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn more about the leadership cycle and strategy tree
+NB - _after_ reading this blog, come back to [watch this](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn more about the leadership cycle and strategy tree
 
 ## OKR don't #2
 
@@ -68,14 +68,18 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 **3 -** if you solve 2) above, you will create unlimited opportunities for your leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on fragmented views of strategy and execution.
 
-NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.  
+NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.
 
-By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  Please join the #stratapp tribe on evolving this new way of thinking on **_how best to use tech to lead a company_**.
+By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  
+
+Please join our #stratapp tribe on rethinking **_how best to use tech to lead a company_**.
 
 ## recommended reading
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
-See also the inspiring books and articles [here](https://stratappsaas.com/resources/ "recommended reading"). 
+Not to mention these inspiring books and articles [here](https://stratappsaas.com/resources/ "recommended reading").
 
 If you like this (admittedly somewhat blunt) blog article, please share it amigos.
+
+Thank you!
