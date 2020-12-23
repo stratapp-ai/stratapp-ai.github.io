@@ -32,10 +32,11 @@ NB - [watch this]() to learn more about the leadership cycle and strategy tree.
 Strategy formation and evolution should never stop.  Your strategy tree should be:
 
 * live and interactive
+* accessible to everyone
 * cascading to execution
 * guided by your vision, why and direction
 
-NB - all 6 are easy modules inside #stratapp
+NB - all 6 co-exist seamlessly inside #stratapp
 
 ## OKR don't #3
 
