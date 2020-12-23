@@ -50,11 +50,11 @@ Try this instead: _our leadership team have recently been working together in on
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs = have a one-off lifetime and should be limited to only 2 to 4 per month or quarter for every 500 employees in your org
+OKRs = have a _one-off lifetime_ and should be limited to only 2 to 4 per month or quarter for every 500 employees in your org
 
-KPIs = have an ongoing lifetime and you may have 10 to 250 indicators worth tracking
+KPIs = have an _ongoing lifetime_ and you may have 10 to 250 indicators worth tracking
 
-When you see KPIs going off track, or when you are thinking of new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
+When you see KPIs going off track, or when you are thinking of new ideas for strategy or capabilities, that's when you introduce OKRs - to get it done!
 
 ## OKR don't #5
 
@@ -62,7 +62,7 @@ When you see KPIs going off track, or when you are thinking of new ideas for str
 
 3 reasons:
 
-1 - for many (or most) employees, it will feel like a tracking or accountability tool.  As brilliant as OKRs are, if you do that, employees will hate it.
+1 - for many (or most) employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employees will hate it.
 
 2 - go for next gen tech that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
 
