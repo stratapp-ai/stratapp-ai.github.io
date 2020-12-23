@@ -44,7 +44,8 @@ NB - all six attributes co-exist seamlessly inside #stratapp
 
 OKRs are one piece of a bigger picture.
 
-Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution transparently together with everyone in \[company name\]_
+Try this instead:  
+_our leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution transparently together with everyone in \[company name\]_
 
 ## OKR don't #4
 
