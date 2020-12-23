@@ -71,7 +71,7 @@ NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achi
 
 By the time we are copied by others, we will already be onto phase 2 of our 5 phase roadmap.
 
-Please join our #stratapp tribe on rethinking **_how best to use tech to lead a company_**.
+Please join the #stratapp global tribe on rethinking **_how best to use tech to lead a company_**.
 
 ## reading
 
