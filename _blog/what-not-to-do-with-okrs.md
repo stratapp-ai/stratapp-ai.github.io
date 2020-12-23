@@ -21,7 +21,7 @@ feature_image: "/uploads/don-t-do-it.PNG"
 
 **Don't start with OKRs.**
 
-Start with the strategy tree and your leadership team.  No one else.
+Start with the strategy tree and your leadership team.
 
 ## OKR don't #2
 
