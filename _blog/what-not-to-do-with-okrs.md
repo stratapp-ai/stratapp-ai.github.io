@@ -73,7 +73,7 @@ By the time we are copied by others, we will already be onto phase 2 of our 5 ph
 
 Please join our #stratapp tribe on rethinking **_how best to use tech to lead a company_**.
 
-## recommended reading
+## reading
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
