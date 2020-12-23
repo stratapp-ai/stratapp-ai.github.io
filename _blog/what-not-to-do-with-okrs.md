@@ -22,7 +22,7 @@ feature_image: "/uploads/don-t-do-it.PNG"
 
 Start with the strategy tree and your leadership team.
 
-NB - after reading, [watch this short video](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn about the leadership cycle and strategy tree
+NB - after reading this article, [watch this short video](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn about the leadership cycle and strategy tree
 
 ## OKRs don't #2
 
