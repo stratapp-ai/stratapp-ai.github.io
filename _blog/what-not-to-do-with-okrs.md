@@ -27,7 +27,7 @@ NB - [watch this](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn 
 
 ## OKR don't #2
 
-**Don't stop evolving strategy** whilst executing your monthly or quarterly OKRs.
+**Don't stop evolving your strategy** whilst executing monthly or quarterly OKRs.
 
 Strategy formation and evolution should never stop.  Your strategy tree should be:
 
