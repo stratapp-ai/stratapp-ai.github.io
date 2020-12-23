@@ -5,18 +5,17 @@ category:
 date: 2020-12-23 08:53:37 +0000
 layout: blog
 title: what not to do with OKRs
-sub_heading: OKRs are brilliant - here are the top 5 "don't do it" tips
+sub_heading: OKRs are brilliant - here are the top 5 don'ts
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: what not to do with OKRs
 slug: what not to do with OKRs
 seo_title: what not to do with OKRs
-seo_description: OKRs are brilliant - here are the top 5 "don't do it" tips.
+seo_description: OKRs are brilliant - here are the top 5 don'ts
 feature_image: "/uploads/don-t-do-it.PNG"
 published: false
 
 ---
-
 ## OKR don't #1
 
 **Don't start with OKRs.**
@@ -31,11 +30,17 @@ Strategy never stops.  Your strategy tree should be live and interactive.
 
 ## OKR don't #3
 
-tip #4
+**Don't say you're rolling out OKRs.**
 
-tip #5
+That's only one piece of the puzzle.
 
-\- don't stop evolving the strategy tree whilst executing month/quarter OKRs (strategy work keeps going)
+Try this instead: 
+
+OKR #4
+
+OKR #5
+
+\- 
 
 \- don't say you're rolling out OKRs (that's only one piece of the puzzle)
 
