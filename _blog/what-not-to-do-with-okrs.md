@@ -44,8 +44,7 @@ NB - again, after reading this blog pop back up to the link above
 
 OKRs are one piece of a bigger picture.
 
-Try this instead:  
-_our leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution transparently together with everyone in \[company name\]_
+Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with all of you_
 
 ## OKR don't #4
 
