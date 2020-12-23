@@ -5,14 +5,14 @@ category:
 date: 2020-11-15 14:00:00 +0000
 layout: blog
 title: top 5 don'ts on OKRs
-sub_heading: OKRs are brilliant - but here are the top 5 don'ts we learnt from the
+sub_heading: OKRs are brilliant - but here are the top 5 don'ts - learnt from the
   best
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: top 5 don'ts on OKRs
 slug: top 5 don'ts on OKRs
 seo_title: top 5 don'ts on OKRs
-seo_description: OKRs are brilliant - but here are the top 5 don'ts we learnt from
+seo_description: OKRs are brilliant - but here are the top 5 don'ts - learnt from
   the best
 feature_image: "/uploads/don-t-do-it.PNG"
 
@@ -70,7 +70,7 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.
 
-By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.  
+By the time our app is inevitably copied by others, we will already be onto phase 2 of our **_5 phase strategic roadmap_**.
 
 Please join our #stratapp tribe on rethinking **_how best to use tech to lead a company_**.
 
@@ -78,7 +78,7 @@ Please join our #stratapp tribe on rethinking **_how best to use tech to lead a 
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
-Not to mention these inspiring books and articles [here](https://stratappsaas.com/resources/ "recommended reading").
+Not to mention these [inspiring books and articles](https://stratappsaas.com/resources/ "resources").
 
 If you like this (admittedly somewhat blunt) blog article, please share it amigos.
 
