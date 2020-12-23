@@ -36,7 +36,7 @@ Strategy formation and evolution should never stop.  Your strategy tree should b
 * cascading to execution
 * guided by your vision, why and direction
 
-NB - all six attributes co-exist seamlessly inside #stratapp
+NB - again, after reading this blog pop back up to the link above
 
 ## OKR don't #3
 
