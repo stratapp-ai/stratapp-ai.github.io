@@ -37,11 +37,13 @@ Strategy formation and evolution should never stop.  Your strategy tree should b
 
 ## OKRs don't #3
 
-**Don't say to employees: "_We are rolling out OKRs!_"**
+**Don't say to employees: "_We are rolling out OKRs_"**
 
 OKRs are one piece of a bigger picture.
 
-Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
+OKRs are brilliant for strategy execution, however there is increasing confusion and false rumours - particularly from folks who only scratch the service when learning you things.
+
+We recommend you communicate with a bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
 ## OKRs don't #4
 
