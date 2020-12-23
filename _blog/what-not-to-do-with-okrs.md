@@ -53,9 +53,9 @@ _our leadership team have recently been working together in one digital workspac
 
 OKRs: have a _one-off lifetime_ and should be limited to only 2 to 4 per month or quarter for every 500 employees in your org
 
-KPIs: have an _ongoing lifetime_ and you may have 10 to 250 indicators worth tracking
+KPIs: have an _ongoing lifetime_ and believe it or not you may have 10 to 250 indicators worth tracking
 
-When you see KPIs going off track, or when you are thinking of new ideas for strategy or capabilities, that's when you introduce OKRs - to get it done!
+When you see KPIs going off track, or when you think of new ideas for strategy or capabilities, that's when you introduce OKRs - to get it done!
 
 ## OKR don't #5
 
