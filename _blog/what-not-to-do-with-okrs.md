@@ -23,11 +23,13 @@ feature_image: "/uploads/don-t-do-it.PNG"
 
 Start with the strategy tree and your leadership team.
 
+NB - [watch this]() to learn more about the leadership cycle and strategy tree.
+
 ## OKR don't #2
 
 **Don't stop evolving strategy** whilst executing your monthly or quarterly OKRs.
 
-Strategy never stops.  Your strategy tree should be:
+Strategy formation and evolution should never stop.  Your strategy tree should be:
 
 * live and interactive
 * cascading to execution
@@ -41,17 +43,17 @@ NB - all 6 are easy modules inside #stratapp
 
 OKRs are a key piece of the big picture.
 
-Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together with you_
+Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution transparently together with everyone in \[company name\]_
 
 ## OKR don't #4
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs = one-off lifetime and only 2 to 4 per month or quarter for every 500 employees in your org
+OKRs = have a one-off lifetime and should be limited to only 2 to 4 per month or quarter for every 500 employees in your org
 
-KPIs = ongoing lifetime and you may have 10 to 250 indicators worth tracking
+KPIs = have an ongoing lifetime and you may have 10 to 250 indicators worth tracking
 
-When you see KPIs going off track, or when you come up with new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
+When you see KPIs going off track, or when you are thinking of new ideas for strategy or capabilities, that's when you introduce OKRs - to get them done!
 
 ## OKR don't #5
 
