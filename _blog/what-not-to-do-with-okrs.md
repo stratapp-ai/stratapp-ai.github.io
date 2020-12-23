@@ -23,9 +23,15 @@ Start with the strategy tree and your leadership team.
 
 ## OKR don't #2
 
-**Don't stop evolving the strategy tree** whilst executing your monthly/quarterly OKRs.
+**Don't stop evolving strategy** whilst executing your monthly/quarterly OKRs.
 
-Strategy never stops.  Your strategy tree should be live and interactive.
+Strategy never stops.  Your strategy tree should be:
+
+* live and interactive
+* cascading to execution
+* guided by your vision, why and direction
+
+NB - all 6 attributes co-exist inside #stratapp
 
 ## OKR don't #3
 
@@ -56,3 +62,5 @@ When you see KPIs going off track, or when you come up with new ideas for strate
 2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just enough structure and context)
 
 3 - if you solve reason 2) above, you create the opportunity for your leaders to lead.  No matter how good a leader you are, and how good your work ethic and intentions are, your leadership is diluted if you are bouncing around 5-10 different apps to support your teams on strategy and execution
+
+NB - #stratapp is the world's first and only app that achieves 2) and 3) above
