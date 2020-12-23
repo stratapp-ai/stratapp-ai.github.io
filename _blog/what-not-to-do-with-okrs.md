@@ -13,7 +13,6 @@ slug: what not to do with OKRs
 seo_title: what not to do with OKRs
 seo_description: OKRs are brilliant - here are the top 5 don'ts
 feature_image: "/uploads/don-t-do-it.PNG"
-published: false
 
 ---
 ## OKR don't #1
@@ -54,6 +53,6 @@ When you see KPIs going off track, or when you come up with new ideas for strate
 
 1 - for many (or most) employees, it will feel like just another tracking tool, as brilliant as OKRs are, employees will hate it
 
-2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy, OKRs and daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just enough structure and context)
+2 - go for a tool that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy, whilst at the same time running monthly/quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving Ray Dalio's radical transparency, with just enough structure and context)
 
-3 - if you solve reason 2) above, then your leaders will have the opportunity to lead.  No matter how good a leader you are, and how good your intentions are, your leadership is diluted if you are bouncing around 5-10 different apps on above
+3 - if you solve reason 2) above, you create the opportunity for your leaders to lead.  No matter how good a leader you are, and how good your work ethic and intentions are, your leadership is diluted if you are bouncing around 5-10 different apps to support your teams on strategy and execution
