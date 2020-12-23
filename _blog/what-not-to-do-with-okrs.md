@@ -41,17 +41,17 @@ Strategy formation and evolution should never stop.  Your strategy tree should b
 
 OKRs are one piece of a bigger picture.
 
-OKRs are brilliant for strategy execution, however there is increasing confusion and false rumours - particularly from folks who only scratch the service when learning you things.
+OKRs are brilliant for strategy execution, however there is increasing confusion and false rumours for leaders, middle managers and frontline employees - particularly from folks who only scratch the service when trying to learn something new.
 
-We recommend you communicate with a bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
+We recommend you communicate with the bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
 ## OKRs don't #4
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs: _one-off lifetime_, limited to only 2 to 4 objectives per month or quarter for every 500 employees
+OKRs: _one-off lifetime_, limited to only 2 to 4 objectives per quarter for every 500 employees
 
-KPIs: _ongoing lifetime_ and you may have 10 to 250 indicators worthy of tracking
+KPIs: _ongoing lifetime_ and you may have 10 to 250 indicators worth tracking
 
 When you see KPIs going off track, or when you think of new ideas for strategy or capabilities, that's when you introduce OKRs - _to get it done!_
 
@@ -69,7 +69,7 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves both 2) and 3) above.  Leaders have the opportunity to lead.  Employee rising stars have the opportunity to shine, unconstrained by org hierarchy and political silos (you might like this [thinking on corporate hierarchy from Elon Musk](https://cleantechnica.com/2018/05/15/elon-musk-takes-on-corporate-hierarchy-in-note-to-tesla-employees/ "Elon Musk on corporate hierarchy")).
 
-By the time we are copied by others, we will already be onto phase 2 of our 5 phase roadmap.
+By the time we are copied by others, #stratapp will already be onto building phase 2 of our 5 phase roadmap.
 
 Please join the #stratapp global tribe on rethinking **_how best to use tech to lead a company_**.
 
@@ -79,6 +79,6 @@ You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons w
 
 Not to mention these [inspiring books and articles](https://stratappsaas.com/resources/ "resources").
 
-If you like this (admittedly somewhat direct and minimalist) article, please share it amigos.
+If you like this somewhat direct and minimalist article, please share it amigos.
 
 Thank you!
