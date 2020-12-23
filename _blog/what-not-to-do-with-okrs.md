@@ -5,26 +5,25 @@ category:
 date: 2020-11-15 14:00:00 +0000
 layout: blog
 title: top 5 don'ts on OKRs
-sub_heading: OKRs are brilliant - but here are the top 5 don'ts, learnt from the best
+sub_heading: OKRs are brilliant - top 5 don'ts, learnt from the best
 video_id: ''
 banner_image: "/uploads/don-t-do-it.PNG"
 alt_text: top 5 don'ts on OKRs
 slug: top 5 don'ts on OKRs
 seo_title: top 5 don'ts on OKRs
-seo_description: OKRs are brilliant - but here are the top 5 don'ts, learnt from the
-  best
+seo_description: OKRs are brilliant - top 5 don'ts, learnt from the best
 feature_image: "/uploads/don-t-do-it.PNG"
 
 ---
-## OKR don't #1
+## OKRs don't #1
 
 **Don't start with OKRs.**
 
 Start with the strategy tree and your leadership team.
 
-NB - after reading this, [watch this short video](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn more about the leadership cycle and strategy tree
+NB - after reading, [watch this short video](https://youtu.be/DqsXkZs75Lk "the leadership cycle") to learn about the leadership cycle and strategy tree
 
-## OKR don't #2
+## OKRs don't #2
 
 **Don't stop evolving your strategy** whilst executing monthly or quarterly OKRs.
 
@@ -35,9 +34,7 @@ Strategy formation and evolution should never stop.  Your strategy tree should b
 * cascading to execution
 * guided by your vision, why and direction
 
-NB - again, after reading this blog pop back up to the link above
-
-## OKR don't #3
+## OKRs don't #3
 
 **Don't say to employees: "_We are rolling out OKRs!_"**
 
@@ -45,19 +42,19 @@ OKRs are one piece of a bigger picture.
 
 Try this instead: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
-## OKR don't #4
+## OKRs don't #4
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs: have a _one-off lifetime_ and should be limited to only 2 to 4 per month or quarter for every 500 employees
+OKRs: _one-off lifetime_, limited to only 2 to 4 per month or quarter for every 500 employees
 
-KPIs: have an _ongoing lifetime_ and believe it or not you may have 10 to 250 indicators worth tracking
+KPIs: _ongoing lifetime_ and believe it or not you may have 10 to 250 indicators worth tracking
 
 When you see KPIs going off track, or when you think of new ideas for strategy or capabilities, that's when you introduce OKRs - to get it done!
 
-## OKR don't #5
+## OKRs don't #5
 
-**Don't rollout _yet another single-use-app_ for OKRs.**
+**Don't rollout _a single-use-app_ for OKRs.**
 
 3 reasons:
 
