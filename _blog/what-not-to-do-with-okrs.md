@@ -49,11 +49,11 @@ We recommend you communicate with a bigger picture: _our leadership team have re
 
 **Don't confuse OKRs with KPIs.**
 
-OKRs: _one-off lifetime_, limited to only 2 to 4 per month or quarter for every 500 employees
+OKRs: _one-off lifetime_, limited to only 2 to 4 objectives per month or quarter for every 500 employees
 
-KPIs: _ongoing lifetime_ and believe it or not you may have 10 to 250 indicators worth tracking
+KPIs: _ongoing lifetime_ and you may have 10 to 250 indicators worthy of tracking
 
-When you see KPIs going off track, or when you think of new ideas for strategy or capabilities, that's when you introduce OKRs - to get it done!
+When you see KPIs going off track, or when you think of new ideas for strategy or capabilities, that's when you introduce OKRs - _to get it done!_
 
 ## OKRs don't #5
 
@@ -61,13 +61,13 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 3 reasons:
 
-**1** - for many (or most) employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employees will hate it.
+**1** - for many employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employee adoption will fade over time.
 
 **2** - go for _next gen tech_ that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
 
-**3** - if you solve 2) you will create unlimited opportunities for leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing around 5 different apps to support their teams on fragmented views of strategy and execution.
+**3** - if you solve 2) you will create unlimited opportunities for leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing across 5 different apps to support their teams on fragmented views of strategy and the various levels of execution.
 
-NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves 2) and 3) above.
+NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves both 2) and 3) above.  Leaders have the opportunity to lead.  Employee rising stars have the opportunity to shine, unconstrained by org hierarchy and political silos (you might like this [thinking on corporate hierarchy from Elon Musk](https://cleantechnica.com/2018/05/15/elon-musk-takes-on-corporate-hierarchy-in-note-to-tesla-employees/ "Elon Musk on corporate hierarchy")).
 
 By the time we are copied by others, we will already be onto phase 2 of our 5 phase roadmap.
 
