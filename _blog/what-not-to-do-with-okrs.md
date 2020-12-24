@@ -77,8 +77,10 @@ Please join the #stratapp global tribe on rethinking **_how best to use tech to 
 
 You might also enjoy [7 steps to successfully implement OKRs]() and [5 reasons why #stratapp is the best strategy execution software app in the world right now](https://stratappsaas.com/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
-Not to mention these [inspiring books and articles](https://stratappsaas.com/resources/ "resources").
+Not to mention these [inspiring books and articles](https://stratappsaas.com/resources/ "resources") by thought leaders like Richard Rumelt, Simon Sinek, Ray Dalio, Prof Roger Martin, John Doerr and Ricardo Semler.
 
-If you like this somewhat direct and minimalist article, please share it amigos.
+## thank you
+
+If you like this article on the top 5 don'ts on OKRs, please share it amigos.
 
 Thank you!
