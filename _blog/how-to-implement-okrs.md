@@ -139,13 +139,15 @@ This may involve adding employees who are outside of the leadership team.  As me
 
 How many OKRs should we set each month or quarter?  Less is more, as explained [here](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs?").
 
+You might also want to read the [top 5 don'ts on OKRs](https://stratappsaas.com/blog/top-5-don'ts-on-OKRs/ "top 5 don'ts on OKRs").
+
 ## implement OKRs - progressively
 
 The trick here is _not_ to announce you are "_rolling out OKRs_", as that tends to create a mixed reaction from employees.  Most people who are new to OKRs misunderstand the methodology and why it is so brilliant for the organization, and for them as individuals.
 
 We recommend you go for an approach that is less threatening and more aspirational:
 
-_the leadership team have recently been collaborating in one digital workspace for strategy + execution + collaboration, and now we want to progressively open that up to the whole company, so we can evolve ideas, planning, strategy formation and strategy execution together_
+_our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
 As you add employees at each stage of the rollout, you may decide to share these two presentations: [engaging people](https://bit.ly/stratapp-engaging-people "engaging people") and [the leadership cycle](https://bit.ly/stratapp-the-leadership-cycle "the leadership cycle").
 
