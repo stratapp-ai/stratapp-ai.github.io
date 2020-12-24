@@ -43,7 +43,7 @@ OKRs are one piece of a bigger picture.
 
 OKRs are brilliant for strategy execution, however there is increasing confusion and misunderstandings on OKRs - especially from folks who only scratch the service when trying to learn something new.
 
-We recommend you communicate with the bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
+We recommend communicating with the bigger picture: _our leadership team have recently been working together in one digital workspace for ideation + planning + strategy + execution, and now we want to progressively open that up to the whole company, so we can evolve these together with you_
 
 ## OKRs don't #4
 
@@ -59,15 +59,15 @@ When you see KPIs going off track, or when you think of new ideas for strategy o
 
 **Don't rollout _a single-use-app_ for OKRs.**
 
-3 reasons to avoid using a single-use-app for OKRs:
+3 reasons to avoid single-use-apps for OKRs:
 
-**1** - for many employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if you do that, employee adoption will fade over time.
+**1** - for many employees, it will feel like just another tracking or accountability tool.  As brilliant as OKRs are, if they feel that, employee adoption will fade over time.
 
-**2** - go for _next gen tech_ that allows you to: a) evolve the strategy tree to a 12 to 36 month horizon; b) evolve the strategy tree, whilst at the same time executing monthly or quarterly OKRs; and c) tie together execution of strategy + OKRs + daily work, in one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency"), with just the right amount of structure and context)
+**2** - go for _next gen tech_ that allows you to: a) create the strategy tree to a 12 to 36 month horizon; b) add OKRs to any level of the strategy tree; c) evolve and execute off the strategy tree whilst at the same time executing OKRs (i.e. per "OKR don't #2" above, strategy evolution and execution never stops); d) tie together execution of _strategy + OKRs + daily work_, into one digital workspace (thereby achieving [Ray Dalio's radical transparency](https://stratappsaas.com/blog/radical-transparency/ "Ray Dalio's radical transparency")) so that leaders can efficiently engage/contribute/support/coach at all levels on execution, in real time, rather than looking at dashboards and trying to figure out what's really happening
 
-**3** - if you solve 2) you will create unlimited opportunities for leaders to lead.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if they are bouncing across 5 different apps to support their teams on fragmented views of strategy and the various levels of execution.
+**3** - if you solve 2) you will create unlimited opportunities for leaders to lead, and the transparency will radically elevate org-wide performance and culture.  Think about this.  No matter how good your leaders are, or how good their work ethic and intentions are, leadership is critically diluted if bouncing across 5 different apps to support teams on fragmented views of strategy and execution.
 
-NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves both 2) and 3) above.  Leaders have the opportunity to lead.  Employee rising stars have the opportunity to shine, unconstrained by org hierarchy and political silos (you might like this [thinking on corporate hierarchy from Elon Musk](https://cleantechnica.com/2018/05/15/elon-musk-takes-on-corporate-hierarchy-in-note-to-tesla-employees/ "Elon Musk on corporate hierarchy")).
+NB - #stratapp is the world's first (_and thus far only_) B2B SaaS app that achieves both 2) and 3) above.  Leaders have the opportunity to lead.  Employee rising stars have the opportunity to shine, and to receive appreciation, unconstrained by org hierarchy and political silos (you might like this [thinking on corporate hierarchy from Elon Musk](https://cleantechnica.com/2018/05/15/elon-musk-takes-on-corporate-hierarchy-in-note-to-tesla-employees/ "Elon Musk on corporate hierarchy")).
 
 By the time we are copied by others, #stratapp will already be onto building phase 2 of our 5 phase roadmap.
 
