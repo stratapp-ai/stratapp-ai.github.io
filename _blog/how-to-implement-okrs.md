@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-16 22:02:00 +0000
+date: 2020-11-16T22:02:00.000+00:00
 layout: blog
 title: 7 steps to successfully implement OKRs
 sub_heading: OKRs are brilliant - but ironically, the key to success is don't start
@@ -57,9 +57,9 @@ Step #2 is to switch from static strategy documents, spreadsheets, email and cha
 
 Once the leadership team master this, you are then ready to move onto OKRs.
 
-#### OKRs are brilliant - but you don't stop doing strategy
+#### OKRs are brilliant - but you won't stop doing strategy
 
-Makes sense right?  Whilst OKRs drive strategy execution for the next quarter (or whatever OKR cycle you choose), you are still evolving your strategy for the next 12 to 36 months, right?  Of course you are, as you should be.
+Makes sense right?  Whilst OKRs drive strategy execution for the next month or quarter, you are still evolving your strategy for the next 12 to 36 months, right?  Of course you are, as you should be.
 
 This real-world attribute fundamentally sets #stratapp apart from the plethora of single-use-OKR-apps:
 
