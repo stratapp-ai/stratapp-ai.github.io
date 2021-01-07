@@ -41,15 +41,15 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: strategy execution SaaS app for every employee to engage on strategy and
-  daily work
-seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
-  to day work in one place. Making strategy execution successful whilst solving urgent
-  overtaking important.
+seo_title: the app for leading your company | align and motivate everyone on what
+  matters | strategy execution like never before
+seo_description: Strategy execution SaaS app for leading your company. Align and motivate
+  everyone on what matters. Strategy execution and daily work in one seamless digital
+  workspace.
 redirect_from:
 - "/events/"
 - "/tutorials/"
-feature_image: "/uploads/feature image - home page 2.JPG"
+feature_image: "/uploads/stratapp-home-page.PNG"
 stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
