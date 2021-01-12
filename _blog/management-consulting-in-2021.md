@@ -39,7 +39,11 @@ Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,
 
 ## growth opportunity #1 - go deep on tech
 
-xxxx
+There are a few different approaches to choosing which tech.  I'm a fan of these two:
+
+### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
+
+### 2 - pick _industry specific tech_ that is hard to learn
 
 ## growth opportunity #2 - distributed working
 
