@@ -5,7 +5,7 @@ category:
 date: 2021-01-12 07:29:48 +0000
 layout: blog
 title: management consulting in 2021
-sub_heading: consultants eye new growth opportunities in 2021
+sub_heading: learning from tier-1 firms to drive tier-2 and niche firm growth
 video_id: ''
 banner_image: ''
 alt_text: ''
@@ -18,9 +18,11 @@ published: false
 ---
 ## learning from tier-1 firms
 
-I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, KPMG, Deloitte and EY.
+I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG, Deloitte and EY.
 
-Accenture's initial market leading growth to 40,000 employees was driven by _global systemisation_ and _supporting clients looking to adopt new technology_.  In the process Accenture had to learn how to take on experienced hires into manager and partner roles, as it became too slow to growth on talent promoted only from within.  At the time this was a significant culture pivot, not without several hiccups.  Then came the difficult split from Arthur Andersen, rebranding Andersen Consulting to Accenture, and the global market expectation for consultants to know more about the industries they are advising.  This gave birth to a matrix org design of market verticals and skills-based horizontals.
+There are many great consulting firms in each country.  This article focuses on what the tier-2 and niche firms of say 200 to 20,000 employees, can learn from the tier-1s.
+
+Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  In the process Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant culture pivot, not without several hiccups.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.
 
 It took xx years for Accenture to grow to 40,000 employees and only the next xx years to grow to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth has come from partnering with clients on operations. 
 
