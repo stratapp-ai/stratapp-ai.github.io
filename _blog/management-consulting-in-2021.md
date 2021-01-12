@@ -128,7 +128,9 @@ _Remote working_ implies you have an office to be remote from.  We've already se
 * hiring, induction, performance management, offboarding and alumni
 * security and OH&S
 
-_Distributed working_ has no office at all.  Nothing to be remote from.  Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates 5 levels of autonomy in his podcast with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").  Helping clients on their journey to distributed working is potentially a consulting goldmine.
+_Distributed working_ has no office at all.  Nothing to be remote from.  Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates 5 levels of autonomy in this brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").  
+
+Helping clients on their journey to distributed working is potentially a consulting goldmine.
 
 ## growth opportunity #3 - niche operations
 
