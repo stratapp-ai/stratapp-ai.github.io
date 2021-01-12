@@ -37,7 +37,9 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,000 employees, can apply some of these insights to planning their own growth.
 
-## growth opportunity #1 - go deep on tech
+## growth opportunity #1 - SaaS tech
+
+SaaS is an abbreviation for _software as a service_, usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
 There are a few different approaches to choosing which tech.  I'm a fan of these two:
 
@@ -53,6 +55,8 @@ Clients are time poor, and today's real-time management culture is making this e
 * x
 * x
 * x
+
+If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would be my top 3 picks
 
 ### 2 - pick _industry specific tech_ that is hard to learn
 
