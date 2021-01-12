@@ -77,8 +77,8 @@ The consulting opportunities are brilliant, including upselling other services: 
 
 As well as supporting mainstream HCM rollouts (e.g. [Workday](https://www.workday.com/ "Workday")), you could look to support emerging tech in employee engagement and culture building, such as:
 
-* x - xxx
-* x - xxx
+* [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
+* [15Five](https://www.15five.com/ "15Five")
 
 #### CRM
 
