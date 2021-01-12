@@ -47,7 +47,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 3. Deep technology and process insights for a sector in one country, helps more deals to be won globally in that sector
 4. Proven stars from running operations on one deal become an incredibly valuable source of talent for winning, running and improving other deals
 
-I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to create new opportunities for growth in 2021.
+I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
 
 ## growth opportunity #1 - SaaS technologies
 
