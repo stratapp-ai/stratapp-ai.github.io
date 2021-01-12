@@ -49,7 +49,7 @@ Supporting clients on SaaS represents an outstanding growth opportunity for tier
 
 There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
 
-### 1 - pick sector-agnostic tech that is easy to learn and will generate high-value consulting work
+### 1 - pick sector-agnostic tech that is easy to learn and will generate high-value consulting
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
