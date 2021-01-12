@@ -47,6 +47,8 @@ There are a few different approaches to choosing which tech.  I'm a fan of these
 
 ## growth opportunity #2 - distributed working
 
+COVID-19 has brought to the mainstream what marketing, tech and product teams have known for 10 years: you can trust people to work remotely and collaboration tech is way better than email.
+
 ## growth opportunity #3 - niche operations
 
 Rather than go after large-scale price-driven outsourcing, look for opportunities that allow you to niche around what you can do better than other providers (and of course the client doing it themselves internally).
