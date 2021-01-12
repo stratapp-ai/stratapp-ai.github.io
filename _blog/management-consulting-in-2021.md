@@ -119,6 +119,8 @@ _Remote working_ implies you have an office to be remote from.  We've already se
 * hiring, induction, performance management, offboarding and alumni
 * security and OH&S
 
+Distributed working has no office at all - nothing to be remote from.  Matt Mullenweg, the founder of Wordpress.com, employing 1,200 people across 75 countries without an office
+
 ## growth opportunity #3 - niche operations
 
 Rather than go after large-scale price-driven outsourcing deals, look for opportunities that allow you to niche on what you can do better than other providers (and of course the client doing it themselves internally).
