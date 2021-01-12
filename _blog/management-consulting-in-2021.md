@@ -22,15 +22,23 @@ I nearly joined McKinsey, loved my time at Accenture and over the years I have e
 
 This article focuses on how tier-2 and niche firms of 200 to 20,000 employees can grow revenue in 2021 - by learning from Accenture and taking advantage of the fact that you can be more niche and nimble.
 
+### Accenture's early growth
+
 Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To achieve that Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant pivot that impacted culture and presented several new challenges.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.
 
-That said, it took xx years for Accenture to grow to 40,000 employees by 199x, making it the largest tier-1 firm in the world; nearly double the size of second placed PriceWaterhouseCoopers.  That was just the beginning.  In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth came mostly from partnering with clients on operations.
+That said, it took xx years for Accenture to grow to 40,000 employees by 199x, making it the largest tier-1 firm in the world; nearly double the size of second placed PriceWaterhouseCoopers.  That was just the beginning.  
+
+### Accenture's rapid growth
+
+In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth came mostly from partnering with clients on operations.
 
 That is, rather than only pursuing one-off consulting projects on improving the client's business, Accenture pitched to run part of the client's business.  Enter, recurring revenue.  Although this is generally referred to as outsourcing or BPO, Accenture's approach to the client relationship was sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline established upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embrace a collaborative mindset as business partners
+
+### Accenture's strategic advantages
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages emerged for Accenture:
 
@@ -39,7 +47,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 3. Deep technology and process insights for a sector in one country, helps more deals to be won globally in that sector
 4. Proven stars from running operations on one deal become an incredibly valuable source of talent for winning, running and improving other deals
 
-Looking ahead to 2021, I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to create new opportunities for growth.
+I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to create new opportunities for growth in 2021.
 
 ## growth opportunity #1 - SaaS technologies
 
@@ -69,7 +77,7 @@ Therefore, client need help to successfully adopt and evolve new technology, the
 
 If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would be my top 3 SaaS technology picks to build a consulting services offering around:
 
-#### leading a company
+#### leading a company | strategy to execution
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
