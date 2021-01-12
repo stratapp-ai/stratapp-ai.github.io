@@ -47,9 +47,7 @@ SaaS, meaning _software as a service_, is usually priced per user or on usage.  
 
 Supporting clients on SaaS represents an outstanding growth opportunity for tier-2 and niche consulting firms.
 
-There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
-
-### 1 - pick sector-agnostic tech that is easy to learn and will generate high-value consulting
+### pick sector-agnostic tech that is easy to learn and will generate high-value consulting
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
@@ -71,11 +69,11 @@ Therefore, client need help to successfully adopt and evolve new technology, the
 
 If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would be my top 3 SaaS technology picks to build a consulting services offering around:
 
-#### strategy execution
+#### leading a company
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
-Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is actually happening inside each client.  Thereby [creating a win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client consultant and #stratap.
+Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is happening client side.  Thereby [creating a win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client, consultant and #stratapp.
 
 #### employee engagement
 
@@ -103,7 +101,7 @@ Configuring and programming the CRM has become a commodity service that you can 
 
 You can join the dots on where to take this opportunity.
 
-### 2 - pick industry or function specific tech that is easy to learn and will generate ongoing consulting
+### pick industry or function specific tech that is easy to learn and will generate ongoing consulting
 
 There are unlimited opportunities here, so your criteria may come down to what interests your firm and local market potential.
 
