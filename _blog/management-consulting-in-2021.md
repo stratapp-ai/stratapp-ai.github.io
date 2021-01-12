@@ -45,6 +45,15 @@ There are a few different approaches to choosing which tech.  I'm a fan of these
 
 Aside from outsourcing and industry restructures, there is no better source for driving consulting revenue than assisting clients on their journey to adopt and evolve new technology.  That fuelled the first phase of Accenture's market leading growth.
 
+Clients are time poor, and today's real-time management culture is making this even worse.  Client's need help to successfully adopt and evolve new technology, and the consulting opportunities are perhaps broader than what you might think:
+
+* x
+* x
+* x
+* x
+* x
+* x
+
 ### 2 - pick _industry specific tech_ that is hard to learn
 
 ## growth opportunity #2 - distributed working
