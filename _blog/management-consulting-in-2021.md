@@ -43,13 +43,13 @@ Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,
 
 SaaS, meaning _software as a service_, is usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
-There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
+Supporting clients on SaaS represents an outstanding growth opportunity for tier-2 and niche consulting firms.  There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
 
 ### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
 
-Aside from outsourcing and industry restructures, there is no better source for driving consulting revenue than assisting clients on their journey to adopt and evolve new technology.  That fuelled the first phase of Accenture's market leading growth.
+Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
-Clients are time poor, and today's real-time management culture is making this even worse.  Client's need help to successfully adopt and evolve new technology, and the consulting opportunities are perhaps broader than what you might think:
+Clients are increasingly time poor and unable to focus on getting real work done.  They are consumed with a day to day culture of real-time messaging and 247 availability.  Client's need help to successfully adopt and evolve new technology, and the consulting opportunities are perhaps broader than what you might think:
 
 * x
 * x
