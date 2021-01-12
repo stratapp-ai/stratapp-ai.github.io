@@ -5,7 +5,7 @@ category:
 date: 2021-01-12 07:29:48 +0000
 layout: blog
 title: management consulting in 2021
-sub_heading: learning from tier-1 firms to drive tier-2 and niche firm growth
+sub_heading: how to drive tier-2 and niche consulting firm revenue growth
 video_id: ''
 banner_image: ''
 alt_text: ''
@@ -75,7 +75,7 @@ If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would b
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
-The consulting opportunities are brilliant, including upselling other services: [https://bit.ly/stratapp-consulting-partners-win-win-win](https://bit.ly/stratapp-consulting-partners-win-win-win "consulting win win win").
+Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is actually happening inside each client.  Thereby [creating a win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client consultant and #stratap.
 
 #### employee engagement
 
