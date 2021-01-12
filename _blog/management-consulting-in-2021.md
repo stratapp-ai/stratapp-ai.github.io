@@ -30,7 +30,7 @@ It took xx years for Accenture to grow to 40,000 employees and only the next xx 
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
 
-1. One deal leads to more deals per client (e.g. start by running part of the finance function, and end up running all of finance, IT, call centre and supply chain operations, freeing the client to focus on strategy, marketing, R&D and customer experience)
+1. One deal leads to more deals per client (e.g. start by running part of the finance function, and end up running all of finance, ITC, call centres and supply chain operations, freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to to more consulting projects, that were non-competitive 
 3. Deep technology and process insights for a sector in one country, helps more deals to be won globally in that sector
 4. Proven stars from running operations on one deal become an incredibly valuable source of talent for winning, running and improving other deals
@@ -45,4 +45,6 @@ xxxx
 
 ## growth opportunity #3 - niche operations
 
-xxxx
+Rather than go after large-scale price-driven outsourcing, look for opportunities that allow you to niche around what you can do better than other providers (and of course the client doing it themselves internally).
+
+Think about the 4 strategic advantages (listed above) that emerged for Accenture.  Even if you only place 3x FTEs into a client fulfilling a niche operational role, you can then offer that service globally to achieve scale.
