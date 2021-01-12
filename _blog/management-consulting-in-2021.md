@@ -49,7 +49,7 @@ Supporting clients on SaaS represents an outstanding growth opportunity for tier
 
 There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
 
-### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
+### 1 - pick sector-agnostic tech that is easy to learn and will generate high-value consulting work
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
@@ -99,13 +99,22 @@ The CRM implementation firms doing this work are usually lacking more broader co
 * change management
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore.  Unfortunately, clients continue to pay huge onshore implementation $/day for this work, and most implementations fail because those firms don't have the consulting skills listed above.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you tightly manage the concept design and functional specs.  Unfortunately clients continue to pay huge onshore implementation $/day for this work, and most CRM implementations fail because those firms don't have the broader consulting skills listed above.
 
 You can join the dots on where to take this opportunity.
 
-### 2 - pick _industry specific tech_ that is hard to learn
+### 2 - pick industry or function specific tech that is easy to learn and will generate ongoing consulting
 
-xxxxxxxxx
+There are almost unlimited opportunities here, so your criteria may come down to what interests you and how quickly the market is growing.
+
+Here are a few function examples to help get you started:
+
+* Travel management (e.g. [Concur](https://www.concur.com "Concur"))
+* Spend management (e.g. [Coupa](https://www.coupa.com/ "Coupa"))
+* Rostering (e.g. [Deputy](https://www.deputy.com/ "Deputy"))
+* Asset management (e.g. xxxx)
+* Quality (e.g. xxxx)
+* ERP/supply chain (e.g. xxxx)
 
 ## growth opportunity #2 - distributed working
 
@@ -123,6 +132,6 @@ _Distributed working_ has no office at all.  Nothing to be remote from.  Matt Mu
 
 ## growth opportunity #3 - niche operations
 
-Rather than go after large-scale price-driven outsourcing deals, look for opportunities that allow you to niche on what you can do better than other providers (and of course the client doing it themselves internally).
+Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers (and of course the client doing it themselves internally).
 
 Think about the 4 strategic advantages above that emerged for Accenture.  Even if you only place 3x FTEs into a client delivering on a niche part of their business operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.
