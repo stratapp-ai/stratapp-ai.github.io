@@ -53,14 +53,19 @@ Clients are increasingly time poor and unable to focus on getting real work done
 
 Therefore, client need help to successfully adopt and evolve new technology, they are willing to pay for it to de-risk implementations and the consulting opportunities are perhaps broader than what you might think:
 
-* x
-* x
-* x
-* x
-* x
-* x
+* high level planning / context validation
+* change management & communications
+* project management
+* requirements gathering / as-is & to-be mapping
+* setting up the tech
+* onboarding the first phase of users
+* supporting those users
+* building a show case of successes and learnings
+* building the capabilities to scale rollouts
+* managing rollouts progressively
+* measuring and learning from outcomes
 
-If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would be my top 3 picks:
+If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would be my top 3 SaaS technology picks to build a consulting services offering around:
 
 #### strategy execution
 
