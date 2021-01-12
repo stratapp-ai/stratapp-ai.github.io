@@ -28,21 +28,21 @@ It took xx years to grow to 40,000 employees and only the next xx years to grow 
 * Sharing in the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embrace a collaborative mindset as business partners
 
-Although these deals had longer sales cycles and lower margins, three advantages emerged for Accenture:
+Although these deals have longer sales cycles and lower margins, 4 strategic advantages quickly emerged for Accenture:
 
 1. One deal leads to more deals per client (e.g. start by running part of the finance function, and end up running all of finance, IT, call centre and supply chain operations, freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to to more consulting projects, that were non-competitive 
 3. Deep technology and process insights for a sector in one country, helps more deals to be won globally in that sector
 4. Proven stars from running operations on one deal become an incredibly valuable source of talent for winning, running and improving other deals
 
-Looking ahead to 2021, tier-2 and niche consulting firms of 200 to 20,000 employees, can apply these insights to planning their own growth opportunities.
+Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,000 employees, can apply aspects of these insights to planning their own growth.
 
-## opportunity #1 - go deep on tech
+## growth opportunity #1 - go deep on tech
 
 xxxx
 
-## opportunity #2 - distributed working
+## growth opportunity #2 - distributed working
 
-## opportunity #3 - niche operations
+## growth opportunity #3 - niche operations
 
 xxxx
