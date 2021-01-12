@@ -89,6 +89,6 @@ COVID-19 has brought to the mainstream what marketing, tech and product teams ha
 
 ## growth opportunity #3 - niche operations
 
-Rather than go after large-scale price-driven outsourcing, look for opportunities that allow you to niche around what you can do better than other providers (and of course the client doing it themselves internally).
+Rather than go after large-scale price-driven outsourcing deals, look for opportunities that allow you to niche on what you can do better than other providers (and of course the client doing it themselves internally).
 
-Think about the 4 strategic advantages (listed above) that emerged for Accenture.  Even if you only place 3x FTEs into a client fulfilling a niche operational role, you can then offer that service globally to achieve scale.
+Think about the 4 strategic advantages above that emerged for Accenture.  Even if you only place 3x FTEs into a client delivering on a niche part of their business operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.
