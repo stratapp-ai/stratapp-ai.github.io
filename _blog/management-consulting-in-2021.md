@@ -30,7 +30,7 @@ That is, rather than only pursue one-off projects consulting on improving the cl
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals and org design that embraces a collaborative mindset as business partners
 
-Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
+Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages emerged for Accenture:
 
 1. One deal leads to more deals per client (e.g. start by running part of the finance function, and end up running all of finance, ITC, call centres and supply chain operations, freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to to more consulting projects, that were non-competitive 
