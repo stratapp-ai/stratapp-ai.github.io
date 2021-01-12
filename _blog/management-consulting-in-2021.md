@@ -37,7 +37,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,000 employees, can apply some of these insights to planning their own growth.
 
-## growth opportunity #1 - SaaS tech
+## growth opportunity #1 - SaaS technologies
 
 SaaS is an abbreviation for _software as a service_, usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
