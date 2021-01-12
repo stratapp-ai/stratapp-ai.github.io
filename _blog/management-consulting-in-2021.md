@@ -66,7 +66,9 @@ If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would b
 
 #### CRM
 
-The top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clients hire implementation firms that have deep skills in one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  Consulting skills like:
+When you look under the bonnet, the top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients.
+
+The CRM implementation firms doing this work are usually lacking more broader consulting skills like:
 
 * business strategy
 * business and operating model design
@@ -77,11 +79,9 @@ The top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clie
 * change management
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore.  Clients are paying huge onshore implementation $/day for this work, and many implementations fail because those firms don't have the consulting skills listed above.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore.  Unfortunately, clients continue to pay huge onshore implementation $/day for this work, and most implementations fail because those firms don't have the consulting skills listed above.
 
-You can join the dots on where to take that.
-
-business strategy, mapping the operating and org models, thinking through how these may change
+You can join the dots on where to take this opportunity.
 
 ### 2 - pick _industry specific tech_ that is hard to learn
 
