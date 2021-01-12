@@ -43,6 +43,8 @@ There are a few different approaches to choosing which tech.  I'm a fan of these
 
 ### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
 
+Aside from outsourcing and industry restructures, there is no better source for driving consulting revenue than assisting clients on their journey to adopt and evolve new technology.  That fuelled the first phase of Accenture's market leading growth.
+
 ### 2 - pick _industry specific tech_ that is hard to learn
 
 ## growth opportunity #2 - distributed working
