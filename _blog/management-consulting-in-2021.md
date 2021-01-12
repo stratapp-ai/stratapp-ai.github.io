@@ -16,11 +16,11 @@ feature_image: ''
 published: false
 
 ---
-## learning from tier-1 consulting firms
+## learning from Accenture
 
 I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG, Deloitte and EY.
 
-There are many great consulting firms in each country.  This article focuses on what tier-2 and niche firms of 200 to 20,000 employees can learn from the tier-1s.
+This article focuses on how tier-2 and niche firms of 200 to 20,000 employees can grow revenue in 2021 - by learning from Accenture and taking advantage of the fact that you can be more niche and nimble.
 
 Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To achieve that Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant pivot that impacted culture and presented several new challenges.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.
 
