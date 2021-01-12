@@ -105,16 +105,16 @@ You can join the dots on where to take this opportunity.
 
 ### 2 - pick industry or function specific tech that is easy to learn and will generate ongoing consulting
 
-There are almost unlimited opportunities here, so your criteria may come down to what interests you and how quickly the market is growing.
+There are almost unlimited opportunities here, so your criteria may come down to what interests your firm and how quickly your local market is growing.
 
 Here are a few function examples to help get you started:
 
 * Travel management (e.g. [Concur](https://www.concur.com "Concur"))
 * Spend management (e.g. [Coupa](https://www.coupa.com/ "Coupa"))
 * Rostering (e.g. [Deputy](https://www.deputy.com/ "Deputy"))
-* Asset management (e.g. xxxx)
-* Quality (e.g. xxxx)
-* ERP/supply chain (e.g. xxxx)
+* Safety (e.g. [SafetyCulture](https://safetyculture.com/ "Safety Culture"))
+
+Industry specific tech is fast emerging in healthcare (including medical practices and pharmacy), aged care, fleet management, aviation, hospitality and retail.
 
 ## growth opportunity #2 - distributed working
 
