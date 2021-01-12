@@ -49,7 +49,9 @@ Supporting clients on SaaS represents an outstanding growth opportunity for tier
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
-Clients are increasingly time poor and unable to focus on getting real work done.  They are consumed with a day to day culture of real-time messaging and 247 availability.  Client's need help to successfully adopt and evolve new technology, and the consulting opportunities are perhaps broader than what you might think:
+Clients are increasingly time poor and unable to focus on getting real work done.  Leaders at all levels seem consumed within cultures of real-time messaging and 247 availability.
+
+Therefore, client need help to successfully adopt and evolve new technology, they are willing to pay for it to de-risk implementations and the consulting opportunities are perhaps broader than what you might think:
 
 * x
 * x
