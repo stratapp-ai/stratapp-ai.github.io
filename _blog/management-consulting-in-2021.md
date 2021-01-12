@@ -24,9 +24,9 @@ There are many great consulting firms in each country.  This article focuses on 
 
 Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  In the process Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant culture pivot, not without several hiccups.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals, the speed and scope of execution at Accenture was breath-taking.
 
-That said, it took xx years for Accenture to grow to 40,000 employees in 199x, making it the largest tier-1 firm in the world, nearly double the size of second place PriceWaterhouseCoopers.  That was just the beginning.  In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth has come from partnering with clients on operations. 
+That said, it took xx years for Accenture to grow to 40,000 employees in 199x, making it the largest tier-1 firm in the world, nearly double the size of second place PriceWaterhouseCoopers.  That was just the beginning.  In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth came mostly from partnering with clients on operations. 
 
-That is, rather than only pursue one-off projects consulting on improving the client's business, Accenture pitched to run part of their operations as recurring revenue.  Although the market refers to this as outsourcing or BPO, the pitch and relationship is more sophisticated and founded on:
+That is, rather than only pursuing one-off consulting projects on improving the client's business, Accenture pitched to run part of the client's operations.  Enter, recurring revenue.  Although the market refers to this as outsourcing or BPO, Accenture's approach to the client relationship was more sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
@@ -39,13 +39,15 @@ Although these deals have more expensive sales cycles and lower margins than con
 3. Deep technology and process insights for a sector in one country, helps more deals to be won globally in that sector
 4. Proven stars from running operations on one deal become an incredibly valuable source of talent for winning, running and improving other deals
 
-Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,000 employees, can apply some of these insights to planning their own growth.
+Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,000 employees, can apply some of these insights to planning growth.
 
 ## growth opportunity #1 - SaaS technologies
 
 SaaS, meaning _software as a service_, is usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
-Supporting clients on SaaS represents an outstanding growth opportunity for tier-2 and niche consulting firms.  There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
+Supporting clients on SaaS represents an outstanding growth opportunity for tier-2 and niche consulting firms.  
+
+There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
 
 ### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
 
@@ -103,9 +105,19 @@ You can join the dots on where to take this opportunity.
 
 ### 2 - pick _industry specific tech_ that is hard to learn
 
+xxxxxxxxx
+
 ## growth opportunity #2 - distributed working
 
-COVID-19 has brought to the mainstream what marketing, tech and product teams have known for 10 years: you can trust people to work remotely and collaboration tech is way better than email.
+COVID-19 has brought to the mainstream what marketing, tech and product teams have known for about 10 years: _you can trust people to work remotely and collaboration tech is way better than email._
+
+_Remote working_ implies you have an office to be remote from.  We've already seen announcements from dozens of household brands saying they will now allow most, if not all employees, to work from home.  Those companies that are keeping an office will need to think through a whole range of factors that can be helped by consultants:
+
+* office design for frequent or infrequent visits by home-based workers
+* team building and leadership
+* technology for strategy, execution and collaboration (e.g. [#stratapp](https://stratappsaas.com/ "#stratapp"))
+* hiring, induction, performance management, offboarding and alumni
+* security and OH&S
 
 ## growth opportunity #3 - niche operations
 
