@@ -41,9 +41,9 @@ Looking ahead to 2021, I believe tier-2 and niche consulting firms of 200 to 20,
 
 ## growth opportunity #1 - SaaS technologies
 
-SaaS is an abbreviation for _software as a service_, usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
+SaaS, meaning _software as a service_, is usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
-There are a few different approaches to choosing which tech.  I'm a fan of these two:
+There are a few different approaches to choosing which tech a consulting firm should embrace.  I'm a fan of these two:
 
 ### 1 - pick trending tech that is _easy to learn_ and will _generate consulting work_
 
@@ -60,11 +60,11 @@ Clients are time poor, and today's real-time management culture is making this e
 
 If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would be my top 3 picks:
 
-#### 1 - strategy execution
+#### strategy execution
 
-#### 2 - employee engagement
+#### employee engagement
 
-#### 3 - CRM
+#### CRM
 
 The top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clients hire implementation firms that have deep skills in one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  Consulting skills like:
 
