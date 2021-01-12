@@ -27,7 +27,7 @@ It took xx years for Accenture to grow to 40,000 employees and only the next xx 
 That is, rather than only pursue one-off projects consulting on improving the client's business, Accenture pitched to run part of their operations as recurring revenue.  Although the market refers to this as outsourcing or BPO, the pitch and relationship is more sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes
-* Sharing in the commercial risks, investments (time, money and/or resources) and upsides
+* Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embrace a collaborative mindset as business partners
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
