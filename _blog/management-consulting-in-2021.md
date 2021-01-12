@@ -20,11 +20,13 @@ published: false
 
 I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, KPMG, Deloitte and EY.
 
-Accenture's initial market leading growth to 40,000 employees was driven by _global systemisation_ and _supporting clients looking to adopt new technology_.  In the process Accenture had to learn how to take on experienced hires into manager and partner roles, as it became too slow to rely on growth from talent promoted only from within.  At the time this was a significant pivot, not without several hiccups.  Then came the difficult split from Arthur Andersen, rebranding Andersen Consulting to Accenture, and the global expectation for consultants to know more about the industries they are advising; hence a matrix org design of market verticals and skills-based horizontals.
+Accenture's initial market leading growth to 40,000 employees was driven by _global systemisation_ and _supporting clients looking to adopt new technology_.  In the process Accenture had to learn how to take on experienced hires into manager and partner roles, as it became too slow to growth on talent promoted only from within.  At the time this was a significant culture pivot, not without several hiccups.  Then came the difficult split from Arthur Andersen, rebranding Andersen Consulting to Accenture, and the global market expectation for consultants to know more about the industries they are advising.  This gave birth to a matrix org design of market verticals and skills-based horizontals.
 
-It took xx years for Accenture to grow to 40,000 employees and only the next xx years to grow past 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to go deep on tech, the incredible growth has come from partnering with clients on operations.  Rather than only pursue one-off projects consulting on improving operations, Accenture pitched themselves to run part of the client's business.  Although the market refers to this as outsourcing or BPO, the commercial relationship is more sophisticated and founded on:
+It took xx years for Accenture to grow to 40,000 employees and only the next xx years to grow to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth has come from partnering with clients on operations. 
 
-* Accenture applying world's best practice to improve the client's outcomes
+That is, rather than only pursue one-off projects consulting on improving the client's business, Accenture pitched to run part of their operations as recurring revenue.  Although the market refers to this as outsourcing or BPO, the pitch and relationship is more sophisticated and founded on:
+
+* Accenture continuing to apply world's best practice to improve the client's outcomes
 * Sharing in the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embrace a collaborative mindset as business partners
 
