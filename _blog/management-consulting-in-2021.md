@@ -69,11 +69,20 @@ If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would b
 
 #### strategy execution
 
+There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
+
+The consulting opportunities are brilliant, including upselling other services: [https://bit.ly/stratapp-consulting-partners-win-win-win](https://bit.ly/stratapp-consulting-partners-win-win-win "consulting win win win").
+
 #### employee engagement
+
+As well as supporting mainstream HCM rollouts (e.g. [Workday](https://www.workday.com/ "Workday")), you could look to support emerging tech in employee engagement and culture building, such as:
+
+* x - xxx
+* x - xxx
 
 #### CRM
 
-When you look under the bonnet, the top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients.
+When you look under the bonnet, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients.
 
 The CRM implementation firms doing this work are usually lacking more broader consulting skills like:
 
