@@ -28,7 +28,7 @@ That is, rather than only pursue one-off projects consulting on improving the cl
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
-* Long term deals that embrace a collaborative mindset as business partners
+* Long term deals and org design that embraces a collaborative mindset as business partners
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
 
