@@ -56,7 +56,17 @@ Clients are time poor, and today's real-time management culture is making this e
 * x
 * x
 
-If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would be my top 3 picks
+If I was a tier-2 or niche consultancy of 200 to 20,000 employees, these would be my top 3 picks:
+
+#### 1 - strategy execution
+
+#### 2 - employee engagement
+
+#### 3 - CRM
+
+The top three CRMs (Salesforce, Dynamics and Zoho) are remarkedly similar.  Clients hire implementation firms that have deep skills in one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.
+
+business strategy, mapping the operating and org models, thinking through how these may change
 
 ### 2 - pick _industry specific tech_ that is hard to learn
 
