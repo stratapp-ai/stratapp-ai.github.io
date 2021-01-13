@@ -24,23 +24,23 @@ This is my personal inside take on how Accenture has achieved outstanding growth
 
 ### Accenture's early growth
 
-Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To achieve that Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant pivot that impacted culture and presented several new challenges.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.
+Accenture's initial market leading growth to 33,000 employees by 1995 was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth rate, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.  Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000 and rebranding from Andersen Consulting to Accenture (a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future").  At this time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.  I learnt heaps.
 
 That said, it took xx years for Accenture to grow to 40,000 employees by 199x, making it the largest tier-1 firm in the world; nearly double the size of second placed PriceWaterhouseCoopers.  That was just the beginning.
 
 ### Accenture's rapid growth
 
-In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth came mostly from partnering with clients on operations.
+From the year 2,000, it only took the firm 15 years to grow to 358,000 employees and US$31bn revenue; now \~500k employees and $50bn revenue.  Whilst Accenture has continued to support clients on adopting new tech, their 10-fold growth has come mostly from partnering with clients on operations.
 
-That is, rather than only pursuing one-off consulting projects on improving the client's business, Accenture pitched to run part of the client's business.  Enter, recurring revenue.  Although this is widely referred to as outsourcing or BPO/M, Accenture's approach to the client relationship was sophisticated and founded on:
+That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  Although widely referred to as Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
 
-* Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline established upfront
+* Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline that was agreed with the client upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embrace a collaborative mindset as business partners
 
 ### Accenture's strategic advantages
 
-Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages emerged for Accenture:
+Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
 
 1. One deal leads to more deals per client (e.g. start by running part of the finance function, and end up running all of finance, ITC, call centres and supply chain operations, freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to to more consulting projects, that were non-competitive
