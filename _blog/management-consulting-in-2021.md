@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2021-01-12 07:29:48 +0000
+date: 2019-09-11 07:20:00 +0000
 layout: blog
 title: learning from Accenture on growing consulting revenue
 sub_heading: how to drive tier-2 and niche consulting firm revenue growth in 2021
