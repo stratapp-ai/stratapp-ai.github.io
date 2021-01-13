@@ -63,7 +63,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running all of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to more consulting projects, most as non-competitive
-3. Deep technology and process insights for a sector in one country, helps win more deals globally in that sector
+3. Deep technology and process insights in one sector, helps to win more deals globally in that sector
 4. Proven stars from running operations on one deal become a valuable source of talent for winning, running and improving other deals
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
