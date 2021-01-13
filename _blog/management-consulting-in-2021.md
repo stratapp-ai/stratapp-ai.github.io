@@ -32,7 +32,7 @@ That said, it took xx years for Accenture to grow to 40,000 employees by 199x, m
 
 In the next xx years the firm grew rapidly to 400,000 employees.  Accenture now employees xxx,xxx, with xxx in revenue and a market cap of $xxxbillion.  Whilst Accenture has continued to support clients on adopting new tech, their incredible growth came mostly from partnering with clients on operations.
 
-That is, rather than only pursuing one-off consulting projects on improving the client's business, Accenture pitched to run part of the client's business.  Enter, recurring revenue.  Although this is generally referred to as outsourcing or BPO, Accenture's approach to the client relationship was sophisticated and founded on:
+That is, rather than only pursuing one-off consulting projects on improving the client's business, Accenture pitched to run part of the client's business.  Enter, recurring revenue.  Although this is widely referred to as outsourcing or BPO/M, Accenture's approach to the client relationship was sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline established upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
@@ -77,20 +77,20 @@ Therefore, client need help to successfully adopt and evolve new technology, the
 
 If I was a tier-2 or niche consultancy of 200 to 20,000 employees, below would be my top 3 SaaS technology picks to build a consulting services offering around:
 
-#### leading a company | strategy to execution
+#### SaaS for leading a company | strategy to execution
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
 Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is happening client side.  Thereby [creating a win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client, consultant and #stratapp.
 
-#### employee engagement
+#### SaaS for employee engagement
 
 As well as supporting mainstream HCM rollouts (e.g. [Workday](https://www.workday.com/ "Workday")), you could look to support emerging tech in employee engagement and culture building, such as:
 
 * [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
 * [15Five](https://www.15five.com/ "15Five")
 
-#### CRM
+#### SaaS CRM - mature services market with a blindspot for SMBs
 
 When you look under the bonnet, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients.
 
