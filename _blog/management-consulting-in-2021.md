@@ -25,7 +25,7 @@ This is my personal take on how the market leader, Accenture, has achieved such 
 
 ### Accenture's early growth
 
-Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.  Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".  At the same time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to genuinely understand the industries they are advising - rather than charging premium fees to learn on the job whilst applying a generic tool kit of skills across strategy, process, change and tech.  
+Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.  Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".  At the same time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to genuinely understand the industries they are advising - rather than charging premium fees to learn on the job whilst applying a generic tool kit of skills across strategy, process, change and tech.
 
 For most of the tier-1 firms this market expectation gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.  I learnt heaps, but that was just the beginning.
 
@@ -43,7 +43,7 @@ Even in the face of COVID-19 and global upheaval, Accenture continue to grow:
 
 ![](/uploads/accenture-performance-q1fy2021.PNG)
 
-source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom.accenture.com/earnings-infographics/ "https://newsroom.accenture.com/earnings-infographics/") 
+source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom.accenture.com/earnings-infographics/ "https://newsroom.accenture.com/earnings-infographics/")
 
 ### Accenture's strategic advantages
 
@@ -56,7 +56,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
 
-## what can tier-2 and niche firms do to grow revenue in 2021
+## what can tier-2 and niche firms do?
 
 ### 2021 growth opportunity #1 - SaaS technologies
 
@@ -99,13 +99,13 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 * [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
 * [15Five](https://www.15five.com/ "15Five")
 
-##### SaaS for CRM - mature services market with a blindspot for SMB sector
+##### SaaS for CRM
 
-I can see your eyes roll.  Hang on a moment.  Whilst there is a mature and competitive services market built around CRM, there is a massive blind spot for clients buying CRM.
+I can see your eyes roll.  Hang on a moment.  Whilst there is a mature and competitive services market built around CRM, there is a massive problem for clients buying CRM.
 
-When you look under the bonnet at each product's design and approach, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Which makes sense.  However, those product skilled implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients on costs, timeframes and adoption.
+When you look under the bonnet at each product's design and approach, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products.  Which makes sense.  However, those implementation firms are often very weak at the broader thinking, validation and planning that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients - on value, timeframes and adoption.
 
-The product skilled implementation firms doing this work usually lack broader consulting skills like:
+The implementation firms doing this work usually lack broader consulting skills like:
 
 * business strategy
 * business and operating model design
@@ -117,7 +117,7 @@ The product skilled implementation firms doing this work usually lack broader co
 * change management and communications
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs.  Unfortunately clients continue to pay huge onshore implementation $/day for this work, and most CRM implementations fail because those firms don't have the broader consulting skills listed above.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  Unfortunately clients continue to pay huge onshore implementation $/day for this work, and most CRM implementations fail.
 
 You can join the dots on where to take this opportunity.
 
