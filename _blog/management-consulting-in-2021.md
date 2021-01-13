@@ -4,12 +4,12 @@ category:
 - "#articles"
 date: 2021-01-12 07:29:48 +0000
 layout: blog
-title: management consulting in 2021
-sub_heading: how to drive tier-2 and niche consulting firm revenue growth
+title: learning from Accenture on growing consulting revenue
+sub_heading: how to drive tier-2 and niche consulting firm revenue growth in 2021
 video_id: ''
 banner_image: ''
 alt_text: ''
-slug: management consulting in 2021
+slug: learning from Accenture on growing consulting revenue
 seo_title: ''
 seo_description: ''
 feature_image: ''
