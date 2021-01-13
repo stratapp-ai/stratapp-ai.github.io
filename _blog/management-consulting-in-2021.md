@@ -15,7 +15,6 @@ seo_description: Learning from Accenture on how to drive tier-2 and niche firm c
   revenue growth in 2021, and how tier-2 and niche firms of 200 to 20,000 employees
   can apply these insights.
 feature_image: "/uploads/management-consultants.jpeg"
-published: false
 
 ---
 ## learning from Accenture
@@ -40,6 +39,10 @@ That is, rather than only pursuing one-off consulting projects on improving the 
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embraced a collaborative mindset as business partners
 
+Even in the face of COVID-19 and global upheaval, Accenture continue to grow:
+
+![](/uploads/accenture-performance-q1fy2021.PNG)
+
 ### Accenture's strategic advantages
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
@@ -51,13 +54,15 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
 
-## 2021 growth opportunity #1 - SaaS technologies
+## what can tier-2 and niche firms do to grow revenue in 2021
+
+### 2021 growth opportunity #1 - SaaS technologies
 
 SaaS, meaning _software as a service_, is a way of delivering applications over the internet.  Customers don't have to buy/install/maintain/update hardware or software themselves.  All they need is an internet connection.  Customers usually pay per user and/or on a usage basis, with the unit price reducing on volume.
 
 Tier-2 and niche consulting firms often underestimate the revenue potential of supporting clients on how they choose, adopt, rollout and evolve SaaS.  Not to mention the almost unlimited consulting revenue potential from having a closer client relationship and a deeper understanding of the client's day to day business.  I think the latter is a key criteria for figuring out which SaaS technologies to align with.
 
-### pick sector-agnostic tech that is easy to learn and will generate high-value consulting
+#### pick sector-agnostic tech that is easy to learn and will generate high-value consulting
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
@@ -79,20 +84,20 @@ Therefore, clients need help to successfully adopt and evolve new technology.  H
 
 Below are my top-3 SaaS technology picks to build a consulting services offering around.
 
-#### SaaS for leading a company
+##### SaaS for leading a company
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
 Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is happening client side.  This creates a [win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client, consultant and #stratapp.
 
-#### SaaS for employee engagement
+##### SaaS for employee engagement
 
 As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.workday.com/ "Workday")), you could look to support emerging tech in employee engagement and culture building, such as:
 
 * [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
 * [15Five](https://www.15five.com/ "15Five")
 
-#### SaaS for CRM - mature services market with a blindspot for SMB sector
+##### SaaS for CRM - mature services market with a blindspot for SMB sector
 
 I can see your eyes roll.  Hang on a moment.  Whilst there is a mature and competitive services market built around CRM, there is a massive blind spot for clients buying CRM.
 
@@ -114,7 +119,7 @@ Configuring and programming the CRM has become a commodity service that you can 
 
 You can join the dots on where to take this opportunity.
 
-### pick industry or function specific tech that is easy to learn and will generate ongoing consulting
+#### pick industry or function specific tech that is easy to learn and will generate ongoing consulting
 
 There are unlimited opportunities here, so your criteria may come down to what interests your firm, industry knowledge and local market potential.
 
@@ -127,7 +132,7 @@ Here are a few _function specific tech_ examples to help get you started:
 
 _Industry specific tech_ is fast emerging in healthcare (including medical practices and pharmacy), aged care, fleet management, facilities/asset management, construction, property management, aviation, hospitality and retail.
 
-## 2021 growth opportunity #2 - distributed working
+### 2021 growth opportunity #2 - distributed working
 
 COVID-19 has brought to the mainstream what marketing, tech and product teams have known for about 10 years: _you can trust most people to work remotely and collaboration tech is way better than email._
 
@@ -147,7 +152,7 @@ Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 cou
 
 Helping clients on their journey to remote, hybrid and distributed working is potentially a consulting goldmine.
 
-## 2021 growth opportunity #3 - niche operations
+### 2021 growth opportunity #3 - niche operations
 
 Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and of course the client doing it themselves internally.
 
