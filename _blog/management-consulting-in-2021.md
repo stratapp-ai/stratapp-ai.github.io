@@ -7,12 +7,14 @@ layout: blog
 title: learning from Accenture on growing consulting revenue
 sub_heading: how to drive tier-2 and niche firm consulting revenue growth in 2021
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/management-consultants.jpeg"
 alt_text: ''
 slug: learning from Accenture on growing consulting revenue
-seo_title: ''
-seo_description: ''
-feature_image: ''
+seo_title: learning from Accenture on growing consulting revenue
+seo_description: Learning from Accenture on how to drive tier-2 and niche firm consulting
+  revenue growth in 2021, and how tier-2 and niche firms of 200 to 20,000 employees
+  can apply these insights.
+feature_image: "/uploads/management-consultants.jpeg"
 published: false
 
 ---
