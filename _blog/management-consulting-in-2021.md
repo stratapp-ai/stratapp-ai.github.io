@@ -18,9 +18,9 @@ published: false
 ---
 ## learning from Accenture
 
-I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG, Deloitte and EY.
+I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed inspiring experiences with folks from McKinsey, Bain, BCG, KPMG, Deloitte and EY.
 
-This is my personal inside take on how Accenture has achieved amazing growth these last 30 years, and how tier-2 and niche firms of 200 to 20,000 employees can apply those insights to grow revenue in 2021.
+This is my personal inside take on how Accenture has achieved outstanding growth these last 30 years - the undisputed market leader every one of those years - and how tier-2 and niche firms of 200 to 20,000 employees can apply these insights to grow revenue in 2021.
 
 ### Accenture's early growth
 
