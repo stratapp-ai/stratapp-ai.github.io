@@ -43,6 +43,8 @@ Even in the face of COVID-19 and global upheaval, Accenture continue to grow:
 
 ![](/uploads/accenture-performance-q1fy2021.PNG)
 
+source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom.accenture.com/earnings-infographics/ "https://newsroom.accenture.com/earnings-infographics/") 
+
 ### Accenture's strategic advantages
 
 Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
