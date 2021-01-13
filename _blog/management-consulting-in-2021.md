@@ -90,7 +90,7 @@ As well as supporting mainstream HCM rollouts (e.g. [Workday](https://www.workda
 * [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
 * [15Five](https://www.15five.com/ "15Five")
 
-#### SaaS CRM - mature services market with a blindspot for SMBs
+#### SaaS CRM - mature services market with a blindspot for SMB sector
 
 When you look under the bonnet, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that usually have deep skills in only one of those three.  Those implementation firms are often very weak at the broader thinking and validation that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients.
 
