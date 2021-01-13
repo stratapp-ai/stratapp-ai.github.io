@@ -25,11 +25,21 @@ This is my personal take on how the market leader, Accenture, has achieved such 
 
 ### Accenture's early growth
 
-Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.  Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".  At the same time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to genuinely understand the industries they are advising - rather than charging premium fees to learn on the job whilst applying a generic tool kit of skills across strategy, process, change and tech.
+#### pillars
+
+Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.  
+
+#### rebranding
+
+Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".  
+
+#### restructuring
+
+At the same time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to genuinely understand the industries they are advising - rather than charging premium fees to learn on the job whilst applying a generic tool kit of skills across strategy, process, change and tech.
 
 For most of the tier-1 firms this market expectation gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.  I learnt heaps, but that was just the beginning.
 
-### Accenture's rapid growth
+### Accenture's rapid expansion
 
 From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~500k employees and $50bn revenue.  Whilst Accenture has continued to support clients on adopting new technology, the 10-fold growth came mostly from partnering with clients on operations.
 
@@ -38,6 +48,10 @@ That is, rather than only pursuing one-off consulting projects on improving the 
 * Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline that was agreed with the client upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
 * Long term deals that embraced a collaborative mindset as business partners
+
+#### adversity
+
+Even in the face of COVID-19 and global upheaval, Accenture has continued to grow:
 
 Even in the face of COVID-19 and global upheaval, Accenture continue to grow:
 
