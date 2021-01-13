@@ -76,7 +76,7 @@ SaaS, meaning _software as a service_, is a way of delivering applications over 
 
 Tier-2 and niche consulting firms often underestimate the revenue potential of supporting clients on how they choose, adopt, rollout and evolve SaaS.  Not to mention the almost unlimited consulting revenue potential from having a closer client relationship and a deeper understanding of the client's day to day business.  I think the latter is a key criteria for figuring out which SaaS technologies to align with.
 
-#### pick sector-agnostic tech that is easy to learn and will generate high-value consulting
+#### pick sector-agnostic tech that is easy to learn and generates high-value consulting
 
 Aside from outsourcing and industry restructures, there is no better way to drive consulting revenue than assisting clients on their journey to _adopt and evolve new technology_.  That strategy fuelled the first phase of Accenture's market leading growth.
 
@@ -133,7 +133,7 @@ Configuring and programming the CRM has become a commodity service that you can 
 
 You can join the dots on where to take this opportunity.
 
-#### pick industry or function specific tech that is easy to learn and will generate ongoing consulting
+#### pick industry or function specific tech that is easy to learn and generates ongoing consulting
 
 There are unlimited opportunities here, so your criteria may come down to what interests your firm, industry knowledge and local market potential.
 
