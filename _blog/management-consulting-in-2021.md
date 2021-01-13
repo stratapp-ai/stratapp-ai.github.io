@@ -49,7 +49,7 @@ Although these deals have more expensive sales cycles and lower margins than con
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
 
-## growth opportunity #1 - SaaS technologies
+## 2021 growth opportunity #1 - SaaS technologies
 
 SaaS, meaning _software as a service_, is usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
 
@@ -122,7 +122,7 @@ Here are a few _function specific tech_ examples to help get you started:
 
 _Industry specific tech_ is fast emerging in healthcare (including medical practices and pharmacy), aged care, fleet management, aviation, hospitality and retail.
 
-## growth opportunity #2 - distributed working
+## 2021 growth opportunity #2 - distributed working
 
 COVID-19 has brought to the mainstream what marketing, tech and product teams have known for about 10 years: _you can trust most people to work remotely and collaboration tech is way better than email._
 
@@ -141,7 +141,7 @@ Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 cou
 
 Helping clients on their journey to remote, hybrid and distributed working is potentially a consulting goldmine.
 
-## growth opportunity #3 - niche operations
+## 2021 growth opportunity #3 - niche operations
 
 Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and of course the client doing it themselves internally.
 
