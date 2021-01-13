@@ -51,9 +51,9 @@ I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can 
 
 ## 2021 growth opportunity #1 - SaaS technologies
 
-SaaS, meaning _software as a service_, is usually priced per user or on usage.  SaaS is elegantly described by xxxxx as "xxx balance / compromisexxxx."
+SaaS, meaning _software as a service_, is a way of delivering applications over the internet.  Customers don't have to buy/install/maintain/update hardware or software themselves.  All they need is an internet connection.
 
-Supporting clients on SaaS represents an outstanding growth opportunity for tier-2 and niche consulting firms.
+Tier-2 and niche consulting firms often underestimate the revenue potential of supporting clients on how they choose, adopt, use and evolve SaaS.  Not to mention the almost unlimited consulting revenue potential from having a closer client relationship and understanding, as a result of doing this work.  I think the latter is a key criteria for figuring out which SaaS technologies to align with.
 
 ### pick sector-agnostic tech that is easy to learn and will generate high-value consulting
 
