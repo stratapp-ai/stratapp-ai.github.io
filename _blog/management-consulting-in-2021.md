@@ -20,13 +20,13 @@ published: false
 
 I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG, Deloitte and EY.
 
-This article focuses on how tier-2 and niche firms of 200 to 20,000 employees can grow revenue in 2021 - by learning from Accenture and taking advantage of the fact that you can be more niche and nimble.
+This is my personal inside take on how Accenture has achieved amazing growth these last 30 years, and how tier-2 and niche firms of 200 to 20,000 employees can apply those insights to grow revenue in 2021.
 
 ### Accenture's early growth
 
 Accenture's initial market leading growth to 40,000 employees was driven by two focuses: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To achieve that Accenture had to learn how to assimilate experienced hires into manager and partner roles, as it became too slow to grow on talent promoted only from within.  At the time, circa 1995-6, this was a significant pivot that impacted culture and presented several new challenges.  Then came the difficult split from Arthur Andersen in 199x, rebranding Andersen Consulting to Accenture, whilst responding to a global market expectation for consultants to know more about the industries they are advising - rather than charging premium fees to learn on the job.  For most tier-1 firms this gave birth to a matrix org design of market verticals and skills-based horizontals.  The speed, scope and thoroughness of execution at Accenture was breath-taking.
 
-That said, it took xx years for Accenture to grow to 40,000 employees by 199x, making it the largest tier-1 firm in the world; nearly double the size of second placed PriceWaterhouseCoopers.  That was just the beginning.  
+That said, it took xx years for Accenture to grow to 40,000 employees by 199x, making it the largest tier-1 firm in the world; nearly double the size of second placed PriceWaterhouseCoopers.  That was just the beginning.
 
 ### Accenture's rapid growth
 
@@ -135,7 +135,7 @@ _Remote and hybrid working_ implies you have an office to be remote from.  We've
 * hiring, induction, performance management, offboarding and alumni
 * security and OH&S
 
-_Distributed working_ refers to no office at all.  Nothing to be remote from. 
+_Distributed working_ refers to no office at all.  Nothing to be remote from.
 
 Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates 5 levels of autonomy in this brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").
 
