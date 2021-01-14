@@ -21,11 +21,11 @@ feature_image: "/uploads/management-consultants.jpeg"
 
 I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG and Deloitte.
 
-This is my take on how the market leader, Accenture, achieved outstanding growth these last 30 years, and how **_tier-2 and niche consulting firms of 200 to 20,000 headcount_** can apply these insights to grow revenue in 2021.
+This is my take on how the market leader, Accenture, achieved outstanding growth these last 30 years, and how **_tier-2 and niche consulting firms of 200 to 20,000 headcount_** can grow revenue in 2021.
 
 ### Accenture's early growth
 
-#### pillars
+#### two pillars
 
 Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.
 
@@ -98,26 +98,28 @@ Therefore, clients need help to successfully adopt and evolve new technology.  H
 
 Below are my top-3 SaaS technology picks to build a consulting services offering around.
 
-##### SaaS for leading a company
+##### a) SaaS for leading a company
 
 There is only one app that solves [the leadership cycle](https://stratappsaas.com/blog/the-leadership-cycle/ "the leadership cycle") in one digital workspace: [https://stratappsaas.com/](https://stratappsaas.com/ "https://stratappsaas.com/").
 
 Whilst easy to learn, the product lends itself naturally to driving consulting revenue on both implementations and upselling additional consulting based on real-time insights on what is happening client side.  This creates a [win:win:win](https://bit.ly/stratapp-consulting-partners-win-win-win  "creating a win:win:win") for the client, consultant and #stratapp.
 
-##### SaaS for employee engagement
+##### b) SaaS for employee engagement
 
 As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.workday.com/ "Workday")), you could look to support emerging tech in employee engagement and culture building, such as:
 
 * [Culture Amp](https://www.cultureamp.com/ "Culture Amp")
 * [15Five](https://www.15five.com/ "15Five")
 
-##### SaaS for CRM
+##### c) SaaS for CRM
 
-I can see your eyes roll.  Hang on a moment.  Whilst there is a mature and competitive services market built around CRM, there is a massive problem for clients buying CRM.
+Ok, I can feel your eyes rolling at the mention of CRM.  Hang on a moment.  Whilst the services market built around CRM is mature and competitive, there is a massive problem for clients buying a CRM: _failed implementations_.
 
-When you look under the bonnet at each product's design and approach, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products.  Which makes sense.  However, those implementation firms are often very weak at the broader thinking, validation and planning that the client needs for their CRM implementation to be successful.  As a result, most CRM implementations are considered a failure by clients - on value, timeframes and adoption.
+When you look under the bonnet at each product's design and approach, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, those same implementation firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
 
-The implementation firms doing this work usually lack broader consulting skills like:
+As a result, most CRM implementations are considered a failure by clients - on value for money, timeframe blowouts, delivery expectations and end user adoption.
+
+Implementation firms doing this work usually lack broader consulting skills like:
 
 * business strategy
 * business and operating model design
@@ -129,7 +131,7 @@ The implementation firms doing this work usually lack broader consulting skills 
 * change management and communications
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  Unfortunately clients continue to pay huge onshore implementation $/day for this work, and most CRM implementations fail.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  You can help clients avoid paying overpriced onshore implementation $/day for this work, on implementations that end up failing.
 
 You can join the dots on where to take this opportunity.
 
