@@ -7,14 +7,14 @@ layout: blog
 title: learning from Accenture on growing consulting revenue
 sub_heading: how to drive tier-2 and niche firm consulting revenue growth in 2021
 video_id: ''
-banner_image: "/uploads/management-consultants.jpeg"
+banner_image: "/uploads/accenture-logo.png"
 alt_text: learning from Accenture
 slug: learning from Accenture on growing consulting revenue
 seo_title: learning from Accenture on growing consulting revenue
 seo_description: Learning from Accenture on how to drive tier-2 and niche firm consulting
   revenue growth in 2021, and how tier-2 and niche firms of 200 to 20,000 employees
   can apply these insights.
-feature_image: "/uploads/management-consultants.jpeg"
+feature_image: "/uploads/accenture-logo.png"
 
 ---
 ## learning from Accenture
@@ -41,7 +41,7 @@ For most of the tier-1 firms this market expectation gave birth to a matrix org 
 
 ### Accenture's rapid expansion
 
-From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~500k employees and $50bn revenue.  Whilst Accenture has continued to support clients on adopting new technology, the 10-fold growth came mostly from partnering with clients on operations.
+From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~505k employees and \~$50bn revenue.  Whilst Accenture has continued to support clients on adopting new technology, the 10-fold growth came mostly from partnering with clients on operations.
 
 That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
 
@@ -59,7 +59,7 @@ source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom
 
 ### Accenture's strategic advantages
 
-Although these deals have more expensive sales cycles and lower margins than consulting, 4 strategic advantages have emerged for Accenture:
+Although these deals have more expensive sales cycles and lower margins than consulting, four strategic advantages have emerged for Accenture:
 
 1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running all of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to more consulting projects, most as non-competitive
@@ -164,14 +164,18 @@ _Remote and hybrid working_ implies you have an office to be remote from.  We've
 
 _Distributed working_ refers to no office at all.  There is no office to be remote from.
 
-Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates 5 levels of autonomy in a brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").
+Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates five levels of autonomy in a brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").
 
-Helping clients on their journey to remote, hybrid and distributed working is potentially a consulting goldmine.
+Helping clients on their journey to remote, hybrid and distributed working is a potential consulting goldmine.
 
-### 2021 growth opportunity #3 - niche operations
+### 2021 growth opportunity #3 - niche operations/BPM
 
-Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and of course the client doing it themselves internally.
+Rather than go after large-scale price-driven competitive outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and the client doing it themselves internally.
 
-Keep in mind that most of the top tier BPM firms now need a minimum of 50 seats in a client to make the sales cycle and overheads worthwhile.
+Keep in mind that most of the top tier BPM firms now need to sell a minimum of 25 seats into a client to make the sales cycle and overheads worthwhile; their ideal minimum is 100 seats.
 
-Think about the 4 strategic advantages (see above) that emerged for Accenture.  Even if you only place two or three people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.  Along the way you'll pick up more non-competitive consulting work and new operations deals.
+Whereas you can start at two seats and start to achieve the four strategic advantages (see above) that emerged for Accenture.  
+
+Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.  
+
+Not only will you achieve recurring revenue and a closer relationship with each client, you will win more non-competitive consulting work and new operations deals.
