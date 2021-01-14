@@ -19,7 +19,7 @@ feature_image: "/uploads/accenture-logo.png"
 ---
 ## learning from Accenture
 
-I nearly joined McKinsey, loved my time at Accenture and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG and Deloitte.
+I nearly joined McKinsey, **_loved my time at Accenture_** and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG and Deloitte.
 
 This is my take on how the market leader, Accenture, achieved outstanding growth these last 30 years, and how **_tier-2 and niche consulting firms of 200 to 20,000 headcount_** can grow revenue in 2021.
 
