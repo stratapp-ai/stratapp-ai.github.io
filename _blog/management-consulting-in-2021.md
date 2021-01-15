@@ -182,8 +182,8 @@ Rather than go after large-scale price-driven outsourcing deals, you could look 
 
 Keep in mind that most of the top tier BPM firms now need to sell a minimum of 25 seats into a client to make the sales cycle and overheads worthwhile; their ideal minimum is 100 seats.
 
-Whereas you can start at two seats and start to achieve the four strategic advantages (see above) that emerged for Accenture.  
+Whereas you can start at two seats and start to achieve the four strategic advantages (see above) that emerged for Accenture.
 
-Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.  
+Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.
 
 Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and new operations/BPM deals.
