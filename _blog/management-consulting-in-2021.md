@@ -29,7 +29,7 @@ This is my take on how the market leader, Accenture, achieved outstanding growth
 
 Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.
 
-To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot with a whole range of new challenges, which the firm overcame, fast.
+To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that created a range of new challenges, which the firm overcame, fast.
 
 #### rebranding
 
