@@ -53,7 +53,9 @@ From the year 2,000 it only took 15 years to grow to a staggering 358,000 employ
 
 Whilst Accenture has continued to support clients on adopting new technology, this 10-fold growth came mostly from partnering with clients on operations.
 
-That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
+That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  
+
+As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline that was agreed with the client upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
