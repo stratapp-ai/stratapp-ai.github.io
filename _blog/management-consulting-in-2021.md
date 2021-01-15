@@ -179,6 +179,8 @@ _Distributed working_ refers to no office at all.  There is no office to be remo
 
 Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates five levels of autonomy in a brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").
 
+![](/uploads/distributed working levels -matt mullenweg.jpg)
+
 Helping clients on their journey to remote, hybrid and distributed working is a potential consulting goldmine.
 
 ### 2021 growth opportunity #3 - niche operations
