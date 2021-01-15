@@ -146,7 +146,7 @@ Here are a few _function specific tech_ examples to help get you started:
 * Rostering (e.g. [Deputy](https://www.deputy.com/ "Deputy"))
 * Safety (e.g. [SafetyCulture](https://safetyculture.com/ "Safety Culture"))
 
-_Industry specific tech_ is fast emerging in healthcare (including medical practices and pharmacy), aged care, fleet management, facilities/asset management, construction, property management, aviation, hospitality and retail.
+_Industry specific tech_ is emerging in healthcare (including medical practices and pharmacy), aged care, facilities/asset/fleet management, construction, property management, aviation, hospitality and retail.
 
 ### 2021 growth opportunity #2 - distributed working
 
@@ -170,7 +170,7 @@ Helping clients on their journey to remote, hybrid and distributed working is a 
 
 ### 2021 growth opportunity #3 - niche operations/BPM
 
-Rather than go after large-scale price-driven competitive outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and the client doing it themselves internally.
+Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and the client doing it themselves internally.
 
 Keep in mind that most of the top tier BPM firms now need to sell a minimum of 25 seats into a client to make the sales cycle and overheads worthwhile; their ideal minimum is 100 seats.
 
@@ -178,4 +178,4 @@ Whereas you can start at two seats and start to achieve the four strategic advan
 
 Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.  
 
-Not only will you achieve recurring revenue and a closer relationship with each client, you will win more non-competitive consulting work and new operations deals.
+Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and new operations/BPM deals.
