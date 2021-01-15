@@ -29,7 +29,7 @@ This is my take on how the market leader, Accenture, achieved outstanding growth
 
 Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.
 
-To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented a range of new challenges the firm overcame, fast.
+To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot with a whole range of new challenges, which the firm overcame, fast.
 
 #### rebranding
 
@@ -49,7 +49,9 @@ For most of the tier-1 firms this market expectation gave birth to a matrix org 
 
 ### Accenture's rapid expansion
 
-From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~505k employees and \~$50bn revenue.  Whilst Accenture has continued to support clients on adopting new technology, the 10-fold growth came mostly from partnering with clients on operations.
+From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~505k employees and \~$50bn revenue.
+
+Whilst Accenture has continued to support clients on adopting new technology, this 10-fold growth came mostly from partnering with clients on operations.
 
 That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
 
@@ -69,9 +71,9 @@ source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom
 
 Although these deals have more expensive sales cycles and lower margins than consulting, four strategic advantages have emerged for Accenture:
 
-1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running all of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
+1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running most of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
 2. Most deals lead to more consulting projects, most as non-competitive
-3. Deep technology and process insights in one sector, helps to win more deals globally in that sector
+3. Deep technology and process insights in one sector, help to win more deals globally in that sector
 4. Proven stars from running operations on one deal become a valuable source of talent for winning, running and improving other deals
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
@@ -80,9 +82,11 @@ I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can 
 
 ### 2021 growth opportunity #1 - SaaS technologies
 
-SaaS, meaning _software as a service_, is a way of delivering applications over the internet.  Customers don't have to buy/install/maintain/update hardware or software themselves.  All they need is an internet connection.  Customers usually pay per user and/or on a usage basis, with the unit price reducing on volume.
+SaaS, meaning _software as a service_, is a way of delivering applications over the internet.  Customers don't have to buy/install/maintain/update hardware or software themselves.  All they need is an internet connection.  Customers usually pay per user and/or on a usage basis, with unit prices reducing on volume.
 
-Tier-2 and niche consulting firms often underestimate the revenue potential of supporting clients on how they choose, adopt, rollout and evolve SaaS.  Not to mention the almost unlimited consulting revenue potential from having a closer client relationship and a deeper understanding of the client's day to day business.  I think the latter is a key criteria for figuring out which SaaS technologies to align with.
+Tier-2 and niche consulting firms often underestimate the revenue potential of supporting clients on how they choose, adopt, rollout and evolve SaaS.  Not to mention the almost unlimited consulting revenue potential from having a closer client relationship and a deeper understanding of the client's day to day business.
+
+I think the latter is a key criteria for consulting firms to figure out which SaaS technologies to align with.
 
 #### pick sector-agnostic tech that is easy to learn and generates high-value consulting
 
@@ -90,7 +94,7 @@ Aside from outsourcing and industry restructures, there is no better way to driv
 
 Clients are increasingly time poor and unable to focus on getting real work done.  Client side leaders at all levels seem consumed in cultures of real-time messaging and 247 availability.  Many (perhaps most) have lost the time and ability to research, think deeply, plan carefully and execute at speed.
 
-Therefore, clients need help to successfully adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are perhaps broader than what you might think:
+Clients need help to adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are perhaps broader than what you might think:
 
 * high level planning / context validation
 * change management & communications
@@ -101,10 +105,11 @@ Therefore, clients need help to successfully adopt and evolve new technology.  H
 * supporting those users
 * building a show case of successes and learnings
 * building the capabilities to support and scale rollouts
+* defining success metrics and target outcomes
 * managing rollouts progressively
 * measuring and learning from outcomes
 
-Below are my top-3 SaaS technology picks to build a consulting services offering around.
+Below are my top-3 SaaS technology picks to build a consulting services offering around in 2021.
 
 ##### a) SaaS for leading a company
 
@@ -176,7 +181,7 @@ Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 cou
 
 Helping clients on their journey to remote, hybrid and distributed working is a potential consulting goldmine.
 
-### 2021 growth opportunity #3 - niche operations/BPM
+### 2021 growth opportunity #3 - niche operations
 
 Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and the client doing it themselves internally.
 
