@@ -35,6 +35,12 @@ To sustain that growth, Accenture learnt how to assimilate experienced hires int
 
 Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by [crowdsourcing ideas from employees](https://youtu.be/TwLYQuZRLoI "crowdsourcing ideas from employees"), with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".
 
+30 years later we see technology and ingenuity at the heart of the brand:
+
+![](/uploads/accenture-purpose.PNG)
+
+source: [https://www.accenture.com/au-en/about/company-index](https://www.accenture.com/au-en/about/company-index "https://www.accenture.com/au-en/about/company-index")
+
 #### restructuring
 
 At the same time the firm responded rapidly to a global market expectation for consultants (and investment bankers) to genuinely understand the industries they are advising - rather than charging premium fees to learn on the job whilst applying a generic tool kit of skills across strategy, process, change and tech.
