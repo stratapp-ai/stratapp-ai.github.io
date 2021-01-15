@@ -159,7 +159,7 @@ Here are a few _function specific tech_ examples to help get you started:
 * Rostering (e.g. [Deputy](https://www.deputy.com/ "Deputy"))
 * Safety (e.g. [SafetyCulture](https://safetyculture.com/ "Safety Culture"))
 
-_Industry specific tech_ is emerging in healthcare (including medical practices and pharmacy), aged care, facilities/asset/fleet management, construction, property management, aviation, hospitality and retail.
+_Industry specific tech_ is fast emerging in health (including medical practices and pharmacy), aged care, facilities/asset/fleet management, construction, real estate, aviation, hospitality and retail.
 
 ### 2021 growth opportunity #2 - distributed working
 
