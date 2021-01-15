@@ -27,11 +27,13 @@ This is my take on how the market leader, Accenture, achieved outstanding growth
 
 #### two pillars
 
-Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.  To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented several new challenges.
+Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.
+
+To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that presented a range of new challenges the firm overcame, fast.
 
 #### rebranding
 
-Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by crowdsourcing ideas from employees, with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".
+Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by [crowdsourcing ideas from employees](https://youtu.be/TwLYQuZRLoI "crowdsourcing ideas from employees"), with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".
 
 #### restructuring
 
