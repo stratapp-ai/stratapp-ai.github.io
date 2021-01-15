@@ -37,7 +37,7 @@ Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitra
 
 30 years later we see technology and ingenuity at the heart of the brand:
 
-![](/uploads/accenture-purpose.PNG)
+![](/uploads/accenture-purpose-jpeg.JPG)
 
 source: [https://www.accenture.com/au-en/about/company-index](https://www.accenture.com/au-en/about/company-index "https://www.accenture.com/au-en/about/company-index")
 
