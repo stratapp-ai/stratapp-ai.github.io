@@ -53,7 +53,7 @@ From the year 2,000 it only took 15 years to grow to a staggering 358,000 employ
 
 Whilst Accenture has continued to support clients on adopting new technology, this 10-fold growth came mostly from partnering with clients on operations.
 
-That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.  
+That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.
 
 As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
 
@@ -96,7 +96,7 @@ Aside from outsourcing and industry restructures, there is no better way to driv
 
 Clients are increasingly time poor and unable to focus on getting real work done.  Client side leaders at all levels seem consumed in cultures of real-time messaging and 247 availability.  Many (perhaps most) have lost the time and ability to research, think deeply, plan carefully and execute at speed.
 
-Clients need help to adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are perhaps broader than what you might think:
+Clients need help to adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are broader than what you might think:
 
 * high level planning / context validation
 * change management & communications
@@ -128,11 +128,11 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 
 ##### c) SaaS for CRM
 
-Ok, I can feel your eyes rolling at the mention of CRM.  Hang on a moment.  Whilst the services market built around CRM is mature and competitive, there is a massive problem for clients buying a CRM: _failed implementations_.
+Ok, I can feel your eyes rolling at the mention of CRM.  Hang on a moment.  Whilst the services market built around CRM is mature and competitive, there is a massive problem for clients buying a new CRM: _failed implementations_.
 
-When you look under the bonnet at each product's design and approach, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, those same implementation firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
+When you look under the bonnet at each product's design, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, these firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
 
-As a result, most CRM implementations are considered a failure by clients - on value for money, timeframe blowouts, delivery expectations and end user adoption.
+As a result, most CRM implementations are considered a failure by clients - on value for money, timeframe blowouts, delivery expectations, end user adoption and dashboard data quality.
 
 Implementation firms doing this work usually lack broader consulting skills like:
 
@@ -146,7 +146,7 @@ Implementation firms doing this work usually lack broader consulting skills like
 * change management and communications
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  You can help clients avoid paying overpriced onshore implementation $/day for this work, on implementations that end up failing.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  You can help clients avoid paying overpriced onshore implementation costs for this work, on implementations that end up failing.
 
 You can join the dots on where to take this opportunity.
 
@@ -177,7 +177,7 @@ _Remote and hybrid working_ implies you have an office to be remote from.  We've
 * hiring, induction, performance management, offboarding and alumni
 * security and OH&S
 
-_Distributed working_ refers to no office at all.  There is no office to be remote from.
+_Distributed working_ refers to no office at all.  That is, there is no office to be _remote_ from.
 
 Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 countries without an office.  Matt articulates five levels of autonomy in a brilliant interview with Sam Harris on [The New Future of Work](https://stratappsaas.com/blog/The-New-Future-of-Work-a-Sam-Harris-podcast-interview-with-Matt-Mullenweg-on-distributed-working/ "The New Future of Work").
 
@@ -195,4 +195,4 @@ Whereas you can start at two seats and start to achieve the four strategic advan
 
 Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.
 
-Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and new operations/BPM deals.
+Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and additional operations/BPM deals.
