@@ -19,7 +19,7 @@ feature_image: "/uploads/accenture-logo.png"
 ---
 ## learning from Accenture
 
-I nearly joined McKinsey, **_loved my time at Accenture_** and over the years I have enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG and Deloitte.
+I nearly joined McKinsey, **_loved my time at Accenture_** and over the years enjoyed great experiences with folks from McKinsey, Bain, BCG, KPMG and Deloitte.
 
 This is my take on how the market leader, Accenture, achieved outstanding growth these last 30 years, and how **_tier-2 and niche consulting firms of 200 to 20,000 headcount_** can grow revenue in 2021.
 
@@ -29,11 +29,11 @@ This is my take on how the market leader, Accenture, achieved outstanding growth
 
 Accenture's market leading growth to 33,000 employees by 1995 was driven on two pillars: _global systemisation of every aspect of the business_ and _supporting clients looking to adopt new technology_.
 
-To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that created a range of new challenges, which the firm overcame, fast.
+To sustain that growth, Accenture learnt how to assimilate experienced hires into manager and partner roles (fortunate for me), as it was going to be too slow to only promote talent from within.  This was a significant culture pivot that created a whole range of new challenges, which the firm overcame, fast.
 
 #### rebranding
 
-Then in 1997 came the difficult split from Arthur Andersen, resolved via arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by [crowdsourcing ideas from employees](https://youtu.be/TwLYQuZRLoI "crowdsourcing ideas from employees"), with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".
+Then in 1997 came the difficult split from Arthur Andersen, resolved by arbitration in 2000, the year Andersen Consulting rebranded to Accenture - a name chosen by [crowdsourcing ideas from employees](https://youtu.be/TwLYQuZRLoI "crowdsourcing ideas from employees"), with the winner a Norwegian employee, Kim Petersen, who conceived Accenture from "accent on the future".
 
 30 years later we see technology and ingenuity at the heart of the brand:
 
@@ -55,7 +55,7 @@ Whilst Accenture has continued to support clients on adopting new technology, th
 
 That is, rather than only pursuing one-off consulting projects on improving the client's business, from the mid-90s Accenture pitched to run part of the client's business.  Enter, recurring revenue.
 
-As an early pioneer of large scale Business Process Management, Accenture's approach to the client relationship was sophisticated and founded on:
+As an early pioneer of large scale _business process management_, Accenture's approach to the client relationship was sophisticated and founded on:
 
 * Accenture continuing to apply world's best practice to improve the client's outcomes, often against a comprehensive baseline that was agreed with the client upfront
 * Sharing the commercial risks, investments (time, money and/or resources) and upsides
@@ -74,7 +74,7 @@ source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom
 Although these deals have more expensive sales cycles and lower margins than consulting, four strategic advantages have emerged for Accenture:
 
 1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running most of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
-2. Most deals lead to more consulting projects, most as non-competitive
+2. Most deals lead to more (non-competitive) consulting projects
 3. Deep technology and process insights in one sector, help to win more deals globally in that sector
 4. Proven stars from running operations on one deal become a valuable source of talent for winning, running and improving other deals
 
@@ -105,7 +105,7 @@ Clients need help to adopt and evolve new technology.  Help they are willing to 
 * setting up the tech / rollout planning
 * onboarding the first phase of users
 * supporting those users
-* building a show case of successes and learnings
+* building a showcase of successes and learnings
 * building the capabilities to support and scale rollouts
 * defining success metrics and target outcomes
 * managing rollouts progressively
@@ -130,7 +130,7 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 
 Ok, I can feel your eyes rolling at the mention of CRM.  Hang on a moment.  Whilst the services market built around CRM is mature and competitive, there is a massive problem for clients buying a new CRM: _failed implementations_.
 
-When you look under the bonnet at each product's design, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkedly similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, these firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
+When you look under the bonnet at each product's design, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkably similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, these firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
 
 As a result, most CRM implementations are considered a failure by clients - on value for money, timeframe blowouts, delivery expectations, end user adoption and dashboard data quality.
 
