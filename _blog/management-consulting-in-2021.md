@@ -98,11 +98,11 @@ Clients are increasingly time poor and unable to focus on getting real work done
 
 Clients need help to adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are broader than what you might think:
 
-* high level planning / context validation
+* high level planning | context validation
 * change management & communications
 * project management
-* requirements gathering / as-is & to-be mapping
-* setting up the tech / rollout planning
+* requirements gathering | as-is & to-be mapping
+* setting up the tech | rollout planning
 * onboarding the first phase of users
 * supporting those users
 * building a showcase of successes and learnings
@@ -128,7 +128,7 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 
 ##### c) SaaS for CRM
 
-Ok, I can feel your eyes rolling at the mention of CRM.  Hang on a moment.  Whilst the services market built around CRM is mature and competitive, there is a massive problem for clients buying a new CRM: _failed implementations_.
+Ok, I can feel your eyes rolling at the mention of CRM, please bear with me.  Whilst the services market built around CRM is mature and competitive, there is still a massive problem for clients buying a new CRM: _failed implementations_.
 
 When you look under the bonnet at each product's design, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkably similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, these firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
 
@@ -146,7 +146,7 @@ Implementation firms doing this work usually lack broader consulting skills like
 * change management and communications
 * training planning and delivery
 
-Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  You can help clients avoid paying overpriced onshore implementation costs for this work, on implementations that end up failing.
+Configuring and programming the CRM has become a commodity service that you can offshore, or price compete onshore, providing you manage the concept designs, validation and functional specs on behalf of the client.  You can help clients avoid paying overpriced onshore implementation costs for this work.
 
 You can join the dots on where to take this opportunity.
 
@@ -195,4 +195,10 @@ Whereas you can start at two seats and start to achieve the four strategic advan
 
 Even if you only place two people into a client delivering on a niche part of their operations, you can then offer that service globally to other clients, thereby achieving scale and ROI.
 
-Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and additional operations/BPM deals.
+Not only will you achieve recurring revenue and a closer relationship with each client, you should then win more non-competitive consulting work and additional operations deals.
+
+## thank you
+
+Thank you for reading (and hopefully sharing), and thank you to Accenture for the wonderful memories and opportunities to learn.
+
+At #stratapp we are on a mission to make leading a company easier and more inclusive - aligning and motivating everyone on what really matters - here is a quick video on how we do that: [https://stratappsaas.com/blog/the-leadership-cycle/](https://stratappsaas.com/blog/the-leadership-cycle/ "https://stratappsaas.com/blog/the-leadership-cycle/"). 
