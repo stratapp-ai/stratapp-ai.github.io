@@ -128,7 +128,9 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 
 ##### c) SaaS for CRM
 
-Ok, I can feel your eyes rolling at the mention of CRM, please bear with me.  Whilst the services market built around CRM is mature and competitive, there is still a massive problem for clients buying a new CRM: _failed implementations_.
+Ok, I can feel your eyes rolling at the mention of CRM, please bear with me.  
+
+Whilst the services market built around CRM is mature and competitive, there is still a massive problem for clients buying a new CRM: _failed implementations_.
 
 When you look under the bonnet at each product's design, the top three CRMs ([Salesforce](https://www.salesforce.com/ "Salesforce"), [Dynamics](https://dynamics.microsoft.com/ "Microsoft Dynamics") and [Zoho](https://www.zoho.com "Zoho CRM")) are remarkably similar.  Clients hire CRM implementation firms that have deep skills in configuring and integrating these products, from a technical perspective.  However, these firms are often weak at the broader thinking, validation and planning that clients need for their CRM implementation to be successful.
 
@@ -199,6 +201,6 @@ Not only will you achieve recurring revenue and a closer relationship with each 
 
 ## thank you
 
-Thank you for reading (and hopefully sharing), and thank you to Accenture for the wonderful memories and opportunities to learn.
+Thank you for reading (and hopefully sharing), and thank you to Accenture for the wonderful memories and opportunities to learn and travel.
 
-At #stratapp we are on a mission to make leading a company easier and more inclusive - aligning and motivating everyone on what really matters - here is a quick video on how we do that: [https://stratappsaas.com/blog/the-leadership-cycle/](https://stratappsaas.com/blog/the-leadership-cycle/ "https://stratappsaas.com/blog/the-leadership-cycle/"). 
+At #stratapp we are on a mission to _make leading a company easier and more inclusive_ - aligning and motivating everyone on what really matters - here is a quick video on how we do that: [https://stratappsaas.com/blog/the-leadership-cycle/](https://stratappsaas.com/blog/the-leadership-cycle/ "https://stratappsaas.com/blog/the-leadership-cycle/"). 
