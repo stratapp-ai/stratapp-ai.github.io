@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#okr"
-date: 2020-11-18 10:44:00 +0000
+date: 2020-11-18T10:44:00.000+00:00
 layout: blog
 title: how many OKRs should we set each month or quarter?
 sub_heading: OKRs are about focus and execution - less is more
@@ -24,6 +24,17 @@ We admire the real world explanation [in this video](https://youtu.be/xaH2tMQzyj
 For less than 100 employees, we recommend no more than 1 or 2 OKR objectives per quarter.
 
 For each grouping of 500 employees above that, we recommend 2 to 4 OKR objectives per quarter.
+
+### rolling out OKRs org-wide
+
+If you decide to rollout OKRs to every employee, you can do that easily in #stratapp because:
+
+* OKRs can be organized around your org design - then filtered by org design, your teams, you and status
+* Key Results can be cascaded down to multiple levels, with the progress automatically rolling up to calculate the progress at each level
+* OKRs can align to any level of your strategy tree, or be standalone
+* OKR execution takes place in the same workspace - so you can get it done and leaders can support their teams with encouragement, feedback and removing blockers
+
+Before you do this, please read [top 5 don'ts on OKRs](https://stratappsaas.com/blog/top-5-don'ts-on-OKRs/ "top 5 don'ts on OKRs").
 
 ## why so few OKR objectives?
 
@@ -72,7 +83,7 @@ That is, the 4 levels of security inside #stratapp, also apply to our OKR module
 
 For example, you might want to share all or part of the strategy tree, but for the first two quarters keep the OKR rollout limited to the top 3 levels of management - until you get a better feel for the methodology and how best to apply it.
 
-Once again the power of having org design built into #stratapp comes into play.  You can easily turn on/off the different modules of #stratapp, selecting who can see what based on your org design. 
+Once again the power of having org design built into #stratapp comes into play.  You can easily turn on/off the different modules of #stratapp, selecting who can see what based on your org design.
 
 For example, most clients start with social and work collaboration, then add ideation, the strategy tree and OKRs, then the “our why” and “direction” pages under strategy.
 
