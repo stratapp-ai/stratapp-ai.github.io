@@ -135,4 +135,7 @@ This functionality, and how you apply it, is a key ingredient to building cultur
 
 ## recommended reading
 
-If you like above we recommend you [read this](https://stratappsaas.com/blog/top-5-don'ts-on-OKRs/ "top 5 don'ts on OKRs").
+We recommend reading:
+
+* [how many OKRs should we set](https://stratappsaas.com/blog/how-many-OKRs/ "how many OKRs should we set")
+* [top 5 don'ts on OKRs](https://stratappsaas.com/blog/top-5-don'ts-on-OKRs/ "top 5 don'ts on OKRs")
