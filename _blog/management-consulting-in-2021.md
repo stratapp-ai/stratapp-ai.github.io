@@ -49,7 +49,7 @@ For most of the tier-1 firms this market expectation gave birth to a matrix org 
 
 ### Accenture's rapid expansion
 
-From the year 2,000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~505k employees and \~$50bn revenue.
+From the year 2000 it only took 15 years to grow to a staggering 358,000 employees and US$31bn revenue; now \~505k employees and \~$50bn revenue.
 
 Whilst Accenture has continued to support clients on adopting new technology, this 10-fold growth came mostly from partnering with clients on operations.
 
@@ -128,7 +128,7 @@ As well as supporting mainstream HCM SaaS rollouts (e.g. [Workday](https://www.w
 
 ##### c) SaaS for CRM
 
-Ok, I can feel your eyes rolling at the mention of CRM, please bear with me.  
+Ok, I can feel your eyes rolling at the mention of CRM, please bear with me.
 
 Whilst the services market built around CRM is mature and competitive, there is still a massive problem for clients buying a new CRM: _failed implementations_.
 
@@ -203,4 +203,4 @@ Not only will you achieve recurring revenue and a closer relationship with each 
 
 Thank you for reading (and hopefully sharing), and thank you to Accenture for the wonderful memories and opportunities to learn and travel.
 
-At #stratapp we are on a mission to _make leading a company easier and more inclusive_ - aligning and motivating everyone on what really matters - here is a quick video on how we do that: [https://stratappsaas.com/blog/the-leadership-cycle/](https://stratappsaas.com/blog/the-leadership-cycle/ "https://stratappsaas.com/blog/the-leadership-cycle/"). 
+At #stratapp we are on a mission to _make leading a company easier and more inclusive_ - aligning and motivating everyone on what really matters - here is a quick video on how we do that: [https://stratappsaas.com/blog/the-leadership-cycle/](https://stratappsaas.com/blog/the-leadership-cycle/ "https://stratappsaas.com/blog/the-leadership-cycle/").
