@@ -142,7 +142,8 @@ Implementation firms doing this work usually lack broader consulting skills like
 
 * business strategy
 * business and operating model design
-* process mapping, design and activity-based-costing
+* process mapping and design
+* activity-based-costing and value creation
 * org design
 * risks and mitigations
 * thinking through how the above may change next 3-5 years
