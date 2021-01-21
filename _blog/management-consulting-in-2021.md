@@ -98,11 +98,13 @@ Clients are increasingly time poor and unable to focus on getting real work done
 
 Clients need help to adopt and evolve new technology.  Help they are willing to pay for to de-risk implementations and maximise ROI.  The consulting opportunities are broader than what you might think:
 
-* high level planning | context validation
+* high level planning & context validation
 * change management & communications
 * project management
-* requirements gathering | as-is & to-be mapping
-* setting up the tech | rollout planning
+* requirements gathering
+* as-is & to-be mapping
+* setting up the tech
+* rollout planning
 * onboarding the first phase of users
 * supporting those users
 * building a showcase of successes and learnings
