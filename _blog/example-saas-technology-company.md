@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#videos"
 date: 2021-01-21 02:35:46 +0000
 layout: blog
 title: example - SaaS technology company
