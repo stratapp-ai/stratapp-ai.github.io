@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2020-06-11 03:23:00 +0000
+date: 2020-12-05 03:23:00 +0000
 layout: blog
 title: example - SaaS technology company
 sub_heading: linking strategy to objectives to daily work, in one digital workspace
