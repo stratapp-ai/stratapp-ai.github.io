@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://stratappsaas.com/blog/example-SaaS-technology-company/</loc>
-<lastmod>2001-07-31T14:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://stratappsaas.com/blog/referring/</loc>
 <lastmod>2019-08-29T14:00:00+00:00</lastmod>
 </url>
@@ -103,6 +99,10 @@
 <url>
 <loc>https://stratappsaas.com/blog/our-why/</loc>
 <lastmod>2020-12-09T14:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://stratappsaas.com/blog/example-SaaS-technology-company/</loc>
+<lastmod>2021-01-21T02:35:46+00:00</lastmod>
 </url>
 <url>
 <loc>https://stratappsaas.com/events/cxos/</loc>
