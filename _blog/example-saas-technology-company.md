@@ -8,7 +8,7 @@ sub_heading: linking strategy to objectives to daily work
 video_id: https://youtu.be/zI7e-joy4p0
 banner_image: ''
 alt_text: ''
-slug: ''
+slug: example SaaS technology company
 seo_title: example of linking strategy to OKR objectives to daily work
 seo_description: example of linking strategy to OKR objectives to daily work, in one
   digital workspace - aligning and engaging everyone
