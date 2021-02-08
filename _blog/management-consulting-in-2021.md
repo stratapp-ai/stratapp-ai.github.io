@@ -71,12 +71,12 @@ source: [https://newsroom.accenture.com/earnings-infographics/](https://newsroom
 
 ### Accenture's strategic advantages
 
-Although these _run part of the client's business_ deals have more expensive sales cycles and lower margins than consulting, four strategic advantages have emerged for Accenture:
+Although _run part of the client's business_ deals have more expensive sales cycles and lower margins than consulting, four strategic advantages have emerged for Accenture:
 
-1. One deal leads to more deals per client (e.g. start by running "accounts receivable" within the finance function, and end up running most of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
-2. Most deals lead to more (non-competitive) consulting projects
-3. Deep technology and process insights in one sector, help to win more deals globally in that sector
-4. Proven stars from running operations on one deal become a valuable source of talent for winning, running and improving other deals
+1. **_One deal leads to more deals_** per client (e.g. start by running "accounts receivable" within the finance function, and end up running most of finance, ITC, call centres and supply chain operations, thereby freeing the client to focus on strategy, marketing, R&D and customer experience)
+2. **_Most deals lead to more_** (non-competitive) **_consulting_** projects
+3. Deep technology and process insights in one sector, help to **_win more deals globally in that sector_**
+4. Proven stars from running operations on one deal become a **_valuable source of talent_** for winning, running and improving **_other deals_**
 
 I believe most tier-2 and niche consulting firms of 200 to 20,000 employees can apply some of these insights to proactively create new opportunities for growth in 2021.
 
