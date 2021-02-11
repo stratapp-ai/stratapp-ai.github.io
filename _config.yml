@@ -43,6 +43,12 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
+feed:
+  collections:
+    - posts
+    - blog
+    - videos
+    - features
 plugins:
   - jekyll-menus
   - jekyll-feed
