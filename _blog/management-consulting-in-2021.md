@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-09-11 07:20:00 +0000
+date: 2019-09-11T07:20:00.000+00:00
 layout: blog
 title: learning from Accenture on growing consulting revenue
 sub_heading: how to drive tier-2 and niche firm consulting revenue growth in 2021
@@ -190,7 +190,9 @@ Matt Mullenweg, the founder of Wordpress.com, employs 1,200 people across 75 cou
 
 Helping clients on their journey to remote, hybrid and distributed working is a potential consulting goldmine.
 
-### 2021 growth opportunity #3 - niche operations
+### 2021 growth opportunity #3 - OaaS
+
+OaaS means **_operations-as-a-service_**, an abbreviation that plays off the widely known term for the recurring revenue model of SaaS, _software-as-a-service_.
 
 Rather than go after large-scale price-driven outsourcing deals, you could look for opportunities that allow you to niche on what you can do better than other providers, and the client doing it themselves internally.
 
