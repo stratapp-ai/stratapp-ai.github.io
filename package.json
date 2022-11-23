@@ -15,7 +15,7 @@
     "asset-builder": "^1.1.0",
     "asset-builder-nobower": "^1.1.2",
     "bootstrap": "^4.1.2",
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.27.10",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
